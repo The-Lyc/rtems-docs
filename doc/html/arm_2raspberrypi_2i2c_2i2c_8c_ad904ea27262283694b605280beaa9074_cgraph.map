@@ -1,0 +1,6 @@
+<map id="rpi_i2c_init" name="rpi_i2c_init">
+<area shape="rect" id="node1" title="Setups the Raspberry Pi GPIO header to activate the BSC I2C bus." alt="" coords="5,31,99,57"/>
+<area shape="rect" id="node2" href="$rpi-gpio_8c.html#adf19e397f4bfdb38d6d75a604e7373d1" title="Setups a I2C interface." alt="" coords="153,5,299,32"/>
+<area shape="rect" id="node4" href="$gpio_8h.html#a569b507754f117c929de86f9ea24c27b" title="Initializes the GPIO API." alt="" coords="147,56,305,83"/>
+<area shape="rect" id="node3" href="$gpio_8h.html#a1d543b10e6645eee41a5a0e2662a231d" title=" " alt="" coords="353,5,536,32"/>
+</map>

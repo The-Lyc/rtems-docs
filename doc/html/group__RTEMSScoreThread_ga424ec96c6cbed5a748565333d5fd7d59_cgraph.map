@@ -1,0 +1,23 @@
+<map id="_Thread_Priority_update" name="_Thread_Priority_update">
+<area shape="rect" id="node1" title="Updates the priority of all threads in the set." alt="" coords="5,479,185,505"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreScheduler.html#ga7fdbd807dbde0152b93a9ebc59f69e5d" title="Propagates a priority change of a thread to the scheduler." alt="" coords="233,224,435,251"/>
+<area shape="rect" id="node16" href="$group__RTEMSScoreThread.html#ga9a583864cdcbb7eaeda8002d05de6912" title="Disables interrupts and acquires the lock_context." alt="" coords="249,479,419,505"/>
+<area shape="rect" id="node19" href="$group__RTEMSScoreThread.html#ga958218590f858b65855c89802b2cc071" title="Releases the lock context and enables interrupts." alt="" coords="249,536,419,563"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreChain.html#ga89304b2d294b98f4909dcb6e68d7ec82" title="Returns pointer to chain&#39;s first node." alt="" coords="798,68,899,95"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreChain.html#gaa2f09e6d639b1bc5a27451eb119b6e33" title="Returns pointer to immutable chain tail." alt="" coords="999,171,1171,197"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreChain.html#ga9502cc5cb6c81ef2bce33698005e1752" title="Returns pointer to the next node from this node." alt="" coords="539,224,643,251"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreScheduler.html#ga9e6cf07526560aa067d7bcb92a7aa964" title="Acquires the scheduler instance inside a critical section (interrupts disabled)." alt="" coords="517,275,666,317"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreScheduler.html#gaac1c9761b448c8de90eaf023a3e3757e" title="Gets the scheduler of the node." alt="" coords="510,406,673,447"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreScheduler.html#gae4d084e50d4f8a616f394312b66df32b" title="Releases the scheduler instance inside a critical section (interrupts disabled)." alt="" coords="515,341,667,382"/>
+<area shape="rect" id="node12" href="$group__RTEMSScoreThread.html#ga0071d4e11d2d68b2e4c43ffe2108e7f5" title="Gets the home scheduler of the thread." alt="" coords="483,5,700,32"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreThread.html#ga080a177afc4fc254a1081485cd89f75d" title="Gets the scheduler&#39;s home node." alt="" coords="505,107,678,149"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreChain.html#gac08944db6f0428125d3b0d5a1c65b740" title="Returns pointer to immutable chain head." alt="" coords="1221,93,1404,120"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreScheduler.html#ga9c62ef5a388b998fa041a269297be1fe" title="Gets the context of the scheduler." alt="" coords="759,316,938,343"/>
+<area shape="rect" id="node10" href="$group__RTEMSScorePriority.html#ga0aa656f168c0c0ddc98c021fc55d2b40" title="Gets the priority aggregation&#39;s scheduler." alt="" coords="761,413,937,440"/>
+<area shape="rect" id="node14" href="$group__RTEMSScoreChain.html#ga67ffad0c14d402473760ec6bb8e93bcc" title="Checks if the chain is empty." alt="" coords="782,119,915,145"/>
+<area shape="rect" id="node15" href="$group__RTEMSScoreChain.html#ga8b2c850d4d09d8db80d11e3199bce386" title="Returns pointer to immutable chain&#39;s first node." alt="" coords="997,119,1173,145"/>
+<area shape="rect" id="node17" href="$group__RTEMSScoreThread.html#gafd7ff215edf64b4611da7b7c1d4e3050" title="Acquires the lock context in a critical section." alt="" coords="506,471,677,513"/>
+<area shape="rect" id="node18" href="$group__RTEMSScoreThreadQueue.html#gaf1488e09cc925566233f2f1fc76c4d81" title="Acquires the thread queue control in a critical section." alt="" coords="748,471,949,513"/>
+<area shape="rect" id="node20" href="$group__RTEMSScoreThread.html#gab003d620d9c5fc5502cedd90960d59d5" title="Release the lock context in a critical section." alt="" coords="506,537,677,578"/>
+<area shape="rect" id="node21" href="$group__RTEMSScoreThreadQueue.html#ga923d39f206f389ae8a8293e22bae8fbf" title="Checks if the thread queue control is the owner of the lock." alt="" coords="748,537,949,578"/>
+</map>

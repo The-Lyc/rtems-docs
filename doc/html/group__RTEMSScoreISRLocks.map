@@ -1,0 +1,4 @@
+<map id="ISR Locks" name="ISR Locks">
+<area shape="rect" id="node1" title="Low&#45;level lock to protect critical sections accessed by threads and interrupt service routines." alt="" coords="152,5,236,31"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreISR.html" title="ISR Handler." alt="" coords="5,5,104,31"/>
+</map>

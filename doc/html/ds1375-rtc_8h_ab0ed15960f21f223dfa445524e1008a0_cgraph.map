@@ -1,0 +1,16 @@
+<map id="rtc_ds1375_set_register" name="rtc_ds1375_set_register">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,183,83"/>
+<area shape="rect" id="node2" href="$close_8c.html#aafbcde67669a1b96577e735ddebd8634" title=" " alt="" coords="243,5,299,32"/>
+<area shape="rect" id="node3" href="$open_8c.html#a62e93eb794fed24c0f46c6acda6ea510" title=" " alt="" coords="244,56,299,83"/>
+<area shape="rect" id="node12" href="$ds1375_8c.html#a5dbbc400719aadb80cf22493bacd300d" title=" " alt="" coords="231,107,312,133"/>
+<area shape="rect" id="node4" href="$group__LibIOInternal.html#ga2021231771d73c426958cf0bb7400666" title=" " alt="" coords="360,56,515,83"/>
+<area shape="rect" id="node5" href="$group__LibIOInternal.html#ga12b4b45fb45758475cfbfa8606c7ae9d" title=" " alt="" coords="571,31,700,57"/>
+<area shape="rect" id="node9" href="$group__LibIOInternal.html#gac22d5afbe375148eef15304958bc4cec" title=" " alt="" coords="563,81,708,108"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreAPIMutex.html#ga57829ca494f1d866219c499eadb0ffc9" title="Acquires the specified API mutex." alt="" coords="764,31,899,57"/>
+<area shape="rect" id="node7" href="$mutex_8c.html#a2960aef6016ac8937f24108f9cdeebd0" title=" " alt="" coords="959,5,1153,32"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreThread.html#gad5aaea7af4482aebd880403fb9c238af" title="Set the thread to life protected." alt="" coords="955,56,1157,83"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreAPIMutex.html#ga64a430ae861d0ce7f63413e651fbe36d" title="Releases the specified API mutex." alt="" coords="756,81,907,108"/>
+<area shape="rect" id="node11" href="$mutex_8c.html#adecd7211e7a1a5035841212574f45b31" title=" " alt="" coords="958,107,1154,133"/>
+<area shape="rect" id="node13" href="$lib_8c.html#afee04a2bd3690b426c5ead287a32a1a8" title=" " alt="" coords="398,107,477,133"/>
+<area shape="rect" id="node14" href="$libcsupport_2src_2write_8c.html#a448dd253ee4c0e3d3b1275df845e7146" title=" " alt="" coords="410,157,465,184"/>
+</map>

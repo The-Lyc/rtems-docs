@@ -1,0 +1,7 @@
+<map id="uart_bridge_master_context" name="uart_bridge_master_context">
+<area shape="rect" id="node1" title=" " alt="" coords="95,216,245,257"/>
+<area shape="rect" id="node2" href="$structrtems__termios__device__context.html" title="Termios device context." alt="" coords="5,112,172,153"/>
+<area shape="rect" id="node3" href="$structISR__lock__Control.html" title="ISR lock control." alt="" coords="23,7,154,33"/>
+<area shape="rect" id="node4" href="$unionChain__Control.html" title=" " alt="" coords="196,119,309,146"/>
+<area shape="rect" id="node5" href="$structChain__Node__struct.html" title=" " alt="" coords="181,7,325,33"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="bsps/shared/dev/btimer/btimer&#45;cpucounter.c" name="bsps/shared/dev/btimer/btimer&#45;cpucounter.c">
+<area shape="rect" id="node1" title=" " alt="" coords="285,5,460,47"/>
+<area shape="rect" id="node2" href="$btimer_8h.html" title="RTEMS Benchmark Timer API for all Boards." alt="" coords="241,95,360,121"/>
+<area shape="rect" id="node9" href="$counter_8h.html" title="Free&#45;Running Counter and Busy Wait Delay API." alt="" coords="405,95,529,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="391,319,474,345"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,319,76,345"/>
+<area shape="rect" id="node5" href="$rtems_2status_8h.html" title=" " alt="" coords="179,169,337,196"/>
+<area shape="rect" id="node6" href="$basedefs_8h.html" title="Basic Definitions." alt="" coords="167,244,341,271"/>
+<area shape="rect" id="node7" title=" " alt="" coords="200,319,367,345"/>
+<area shape="rect" id="node8" title=" " alt="" coords="101,319,175,345"/>
+<area shape="rect" id="node10" title=" " alt="" coords="417,169,555,196"/>
+</map>

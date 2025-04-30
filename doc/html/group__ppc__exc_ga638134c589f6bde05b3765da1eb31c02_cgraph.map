@@ -1,0 +1,5 @@
+<map id="C_exception_handler" name="C_exception_handler">
+<area shape="rect" id="node1" title="Default global exception handler." alt="" coords="5,5,164,32"/>
+<area shape="rect" id="node2" href="$group__ClassicFatal.html#ga53fa9338246642e0d931f61314c6609e" title="Terminates the system." alt="" coords="212,5,309,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreIntErr.html#ga5102f2f0c5939020aa3b11d67afa84eb" title="Initiates system termination." alt="" coords="357,5,452,32"/>
+</map>

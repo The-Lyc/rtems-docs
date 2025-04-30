@@ -1,0 +1,5 @@
+<map id="bsps/arm/raspberrypi/include/bsp/fbcons.h" name="bsps/arm/raspberrypi/include/bsp/fbcons.h">
+<area shape="rect" id="node1" title="framebuffer graphic console support." alt="" coords="117,5,277,47"/>
+<area shape="rect" id="node2" href="$arm_2raspberrypi_2console_2console-config_8c.html" title="Console Configuration." alt="" coords="5,95,191,136"/>
+<area shape="rect" id="node3" href="$raspberrypi_2console_2fbcons_8c.html" title="framebuffer graphic console support." alt="" coords="215,95,375,136"/>
+</map>

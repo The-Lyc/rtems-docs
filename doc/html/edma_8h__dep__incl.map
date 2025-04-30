@@ -1,0 +1,8 @@
+<map id="bsps/powerpc/mpc55xxevb/include/mpc55xx/edma.h" name="bsps/powerpc/mpc55xxevb/include/mpc55xx/edma.h">
+<area shape="rect" id="node1" title="Enhanced Direct Memory Access (eDMA)." alt="" coords="339,5,537,47"/>
+<area shape="rect" id="node2" href="$dspi_8h.html" title="Header file for the LibI2C bus driver for the Deserial Serial Peripheral Interface (DSPI)." alt="" coords="116,95,315,136"/>
+<area shape="rect" id="node5" href="$powerpc_2mpc55xxevb_2start_2bspstart_8c.html" title="BSP startup code." alt="" coords="339,95,537,136"/>
+<area shape="rect" id="node6" href="$edma_8c.html" title="Enhanced Direct Memory Access (eDMA)." alt="" coords="561,95,760,136"/>
+<area shape="rect" id="node3" href="$dspi_8c.html" title="Source file for the LibI2C bus driver for the Deserial Serial Peripheral Interface (DSPI)." alt="" coords="5,184,204,225"/>
+<area shape="rect" id="node4" href="$sd-card-init_8c.html" title="SD Card initialization code." alt="" coords="228,184,427,225"/>
+</map>

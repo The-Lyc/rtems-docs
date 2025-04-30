@@ -1,0 +1,4 @@
+<map id="Temperature Sensor LM75A Driver" name="Temperature Sensor LM75A Driver">
+<area shape="rect" id="node1" href="$group__I2CDevice.html" title=" " alt="" coords="5,13,141,38"/>
+<area shape="rect" id="node2" title="Driver for NXP or Texas Instruments LM75A temperature sensor." alt="" coords="189,5,341,45"/>
+</map>

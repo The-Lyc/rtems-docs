@@ -1,0 +1,7 @@
+<map id="pthread_rwlock_init" name="pthread_rwlock_init">
+<area shape="rect" id="node1" title=" " alt="" coords="5,63,156,90"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreRWLock.html#gaa689b4e53215c2f2c0a19f25d531aafb" title="Initializes a RWlock." alt="" coords="204,13,391,39"/>
+<area shape="rect" id="node4" href="$group__POSIXAPI.html#gad05fb937466662bdf76ca576d1e3dc2b" title=" " alt="" coords="205,63,389,90"/>
+<area shape="rect" id="node5" href="$rwlockimpl_8h.html#a34a2ae0951ff22962eace9a2a0d8aa21" title=" " alt="" coords="219,114,376,141"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreThreadQueue.html#ga9bf4b585322581d70c742c7292bc8435" title="Initializes the thread queue queue with the given name." alt="" coords="439,5,609,47"/>
+</map>

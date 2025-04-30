@@ -1,0 +1,12 @@
+<map id="IO Library" name="IO Library">
+<area shape="rect" id="node1" href="$group__FileSystemTypesAndMount.html" title="File system types and mount." alt="" coords="151,5,317,45"/>
+<area shape="rect" id="node2" href="$group__Termios.html" title="Termios." alt="" coords="197,70,271,95"/>
+<area shape="rect" id="node3" href="$group__LibIOEnv.html" title="Provides a POSIX like user environment for tasks." alt="" coords="165,119,303,145"/>
+<area shape="rect" id="node4" href="$group__LibIOFSHandler.html" title="File system node handler." alt="" coords="139,169,329,194"/>
+<area shape="rect" id="node5" href="$group__libmisc__untar__img.html" title=" " alt="" coords="183,218,285,243"/>
+<area shape="rect" id="node6" href="$group__IMFSGenericNodes.html" title="Generic nodes are an alternative to standard drivers in RTEMS." alt="" coords="158,267,310,293"/>
+<area shape="rect" id="node7" href="$group__LibIOFSOps.html" title="File system operations." alt="" coords="147,317,321,342"/>
+<area shape="rect" id="node8" title="Provides system call and file system interface definitions." alt="" coords="5,218,91,243"/>
+<area shape="rect" id="node9" href="$group__RTEMSIOMedia.html" title="Removable media support." alt="" coords="173,366,295,391"/>
+<area shape="rect" id="node10" href="$group__LibIOInternal.html" title="Internal IO library API and implementation." alt="" coords="165,415,303,441"/>
+</map>

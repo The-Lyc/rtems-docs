@@ -1,0 +1,22 @@
+<map id="cpukit/include/rtems/confdefs.h" name="cpukit/include/rtems/confdefs.h">
+<area shape="rect" id="node1" title="Evaluate Configuration Options." alt="" coords="1901,5,2056,47"/>
+<area shape="rect" id="node2" href="$obsolete_8h.html" title="Evaluate Obsolete Configuration Options." alt="" coords="5,95,197,121"/>
+<area shape="rect" id="node3" href="$confdefs_2bdbuf_8h.html" title="Evaluate Block Device Cache Configuration Options." alt="" coords="222,95,394,121"/>
+<area shape="rect" id="node4" href="$cpukit_2include_2rtems_2confdefs_2clock_8h.html" title="Evaluate Clock Configuration Options." alt="" coords="419,95,589,121"/>
+<area shape="rect" id="node5" href="$cpukit_2include_2rtems_2confdefs_2console_8h.html" title="Evaluate Console Driver Configuration Options." alt="" coords="613,95,800,121"/>
+<area shape="rect" id="node6" href="$extensions_8h.html" title="Evaluate User Extensions Configuration Options." alt="" coords="825,95,1031,121"/>
+<area shape="rect" id="node7" href="$inittask_8h.html" title="Evaluate User Initialization Task Configuration Options." alt="" coords="1055,95,1241,121"/>
+<area shape="rect" id="node8" href="$initthread_8h.html" title="Evaluate POSIX Initialization Thread Configuration Options." alt="" coords="1265,95,1463,121"/>
+<area shape="rect" id="node9" href="$iodrivers_8h.html" title="Evaluate IO Driver Configuration Options." alt="" coords="1487,95,1681,121"/>
+<area shape="rect" id="node10" href="$confdefs_2libio_8h.html" title="Evaluate IO Library Configuration Options." alt="" coords="1705,95,1869,121"/>
+<area shape="rect" id="node11" href="$libpci_8h.html" title="This header file evaluates PCI library configuration options." alt="" coords="1893,95,2064,121"/>
+<area shape="rect" id="node12" href="$confdefs_2malloc_8h.html" title="Evaluate C Program Heap Configuration Options." alt="" coords="2089,95,2269,121"/>
+<area shape="rect" id="node13" href="$cpukit_2include_2rtems_2confdefs_2mpci_8h.html" title="Evaluate MPCI Configuration Options." alt="" coords="2293,95,2461,121"/>
+<area shape="rect" id="node14" href="$newlib_8h.html" title="Evaluate Newlib Configuration Options." alt="" coords="2485,95,2664,121"/>
+<area shape="rect" id="node15" href="$objectsclassic_8h.html" title="Evaluate Classic API Objects Configuration Options." alt="" coords="2688,95,2915,121"/>
+<area shape="rect" id="node16" href="$objectsposix_8h.html" title="Evaluate POSIX API Objects Configuration Options." alt="" coords="2939,95,3157,121"/>
+<area shape="rect" id="node17" href="$confdefs_2percpu_8h.html" title="Evaluate Per&#45;CPU Configuration Options." alt="" coords="3182,95,3362,121"/>
+<area shape="rect" id="node18" href="$confdefs_2scheduler_8h.html" title="Evaluate Scheduler Configuration Options." alt="" coords="3386,95,3585,121"/>
+<area shape="rect" id="node19" href="$threads_8h.html" title="Evaluate Thread Configuration Options." alt="" coords="3609,95,3794,121"/>
+<area shape="rect" id="node20" href="$confdefs_2wkspace_8h.html" title="Evaluate Workspace Configuration Options." alt="" coords="3818,95,4011,121"/>
+</map>

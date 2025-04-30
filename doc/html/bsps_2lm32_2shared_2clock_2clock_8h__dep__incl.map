@@ -1,0 +1,6 @@
+<map id="bsps/lm32/shared/clock/clock.h" name="bsps/lm32/shared/clock/clock.h">
+<area shape="rect" id="node1" title="LatticeMico32 Timer (Clock) definitions." alt="" coords="214,5,389,47"/>
+<area shape="rect" id="node2" href="$lm32_2shared_2btimer_2btimer_8c.html" title=" " alt="" coords="5,95,189,136"/>
+<area shape="rect" id="node3" href="$lm32_2shared_2clock_2ckinit_8c.html" title=" " alt="" coords="214,95,389,136"/>
+<area shape="rect" id="node4" href="$lm32_2shared_2milkymist__timer_2timer_8c.html" title=" " alt="" coords="413,95,619,136"/>
+</map>

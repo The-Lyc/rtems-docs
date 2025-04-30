@@ -1,0 +1,4 @@
+<map id="_CORE_mutex_Release" name="_CORE_mutex_Release">
+<area shape="rect" id="node1" title="Releases the mutex." alt="" coords="5,5,179,32"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreThreadQueue.html#ga0a8881ef4106a0707b2751cdd3d18bef" title="Releases the thread queue control and enables interrupts." alt="" coords="227,5,407,32"/>
+</map>

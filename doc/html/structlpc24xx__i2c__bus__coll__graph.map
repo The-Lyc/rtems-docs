@@ -1,0 +1,7 @@
+<map id="lpc24xx_i2c_bus" name="lpc24xx_i2c_bus">
+<area shape="rect" id="node1" title=" " alt="" coords="211,109,340,136"/>
+<area shape="rect" id="node2" href="$structi2c__msg.html" title="I2C transfer message." alt="" coords="5,5,81,32"/>
+<area shape="rect" id="node3" href="$structrtems__binary__semaphore.html" title=" " alt="" coords="105,5,293,32"/>
+<area shape="rect" id="node4" href="$structi2c__bus.html" title="I2C bus control." alt="" coords="317,5,388,32"/>
+<area shape="rect" id="node5" href="$structlpc24xx__i2c.html" title=" " alt="" coords="413,5,511,32"/>
+</map>

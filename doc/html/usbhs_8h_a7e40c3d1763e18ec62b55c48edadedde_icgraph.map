@@ -1,0 +1,4 @@
+<map id="USBHS_HostGetToken" name="USBHS_HostGetToken">
+<area shape="rect" id="node1" title="Gets USB host interrupt status." alt="" coords="224,5,388,32"/>
+<area shape="rect" id="node2" href="$usbhs_8h.html#afc5b9450b58a00b6b0080285a6296595" title=" " alt="" coords="5,5,176,32"/>
+</map>

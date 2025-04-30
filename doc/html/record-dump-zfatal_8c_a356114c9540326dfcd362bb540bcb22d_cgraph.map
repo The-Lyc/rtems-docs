@@ -1,0 +1,10 @@
+<map id="_Record_Fatal_dump_base64_zlib" name="_Record_Fatal_dump_base64_zlib">
+<area shape="rect" id="node1" title=" " alt="" coords="5,35,161,76"/>
+<area shape="rect" id="node2" href="$group__RTEMSRecord.html#ga4b52b1b7fb56bf9b7884860e5dcc0134" title="Dumps the event records compressed with zlib in base64 encoding." alt="" coords="209,5,392,47"/>
+<area shape="rect" id="node3" href="$group__RTEMSRecord.html#gaa5332b5d70ad8e147ebe44ca25341944" title="Produces two record items." alt="" coords="209,71,392,98"/>
+<area shape="rect" id="node4" href="$group__RTEMSRecord.html#ga5e164fc0a361be6cac976c3afa8ec732" title="Adds a record item." alt="" coords="453,17,592,43"/>
+<area shape="rect" id="node6" href="$group__RTEMSRecord.html#gac80cf4761566e19371353c9c72271e84" title="Commits a set of record items." alt="" coords="440,71,605,98"/>
+<area shape="rect" id="node8" href="$group__RTEMSRecord.html#gad96c3279a0126090309e78135151168e" title="Prepares to add and commit record items." alt="" coords="440,122,605,149"/>
+<area shape="rect" id="node5" href="$record_8h.html#aa1f6bc150385e3209e68a628887f52ba" title=" " alt="" coords="677,14,795,41"/>
+<area shape="rect" id="node7" href="$group__RTEMSRecord.html#ga2a34e1207be9164960fd9fe9bf18bb57" title="Commits a set of record items in a critical section with interrupts disabled." alt="" coords="653,65,819,107"/>
+</map>

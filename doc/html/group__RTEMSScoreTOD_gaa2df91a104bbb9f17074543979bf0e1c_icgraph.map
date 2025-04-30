@@ -1,0 +1,7 @@
+<map id="_TOD_Lock" name="_TOD_Lock">
+<area shape="rect" id="node1" title="Locks the time of day mutex." alt="" coords="347,56,441,83"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreTOD.html#ga672f574f652f79e2c365869a8c7b7895" title="Adjusts the Time of Time." alt="" coords="159,5,265,32"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreTODHooks.html#ga9db96e52b259d049f468578e081605ff" title="Add a TOD Action Hook." alt="" coords="133,56,291,83"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreTODHooks.html#ga1d70eadc6cc3f1c7766d9fb6b8709e65" title="Remove a TOD Action Hook." alt="" coords="125,107,299,133"/>
+<area shape="rect" id="node3" href="$adjtime_8c.html#ac69f07256658417ba6b3207b3a8bfae7" title=" " alt="" coords="5,5,77,32"/>
+</map>

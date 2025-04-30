@@ -1,0 +1,5 @@
+<map id="_Status_Get_after_wait" name="_Status_Get_after_wait">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,177,57"/>
+<area shape="rect" id="node2" href="$group__ClassicStatusImpl.html#ga6ffec3b1e02d7cdd31a7db140a4d6236" title=" " alt="" coords="268,5,368,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreThread.html#ga1a8eb44ff0357020e3bc2972747cd8fb" title="Get the status of the wait return code of the thread." alt="" coords="225,56,411,83"/>
+</map>

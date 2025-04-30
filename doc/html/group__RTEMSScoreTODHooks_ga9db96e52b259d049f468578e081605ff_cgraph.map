@@ -1,0 +1,13 @@
+<map id="_TOD_Hook_Register" name="_TOD_Hook_Register">
+<area shape="rect" id="node1" title="Add a TOD Action Hook." alt="" coords="5,122,164,149"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreChain.html#gaa7011c6fe160c457a0d100e41ec3fffe" title="Appends a node (unprotected)." alt="" coords="212,71,419,98"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreTOD.html#gaa2df91a104bbb9f17074543979bf0e1c" title="Locks the time of day mutex." alt="" coords="268,122,363,149"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreTOD.html#ga5fc2b439addee0c1c8372dc4db417c1f" title="Unlocks the time of day mutex." alt="" coords="261,173,370,199"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreChain.html#gad7a790f247b3ace45f039c60c18f999f" title="Checks if the node is off chain." alt="" coords="469,5,615,47"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreChain.html#ga06f3e2dd6d64411f0565e3b483e53673" title="Returns pointer to chain tail." alt="" coords="495,71,589,98"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreAPIMutex.html#ga57829ca494f1d866219c499eadb0ffc9" title="Acquires the specified API mutex." alt="" coords="475,122,609,149"/>
+<area shape="rect" id="node7" href="$mutex_8c.html#a2960aef6016ac8937f24108f9cdeebd0" title=" " alt="" coords="670,97,863,123"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreThread.html#gad5aaea7af4482aebd880403fb9c238af" title="Set the thread to life protected." alt="" coords="665,147,868,174"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreAPIMutex.html#ga64a430ae861d0ce7f63413e651fbe36d" title="Releases the specified API mutex." alt="" coords="467,173,617,199"/>
+<area shape="rect" id="node11" href="$mutex_8c.html#adecd7211e7a1a5035841212574f45b31" title=" " alt="" coords="669,198,865,225"/>
+</map>

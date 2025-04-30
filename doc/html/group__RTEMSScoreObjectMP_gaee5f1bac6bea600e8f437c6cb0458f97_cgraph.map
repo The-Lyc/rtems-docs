@@ -1,0 +1,9 @@
+<map id="_Objects_MP_Allocate_and_open" name="_Objects_MP_Allocate_and_open">
+<area shape="rect" id="node1" title="Allocates a global object control block and places it in the specified information table." alt="" coords="5,90,171,131"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreIntErr.html#ga092fa4be4bda2528754b494e901d3d2a" title="Terminates the system with an INTERNAL_ERROR_CORE fatal source and the specified core error code." alt="" coords="243,5,360,32"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreObjectMP.html#gaac123fca33d27617283f1d6ec4a4f1bd" title="This function allocates a Global Object control block." alt="" coords="219,57,384,98"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreObjectMP.html#ga56fbd183d677d4aa85be7b6ce66de13b" title="Checks if the global object is NULL or not." alt="" coords="224,122,379,163"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreObjectMP.html#gaa5c13d3459c22165867d079319392ee6" title="Place the specified global object in the specified information table." alt="" coords="228,188,375,215"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreIntErr.html#ga5102f2f0c5939020aa3b11d67afa84eb" title="Initiates system termination." alt="" coords="458,5,553,32"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreObject.html#ga2a5fbd3f068704dab10f651f6aa12d6d" title="Returns the node portion of the ID." alt="" coords="432,188,579,215"/>
+</map>

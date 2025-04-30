@@ -1,0 +1,11 @@
+<map id="_RBTree_Is_empty" name="_RBTree_Is_empty">
+<area shape="rect" id="node1" title="Checks if the RBTree is empty." alt="" coords="620,177,761,204"/>
+<area shape="rect" id="node2" href="$group__RTEMSScorePriority.html#ga0344d5313d3b010417b4c84ce5d45d42" title="Checks if the priority aggregation is empty." alt="" coords="414,152,557,179"/>
+<area shape="rect" id="node9" href="$group__ClassicRBTrees.html#ga8b5daa460162f4fc1ca441a1f1c31f10" title="Is the RBTree empty." alt="" coords="399,203,572,229"/>
+<area shape="rect" id="node3" href="$group__RTEMSScorePriority.html#ga4a779aca3d3f5d714c7468398c30399d" title="Extracts the node from the aggregation." alt="" coords="197,5,327,32"/>
+<area shape="rect" id="node4" href="$group__RTEMSScorePriority.html#ga8628c09ae0aafba6264881d74cf3bcc6" title="Extracts the node from the aggregation." alt="" coords="182,57,342,98"/>
+<area shape="rect" id="node5" href="$group__RTEMSScorePriority.html#gad7a0e6788cb685ddd6dc8b884f4b797a" title=" " alt="" coords="5,152,125,179"/>
+<area shape="rect" id="node6" href="$group__RTEMSScorePriority.html#ga73b5cce2b5df3b31ab208e64cc0348a9" title="Inserts the node in a nonempty aggregation and handles change if the node is the new minimum." alt="" coords="183,174,341,215"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreScheduler.html#gafdf8dfa2c90ca2122b995bb6dd42fcda" title="Sets a new scheduler." alt="" coords="201,240,323,267"/>
+<area shape="rect" id="node8" href="$group__ClassicTasks.html#gad06646a724fbaf16f1a4d117d1c667dc" title="Gets the current priority of the specified task with respect to the specified scheduler instance." alt="" coords="173,291,351,317"/>
+</map>

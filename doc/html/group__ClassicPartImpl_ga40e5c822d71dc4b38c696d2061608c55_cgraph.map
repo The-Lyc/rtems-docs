@@ -1,0 +1,8 @@
+<map id="_Partition_Free" name="_Partition_Free">
+<area shape="rect" id="node1" title="Frees a partition control block to the inactive chain of free partition control blocks." alt="" coords="5,13,124,39"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreObject.html#ga2215dcf7e3251e6f629b6a3a96fff44e" title="Frees an object." alt="" coords="172,13,285,39"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreObject.html#ga67f9cdae9423a81e46626f0e2cb9f305" title="Checks if the allocator is the owner of the object allocator mutex." alt="" coords="333,5,476,47"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreAllocatorMutex.html#ga8698c4f98051e1c097ed32e38fbf786f" title=" " alt="" coords="524,5,680,47"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreAPIMutex.html#ga0a01be1d7b28416e738a2b97ca3f611d" title="Checks if the specified API mutex is owned by the executing thread." alt="" coords="728,13,891,39"/>
+<area shape="rect" id="node6" href="$group__PerCPU.html#ga294cfaf3cf50de03f1d9821d68b9c1bd" title="Returns the thread control block of the executing thread." alt="" coords="939,13,1113,39"/>
+</map>

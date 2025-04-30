@@ -1,0 +1,8 @@
+<map id="Internal" name="Internal">
+<area shape="rect" id="node1" href="$group__libcsupport.html" title="RTEMS Specific Support for the Standard C Library." alt="" coords="147,5,290,45"/>
+<area shape="rect" id="node2" href="$group__RTEMSApplicationConfiguration.html" title="Evaluation of Application Configuration Options." alt="" coords="125,70,312,95"/>
+<area shape="rect" id="node3" href="$group__RTEMSInternalClassic.html" title="Classic." alt="" coords="185,119,253,145"/>
+<area shape="rect" id="node4" href="$group__POSIXAPI.html" title=" " alt="" coords="151,169,286,194"/>
+<area shape="rect" id="node5" href="$group__RTEMSScore.html" title="Provides services for all APIs." alt="" coords="174,218,263,243"/>
+<area shape="rect" id="node6" title="RTEMS Implementation." alt="" coords="5,119,77,145"/>
+</map>

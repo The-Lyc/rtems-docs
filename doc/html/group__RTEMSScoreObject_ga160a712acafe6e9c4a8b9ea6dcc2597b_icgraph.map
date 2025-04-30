@@ -1,0 +1,19 @@
+<map id="_Objects_API_maximum_class" name="_Objects_API_maximum_class">
+<area shape="rect" id="node1" title="Returns highest numeric value of a valid API for the specified API." alt="" coords="1509,283,1689,325"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreObject.html#gaf45a5862e6e8eab0823ef39dfd1e9403" title="Gets object information." alt="" coords="1262,261,1453,288"/>
+<area shape="rect" id="node17" href="$group__ClassicClassInfo.html#ga83bbd111ed4c350325e0c3519b0c54a6" title="Get Highest Valid Class Value." alt="" coords="1253,313,1461,354"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreObject.html#ga73bb4fe5d6c1200fba89863b6d5fe6db" title="Gets information of an object from an ID." alt="" coords="995,232,1205,259"/>
+<area shape="rect" id="node16" href="$group__ClassicClassInfo.html#gae8ffdf2a3cfe0e716ebfd4a3eb1bfece" title="Get Class Information." alt="" coords="1013,283,1187,325"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreObject.html#gabd551c27404cc5db7e78b6ad24a5dda9" title="Gets object name in the form of a C string." alt="" coords="770,141,945,182"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreObject.html#ga4ef83167e7503b64f503bd9218332cde" title="Returns the name associated with object id." alt="" coords="777,207,938,233"/>
+<area shape="rect" id="node14" href="$group__ClassicTasksImpl.html#ga3d8f1c033065071a99b447c7c0d10c39" title="Frees a task control block." alt="" coords="782,257,933,284"/>
+<area shape="rect" id="node15" href="$group__ClassicClassInfo.html#gacb1a1933caf2556aa7e9b715c684fe5b" title="Set Name of Object." alt="" coords="768,308,947,335"/>
+<area shape="rect" id="node5" href="$group__ClassicClassInfo.html#ga85242d8af75f936826239cf37493fe0b" title="Obtain Object Name as String." alt="" coords="541,148,720,175"/>
+<area shape="rect" id="node6" href="$mon-prmisc_8c.html#a3dfb0490788be3c879467d5b0cc11637" title=" " alt="" coords="287,148,493,175"/>
+<area shape="rect" id="node7" href="$mon-extension_8c.html#a2e89423cc682bfd3e8b6b2f3c4eec211" title=" " alt="" coords="5,5,239,32"/>
+<area shape="rect" id="node8" href="$mon-itask_8c.html#ac5bec63cdcc6d43fea53037fb67ed513" title=" " alt="" coords="49,57,195,98"/>
+<area shape="rect" id="node9" href="$mon-part_8c.html#a0fe521841e630d2661e148a3299969e2" title=" " alt="" coords="25,123,219,149"/>
+<area shape="rect" id="node10" href="$mon-queue_8c.html#aabd019094af0633d212b8a6d7862a85f" title=" " alt="" coords="17,173,227,200"/>
+<area shape="rect" id="node11" href="$mon-region_8c.html#aa46b1f2529190f825eca6e02f00d4e74" title=" " alt="" coords="17,224,227,251"/>
+<area shape="rect" id="node12" href="$mon-sema_8c.html#aefddac08ed83c2f536eeeb9908eff212" title=" " alt="" coords="19,275,225,301"/>
+</map>

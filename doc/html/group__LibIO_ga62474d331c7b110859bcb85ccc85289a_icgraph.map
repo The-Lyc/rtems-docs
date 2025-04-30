@@ -1,0 +1,8 @@
+<map id="rtems_filesystem_get_mount_handler" name="rtems_filesystem_get_mount_handler">
+<area shape="rect" id="node1" title="Gets the mount handler for the file system type." alt="" coords="513,74,676,115"/>
+<area shape="rect" id="node2" href="$group__FileSystemTypesAndMount.html#gaf3c1bed49bb0f3dec88d330b4f88d48b" title="Mounts a file system instance at the specified target path." alt="" coords="337,56,401,83"/>
+<area shape="rect" id="node6" href="$group__FileSystemTypesAndMount.html#gaac7f1c7fe78f3acc145272809cef62a2" title="Registers a file system type." alt="" coords="273,107,465,133"/>
+<area shape="rect" id="node3" href="$group__FileSystemTypesAndMount.html#ga27af6440b4ef795576c94e870c5d997f" title="Mounts a file system and makes the target path." alt="" coords="5,5,225,32"/>
+<area shape="rect" id="node4" href="$group__LibIO.html#gad5344541746c6e86ef313e926ac2d7af" title="Base File System Initialization." alt="" coords="16,56,215,83"/>
+<area shape="rect" id="node5" href="$group__rtems__fstab.html#gaa1e00bfe1aa6bce349c2c73092a39cc6" title="Mounts the file systems listed in the file system mount table." alt="" coords="55,107,176,133"/>
+</map>

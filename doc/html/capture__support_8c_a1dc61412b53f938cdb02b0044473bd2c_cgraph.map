@@ -1,0 +1,7 @@
+<map id="rtems_capture_print_watch_list" name="rtems_capture_print_watch_list">
+<area shape="rect" id="node1" title="Capture print watch list." alt="" coords="5,90,159,131"/>
+<area shape="rect" id="node2" href="$group__libmisc__capture.html#ga2589fea91d3a22a2308b55736c17c890" title="Capture get control list." alt="" coords="207,5,429,32"/>
+<area shape="rect" id="node3" href="$group__libmisc__capture.html#ga0d4e2c36e113e9413bd1aacdfe6edfb9" title="Get watch ceiling." alt="" coords="237,57,399,98"/>
+<area shape="rect" id="node4" href="$group__libmisc__capture.html#ga00a3676efcb328e7de776bcd01f60ee2" title="Capture set watch floor." alt="" coords="237,122,399,163"/>
+<area shape="rect" id="node5" href="$group__libmisc__capture.html#ga59613c1b9451ff9fc8d15cf9ecb5bb98" title="Get global watch state." alt="" coords="237,187,399,229"/>
+</map>

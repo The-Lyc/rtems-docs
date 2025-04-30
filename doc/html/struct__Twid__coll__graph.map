@@ -1,0 +1,5 @@
+<map id="_Twid" name="_Twid">
+<area shape="rect" id="node1" title="TWI driver structure. Holds the internal state of the driver." alt="" coords="49,95,108,121"/>
+<area shape="rect" id="node2" href="$structTwihs.html" title="Twihs hardware registers." alt="" coords="5,5,64,32"/>
+<area shape="rect" id="node3" href="$struct__Async.html" title="Asynchronous transfer descriptor." alt="" coords="89,5,157,32"/>
+</map>

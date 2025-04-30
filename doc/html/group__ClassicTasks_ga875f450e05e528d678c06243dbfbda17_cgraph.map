@@ -1,0 +1,7 @@
+<map id="rtems_scheduler_map_priority_to_posix" name="rtems_scheduler_map_priority_to_posix">
+<area shape="rect" id="node1" title="Map a task priority to the corresponding POSIX thread priority." alt="" coords="5,31,172,72"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreScheduler.html#ga0c890185e97bf23c9ac8800beb60b4d4" title="Gets the scheduler from the given object build id." alt="" coords="220,13,385,39"/>
+<area shape="rect" id="node5" href="$if__xxx__rtems_8c.html#a0d44d815bf35b8d64e2c9b7dc79efa76" title=" " alt="" coords="283,63,322,90"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreScheduler.html#ga6a59bd6a442d2c5acf247c66e1b21757" title="Gets the scheduler index from the given object build id." alt="" coords="433,5,600,47"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreScheduler.html#ga5012b61871058535e8b6bfd316787fd7" title="Builds an object build id." alt="" coords="648,13,800,39"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="VBE_controller_information" name="VBE_controller_information">
+<area shape="rect" id="node1" title="Returns information about graphic&#39;s controller in the info_block structure." alt="" coords="256,5,456,32"/>
+<area shape="rect" id="node2" href="$fb__vesa__rm_8c.html#a66442b4301c2a23d9f9baef8f4cdab8f" title="Initializes VBE framebuffer during bootup." alt="" coords="5,5,208,32"/>
+</map>

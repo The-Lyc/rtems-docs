@@ -1,0 +1,19 @@
+<map id="bsps/arm/raspberrypi/include/bsp/raspberrypi.h" name="bsps/arm/raspberrypi/include/bsp/raspberrypi.h">
+<area shape="rect" id="node1" title="Register definitions." alt="" coords="1397,5,1587,47"/>
+<area shape="rect" id="node2" href="$arm_2raspberrypi_2clock_2clockdrv_8c.html" title="Raspberry Pi clock support." alt="" coords="5,95,165,136"/>
+<area shape="rect" id="node3" href="$arm_2raspberrypi_2console_2console-config_8c.html" title="Console Configuration." alt="" coords="190,95,375,136"/>
+<area shape="rect" id="node4" href="$raspberrypi_2console_2fb_8c.html" title="framebuffer support." alt="" coords="400,95,560,136"/>
+<area shape="rect" id="node5" href="$rpi-gpio_8c.html" title="Support for the Raspberry PI GPIO." alt="" coords="584,95,744,136"/>
+<area shape="rect" id="node6" href="$arm_2raspberrypi_2i2c_2i2c_8c.html" title="Support for the I2C bus on the Raspberry Pi GPIO P1 header (model A/B) and GPIO J8 header on model B+..." alt="" coords="768,95,928,136"/>
+<area shape="rect" id="node7" href="$bsps_2arm_2raspberrypi_2include_2bsp_8h.html" title="Global BSP definitions." alt="" coords="952,95,1112,136"/>
+<area shape="rect" id="node8" href="$bsps_2arm_2raspberrypi_2irq_2irq_8c.html" title="Interrupt support." alt="" coords="1136,95,1296,136"/>
+<area shape="rect" id="node9" href="$arm_2raspberrypi_2spi_2spi_8c.html" title="Support for the SPI bus on the Raspberry Pi GPIO P1 header (model A/B) and GPIO J8 header on model B+..." alt="" coords="1320,95,1480,136"/>
+<area shape="rect" id="node10" href="$arm_2raspberrypi_2start_2bspreset_8c.html" title="Raspberry pi restart chip function." alt="" coords="1504,95,1664,136"/>
+<area shape="rect" id="node11" href="$arm_2raspberrypi_2start_2bspsmp_8c.html" title="Raspberry pi SMP management functions provided to SuperCore." alt="" coords="1688,95,1848,136"/>
+<area shape="rect" id="node12" href="$bspsmp__init_8c.html" title="Raspberry pi secondary CPU and IPI HW initialization." alt="" coords="1872,95,2032,136"/>
+<area shape="rect" id="node13" href="$arm_2raspberrypi_2start_2bspstart_8c.html" title="Raspberry pi startup code." alt="" coords="2056,95,2216,136"/>
+<area shape="rect" id="node14" href="$raspberrypi_2start_2bspstarthooks_8c.html" title="Rasberry Pi startup code." alt="" coords="2240,95,2403,136"/>
+<area shape="rect" id="node15" href="$mailbox_8c.html" title="mailbox support." alt="" coords="2427,95,2587,136"/>
+<area shape="rect" id="node16" href="$arm_2raspberrypi_2start_2timer_8c.html" title="Benchmark timer support." alt="" coords="2611,95,2771,136"/>
+<area shape="rect" id="node17" href="$vc_8c.html" title="video core support." alt="" coords="2795,95,2955,136"/>
+</map>

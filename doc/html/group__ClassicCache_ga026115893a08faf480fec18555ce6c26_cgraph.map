@@ -1,0 +1,7 @@
+<map id="rtems_cache_coherent_allocate" name="rtems_cache_coherent_allocate">
+<area shape="rect" id="node1" title="Allocates a memory area of size size bytes from cache coherent memory." alt="" coords="5,23,175,65"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreAllocatorMutex.html#ga89aa77edce0d5557b1a7e9d9ef7999c8" title=" " alt="" coords="223,31,397,57"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreAPIMutex.html#ga57829ca494f1d866219c499eadb0ffc9" title="Acquires the specified API mutex." alt="" coords="445,31,580,57"/>
+<area shape="rect" id="node4" href="$mutex_8c.html#a2960aef6016ac8937f24108f9cdeebd0" title=" " alt="" coords="633,5,826,32"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreThread.html#gad5aaea7af4482aebd880403fb9c238af" title="Set the thread to life protected." alt="" coords="628,56,831,83"/>
+</map>

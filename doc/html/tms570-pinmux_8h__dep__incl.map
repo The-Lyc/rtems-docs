@@ -1,0 +1,6 @@
+<map id="bsps/arm/tms570/include/bsp/tms570&#45;pinmux.h" name="bsps/arm/tms570/include/bsp/tms570&#45;pinmux.h">
+<area shape="rect" id="node1" title="I/O Multiplexing Module (IOMM) basic support." alt="" coords="190,5,377,47"/>
+<area shape="rect" id="node2" href="$init__pinmux_8c.html" title="Initialize pin multiplexers." alt="" coords="5,95,175,136"/>
+<area shape="rect" id="node3" href="$init__system_8c.html" title=" " alt="" coords="199,95,368,136"/>
+<area shape="rect" id="node4" href="$pinmux_8c.html" title="I/O Multiplexing Module (IOMM) basic support." alt="" coords="392,95,561,136"/>
+</map>

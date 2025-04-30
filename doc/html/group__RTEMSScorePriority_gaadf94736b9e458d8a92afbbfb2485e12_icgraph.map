@@ -1,0 +1,7 @@
+<map id="_Priority_bit_map_Add" name="_Priority_bit_map_Add">
+<area shape="rect" id="node1" title="Adds Priority queue bit map information." alt="" coords="460,46,628,73"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreSchedulerDPS.html#ga6f9c3b0a25b20c2986d5936486e027fd" title="Enqueues a node on the specified ready queue." alt="" coords="216,5,396,47"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreSchedulerDPS.html#ga0868a355751996dd45401461948ce5db" title="Enqueues a node on the specified ready queue as first." alt="" coords="200,71,412,112"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreSchedulerDPS.html#ga2a24da77012650161d32bed57eb5c128" title="Unblocks the thread." alt="" coords="5,5,152,47"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreSchedulerDPS.html#gaa9250624cb136b5fd42bdfe060a2eb5e" title="Updates the priority of the node." alt="" coords="5,71,152,112"/>
+</map>

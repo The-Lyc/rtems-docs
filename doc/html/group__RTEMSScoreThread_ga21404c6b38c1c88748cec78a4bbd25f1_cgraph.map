@@ -1,0 +1,5 @@
+<map id="_Thread_State_acquire_for_executing" name="_Thread_State_acquire_for_executing">
+<area shape="rect" id="node1" title="Disables interrupts and acquires the lock context for the currently executing thread." alt="" coords="5,5,176,47"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreThread.html#gafd7ff215edf64b4611da7b7c1d4e3050" title="Acquires the lock context in a critical section." alt="" coords="224,5,395,47"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreThreadQueue.html#gaf1488e09cc925566233f2f1fc76c4d81" title="Acquires the thread queue control in a critical section." alt="" coords="443,5,644,47"/>
+</map>

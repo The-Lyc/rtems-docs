@@ -1,0 +1,19 @@
+<map id="pthread_setschedparam" name="pthread_setschedparam">
+<area shape="rect" id="node1" title=" " alt="" coords="5,231,184,258"/>
+<area shape="rect" id="node2" href="$group__POSIX__PTHREAD.html#ga95ae6f98dd2d639ec663abc60c0e04c5" title="Translate sched_param into SuperCore terms." alt="" coords="232,64,419,105"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreThread.html#gadc33b4b428dfc134ae1622441433b1a1" title="Gets a thread by its identifier." alt="" coords="273,173,377,199"/>
+<area shape="rect" id="node12" href="$group__RTEMSScoreThreadQueue.html#gab84f558bc470437d43ce863f8024534e" title="Clears the priority update count of the thread queue context." alt="" coords="236,224,415,265"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreThreadQueue.html#gae18ee06777084a67d286d743355d47ac" title="Initializes a thread queue context." alt="" coords="236,289,415,331"/>
+<area shape="rect" id="node17" href="$group__RTEMSScoreThread.html#ga31d2b044df5bb8998e4c935fededc17c" title="Acquires the thread wait lock inside a critical section (interrupts disabled)." alt="" coords="243,355,408,396"/>
+<area shape="rect" id="node3" href="$group__POSIX__PTHREAD.html#ga9e39e8f504e1f4df1f6cb8f63506453a" title="POSIX threads sporadic budget callout." alt="" coords="467,5,657,47"/>
+<area shape="rect" id="node4" href="$group__Timespec.html#ga1aa89ad35c5fdabdef548cd32cf8a40f" title="Converts timespec to number of ticks." alt="" coords="487,71,637,98"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreObject.html#gaba59419fd15c39c93eedbaba5788de05" title="Checks if two object IDs are equal." alt="" coords="474,122,650,149"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreObject.html#gaccc5682133e4f65b8cb374eab9be2c9d" title="Maps the specified object identifier to the associated local object control block." alt="" coords="508,173,616,199"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreThread.html#ga291d97d78d5460ffa5539964e417bb49" title="Gets object information for the object id." alt="" coords="483,224,641,265"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreObject.html#ga22cdf45f285840b7728b06197a7f4627" title="Returns the index portion of the ID." alt="" coords="711,158,862,185"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreObject.html#ga907a0412d7c657fa047641444090fe7b" title="Returns the API portion of the ID." alt="" coords="719,209,855,235"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreObject.html#ga8014a70deeb6819f7e2ca50efd13e1be" title="Checks if the api is valid." alt="" coords="705,259,868,286"/>
+<area shape="rect" id="node14" href="$group__RTEMSScoreChain.html#gab0fa19f01d37f1d510405e6382fd8b67" title="Initializes a chain node." alt="" coords="478,297,646,323"/>
+<area shape="rect" id="node16" href="$bootldr_8h.html#a36d20f7d597c517b964289f6b54ddfa7" title=" " alt="" coords="524,347,600,374"/>
+<area shape="rect" id="node15" href="$group__RTEMSScoreChain.html#gadf0e5d55d133694eed8043ec13fe1266" title="Sets off chain." alt="" coords="707,310,867,337"/>
+</map>

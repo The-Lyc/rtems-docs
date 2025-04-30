@@ -1,0 +1,13 @@
+<map id="pthread_cancel" name="pthread_cancel">
+<area shape="rect" id="node1" title=" " alt="" coords="5,64,127,91"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreISR.html#ga3b125bb9faac2fa94bd0ba0583cf5f77" title="Checks if an ISR in progress." alt="" coords="195,5,346,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreThread.html#ga5ffeb81480c63293a317f69efc74dec3" title="Disables thread dispatching inside a critical section (interrupts disabled)." alt="" coords="175,57,367,98"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreThread.html#gadc33b4b428dfc134ae1622441433b1a1" title="Gets a thread by its identifier." alt="" coords="219,135,323,161"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreThread.html#ga80a71da4ea096f7ea92781a872b955ae" title="Disables thread dispatching inside a critical section (interrupts disabled) with the current processo..." alt="" coords="415,43,607,85"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreObject.html#gaba59419fd15c39c93eedbaba5788de05" title="Checks if two object IDs are equal." alt="" coords="423,109,599,136"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreObject.html#gaccc5682133e4f65b8cb374eab9be2c9d" title="Maps the specified object identifier to the associated local object control block." alt="" coords="457,160,565,187"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreThread.html#ga291d97d78d5460ffa5539964e417bb49" title="Gets object information for the object id." alt="" coords="431,211,590,253"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreObject.html#ga22cdf45f285840b7728b06197a7f4627" title="Returns the index portion of the ID." alt="" coords="661,160,811,187"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreObject.html#ga907a0412d7c657fa047641444090fe7b" title="Returns the API portion of the ID." alt="" coords="668,215,804,241"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreObject.html#ga8014a70deeb6819f7e2ca50efd13e1be" title="Checks if the api is valid." alt="" coords="655,265,817,292"/>
+</map>

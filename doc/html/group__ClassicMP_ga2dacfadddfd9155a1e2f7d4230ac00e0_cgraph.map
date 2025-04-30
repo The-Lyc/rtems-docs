@@ -1,0 +1,5 @@
+<map id="rtems_multiprocessing_announce" name="rtems_multiprocessing_announce">
+<area shape="rect" id="node1" title="RTEMS Multiprocessing Announce." alt="" coords="5,5,176,47"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreMPCI.html#gaafbd7ed1ef4bd2b8672df8da832f79f4" title="Announces the availability of a packet." alt="" coords="224,13,357,39"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreSemaphore.html#ga77394f444e0a86af7eae34891fe96578" title="Surrenders a unit to the semaphore." alt="" coords="405,13,620,39"/>
+</map>

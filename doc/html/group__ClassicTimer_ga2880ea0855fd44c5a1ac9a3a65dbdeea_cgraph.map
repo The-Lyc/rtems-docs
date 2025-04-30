@@ -1,0 +1,6 @@
+<map id="rtems_timer_reset" name="rtems_timer_reset">
+<area shape="rect" id="node1" title="RTEMS Timer Reset." alt="" coords="5,5,148,32"/>
+<area shape="rect" id="node2" href="$group__ClassicTimerImpl.html#ga40195e79d37f84fa3d6b9ba166f6d384" title=" " alt="" coords="196,5,293,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreObject.html#gaccc5682133e4f65b8cb374eab9be2c9d" title="Maps the specified object identifier to the associated local object control block." alt="" coords="341,5,449,32"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreObject.html#ga22cdf45f285840b7728b06197a7f4627" title="Returns the index portion of the ID." alt="" coords="497,5,648,32"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="cpukit/include/rtems/bspcmdline.h" name="cpukit/include/rtems/bspcmdline.h">
+<area shape="rect" id="node1" title="BSP Command Line Handler." alt="" coords="351,5,505,47"/>
+<area shape="rect" id="node2" href="$bspcmdline__get_8c.html" title="Obtain Pointer to BSP Boot Command String." alt="" coords="5,95,197,136"/>
+<area shape="rect" id="node3" href="$bspcmdline__getparam_8c.html" title="Obtain COPY of the Entire Matching Argument." alt="" coords="221,95,413,136"/>
+<area shape="rect" id="node4" href="$bspcmdline__getparamraw_8c.html" title="Obtain Pointer to the Entire Matching Argument." alt="" coords="437,95,643,136"/>
+<area shape="rect" id="node5" href="$bspcmdline__getparamrhs_8c.html" title="Obtain COPY of the Right Hand Side of the Matching Argument." alt="" coords="667,95,869,136"/>
+</map>

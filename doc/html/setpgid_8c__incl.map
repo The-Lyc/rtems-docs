@@ -1,0 +1,6 @@
+<map id="cpukit/libcsupport/src/setpgid.c" name="cpukit/libcsupport/src/setpgid.c">
+<area shape="rect" id="node1" title="Set Process Group ID for Job Control." alt="" coords="48,5,187,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,95,80,121"/>
+<area shape="rect" id="node3" href="$errno_8h.html" title=" " alt="" coords="130,169,198,196"/>
+<area shape="rect" id="node4" href="$seterr_8h.html" title="Data which Ease the Burden of Consistently Setting Errno." alt="" coords="155,95,269,121"/>
+</map>

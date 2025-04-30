@@ -1,0 +1,33 @@
+<map id="cpukit/include/rtems/score/scheduleredf.h" name="cpukit/include/rtems/score/scheduleredf.h">
+<area shape="rect" id="node1" title="Data Related to the Manipulation of Threads for the EDF Scheduler." alt="" coords="4351,5,4511,47"/>
+<area shape="rect" id="node2" href="$schedulercbs_8h.html" title="Thread manipulation for the CBS scheduler." alt="" coords="4350,95,4512,136"/>
+<area shape="rect" id="node21" href="$scheduleredfimpl_8h.html" title="EDF Scheduler Implementation." alt="" coords="1403,95,1592,136"/>
+<area shape="rect" id="node30" href="$scheduleredfsmp_8h.html" title="EDF SMP Scheduler API." alt="" coords="5378,95,5567,136"/>
+<area shape="rect" id="node3" href="$cbs_8h.html" title="Constants and Structures Associated with the CBS library in RTEMS." alt="" coords="4479,184,4634,225"/>
+<area shape="rect" id="node4" href="$qreslib_8h.html" title="Constants and Structures Associated with the QoS RES library in RTEMS." alt="" coords="4658,184,4812,225"/>
+<area shape="rect" id="node5" href="$schedulercbsimpl_8h.html" title="CBS Scheduler Implementation." alt="" coords="4837,184,5028,225"/>
+<area shape="rect" id="node12" href="$schedulercbscleanup_8c.html" title="Scheduler CBS Cleanup." alt="" coords="5052,191,5327,218"/>
+<area shape="rect" id="node13" href="$schedulercbscreateserver_8c.html" title="Scheduler CBS Create Server." alt="" coords="2738,191,3044,218"/>
+<area shape="rect" id="node14" href="$schedulercbsdestroyserver_8c.html" title="Scheduler CBS Destroy Server." alt="" coords="5352,191,5665,218"/>
+<area shape="rect" id="node15" href="$schedulercbsgetapprovedbudget_8c.html" title="Scheduler CBS Get Approved Budget." alt="" coords="5689,191,6040,218"/>
+<area shape="rect" id="node16" href="$schedulercbsgetexecutiontime_8c.html" title="Get Thread Execution Info." alt="" coords="3068,191,3407,218"/>
+<area shape="rect" id="node17" href="$schedulercbsgetparameters_8c.html" title="_Scheduler_CBS_Get_parameters" alt="" coords="3431,191,3751,218"/>
+<area shape="rect" id="node18" href="$schedulercbsgetremainingbudget_8c.html" title="Scheduler CBS Get Remaining Budget." alt="" coords="3776,191,4132,218"/>
+<area shape="rect" id="node19" href="$schedulercbsgetserverid_8c.html" title="Scheduler CBS Get Server id." alt="" coords="4156,191,4455,218"/>
+<area shape="rect" id="node20" href="$schedulercbssetparameters_8c.html" title="Set Parameters for CBS Scheduling." alt="" coords="2396,191,2714,218"/>
+<area shape="rect" id="node6" href="$schedulercbs_8c.html" title="CBS Scheduler Budget Handler." alt="" coords="4820,273,5044,300"/>
+<area shape="rect" id="node7" href="$schedulercbsattachthread_8c.html" title="Attach Scheduler CBS Thread." alt="" coords="5068,273,5375,300"/>
+<area shape="rect" id="node8" href="$schedulercbsdetachthread_8c.html" title="Detach from the CBS Server." alt="" coords="5400,273,5710,300"/>
+<area shape="rect" id="node9" href="$schedulercbsnodeinit_8c.html" title=" " alt="" coords="4202,273,4479,300"/>
+<area shape="rect" id="node10" href="$schedulercbsreleasejob_8c.html" title="Scheduler CBS Release Job." alt="" coords="4504,273,4796,300"/>
+<area shape="rect" id="node11" href="$schedulercbsunblock_8c.html" title="Unblocks a Thread from the Queue." alt="" coords="1879,273,2154,300"/>
+<area shape="rect" id="node22" href="$scheduleredf_8c.html" title="Scheduler EDF Initialize and Support." alt="" coords="28,191,250,218"/>
+<area shape="rect" id="node23" href="$scheduleredfblock_8c.html" title="Removes the Thread from Ready Queue." alt="" coords="274,191,532,218"/>
+<area shape="rect" id="node24" href="$scheduleredfchangepriority_8c.html" title="Scheduler EDF Extract." alt="" coords="556,191,871,218"/>
+<area shape="rect" id="node25" href="$scheduleredfnodeinit_8c.html" title="Scheduler EDF Allocate." alt="" coords="896,191,1172,218"/>
+<area shape="rect" id="node26" href="$scheduleredfreleasejob_8c.html" title="Scheduler EDF Release Job." alt="" coords="1196,191,1487,218"/>
+<area shape="rect" id="node27" href="$scheduleredfschedule_8c.html" title="Scheduler EDF Allocate." alt="" coords="1512,191,1793,218"/>
+<area shape="rect" id="node28" href="$scheduleredfunblock_8c.html" title="Scheduler EDF Unblock." alt="" coords="1818,191,2092,218"/>
+<area shape="rect" id="node29" href="$scheduleredfyield_8c.html" title="Scheduler EDF Yield." alt="" coords="2117,191,2372,218"/>
+<area shape="rect" id="node31" href="$scheduleredfsmp_8c.html" title="EDF SMP Scheduler Implementation." alt="" coords="6064,191,6315,218"/>
+</map>

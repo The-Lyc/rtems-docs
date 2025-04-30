@@ -1,0 +1,17 @@
+<map id="bsps/powerpc/mpc55xxevb/clock" name="bsps/powerpc/mpc55xxevb/clock">
+<area shape="rect" id="node1" href="dir_617ba827e93a4cc021b4ede0a86282e3.html" title="clock" alt="" coords="115,52,187,100"/>
+<area shape="rect" id="node2" href="dir_13eb65b96d2444d83cfabd7366bb2d22.html" title="include" alt="" coords="5,148,77,196"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000876_000192.html" title="1" alt="" coords="83,135,92,150"/>
+<area shape="rect" id="node3" href="dir_5d1ab919b2bc2a88d122acf1f2df3693.html" title="include" alt="" coords="79,244,151,292"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000876_000468.html" title="1" alt="" coords="126,220,135,235"/>
+<area shape="rect" id="node4" href="dir_e653c55a041a793eeaa2fef7ea5f8258.html" title="shared" alt="" coords="152,148,224,196"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000876_000068.html" title="1" alt="" coords="175,121,185,135"/>
+<area shape="rect" id="node5" href="dir_cd198e36225ba3f41de97552050ac017.html" title="cpukit" alt="" coords="115,340,187,388"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000876_000080.html" title="1" alt="" coords="179,322,189,337"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000192_000468.html" title="1" alt="" coords="88,217,97,232"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000192_000080.html" title="11" alt="" coords="96,315,114,330"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000468_000080.html" title="58" alt="" coords="135,313,152,327"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000068_000468.html" title="314" alt="" coords="138,227,163,242"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000068_000080.html" title="387" alt="" coords="154,316,180,331"/>
+<area shape="rect" id="clust1" href="dir_d3c31449e78568d14e909eeab3cfad49.html" title="mpc55xxevb" alt="" coords="99,16,204,111"/>
+</map>

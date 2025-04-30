@@ -1,0 +1,12 @@
+<map id="cpukit/include/rtems/score/timestampimpl.h" name="cpukit/include/rtems/score/timestampimpl.h">
+<area shape="rect" id="node1" title="Helpers for Manipulating Timestamps." alt="" coords="222,5,399,47"/>
+<area shape="rect" id="node2" href="$timestamp_8h.html" title="Helpers for Manipulating Timestamps." alt="" coords="69,95,256,121"/>
+<area shape="rect" id="node7" href="$basedefs_8h.html" title="Basic Definitions." alt="" coords="241,169,415,196"/>
+<area shape="rect" id="node10" title=" " alt="" coords="348,95,439,121"/>
+<area shape="rect" id="node3" href="$score_2timespec_8h.html" title="Contains Helpers for Manipulating Timespecs." alt="" coords="42,169,217,196"/>
+<area shape="rect" id="node4" title=" " alt="" coords="189,244,272,271"/>
+<area shape="rect" id="node5" title=" " alt="" coords="94,244,165,271"/>
+<area shape="rect" id="node6" title=" " alt="" coords="5,244,69,271"/>
+<area shape="rect" id="node8" title=" " alt="" coords="395,244,562,271"/>
+<area shape="rect" id="node9" title=" " alt="" coords="296,244,371,271"/>
+</map>

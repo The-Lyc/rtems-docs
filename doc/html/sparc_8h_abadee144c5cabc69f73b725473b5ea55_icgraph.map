@@ -1,0 +1,5 @@
+<map id="sparc_syscall_exit" name="sparc_syscall_exit">
+<area shape="rect" id="node1" title="SPARC exit through system call 1." alt="" coords="180,31,321,57"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreCPUi386.html#ga254ab76f1c02812babdb3d5028f59178" title=" " alt="" coords="5,5,132,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSBSPsSPARCERC32.html#ga9806dc4ebe8d5e4501ace29eb97a8c84" title=" " alt="" coords="11,56,127,83"/>
+</map>

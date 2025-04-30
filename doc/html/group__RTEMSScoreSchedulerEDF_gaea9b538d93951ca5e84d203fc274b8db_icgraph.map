@@ -1,0 +1,11 @@
+<map id="_Scheduler_EDF_Node_downcast" name="_Scheduler_EDF_Node_downcast">
+<area shape="rect" id="node1" title="Returns the scheduler EDF node for the scheduler node." alt="" coords="507,115,673,157"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreSchedulerEDF.html#ga0daebfc9b131bd097db9899942bb0926" title="Extracts the node from the context of the given scheduler." alt="" coords="240,5,459,32"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreSchedulerEDF.html#ga465fd54ce1c8c0633424db0933856c67" title="Initializes an EDF specific scheduler node of the_thread." alt="" coords="266,57,433,98"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreSchedulerEDF.html#ga1c6a885d1cbf890d31be7c539db7c12e" title="Performs an unblocking of the thread." alt="" coords="256,123,443,149"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreSchedulerEDF.html#gaf8da2ab5519218b6509eeecb90f4f1d7" title="Updates the priority of the scheduler node." alt="" coords="259,174,439,215"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreSchedulerEDF.html#ga1e56a56a016ef9317cae0090f846ceb6" title="Executes a thread yield for the thread." alt="" coords="267,240,432,267"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreSchedulerEDF.html#gac26bbc49f94fa506fd0bdea7c1f09066" title="Removes the blocking thread from the ready queue and schedules is only again if the thread is executi..." alt="" coords="14,5,183,32"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreSchedulerCBS.html#gabb8137112e3b30c70daa4dc3221093cb" title="Initializes a CBS specific scheduler node of the_thread." alt="" coords="15,57,182,98"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreSchedulerCBS.html#gae0d9c2720ee46efdfe87ebf87cd45cae" title="Unblocks a thread." alt="" coords="5,123,192,149"/>
+</map>

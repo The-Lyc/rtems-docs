@@ -1,0 +1,39 @@
+<map id="rtems_message_queue_create" name="rtems_message_queue_create">
+<area shape="rect" id="node1" title="RTEMS Create Message Queue." alt="" coords="5,275,179,317"/>
+<area shape="rect" id="node2" href="$group__ClassicAttributesImpl.html#gae96795baaff6c74b42a9dafd286b93f7" title="Clears the requested new_attributes in the attribute_set passed in." alt="" coords="259,5,394,32"/>
+<area shape="rect" id="node3" href="$group__ClassicAttributesImpl.html#ga54cc0d8f84115e7e29a83d3400398833" title="Checks if the priority attribute is enabled in the attribute_set." alt="" coords="244,56,409,83"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreMessageQueue.html#ga5358dca7fe0334940c9bfed58b4e520a" title="Initializes a message queue." alt="" coords="237,107,416,149"/>
+<area shape="rect" id="node5" href="$group__ClassicMessageQueueImpl.html#ga7fecd1a88eefb5ad554e06e265792d1f" title=" " alt="" coords="229,224,424,251"/>
+<area shape="rect" id="node18" href="$group__ClassicMessageQueueImpl.html#gabfd337c2b1bf986059d7bfea27b50a7d" title="Deallocates a message queue control block into the inactive chain of free message queue control block..." alt="" coords="242,173,411,200"/>
+<area shape="rect" id="node20" href="$msgmp_8h.html#a4985f5bb2bf91feb98d7755aa270535e" title="_Message_queue_MP_Send_process_packet" alt="" coords="227,275,427,317"/>
+<area shape="rect" id="node21" href="$group__RTEMSScoreObject.html#ga41a6751fdfbe5adc5f9cb5d12cc8a214" title="Unlocks the object allocator mutex." alt="" coords="255,341,398,382"/>
+<area shape="rect" id="node25" href="$group__RTEMSScoreObjectMP.html#gaee5f1bac6bea600e8f437c6cb0458f97" title="Allocates a global object control block and places it in the specified information table." alt="" coords="244,406,409,447"/>
+<area shape="rect" id="node32" href="$group__RTEMSScoreObjectMP.html#gaddafb4298b03f748102e804b89aaea15" title="Removes a global object from the specified information table." alt="" coords="253,472,401,499"/>
+<area shape="rect" id="node33" href="$group__RTEMSScoreObject.html#ga09c8a97720f6c6dd41849c5c4101e49d" title="Places the_object control pointer and object name in the Local Pointer and Local Name Tables,..." alt="" coords="267,559,386,585"/>
+<area shape="rect" id="node37" href="$group__ClassicTasks.html#ga18cea13f764d37604f3cf92183d2106b" title="Returns true if the name is valid, and false otherwise." alt="" coords="246,609,407,636"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreObject.html#ga3978b5150ea104a85bb28db0585ae000" title="Allocates an object." alt="" coords="500,224,639,251"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreObject.html#gaf72f90dc17914740829466f086c33668" title="Allocates an object without locking the allocator mutex." alt="" coords="712,171,935,197"/>
+<area shape="rect" id="node14" href="$group__RTEMSScoreAllocatorMutex.html#ga89aa77edce0d5557b1a7e9d9ef7999c8" title=" " alt="" coords="736,243,911,269"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreObject.html#ga67f9cdae9423a81e46626f0e2cb9f305" title="Checks if the allocator is the owner of the object allocator mutex." alt="" coords="1009,85,1152,126"/>
+<area shape="rect" id="node12" href="$group__RTEMSScoreSysState.html#ga1f0777590280f354ba1a73b0b4ed143e" title="Gets the current system state." alt="" coords="1007,201,1155,228"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreSysState.html#gaa34964b3212ea72baf5ec0064f5d28df" title="Checks if the state is up." alt="" coords="1001,151,1160,177"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreAllocatorMutex.html#ga8698c4f98051e1c097ed32e38fbf786f" title=" " alt="" coords="1250,85,1406,126"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreAPIMutex.html#ga0a01be1d7b28416e738a2b97ca3f611d" title="Checks if the specified API mutex is owned by the executing thread." alt="" coords="1477,92,1640,119"/>
+<area shape="rect" id="node11" href="$group__PerCPU.html#ga294cfaf3cf50de03f1d9821d68b9c1bd" title="Returns the thread control block of the executing thread." alt="" coords="1688,92,1863,119"/>
+<area shape="rect" id="node15" href="$group__RTEMSScoreAPIMutex.html#ga57829ca494f1d866219c499eadb0ffc9" title="Acquires the specified API mutex." alt="" coords="1013,252,1148,279"/>
+<area shape="rect" id="node16" href="$mutex_8c.html#a2960aef6016ac8937f24108f9cdeebd0" title=" " alt="" coords="1231,252,1425,279"/>
+<area shape="rect" id="node17" href="$group__RTEMSScoreThread.html#gad5aaea7af4482aebd880403fb9c238af" title="Set the thread to life protected." alt="" coords="1227,328,1429,355"/>
+<area shape="rect" id="node19" href="$group__RTEMSScoreObject.html#ga2215dcf7e3251e6f629b6a3a96fff44e" title="Frees an object." alt="" coords="767,105,880,132"/>
+<area shape="rect" id="node22" href="$group__RTEMSScoreAllocatorMutex.html#ga15d657c04537c2ad1841adc28b8dd747" title=" " alt="" coords="475,303,664,329"/>
+<area shape="rect" id="node23" href="$group__RTEMSScoreAPIMutex.html#ga64a430ae861d0ce7f63413e651fbe36d" title="Releases the specified API mutex." alt="" coords="748,303,899,329"/>
+<area shape="rect" id="node24" href="$mutex_8c.html#adecd7211e7a1a5035841212574f45b31" title=" " alt="" coords="983,303,1179,329"/>
+<area shape="rect" id="node26" href="$group__RTEMSScoreIntErr.html#ga092fa4be4bda2528754b494e901d3d2a" title="Terminates the system with an INTERNAL_ERROR_CORE fatal source and the specified core error code." alt="" coords="511,404,628,431"/>
+<area shape="rect" id="node28" href="$group__RTEMSScoreObjectMP.html#gaac123fca33d27617283f1d6ec4a4f1bd" title="This function allocates a Global Object control block." alt="" coords="487,455,652,497"/>
+<area shape="rect" id="node29" href="$group__RTEMSScoreObjectMP.html#ga56fbd183d677d4aa85be7b6ce66de13b" title="Checks if the global object is NULL or not." alt="" coords="492,521,647,562"/>
+<area shape="rect" id="node30" href="$group__RTEMSScoreObjectMP.html#gaa5c13d3459c22165867d079319392ee6" title="Place the specified global object in the specified information table." alt="" coords="496,353,643,380"/>
+<area shape="rect" id="node27" href="$group__RTEMSScoreIntErr.html#ga5102f2f0c5939020aa3b11d67afa84eb" title="Initiates system termination." alt="" coords="776,404,871,431"/>
+<area shape="rect" id="node31" href="$group__RTEMSScoreObject.html#ga2a5fbd3f068704dab10f651f6aa12d6d" title="Returns the node portion of the ID." alt="" coords="750,353,897,380"/>
+<area shape="rect" id="node34" href="$group__RTEMSScoreObject.html#ga22cdf45f285840b7728b06197a7f4627" title="Returns the index portion of the ID." alt="" coords="1005,623,1156,649"/>
+<area shape="rect" id="node35" href="$group__RTEMSScoreObject.html#ga9c697fd8a483c32420ccfff211ec3c14" title="Sets the pointer to the local_table object referenced by the index." alt="" coords="497,586,641,627"/>
+<area shape="rect" id="node36" href="$group__RTEMSScoreObject.html#gadf825a94fecd0945a4368e503e274bfd" title="Returns the maximum index of the specified object class." alt="" coords="732,586,915,627"/>
+</map>

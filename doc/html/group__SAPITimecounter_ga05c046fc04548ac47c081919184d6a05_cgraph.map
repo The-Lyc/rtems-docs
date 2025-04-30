@@ -1,0 +1,4 @@
+<map id="rtems_timecounter_tick" name="rtems_timecounter_tick">
+<area shape="rect" id="node1" title="Performs a timecounter tick." alt="" coords="5,5,183,32"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreTimecounter.html#ga1b761aa4add622802fcaad075607745c" title="Performs a timecounter tick." alt="" coords="231,5,376,32"/>
+</map>

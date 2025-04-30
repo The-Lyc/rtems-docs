@@ -1,0 +1,24 @@
+<map id="_Watchdog_Per_CPU_release_critical" name="_Watchdog_Per_CPU_release_critical">
+<area shape="rect" id="node1" title="Releases the per cpu watchdog lock in a critical section." alt="" coords="979,310,1189,351"/>
+<area shape="rect" id="node2" href="$posix_2timerimpl_8h.html#a4e9d5f902ee7d8b7a124d6d3d40a128b" title=" " alt="" coords="739,56,911,83"/>
+<area shape="rect" id="node5" href="$group__ClassicTimerImpl.html#ga9ea668bbebc7986833bffff61fb751c2" title=" " alt="" coords="761,208,888,235"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreWatchdog.html#gafe13ff2012b33245774dd1ccb09da175" title="Sets the watchdog&#39;s cpu and inserts it with the given expiration time in the scheduled watchdogs." alt="" coords="725,317,924,344"/>
+<area shape="rect" id="node15" href="$group__RTEMSScoreWatchdog.html#gae396749d9d59bd42fb6927ef35880661" title="Sets the watchdog&#39;s cpu to the given instance and sets its expiration time to the watchdog expiration..." alt="" coords="725,371,924,413"/>
+<area shape="rect" id="node18" href="$group__RTEMSScoreWatchdog.html#ga5634267a330e8974e3035399224cf029" title="Removes the watchdog from the cpu and the scheduled watchdogs." alt="" coords="719,441,931,468"/>
+<area shape="rect" id="node3" href="$psxtimerdelete_8c.html#ad114bb350d7d5d12cff3fd19bf533303" title=" " alt="" coords="511,5,617,32"/>
+<area shape="rect" id="node4" href="$timergettime_8c.html#a520e1913c35aa3352259dafa3259d140" title=" " alt="" coords="507,56,621,83"/>
+<area shape="rect" id="node6" href="$group__ClassicTimerImpl.html#ga88df13f9a367637321a0783369bec2cb" title=" " alt="" coords="515,107,613,133"/>
+<area shape="rect" id="node10" href="$group__ClassicTimer.html#ga746671597de779ad02b9ca72facc9e92" title="rtems_timer_cancel" alt="" coords="489,157,639,184"/>
+<area shape="rect" id="node11" href="$group__ClassicTimer.html#ga582cf1f171214dabcc2af8c5bd48898f" title="RTEMS Delete Timer." alt="" coords="489,208,639,235"/>
+<area shape="rect" id="node12" href="$group__ClassicTimer.html#gaadb7cf05626eefda2ed454719ae3b2cc" title="RTEMS Get Timer Information." alt="" coords="457,259,671,285"/>
+<area shape="rect" id="node7" href="$group__ClassicTimerImpl.html#gaa71b85670a35521a0f1267eabcbc3835" title=" " alt="" coords="249,107,383,133"/>
+<area shape="rect" id="node8" href="$group__ClassicTimer.html#gad9785a6bd78ab5a591a134d147b2bdd3" title="RTEMS Timer Fire After." alt="" coords="7,77,173,104"/>
+<area shape="rect" id="node9" href="$group__ClassicTimer.html#ga521234c97e4fbf2d2e759d78447b5a8f" title="RTEMS Timer Server Fire After." alt="" coords="15,129,165,170"/>
+<area shape="rect" id="node14" href="$group__RTEMSScoreThread.html#ga21916832cf16bf603f348041e2c04859" title="Inserts the cpu&#39;s watchdog realtime into the thread&#39;s timer." alt="" coords="483,310,645,351"/>
+<area shape="rect" id="node16" href="$group__RTEMSScoreThread.html#ga9f508c3f03d4d52fd2420746ce14fe03" title="Adds timeout ticks to the thread." alt="" coords="482,375,646,417"/>
+<area shape="rect" id="node17" href="$group__ClassicEventImpl.html#ga63d82e0e70a4acc2784bb7bc1bba01fb" title=" " alt="" coords="262,412,370,439"/>
+<area shape="rect" id="node19" href="$group__RTEMSScoreThread.html#ga8483d8009fe0047a5a48de4a5f6f2ad7" title="Remove the watchdog timer from the thread." alt="" coords="476,441,652,468"/>
+<area shape="rect" id="node20" href="$group__RTEMSScoreWatchdog.html#ga0d978ece12fb00ebea90c370fcd5c871" title="Removes the watchdog from the cpu and the scheduled watchdogs." alt="" coords="458,493,670,534"/>
+<area shape="rect" id="node21" href="$group__ClassicRateMonImpl.html#gab174ae30d1440637fecb41e22258f54f" title=" " alt="" coords="223,500,409,527"/>
+<area shape="rect" id="node22" href="$group__ClassicRateMon.html#ga4313840d58c7a2ccc4b1e6151e712bf7" title="RTEMS Rate Monotonic Cancel." alt="" coords="5,493,175,534"/>
+</map>

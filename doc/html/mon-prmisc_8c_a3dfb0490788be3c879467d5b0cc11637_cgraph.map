@@ -1,0 +1,16 @@
+<map id="rtems_monitor_dump_name" name="rtems_monitor_dump_name">
+<area shape="rect" id="node1" title=" " alt="" coords="5,117,212,144"/>
+<area shape="rect" id="node2" href="$group__ClassicClassInfo.html#ga85242d8af75f936826239cf37493fe0b" title="Obtain Object Name as String." alt="" coords="260,117,439,144"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreObject.html#gabd551c27404cc5db7e78b6ad24a5dda9" title="Gets object name in the form of a C string." alt="" coords="487,110,661,151"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreObject.html#gaccc5682133e4f65b8cb374eab9be2c9d" title="Maps the specified object identifier to the associated local object control block." alt="" coords="1244,5,1352,32"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreObject.html#ga73bb4fe5d6c1200fba89863b6d5fe6db" title="Gets information of an object from an ID." alt="" coords="709,67,920,93"/>
+<area shape="rect" id="node12" href="$group__RTEMSScoreObject.html#ga0a217bcdc113857e4f370aea14dbe025" title="Returns if the object has a string name." alt="" coords="715,117,914,144"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreObject.html#ga0c16ba5de651203f0eb5ce0d51ed8a7e" title="Converts the specified object name to a text representation." alt="" coords="721,168,909,195"/>
+<area shape="rect" id="node14" href="$group__PerCPU.html#ga294cfaf3cf50de03f1d9821d68b9c1bd" title="Returns the thread control block of the executing thread." alt="" coords="727,219,902,245"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreObject.html#ga22cdf45f285840b7728b06197a7f4627" title="Returns the index portion of the ID." alt="" coords="1437,81,1588,108"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreObject.html#ga907a0412d7c657fa047641444090fe7b" title="Returns the API portion of the ID." alt="" coords="995,41,1131,68"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreObject.html#ga450c379424f26235d60f702638d229fa" title="Returns the class portion of the ID." alt="" coords="989,92,1137,119"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreObject.html#gaf45a5862e6e8eab0823ef39dfd1e9403" title="Gets object information." alt="" coords="968,143,1159,169"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreObject.html#ga160a712acafe6e9c4a8b9ea6dcc2597b" title="Returns highest numeric value of a valid API for the specified API." alt="" coords="1208,70,1388,111"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreObject.html#gadf825a94fecd0945a4368e503e274bfd" title="Returns the maximum index of the specified object class." alt="" coords="1207,135,1389,177"/>
+</map>

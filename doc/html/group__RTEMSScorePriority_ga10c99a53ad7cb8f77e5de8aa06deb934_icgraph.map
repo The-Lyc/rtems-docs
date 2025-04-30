@@ -1,0 +1,8 @@
+<map id="_Priority_Node_initialize" name="_Priority_Node_initialize">
+<area shape="rect" id="node1" title="Initializes the priority node to the given priority." alt="" coords="393,71,573,98"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreMutex.html#gace1e18f3458f6bd2b21d66efdb26b417" title="initializes a ceiling mutex." alt="" coords="178,5,342,47"/>
+<area shape="rect" id="node3" href="$group__RTEMSScorePriority.html#gac0c058cfd317fde243a7645b7a64b41c" title="Initializes the priority aggregation with the given information." alt="" coords="175,71,345,98"/>
+<area shape="rect" id="node6" href="$group__ClassicRateMon.html#gab599ee7e8f65f1d1461a3a5e198491eb" title="Create a Period." alt="" coords="175,123,345,164"/>
+<area shape="rect" id="node4" href="$group__RTEMSScorePriority.html#gad7a0e6788cb685ddd6dc8b884f4b797a" title=" " alt="" coords="6,46,126,73"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreScheduler.html#gafdf8dfa2c90ca2122b995bb6dd42fcda" title="Sets a new scheduler." alt="" coords="5,97,127,123"/>
+</map>

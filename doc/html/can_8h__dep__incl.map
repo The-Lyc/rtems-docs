@@ -1,0 +1,5 @@
+<map id="bsps/arm/lpc176x/include/bsp/can.h" name="bsps/arm/lpc176x/include/bsp/can.h">
+<area shape="rect" id="node1" title="CAN controller for the mbed lpc1768 board." alt="" coords="5,5,193,47"/>
+<area shape="rect" id="node2" href="$can_8c.html" title="CAN controller for the mbed lpc1768 board." alt="" coords="17,184,181,225"/>
+<area shape="rect" id="node3" href="$can-defs_8h.html" title="CAN controller for the lpc176x controller." alt="" coords="72,95,260,136"/>
+</map>

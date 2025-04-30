@@ -1,0 +1,10 @@
+<map id="cpuid" name="cpuid">
+<area shape="rect" id="node1" title=" " alt="" coords="633,56,691,83"/>
+<area shape="rect" id="node2" href="$bsps_2x86__64_2include_2libcpu_2page_8h.html#abd976c7f009ab9d32bc5b5f426f4097f" title=" " alt="" coords="407,5,545,32"/>
+<area shape="rect" id="node5" href="$bsps_2x86__64_2amd64_2include_2clock_8h.html#a2cde2d3228bf1d928d1a95ef3d29d62c" title=" " alt="" coords="409,107,543,133"/>
+<area shape="rect" id="node8" href="$bsps_2x86__64_2include_2libcpu_2page_8h.html#a1a26643efd72a56c406152ae06594511" title=" " alt="" coords="367,56,585,83"/>
+<area shape="rect" id="node3" href="$bsps_2x86__64_2include_2libcpu_2page_8h.html#a0652f9c27490845217db5f3400a0f12c" title=" " alt="" coords="215,27,310,53"/>
+<area shape="rect" id="node4" href="$group__RTEMSBSPsSharedStartup.html#ga424dcf8c1e22bf623eb1210a0aa2a3e9" title=" " alt="" coords="41,27,123,53"/>
+<area shape="rect" id="node6" href="$bsps_2x86__64_2amd64_2include_2clock_8h.html#abf0afda694ebc96f87ee2c0623f60f87" title=" " alt="" coords="207,107,319,133"/>
+<area shape="rect" id="node7" href="$bsps_2x86__64_2amd64_2include_2clock_8h.html#a2ce3dbcd9abad894735efa572bd10dcd" title=" " alt="" coords="5,99,159,141"/>
+</map>

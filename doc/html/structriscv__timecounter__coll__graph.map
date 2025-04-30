@@ -1,0 +1,6 @@
+<map id="riscv_timecounter" name="riscv_timecounter">
+<area shape="rect" id="node1" title=" " alt="" coords="97,199,236,225"/>
+<area shape="rect" id="node2" href="$structtimecounter.html" title=" " alt="" coords="5,109,107,136"/>
+<area shape="rect" id="node3" href="$structRISCV__CLINT__regs.html" title=" " alt="" coords="208,109,349,136"/>
+<area shape="rect" id="node4" href="$unionRISCV__CLINT__timer__reg.html" title=" " alt="" coords="191,5,367,32"/>
+</map>

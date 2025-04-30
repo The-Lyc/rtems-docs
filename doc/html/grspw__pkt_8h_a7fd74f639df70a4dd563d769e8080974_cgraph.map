@@ -1,0 +1,6 @@
+<map id="grspw_dma_close" name="grspw_dma_close">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,144,83"/>
+<area shape="rect" id="node2" href="$group__ClassicSem.html#gabf9631b7132ab4142eff47a1502652a2" title="RTEMS Delete Semaphore." alt="" coords="195,5,383,32"/>
+<area shape="rect" id="node3" href="$group__ClassicSem.html#gae8c1795a85f982ceea89e7faf7d68e91" title="RTEMS Obtain Semaphore." alt="" coords="195,56,383,83"/>
+<area shape="rect" id="node4" href="$group__ClassicSem.html#gae493f08a92f963ecddc7889181808402" title="RTEMS Semaphore Release." alt="" coords="192,107,387,133"/>
+</map>

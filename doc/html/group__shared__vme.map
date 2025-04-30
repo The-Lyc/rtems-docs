@@ -1,0 +1,4 @@
+<map id="VME related declarations" name="VME related declarations">
+<area shape="rect" id="node1" title="BSP&#45;specific configuration routine; sets up VME windows and installs the VME interrupt manager." alt="" coords="225,5,411,31"/>
+<area shape="rect" id="node2" href="$group__shared__vmeuniverse.html" title="VME Universe Modules." alt="" coords="5,5,177,31"/>
+</map>

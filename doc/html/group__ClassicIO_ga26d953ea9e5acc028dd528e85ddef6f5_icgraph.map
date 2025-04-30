@@ -1,0 +1,5 @@
+<map id="rtems_io_register_name" name="rtems_io_register_name">
+<area shape="rect" id="node1" title="Registers the name device_name in the file system for the device with number tuple major and minor." alt="" coords="225,31,405,57"/>
+<area shape="rect" id="node2" href="$devzero_8c.html#ae1e0de2791bffbebff692ea028591245" title=" " alt="" coords="19,5,163,32"/>
+<area shape="rect" id="node3" href="$group__libmisc__serialmouse.html#gab65973e690c31999099201a59b7f3503" title="The initialization of the serial mouse driver." alt="" coords="5,56,177,83"/>
+</map>

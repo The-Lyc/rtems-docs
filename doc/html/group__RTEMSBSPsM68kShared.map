@@ -1,0 +1,7 @@
+<map id="Shared" name="Shared">
+<area shape="rect" id="node1" href="$group__RTEMSBSPsM68k.html" title="Motorola 68000 and NXP ColdFire Board Support Packages." alt="" coords="5,47,167,87"/>
+<area shape="rect" id="node2" title="Shared Support for Motorola 68000 and NXP ColdFire Board Support Packages." alt="" coords="215,55,281,80"/>
+<area shape="rect" id="node3" href="$group__m68k__mvme.html" title="IO Support Package." alt="" coords="329,5,489,31"/>
+<area shape="rect" id="node4" href="$group__RTEMSBSPsM68kSharedLinker.html" title="Linker support." alt="" coords="352,55,467,80"/>
+<area shape="rect" id="node5" href="$group__m68k__gdbstub.html" title="GDB Stub interface support." alt="" coords="367,104,451,129"/>
+</map>

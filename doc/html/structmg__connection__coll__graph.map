@@ -1,0 +1,9 @@
+<map id="mg_connection" name="mg_connection">
+<area shape="rect" id="node1" title=" " alt="" coords="233,317,355,344"/>
+<area shape="rect" id="node2" href="$structsocket.html" title=" " alt="" coords="199,117,263,143"/>
+<area shape="rect" id="node4" href="$structmg__context.html" title=" " alt="" coords="107,228,206,255"/>
+<area shape="rect" id="node3" href="$unionusa.html" title=" " alt="" coords="209,5,254,32"/>
+<area shape="rect" id="node5" href="$structmg__callbacks.html" title=" " alt="" coords="5,117,116,143"/>
+<area shape="rect" id="node6" href="$structmg__request__info.html" title=" " alt="" coords="359,228,490,255"/>
+<area shape="rect" id="node7" href="$structmg__request__info_1_1mg__header.html" title=" " alt="" coords="345,109,505,151"/>
+</map>

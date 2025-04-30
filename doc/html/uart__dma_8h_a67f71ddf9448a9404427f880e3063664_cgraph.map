@@ -1,0 +1,6 @@
+<map id="UARTD_EnableRxChannels" name="UARTD_EnableRxChannels">
+<area shape="rect" id="node1" title="This function initialize the appropriate DMA channel for Rx channel of UART." alt="" coords="5,56,200,83"/>
+<area shape="rect" id="node2" href="$arm_2atsam_2contrib_2libraries_2libchip_2source_2uart_8c.html#ab9b2807951dac51cbe4faeb7fd762222" title="Enables or disables the receiver of an UART peripheral." alt="" coords="248,5,443,32"/>
+<area shape="rect" id="node3" href="$group__dmad__functions.html#gaafb596e6912f388050a8ff98f54b8b8f" title="Allocate a XDMA channel for upper layer." alt="" coords="253,56,438,83"/>
+<area shape="rect" id="node4" href="$group__dmad__functions.html#gaa0af49f87c84aaa20bee1f055d31ad2d" title="Set the callback function for xDMA channel transfer." alt="" coords="267,107,423,133"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Fifo_Full_benchmark_timer_initialize" name="Fifo_Full_benchmark_timer_initialize">
+<area shape="rect" id="node1" title=" " alt="" coords="5,64,161,105"/>
+<area shape="rect" id="node2" href="$m68k_2gen68340_2console_2console_8c.html#a4bbf1ce2400a956a026d03d64eee93ca" title=" " alt="" coords="227,46,357,73"/>
+<area shape="rect" id="node6" href="$mips-stub_8c.html#a5241381a1f451f68a42c2304f022b59c" title=" " alt="" coords="209,97,375,123"/>
+<area shape="rect" id="node3" href="$group__Termios.html#ga578fc70ca70d5cf49aebd7b75328e577" title=" " alt="" coords="423,39,603,80"/>
+<area shape="rect" id="node4" href="$termiostypes_8h.html#a1ebc146d0aeeb60c14d75e16f902aae0" title="Acquires the device lock." alt="" coords="651,5,817,47"/>
+<area shape="rect" id="node5" href="$termiostypes_8h.html#a0d928bfa5fb62de3c9e66caa5a07dfc9" title="Releases the device lock." alt="" coords="651,71,817,112"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="rtems_termios_set_initial_baud" name="rtems_termios_set_initial_baud">
+<area shape="rect" id="node1" title="Sets the initial baud in the Termios context tty." alt="" coords="5,13,232,39"/>
+<area shape="rect" id="node2" href="$termiostypes_8h.html#a98a3cf31930fd6a41f9bb8a9ca33cba8" title="Converts the Integral Baud value baud to the Termios Control Flag Representation." alt="" coords="280,5,455,47"/>
+<area shape="rect" id="node3" href="$group__RTEMSAPIAssociativity.html#ga6ffe22a2b5a00c33ee1f835bb4dca259" title=" " alt="" coords="503,5,661,47"/>
+<area shape="rect" id="node4" href="$group__RTEMSAPIAssociativity.html#gae6d128f254090af571dd199a34799b7d" title="RTEMS Associate Pointer by Local." alt="" coords="709,5,861,47"/>
+</map>

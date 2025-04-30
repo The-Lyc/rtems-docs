@@ -1,0 +1,10 @@
+<map id="rtems_monitor_mpci_next" name="rtems_monitor_mpci_next">
+<area shape="rect" id="node1" title=" " alt="" coords="5,60,199,87"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreObject.html#ga3059733162454cc71ff73288ba9b4dfd" title="Locks the object allocator mutex." alt="" coords="247,31,424,57"/>
+<area shape="rect" id="node7" href="$rtemsobjectidgetindex_8c.html#a143f3128b50b22e76fcb38b66b28e0e9" title=" " alt="" coords="258,82,413,123"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreAllocatorMutex.html#ga89aa77edce0d5557b1a7e9d9ef7999c8" title=" " alt="" coords="472,31,647,57"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreAPIMutex.html#ga57829ca494f1d866219c499eadb0ffc9" title="Acquires the specified API mutex." alt="" coords="695,31,829,57"/>
+<area shape="rect" id="node5" href="$mutex_8c.html#a2960aef6016ac8937f24108f9cdeebd0" title=" " alt="" coords="882,5,1075,32"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreThread.html#gad5aaea7af4482aebd880403fb9c238af" title="Set the thread to life protected." alt="" coords="877,56,1080,83"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreObject.html#ga22cdf45f285840b7728b06197a7f4627" title="Returns the index portion of the ID." alt="" coords="484,89,635,116"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="rtems_timespec_less_than" name="rtems_timespec_less_than">
+<area shape="rect" id="node1" title="Timespec less than operator." alt="" coords="5,5,201,32"/>
+<area shape="rect" id="node2" href="$group__Timespec.html#ga16c13224570044fc45d39c342bf3aaa3" title="Checks if the left hand side timespec is less than the right one." alt="" coords="249,5,413,32"/>
+</map>

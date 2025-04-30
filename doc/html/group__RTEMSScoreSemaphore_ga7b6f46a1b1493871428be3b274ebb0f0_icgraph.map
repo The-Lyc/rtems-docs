@@ -1,0 +1,4 @@
+<map id="_CORE_semaphore_Seize" name="_CORE_semaphore_Seize">
+<area shape="rect" id="node1" title="Seizes the semaphore." alt="" coords="223,5,409,32"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreMPCI.html#gaf232dadc9160e4b1c733906d3a6d1f57" title="Receives and processes all packets." alt="" coords="5,5,175,32"/>
+</map>

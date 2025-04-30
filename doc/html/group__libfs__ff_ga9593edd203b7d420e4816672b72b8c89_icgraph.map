@@ -1,0 +1,7 @@
+<map id="fat_file_close" name="fat_file_close">
+<area shape="rect" id="node1" title=" " alt="" coords="225,89,333,116"/>
+<area shape="rect" id="node2" href="$group__libfs__msdos.html#gaf96123d0753959b8074a6f794fc4f398" title=" " alt="" coords="21,5,161,32"/>
+<area shape="rect" id="node3" href="$group__libfs__msdos.html#gac3300c45043a2ca7b0ddac74eadf7606" title="Call the Fat&#45;File close routine." alt="" coords="7,56,176,83"/>
+<area shape="rect" id="node4" href="$group__libfs__msdos.html#ga78e4da8e660c1055805ddc0b8349520f" title=" " alt="" coords="5,107,177,163"/>
+<area shape="rect" id="node5" href="$group__libfs__msdos.html#gada4176631aabceb7071617611720a04a" title="Shut down the MSDOS filesystem." alt="" coords="20,187,163,213"/>
+</map>

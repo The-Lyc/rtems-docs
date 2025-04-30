@@ -1,0 +1,4 @@
+<map id="rtems_rbtree_root" name="rtems_rbtree_root">
+<area shape="rect" id="node1" title="Return pointer to RBTree root." alt="" coords="5,5,144,32"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreRBTree.html#ga29242f056330aaabc12dcfcaa6f10a05" title="Returns a pointer to root node of the red&#45;black tree." alt="" coords="192,5,303,32"/>
+</map>

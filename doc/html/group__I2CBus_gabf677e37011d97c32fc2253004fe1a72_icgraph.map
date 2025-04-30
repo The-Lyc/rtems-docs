@@ -1,0 +1,4 @@
+<map id="i2c_bus_release" name="i2c_bus_release">
+<area shape="rect" id="node1" title="Releases the bus." alt="" coords="183,5,309,32"/>
+<area shape="rect" id="node2" href="$group__I2CBus.html#ga0b55fa0b52b40128fdc2d5fbcfe317dc" title="Transfers I2C messages." alt="" coords="5,5,135,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="tms570_trim_lpo_init" name="tms570_trim_lpo_init">
+<area shape="rect" id="node1" title="Adjust Low&#45;Frequency (LPO) oscilator (HCG:trimLPO)" alt="" coords="417,5,577,32"/>
+<area shape="rect" id="node2" href="$init__system_8c.html#adfc60d117ea095a205722a96aeaf3b65" title="TMS570 system hardware initialization (HCG:systemInit)" alt="" coords="189,5,369,32"/>
+<area shape="rect" id="node3" href="$bspstarthooks-hwinit_8c.html#a21575f8c638d77f9365131e139ff1839" title=" " alt="" coords="5,5,141,32"/>
+</map>

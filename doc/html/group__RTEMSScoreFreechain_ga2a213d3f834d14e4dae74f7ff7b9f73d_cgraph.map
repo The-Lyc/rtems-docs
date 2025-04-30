@@ -1,0 +1,15 @@
+<map id="_Freechain_Get" name="_Freechain_Get">
+<area shape="rect" id="node1" title="Gets a node from the freechain." alt="" coords="5,68,128,95"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreChain.html#gac5bb79fd8e5b468790918a8e674a5d36" title="Gets the first node (unprotected)." alt="" coords="176,68,357,95"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreChain.html#ga67ffad0c14d402473760ec6bb8e93bcc" title="Checks if the chain is empty." alt="" coords="686,31,819,57"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreFreechain.html#ga6d2f5e4f088a9c17928f2fa925a1d4f6" title="Extend the freechain with new nodes." alt="" coords="195,144,339,171"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreChain.html#ga1b1dedf23d978ddd9b30b0d1feb6e093" title="Gets the first node (unprotected)." alt="" coords="405,107,619,133"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreChain.html#ga8b66d3138b9cdacbcb0600c42237ff7d" title="Returns pointer to chain head." alt="" coords="699,132,806,159"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreChain.html#gadf0e5d55d133694eed8043ec13fe1266" title="Sets off chain." alt="" coords="673,81,833,108"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreChain.html#ga8b2c850d4d09d8db80d11e3199bce386" title="Returns pointer to immutable chain&#39;s first node." alt="" coords="887,5,1063,32"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreChain.html#gaa2f09e6d639b1bc5a27451eb119b6e33" title="Returns pointer to immutable chain tail." alt="" coords="889,56,1061,83"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreChain.html#gac08944db6f0428125d3b0d5a1c65b740" title="Returns pointer to immutable chain head." alt="" coords="1111,5,1293,32"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreChain.html#ga59b0dbda01fc9f0675bef62722627764" title="Initializes a chain header." alt="" coords="447,183,577,209"/>
+<area shape="rect" id="node12" href="$group__RTEMSScoreAddress.html#gaa7812bb29c95ed68f2b958d833c79399" title="Adds offset to an address." alt="" coords="667,233,839,260"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreChain.html#ga06f3e2dd6d64411f0565e3b483e53673" title="Returns pointer to chain tail." alt="" coords="705,183,800,209"/>
+</map>

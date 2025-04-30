@@ -1,0 +1,13 @@
+<map id="bsps/sparc/leon3/start/spurious.c" name="bsps/sparc/leon3/start/spurious.c">
+<area shape="rect" id="node1" title=" " alt="" coords="149,5,314,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,95,63,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="87,95,226,121"/>
+<area shape="rect" id="node4" href="$bspIo_8h.html" title="Interface to Kernel Print Methods." alt="" coords="251,95,361,121"/>
+<area shape="rect" id="node11" href="$inttypes_8h.html" title="Provide printf() PRIxxx Constante Beyond Standards." alt="" coords="368,169,455,196"/>
+<area shape="rect" id="node5" href="$basedefs_8h.html" title="Basic Definitions." alt="" coords="69,169,244,196"/>
+<area shape="rect" id="node10" title=" " alt="" coords="269,169,343,196"/>
+<area shape="rect" id="node6" title=" " alt="" coords="323,244,489,271"/>
+<area shape="rect" id="node7" title=" " alt="" coords="17,244,91,271"/>
+<area shape="rect" id="node8" title=" " alt="" coords="115,244,198,271"/>
+<area shape="rect" id="node9" title=" " alt="" coords="223,244,293,271"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="_Scheduler_priority_Node_initialize" name="_Scheduler_priority_Node_initialize">
+<area shape="rect" id="node1" title="Initializes the node with the given priority." alt="" coords="5,104,152,145"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreScheduler.html#ga04a65b42652ef556df7f53940d4c1a11" title="Initializes a node." alt="" coords="206,5,363,47"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreSchedulerDPS.html#ga8a69246c562c36bec9bf7047be7d50ae" title="Gets the context of the scheduler." alt="" coords="211,71,358,112"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreSchedulerDPS.html#ga46493ec8bb581ce801bf2b20e5067cfd" title="Gets the priority node of the scheduler node." alt="" coords="211,136,358,177"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreSchedulerDPS.html#ga6acac442055201dbdda485d7b0021628" title="Updates the specified ready queue data according to the new priority value." alt="" coords="200,201,369,243"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreChain.html#gab0fa19f01d37f1d510405e6382fd8b67" title="Initializes a chain node." alt="" coords="433,13,601,39"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreChain.html#gadf0e5d55d133694eed8043ec13fe1266" title="Sets off chain." alt="" coords="664,13,824,39"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreScheduler.html#ga9c62ef5a388b998fa041a269297be1fe" title="Gets the context of the scheduler." alt="" coords="427,78,606,105"/>
+<area shape="rect" id="node9" href="$group__RTEMSScorePriority.html#gab11e5706b0623eda6bb5a0c7f85f3a50" title="Initializes the bit map information." alt="" coords="417,201,616,243"/>
+<area shape="rect" id="node10" href="$group__RTEMSScorePriority.html#ga7e9cb59c60f7231a454824509f3a1b6a" title="Returns the bit index position for the specified major or minor bit number." alt="" coords="669,133,819,159"/>
+<area shape="rect" id="node11" href="$group__RTEMSScorePriority.html#ga1e9fd447bd6120ec504a82d5e4f4dc24" title="Returns the major portion of the_priority." alt="" coords="684,183,804,210"/>
+<area shape="rect" id="node12" href="$group__RTEMSScorePriority.html#gadf554c1cf4e5a358ebb28e90e013ccb1" title="Returns the priority bit mask for the specified major or minor bit number." alt="" coords="685,234,803,261"/>
+<area shape="rect" id="node13" href="$group__RTEMSScorePriority.html#gaaf7dd3dde9aa776f2c16fee4c1e572ed" title="Returns the minor portion of the_priority." alt="" coords="684,285,804,311"/>
+</map>

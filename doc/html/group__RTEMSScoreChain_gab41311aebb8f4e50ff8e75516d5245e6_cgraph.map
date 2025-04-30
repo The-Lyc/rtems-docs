@@ -1,0 +1,7 @@
+<map id="_Chain_Iterator_registry_update" name="_Chain_Iterator_registry_update">
+<area shape="rect" id="node1" title="Updates all iterators present in the chain iterator registry in case of a node extraction." alt="" coords="5,74,184,115"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreChain.html#ga8b66d3138b9cdacbcb0600c42237ff7d" title="Returns pointer to chain head." alt="" coords="243,5,350,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreChain.html#ga9502cc5cb6c81ef2bce33698005e1752" title="Returns pointer to the next node from this node." alt="" coords="245,56,349,83"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreChain.html#ga78b26f26fab1b3831f449e7a94a51692" title="Returns pointer to the previous node from this node." alt="" coords="232,107,361,133"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreChain.html#ga06f3e2dd6d64411f0565e3b483e53673" title="Returns pointer to chain tail." alt="" coords="249,157,344,184"/>
+</map>

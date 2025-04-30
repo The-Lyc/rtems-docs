@@ -1,0 +1,6 @@
+<map id="EDB7312" name="EDB7312">
+<area shape="rect" id="node1" href="$group__edb7312__interrupt.html" title="Interrupt Support." alt="" coords="244,5,376,31"/>
+<area shape="rect" id="node2" title="EDB7312 Board Support Package." alt="" coords="105,31,187,56"/>
+<area shape="rect" id="node4" href="$group__edb7312__registers.html" title="Cirrus EP7312 Register Definitions." alt="" coords="235,55,385,80"/>
+<area shape="rect" id="node3" href="$group__RTEMSBSPsARM.html" title="ARM Board Support Packages." alt="" coords="5,31,57,56"/>
+</map>

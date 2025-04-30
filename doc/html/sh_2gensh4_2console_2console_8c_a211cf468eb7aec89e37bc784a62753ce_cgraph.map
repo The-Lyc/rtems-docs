@@ -1,0 +1,6 @@
+<map id="console_write" name="console_write">
+<area shape="rect" id="node1" title="Console write entry point." alt="" coords="5,56,117,83"/>
+<area shape="rect" id="node2" href="$sh4uart_8h.html#abcf5f27f9be99a4eb3427383f0ddbeb1" title=" " alt="" coords="165,5,332,32"/>
+<area shape="rect" id="node3" href="$group__Termios.html#gad7b53fb199631aacfe771ccd9c14e06f" title=" " alt="" coords="170,56,327,83"/>
+<area shape="rect" id="node4" href="$sh4uart_8c.html#a87b8924686dc56277844fcbdeb3f9328" title=" " alt="" coords="177,107,320,133"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="rtems_gpio_multi_select" name="rtems_gpio_multi_select">
+<area shape="rect" id="node1" title=" " alt="" coords="347,56,529,83"/>
+<area shape="rect" id="node2" href="$rpi-gpio_8h.html#adf19e397f4bfdb38d6d75a604e7373d1" title="Setups a I2C interface." alt="" coords="149,5,296,32"/>
+<area shape="rect" id="node4" href="$rpi-gpio_8h.html#ab31aee23a17b307e47076c1877f5736e" title="Setups a JTAG interface." alt="" coords="147,56,299,83"/>
+<area shape="rect" id="node5" href="$rpi-gpio_8h.html#a2546c0dc5eb7c840fe712e9ac748e6a9" title="Setups a SPI interface." alt="" coords="149,107,296,133"/>
+<area shape="rect" id="node3" href="$bsps_2arm_2raspberrypi_2include_2bsp_2i2c_8h.html#ad904ea27262283694b605280beaa9074" title="Setups the Raspberry Pi GPIO header to activate the BSC I2C bus." alt="" coords="5,5,99,32"/>
+<area shape="rect" id="node6" href="$arm_2raspberrypi_2spi_2spi_8c.html#abaa5b02fa144b553c3dd5241a4c712d9" title="Setups the Raspberry Pi SPI bus (located on the GPIO header) on the &quot;/dev/spi&quot; device file,..." alt="" coords="5,107,99,133"/>
+</map>

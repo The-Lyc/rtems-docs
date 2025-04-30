@@ -1,0 +1,8 @@
+<map id="_Heap_Protection_set_delayed_free_fraction" name="_Heap_Protection_set_delayed_free_fraction">
+<area shape="rect" id="node1" title="Sets the fraction of delayed free blocks that is actually freed during memory shortage." alt="" coords="421,39,592,80"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreHeap.html#gac5974c7ccf84c152ba6c8e17bea3ca5f" title="Initializes the heap control block." alt="" coords="247,71,373,98"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreWorkspace.html#gac10ac71b406698cb4441aff69a80c847" title="Initilizes the workspace handler." alt="" coords="23,5,181,47"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreProtHeap.html#ga0f09fcdd50fcb5de78cdb10c0cb3b7e5" title="Initializes the protected heap." alt="" coords="5,71,199,98"/>
+<area shape="rect" id="node5" href="$group__bsp__stack.html#ga5525bfd94b2a806da939383fe0c2fde1" title="Task stack allocator initialization for CONFIGURE_TASK_STACK_ALLOCATOR_INIT." alt="" coords="15,122,189,149"/>
+<area shape="rect" id="node6" href="$group__ClassicRegion.html#ga024758f91cbf73e06cbc4c85df83d1ca" title="rtems_region_create" alt="" coords="24,173,180,199"/>
+</map>

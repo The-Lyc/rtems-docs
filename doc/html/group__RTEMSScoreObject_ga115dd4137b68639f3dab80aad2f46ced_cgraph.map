@@ -1,0 +1,7 @@
+<map id="_Objects_Name_to_id_u32" name="_Objects_Name_to_id_u32">
+<area shape="rect" id="node1" title="Converts an object name to an Id." alt="" coords="5,71,200,98"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreObject.html#gadf825a94fecd0945a4368e503e274bfd" title="Returns the maximum index of the specified object class." alt="" coords="248,5,431,47"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreObject.html#ga808f79623f447af88d2f84f211fd9139" title="Checks if the node is of the local object." alt="" coords="253,71,426,98"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreObjectMP.html#ga9bca9a227f05b1c197c498b019fc9099" title="Looks for the object with the_name in the global object tables indicated by information." alt="" coords="262,123,417,164"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreObject.html#ga22cdf45f285840b7728b06197a7f4627" title="Returns the index portion of the ID." alt="" coords="479,13,629,39"/>
+</map>

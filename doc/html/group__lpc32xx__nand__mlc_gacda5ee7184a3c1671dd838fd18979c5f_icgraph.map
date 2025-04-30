@@ -1,0 +1,5 @@
+<map id="lpc32xx_mlc_pages_per_block" name="lpc32xx_mlc_pages_per_block">
+<area shape="rect" id="node1" title=" " alt="" coords="277,27,456,69"/>
+<area shape="rect" id="node2" href="$group__lpc32xx__nand__mlc.html#gab3b2378535527c368dd10f78a4eca68c" title="Erases the block with index block_index." alt="" coords="5,5,229,32"/>
+<area shape="rect" id="node3" href="$group__lpc32xx__nand__mlc.html#gad2e1dff4507a4ba350d817a1493cad5f" title="Checks if the block with index block_index is valid." alt="" coords="37,57,198,98"/>
+</map>

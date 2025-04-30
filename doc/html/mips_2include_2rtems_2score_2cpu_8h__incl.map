@@ -1,0 +1,10 @@
+<map id="cpukit/score/cpu/mips/include/rtems/score/cpu.h" name="cpukit/score/cpu/mips/include/rtems/score/cpu.h">
+<area shape="rect" id="node1" title="Mips CPU Dependent Header File." alt="" coords="332,5,525,47"/>
+<area shape="rect" id="node2" href="$basedefs_8h.html" title="Basic Definitions." alt="" coords="249,95,424,121"/>
+<area shape="rect" id="node7" href="$mips_8h.html" title="Information to build RTEMS for a &quot;no cpu&quot; while in protected mode." alt="" coords="474,95,621,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,169,172,196"/>
+<area shape="rect" id="node4" title=" " alt="" coords="197,169,271,196"/>
+<area shape="rect" id="node5" title=" " alt="" coords="295,169,378,196"/>
+<area shape="rect" id="node6" title=" " alt="" coords="403,169,473,196"/>
+<area shape="rect" id="node8" href="$idtcpu_8h.html" title="CPU Related Definitions." alt="" coords="498,169,650,196"/>
+</map>

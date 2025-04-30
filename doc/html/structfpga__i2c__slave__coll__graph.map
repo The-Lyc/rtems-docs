@@ -1,0 +1,5 @@
+<map id="fpga_i2c_slave" name="fpga_i2c_slave">
+<area shape="rect" id="node1" title=" " alt="" coords="5,184,124,211"/>
+<area shape="rect" id="node2" href="$structi2c__dev.html" title="I2C slave device control." alt="" coords="29,95,101,121"/>
+<area shape="rect" id="node3" href="$structi2c__bus.html" title="I2C bus control." alt="" coords="29,5,100,32"/>
+</map>

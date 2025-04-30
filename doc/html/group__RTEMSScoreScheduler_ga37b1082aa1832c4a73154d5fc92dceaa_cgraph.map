@@ -1,0 +1,13 @@
+<map id="_Scheduler_Yield" name="_Scheduler_Yield">
+<area shape="rect" id="node1" title="Scheduler yield with a particular thread." alt="" coords="5,107,137,134"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreScheduler.html#ga9e6cf07526560aa067d7bcb92a7aa964" title="Acquires the scheduler instance inside a critical section (interrupts disabled)." alt="" coords="219,5,369,47"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreScheduler.html#gae4d084e50d4f8a616f394312b66df32b" title="Releases the scheduler instance inside a critical section (interrupts disabled)." alt="" coords="218,71,370,112"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreThread.html#ga0071d4e11d2d68b2e4c43ffe2108e7f5" title="Gets the home scheduler of the thread." alt="" coords="185,137,403,163"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreThread.html#ga080a177afc4fc254a1081485cd89f75d" title="Gets the scheduler&#39;s home node." alt="" coords="207,188,381,229"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreScheduler.html#ga9c62ef5a388b998fa041a269297be1fe" title="Gets the context of the scheduler." alt="" coords="451,46,629,73"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreChain.html#ga89304b2d294b98f4909dcb6e68d7ec82" title="Returns pointer to chain&#39;s first node." alt="" coords="715,170,816,197"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreChain.html#ga67ffad0c14d402473760ec6bb8e93bcc" title="Checks if the chain is empty." alt="" coords="473,221,607,247"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreChain.html#gac08944db6f0428125d3b0d5a1c65b740" title="Returns pointer to immutable chain head." alt="" coords="901,195,1084,222"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreChain.html#ga8b2c850d4d09d8db80d11e3199bce386" title="Returns pointer to immutable chain&#39;s first node." alt="" coords="677,221,853,247"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreChain.html#gaa2f09e6d639b1bc5a27451eb119b6e33" title="Returns pointer to immutable chain tail." alt="" coords="679,271,851,298"/>
+</map>

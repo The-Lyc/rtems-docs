@@ -1,0 +1,5 @@
+<map id="_Objects_Set_local_object" name="_Objects_Set_local_object">
+<area shape="rect" id="node1" title="Sets the pointer to the local_table object referenced by the index." alt="" coords="5,5,149,47"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreObject.html#gadf825a94fecd0945a4368e503e274bfd" title="Returns the maximum index of the specified object class." alt="" coords="197,5,380,47"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreObject.html#ga22cdf45f285840b7728b06197a7f4627" title="Returns the index portion of the ID." alt="" coords="428,13,579,39"/>
+</map>

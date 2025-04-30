@@ -1,0 +1,8 @@
+<map id="rtems_nfs_initialize" name="rtems_nfs_initialize">
+<area shape="rect" id="node1" title=" " alt="" coords="5,38,156,65"/>
+<area shape="rect" id="node2" href="$nfs_8c.html#a8edad47b209a92732b9f0dff71c78d17" title=" " alt="" coords="217,13,280,39"/>
+<area shape="rect" id="node6" href="$rpcio_8c.html#a504f9b29d65792939b879804a4f0a2c8" title=" " alt="" coords="204,63,293,90"/>
+<area shape="rect" id="node3" href="$group__ClassicIO.html#gaa47cf2e1f0bc2a31f6c55f71dd12b8ea" title="Registers and initializes the device with the device driver table driver_table and major number major..." alt="" coords="341,13,523,39"/>
+<area shape="rect" id="node4" href="$intrbody_8c.html#a391281d20834a3e12f0448d69d9a993e" title=" " alt="" coords="571,5,712,47"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreISR.html#ga3b125bb9faac2fa94bd0ba0583cf5f77" title="Checks if an ISR in progress." alt="" coords="760,13,911,39"/>
+</map>

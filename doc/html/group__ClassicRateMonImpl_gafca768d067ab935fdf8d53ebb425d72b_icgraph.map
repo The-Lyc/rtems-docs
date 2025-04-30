@@ -1,0 +1,7 @@
+<map id="_Rate_monotonic_Get" name="_Rate_monotonic_Get">
+<area shape="rect" id="node1" title=" " alt="" coords="440,78,605,105"/>
+<area shape="rect" id="node2" href="$group__ClassicRateMon.html#ga4313840d58c7a2ccc4b1e6151e712bf7" title="RTEMS Rate Monotonic Cancel." alt="" coords="223,5,392,47"/>
+<area shape="rect" id="node3" href="$group__ClassicRateMon.html#ga56f6fb057c562aaf77959bbb3b9d0762" title="RTEMS Rate Monotonic Get Statistics." alt="" coords="223,71,392,112"/>
+<area shape="rect" id="node4" href="$group__ClassicRateMon.html#gafc3dfca5d5f9edc1d931da6d7c309386" title="RTEMS Rate Monotonic Reset Statistics." alt="" coords="223,136,392,177"/>
+<area shape="rect" id="node5" href="$group__ClassicRateMon.html#gacd99140676caf91d1fd3c6fd95e6a9c8" title="rtems_rate_monotonic_reset_all_statistics" alt="" coords="5,136,175,177"/>
+</map>

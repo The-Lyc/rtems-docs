@@ -1,0 +1,10 @@
+<map id="_Objects_Get_by_name" name="_Objects_Get_by_name">
+<area shape="rect" id="node1" title="Gets an object control block identified by its name." alt="" coords="5,78,180,105"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreObject.html#ga67f9cdae9423a81e46626f0e2cb9f305" title="Checks if the allocator is the owner of the object allocator mutex." alt="" coords="256,5,399,47"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreObject.html#gadf825a94fecd0945a4368e503e274bfd" title="Returns the maximum index of the specified object class." alt="" coords="236,71,419,112"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreObject.html#ga0a217bcdc113857e4f370aea14dbe025" title="Returns if the object has a string name." alt="" coords="228,137,427,163"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreAllocatorMutex.html#ga8698c4f98051e1c097ed32e38fbf786f" title=" " alt="" coords="475,5,631,47"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreAPIMutex.html#ga0a01be1d7b28416e738a2b97ca3f611d" title="Checks if the specified API mutex is owned by the executing thread." alt="" coords="679,13,841,39"/>
+<area shape="rect" id="node5" href="$group__PerCPU.html#ga294cfaf3cf50de03f1d9821d68b9c1bd" title="Returns the thread control block of the executing thread." alt="" coords="889,13,1064,39"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreObject.html#ga22cdf45f285840b7728b06197a7f4627" title="Returns the index portion of the ID." alt="" coords="477,78,628,105"/>
+</map>

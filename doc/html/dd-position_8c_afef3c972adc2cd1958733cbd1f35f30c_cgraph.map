@@ -1,0 +1,7 @@
+<map id="pos_out" name="pos_out">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,79,108"/>
+<area shape="rect" id="node2" href="$ioctl_8c.html#a8b2b100aae859a2a792ab3d122815cf7" title=" " alt="" coords="130,5,181,32"/>
+<area shape="rect" id="node3" href="$lseek_8c.html#a8bd74caed008a66808d92d57fa74d9f6" title=" " alt="" coords="127,56,184,83"/>
+<area shape="rect" id="node4" href="$libcsupport_2src_2read_8c.html#a26d4711c05afec4c7771c3d17b2db9e9" title=" " alt="" coords="130,107,181,133"/>
+<area shape="rect" id="node5" href="$libcsupport_2src_2write_8c.html#a448dd253ee4c0e3d3b1275df845e7146" title=" " alt="" coords="128,157,183,184"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="rtems_chain_immutable_previous" name="rtems_chain_immutable_previous">
+<area shape="rect" id="node1" title="Return pointer the immutable previous node from this node." alt="" coords="5,5,185,47"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreChain.html#gafecfffcba1bfb5114a9e81d06aa78c94" title="Returns pointer to the immutable previous node from this node." alt="" coords="233,13,440,39"/>
+</map>

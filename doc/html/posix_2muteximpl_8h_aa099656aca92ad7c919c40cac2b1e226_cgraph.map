@@ -1,0 +1,36 @@
+<map id="_POSIX_Mutex_Ceiling_set_owner" name="_POSIX_Mutex_Ceiling_set_owner">
+<area shape="rect" id="node1" title=" " alt="" coords="5,259,173,300"/>
+<area shape="rect" id="node2" href="$posix_2muteximpl_8h.html#a7d79a81165ff9936fcac8cfd5912a5f5" title=" " alt="" coords="229,13,404,39"/>
+<area shape="rect" id="node4" href="$posix_2muteximpl_8h.html#aac5c3781d95e2db54e2f66ebb0869dbc" title=" " alt="" coords="221,63,412,90"/>
+<area shape="rect" id="node5" href="$group__RTEMSScorePriority.html#gaea7676bde1276ab7042195c043e25bd5" title="Gets the priority aggregation&#39;s priority." alt="" coords="237,114,397,141"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreThread.html#gab0c773b97624be1dc304a2d3d038f19a" title="Enables thread dispatching." alt="" coords="222,165,411,191"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreThread.html#ga58d04f5124606eff3a1da3d42cc79e2f" title="Adds the specified thread priority node to the corresponding thread priority aggregation." alt="" coords="237,215,396,242"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreThread.html#ga424ec96c6cbed5a748565333d5fd7d59" title="Updates the priority of all threads in the set." alt="" coords="227,317,407,343"/>
+<area shape="rect" id="node20" href="$group__RTEMSScoreThread.html#ga080a177afc4fc254a1081485cd89f75d" title="Gets the scheduler&#39;s home node." alt="" coords="731,57,905,99"/>
+<area shape="rect" id="node29" href="$group__RTEMSScoreThreadQueue.html#ga8dcef3658d8266b9f66015474e2c88bd" title="Disables dispatching in a critical section." alt="" coords="224,368,409,409"/>
+<area shape="rect" id="node32" href="$group__RTEMSScoreThread.html#gade8b030c16456ceae1596e2e3fab9808" title="Increments the thread&#39;s resource count." alt="" coords="225,433,409,475"/>
+<area shape="rect" id="node33" href="$group__RTEMSScoreThread.html#gafbc47e5ce486029f2311242f2303c66d" title="Acquires the thread wait default lock inside a critical section (interrupts disabled)." alt="" coords="234,499,399,540"/>
+<area shape="rect" id="node34" href="$group__RTEMSScoreThread.html#ga1379d753ea2866e64eed15cd7ea7fb38" title="Releases the thread wait default lock inside a critical section (interrupts disabled)." alt="" coords="234,564,399,605"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreThreadQueue.html#ga5074d780cc6e486c858a564e0406f647" title="Releases the thread queue queue and enables interrupts." alt="" coords="475,5,646,47"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreScheduler.html#ga7fdbd807dbde0152b93a9ebc59f69e5d" title="Propagates a priority change of a thread to the scheduler." alt="" coords="460,317,661,343"/>
+<area shape="rect" id="node23" href="$group__RTEMSScoreThread.html#ga9a583864cdcbb7eaeda8002d05de6912" title="Disables interrupts and acquires the lock_context." alt="" coords="475,386,646,413"/>
+<area shape="rect" id="node26" href="$group__RTEMSScoreThread.html#ga958218590f858b65855c89802b2cc071" title="Releases the lock context and enables interrupts." alt="" coords="475,475,646,502"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreChain.html#ga89304b2d294b98f4909dcb6e68d7ec82" title="Returns pointer to chain&#39;s first node." alt="" coords="1025,174,1126,201"/>
+<area shape="rect" id="node12" href="$group__RTEMSScoreChain.html#gaa2f09e6d639b1bc5a27451eb119b6e33" title="Returns pointer to immutable chain tail." alt="" coords="1226,123,1398,150"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreChain.html#ga9502cc5cb6c81ef2bce33698005e1752" title="Returns pointer to the next node from this node." alt="" coords="766,174,870,201"/>
+<area shape="rect" id="node14" href="$group__RTEMSScoreScheduler.html#ga9e6cf07526560aa067d7bcb92a7aa964" title="Acquires the scheduler instance inside a critical section (interrupts disabled)." alt="" coords="743,341,893,383"/>
+<area shape="rect" id="node16" href="$group__RTEMSScoreScheduler.html#gaac1c9761b448c8de90eaf023a3e3757e" title="Gets the scheduler of the node." alt="" coords="737,407,899,448"/>
+<area shape="rect" id="node18" href="$group__RTEMSScoreScheduler.html#gae4d084e50d4f8a616f394312b66df32b" title="Releases the scheduler instance inside a critical section (interrupts disabled)." alt="" coords="742,276,894,317"/>
+<area shape="rect" id="node19" href="$group__RTEMSScoreThread.html#ga0071d4e11d2d68b2e4c43ffe2108e7f5" title="Gets the home scheduler of the thread." alt="" coords="709,473,927,499"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreChain.html#gac08944db6f0428125d3b0d5a1c65b740" title="Returns pointer to immutable chain head." alt="" coords="1448,123,1631,150"/>
+<area shape="rect" id="node15" href="$group__RTEMSScoreScheduler.html#ga9c62ef5a388b998fa041a269297be1fe" title="Gets the context of the scheduler." alt="" coords="986,317,1165,343"/>
+<area shape="rect" id="node17" href="$group__RTEMSScorePriority.html#ga0aa656f168c0c0ddc98c021fc55d2b40" title="Gets the priority aggregation&#39;s scheduler." alt="" coords="987,414,1163,441"/>
+<area shape="rect" id="node21" href="$group__RTEMSScoreChain.html#ga67ffad0c14d402473760ec6bb8e93bcc" title="Checks if the chain is empty." alt="" coords="1009,73,1142,99"/>
+<area shape="rect" id="node22" href="$group__RTEMSScoreChain.html#ga8b2c850d4d09d8db80d11e3199bce386" title="Returns pointer to immutable chain&#39;s first node." alt="" coords="1224,73,1400,99"/>
+<area shape="rect" id="node24" href="$group__RTEMSScoreThread.html#gafd7ff215edf64b4611da7b7c1d4e3050" title="Acquires the lock context in a critical section." alt="" coords="733,524,903,565"/>
+<area shape="rect" id="node25" href="$group__RTEMSScoreThreadQueue.html#gaf1488e09cc925566233f2f1fc76c4d81" title="Acquires the thread queue control in a critical section." alt="" coords="975,524,1176,565"/>
+<area shape="rect" id="node27" href="$group__RTEMSScoreThread.html#gab003d620d9c5fc5502cedd90960d59d5" title="Release the lock context in a critical section." alt="" coords="733,589,903,631"/>
+<area shape="rect" id="node28" href="$group__RTEMSScoreThreadQueue.html#ga923d39f206f389ae8a8293e22bae8fbf" title="Checks if the thread queue control is the owner of the lock." alt="" coords="975,589,1176,631"/>
+<area shape="rect" id="node30" href="$group__RTEMSScoreThread.html#ga5ffeb81480c63293a317f69efc74dec3" title="Disables thread dispatching inside a critical section (interrupts disabled)." alt="" coords="465,603,657,644"/>
+<area shape="rect" id="node31" href="$group__RTEMSScoreThread.html#ga80a71da4ea096f7ea92781a872b955ae" title="Disables thread dispatching inside a critical section (interrupts disabled) with the current processo..." alt="" coords="722,655,914,696"/>
+</map>

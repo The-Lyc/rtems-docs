@@ -1,0 +1,7 @@
+<map id="lpc176x_timer_init" name="lpc176x_timer_init">
+<area shape="rect" id="node1" title="Initializes timer in timer mode and resets counter but without starting it, and without any capture o..." alt="" coords="5,81,148,108"/>
+<area shape="rect" id="node2" href="$bsps_2arm_2lpc176x_2include_2bsp_2io_8h.html#a143c1df808c2b3d2dcd20cc645694979" title="Enables the module power and clock." alt="" coords="213,5,393,32"/>
+<area shape="rect" id="node3" href="$arm_2lpc176x_2timer_2timer_8c.html#a3d1c177c613fe71236b3738b8c6ca012" title="resets timer counter and stops it." alt="" coords="226,56,381,83"/>
+<area shape="rect" id="node4" href="$arm_2lpc176x_2timer_2timer_8c.html#a39972b2346cd0e1c1baf78a35dedbe9c" title="Sets mode of the timer (timer, counter rising, counter falling or counter both edges)" alt="" coords="210,107,397,133"/>
+<area shape="rect" id="node5" href="$arm_2lpc176x_2timer_2timer_8c.html#a420aae9a87eb83fd4a0a40ed97cad5bf" title="sets the resolution in microseconds of the timer" alt="" coords="196,157,411,184"/>
+</map>

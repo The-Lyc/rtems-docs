@@ -1,0 +1,13 @@
+<map id="_Objects_Get_no_protection" name="_Objects_Get_no_protection">
+<area shape="rect" id="node1" title="Maps object ids to object control blocks." alt="" coords="636,107,840,133"/>
+<area shape="rect" id="node2" href="$group__ClassicUserExtensionsImpl.html#ga6335b2a54ed2bac19920508333f16694" title=" " alt="" coords="437,5,560,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreObject.html#gaf47a19d228137aa86c75bf67953f332e" title="Gets the next open object after the specified object identifier." alt="" coords="427,56,571,83"/>
+<area shape="rect" id="node4" href="$group__POSIX__KEY.html#ga8d47bd5ba7a91092f4df03fc2f22c593" title=" " alt="" coords="431,107,567,133"/>
+<area shape="rect" id="node7" href="$group__ClassicRegionImpl.html#ga6e24cf9c8095bbf5470a5ab6a469415c" title=" " alt="" coords="414,157,583,184"/>
+<area shape="rect" id="node11" href="$group__ClassicClassInfo.html#gacb1a1933caf2556aa7e9b715c684fe5b" title="Set Name of Object." alt="" coords="409,208,588,235"/>
+<area shape="rect" id="node5" href="$keydelete_8c.html#aee96306dc79294927ee840bb4de2244b" title=" " alt="" coords="177,69,327,96"/>
+<area shape="rect" id="node6" href="$tss_8c.html#aecebbc66b206171d9381ba94528c6cb7" title=" " alt="" coords="5,69,95,96"/>
+<area shape="rect" id="node8" href="$group__ClassicRegion.html#ga30893b36778c4b55d2e38ecd36a8a5a2" title="RTEMS Get Region Free Information." alt="" coords="167,121,337,162"/>
+<area shape="rect" id="node9" href="$group__ClassicRegion.html#ga21008d667508d701ad822f08f1dab568" title="RTEMS Get Region Information." alt="" coords="143,187,361,213"/>
+<area shape="rect" id="node10" href="$group__ClassicRegion.html#ga1332adb33a1efe03e31a656a3cf5840c" title="RTEMS Return Region Segment." alt="" coords="175,238,329,279"/>
+</map>

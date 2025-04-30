@@ -1,0 +1,26 @@
+<map id="thrd_yield" name="thrd_yield">
+<area shape="rect" id="node1" title=" " alt="" coords="5,238,92,265"/>
+<area shape="rect" id="node2" href="$sched__yield_8c.html#a357cd4b34c13011749dfffb42b489f09" title=" " alt="" coords="140,238,239,265"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreThread.html#ga044bfb6e9317180d21b05c5338cedd1a" title="Disables thread dispatching." alt="" coords="287,183,479,210"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreThread.html#ga82c1e28e7fcc27135782ff978dcdcb8f" title="Yields the currently executing thread." alt="" coords="326,263,439,290"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreThread.html#ga5ffeb81480c63293a317f69efc74dec3" title="Disables thread dispatching inside a critical section (interrupts disabled)." alt="" coords="527,71,719,112"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreThread.html#ga80a71da4ea096f7ea92781a872b955ae" title="Disables thread dispatching inside a critical section (interrupts disabled) with the current processo..." alt="" coords="779,5,971,47"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreScheduler.html#ga37b1082aa1832c4a73154d5fc92dceaa" title="Scheduler yield with a particular thread." alt="" coords="557,202,689,229"/>
+<area shape="rect" id="node18" href="$group__RTEMSScoreStates.html#ga15946028917e3bbb7ecce815aedf5d82" title="Checks if the state is ready." alt="" coords="557,263,689,290"/>
+<area shape="rect" id="node19" href="$group__RTEMSScoreThread.html#ga9a583864cdcbb7eaeda8002d05de6912" title="Disables interrupts and acquires the lock_context." alt="" coords="537,321,708,347"/>
+<area shape="rect" id="node22" href="$group__RTEMSScoreThread.html#ga958218590f858b65855c89802b2cc071" title="Releases the lock context and enables interrupts." alt="" coords="537,378,708,405"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreScheduler.html#ga9e6cf07526560aa067d7bcb92a7aa964" title="Acquires the scheduler instance inside a critical section (interrupts disabled)." alt="" coords="801,71,950,112"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreScheduler.html#gae4d084e50d4f8a616f394312b66df32b" title="Releases the scheduler instance inside a critical section (interrupts disabled)." alt="" coords="799,136,951,177"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreThread.html#ga0071d4e11d2d68b2e4c43ffe2108e7f5" title="Gets the home scheduler of the thread." alt="" coords="767,202,984,229"/>
+<area shape="rect" id="node12" href="$group__RTEMSScoreThread.html#ga080a177afc4fc254a1081485cd89f75d" title="Gets the scheduler&#39;s home node." alt="" coords="789,253,962,295"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreScheduler.html#ga9c62ef5a388b998fa041a269297be1fe" title="Gets the context of the scheduler." alt="" coords="1043,111,1222,138"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreChain.html#ga89304b2d294b98f4909dcb6e68d7ec82" title="Returns pointer to chain&#39;s first node." alt="" coords="1319,213,1420,239"/>
+<area shape="rect" id="node15" href="$group__RTEMSScoreChain.html#ga67ffad0c14d402473760ec6bb8e93bcc" title="Checks if the chain is empty." alt="" coords="1066,263,1199,290"/>
+<area shape="rect" id="node14" href="$group__RTEMSScoreChain.html#gac08944db6f0428125d3b0d5a1c65b740" title="Returns pointer to immutable chain head." alt="" coords="1505,238,1688,265"/>
+<area shape="rect" id="node16" href="$group__RTEMSScoreChain.html#ga8b2c850d4d09d8db80d11e3199bce386" title="Returns pointer to immutable chain&#39;s first node." alt="" coords="1281,263,1457,290"/>
+<area shape="rect" id="node17" href="$group__RTEMSScoreChain.html#gaa2f09e6d639b1bc5a27451eb119b6e33" title="Returns pointer to immutable chain tail." alt="" coords="1283,314,1455,341"/>
+<area shape="rect" id="node20" href="$group__RTEMSScoreThread.html#gafd7ff215edf64b4611da7b7c1d4e3050" title="Acquires the lock context in a critical section." alt="" coords="790,319,961,360"/>
+<area shape="rect" id="node21" href="$group__RTEMSScoreThreadQueue.html#gaf1488e09cc925566233f2f1fc76c4d81" title="Acquires the thread queue control in a critical section." alt="" coords="1032,319,1233,360"/>
+<area shape="rect" id="node23" href="$group__RTEMSScoreThread.html#gab003d620d9c5fc5502cedd90960d59d5" title="Release the lock context in a critical section." alt="" coords="790,384,961,425"/>
+<area shape="rect" id="node24" href="$group__RTEMSScoreThreadQueue.html#ga923d39f206f389ae8a8293e22bae8fbf" title="Checks if the thread queue control is the owner of the lock." alt="" coords="1032,384,1233,425"/>
+</map>

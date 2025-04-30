@@ -1,0 +1,6 @@
+<map id="BF533 EZ&#45;KIT" name="BF533 EZ&#45;KIT">
+<area shape="rect" id="node1" title="BF533 EZ&#45;KIT Board Support Package." alt="" coords="128,31,239,56"/>
+<area shape="rect" id="node2" href="$group__ezkit533__cplb.html" title="CPLB Configuration." alt="" coords="287,5,433,31"/>
+<area shape="rect" id="node4" href="$group__ezkit533__tm27.html" title="Interrupt Mechanisms for TM27." alt="" coords="289,55,431,80"/>
+<area shape="rect" id="node3" href="$group__RTEMSBSPsBfin.html" title="Blackfin Board Support Packages." alt="" coords="5,31,80,56"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="rtems_clock_get_uptime" name="rtems_clock_get_uptime">
+<area shape="rect" id="node1" title="Obtain the System Uptime." alt="" coords="140,5,323,32"/>
+<area shape="rect" id="node2" href="$getrusage_8c.html#ad6bbdf27bfe56f9ba1653a187be4c518" title=" " alt="" coords="5,5,92,32"/>
+</map>

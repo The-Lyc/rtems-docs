@@ -1,0 +1,52 @@
+<map id="cpukit/include/rtems/score/scheduler.h" name="cpukit/include/rtems/score/scheduler.h">
+<area shape="rect" id="node1" title="Constants and Structures Associated with the Scheduler." alt="" coords="4833,5,4987,47"/>
+<area shape="rect" id="node2" href="$posix_2priorityimpl_8h.html" title="POSIX Priority Support." alt="" coords="2022,184,2177,225"/>
+<area shape="rect" id="node21" href="$scheduler_8h.html" title="Scheduler Configuration API." alt="" coords="3793,95,3947,136"/>
+<area shape="rect" id="node22" href="$score_2priorityimpl_8h.html" title="Priority Handler API Implementation." alt="" coords="4022,95,4177,136"/>
+<area shape="rect" id="node23" href="$schedulerimpl_8h.html" title="Inlined Routines Associated with the Manipulation of the Scheduler." alt="" coords="3652,184,3821,225"/>
+<area shape="rect" id="node26" href="$threadqimpl_8h.html" title="Constants and Structures Associated with the Manipulation of Objects." alt="" coords="4071,184,4227,225"/>
+<area shape="rect" id="node27" href="$schedulercbs_8h.html" title="Thread manipulation for the CBS scheduler." alt="" coords="4453,273,4615,315"/>
+<area shape="rect" id="node32" href="$schedulercbsgetapprovedbudget_8c.html" title="Scheduler CBS Get Approved Budget." alt="" coords="3723,370,4073,397"/>
+<area shape="rect" id="node33" href="$schedulercbsgetparameters_8c.html" title="_Scheduler_CBS_Get_parameters" alt="" coords="4098,370,4418,397"/>
+<area shape="rect" id="node34" href="$schedulercbsgetserverid_8c.html" title="Scheduler CBS Get Server id." alt="" coords="4442,370,4741,397"/>
+<area shape="rect" id="node35" href="$scheduleredf_8h.html" title="Data Related to the Manipulation of Threads for the EDF Scheduler." alt="" coords="4454,184,4614,225"/>
+<area shape="rect" id="node36" href="$scheduleredfsmp_8h.html" title="EDF SMP Scheduler API." alt="" coords="4639,273,4829,315"/>
+<area shape="rect" id="node37" href="$schedulerpriority_8h.html" title="Thread Manipulation with the Priority&#45;Based Scheduler." alt="" coords="4817,95,5003,136"/>
+<area shape="rect" id="node38" href="$schedulerpriorityaffinitysmp_8h.html" title="Deterministic Priority Affinity SMP Scheduler API." alt="" coords="5419,273,5681,315"/>
+<area shape="rect" id="node39" href="$schedulerprioritysmp_8h.html" title="Deterministic Priority SMP Scheduler API." alt="" coords="5515,184,5729,225"/>
+<area shape="rect" id="node40" href="$schedulersimple_8h.html" title="Manipulation of Threads Simple&#45;Priority&#45;Based Ready Queue." alt="" coords="4689,184,4873,225"/>
+<area shape="rect" id="node41" href="$schedulersimplesmp_8h.html" title="Simple SMP Scheduler API." alt="" coords="4947,184,5159,225"/>
+<area shape="rect" id="node42" href="$schedulerstrongapa_8h.html" title="Strong APA Scheduler API." alt="" coords="5183,184,5389,225"/>
+<area shape="rect" id="node43" href="$schedulersmp_8h.html" title="SMP Scheduler API." alt="" coords="5129,95,5297,136"/>
+<area shape="rect" id="node44" href="$rtemsmaxprio_8c.html" title=" " alt="" coords="5422,102,5657,129"/>
+<area shape="rect" id="node45" href="$schedulerdefaultaskforhelp_8c.html" title=" " alt="" coords="5681,102,5998,129"/>
+<area shape="rect" id="node46" href="$schedulerdefaultnodedestroy_8c.html" title="Scheduler Default Node Destruction Operation." alt="" coords="6023,102,6349,129"/>
+<area shape="rect" id="node47" href="$schedulerdefaultpinunpin_8c.html" title=" " alt="" coords="6374,102,6678,129"/>
+<area shape="rect" id="node48" href="$schedulerdefaultreleasejob_8c.html" title="Default Scheduler Release Job Operation." alt="" coords="6703,102,7019,129"/>
+<area shape="rect" id="node49" href="$schedulerdefaultschedule_8c.html" title=" " alt="" coords="7043,102,7350,129"/>
+<area shape="rect" id="node50" href="$thread_8c.html" title="Initialize Thread Handler." alt="" coords="7374,102,7555,129"/>
+<area shape="rect" id="node3" href="$pthreadattrimpl_8h.html" title="POSIX Threads Private Support." alt="" coords="2010,273,2189,315"/>
+<area shape="rect" id="node4" href="$pthreadcreate_8c.html" title="Function Starts a New Thread in The Calling Process." alt="" coords="1863,370,2093,397"/>
+<area shape="rect" id="node5" href="$pthreadgetattrnp_8c.html" title="Pthread Get Attribute." alt="" coords="2117,370,2367,397"/>
+<area shape="rect" id="node6" href="$pthreadgetschedparam_8c.html" title="Gets Scheduling Policy and Parameters of Individual Threads." alt="" coords="2409,370,2699,397"/>
+<area shape="rect" id="node7" href="$mutexattrsetprotocol_8c.html" title="Mutex Initialization Scheduling Attributes." alt="" coords="1709,281,1986,307"/>
+<area shape="rect" id="node8" href="$mutexattrsetpshared_8c.html" title="Function sets Current pshared Attribute for Mutex Attributes Object." alt="" coords="1357,281,1633,307"/>
+<area shape="rect" id="node9" href="$mutexattrsettype_8c.html" title="Set a Mutex Type." alt="" coords="2263,281,2517,307"/>
+<area shape="rect" id="node10" href="$mutexgetprioceiling_8c.html" title="Returns the Current Priority Ceiling of the Mutex." alt="" coords="5,281,276,307"/>
+<area shape="rect" id="node11" href="$mutexinit_8c.html" title="Initialize a Mutex." alt="" coords="2783,281,2986,307"/>
+<area shape="rect" id="node12" href="$mutexsetprioceiling_8c.html" title="Changes the Priority Ceiling of a Mutex and Releases it." alt="" coords="301,281,570,307"/>
+<area shape="rect" id="node13" href="$psxpriorityisvalid_8c.html" title="POSIX Is Priority Valid." alt="" coords="3011,281,3263,307"/>
+<area shape="rect" id="node14" href="$pthreadsetschedparam_8c.html" title="Function sets scheduling policy and parameters of the thread." alt="" coords="3287,281,3576,307"/>
+<area shape="rect" id="node15" href="$pthreadsetschedprio_8c.html" title=" " alt="" coords="3601,281,3873,307"/>
+<area shape="rect" id="node16" href="$sched__getprioritymax_8c.html" title="Returns the Appropriate Maximum for Scheduling policy." alt="" coords="2592,273,2759,315"/>
+<area shape="rect" id="node17" href="$sched__getprioritymin_8c.html" title="Get the Minimum Priority Limit." alt="" coords="595,273,761,315"/>
+<area shape="rect" id="node18" href="$sched__getscheduler_8c.html" title="Function Returns Scheduling Policy of the process specified by pid." alt="" coords="785,273,952,315"/>
+<area shape="rect" id="node19" href="$sched__setparam_8c.html" title="Sets Scheduling Parameters Associated with Scheduling Policies." alt="" coords="976,273,1143,315"/>
+<area shape="rect" id="node20" href="$sched__setscheduler_8c.html" title="Set Scheduling Policy and Scheduling Parameters." alt="" coords="1167,273,1333,315"/>
+<area shape="rect" id="node25" href="$schedulernodeimpl_8h.html" title="Scheduler Node Implementation." alt="" coords="3845,184,4047,225"/>
+<area shape="rect" id="node24" href="$schedulercbsimpl_8h.html" title="CBS Scheduler Implementation." alt="" coords="3508,363,3699,404"/>
+<area shape="rect" id="node28" href="$cbs_8h.html" title="Constants and Structures Associated with the CBS library in RTEMS." alt="" coords="5573,363,5727,404"/>
+<area shape="rect" id="node29" href="$qreslib_8h.html" title="Constants and Structures Associated with the QoS RES library in RTEMS." alt="" coords="4765,363,4919,404"/>
+<area shape="rect" id="node30" href="$schedulercbscleanup_8c.html" title="Scheduler CBS Cleanup." alt="" coords="4943,370,5218,397"/>
+<area shape="rect" id="node31" href="$schedulercbscreateserver_8c.html" title="Scheduler CBS Create Server." alt="" coords="5243,370,5548,397"/>
+</map>

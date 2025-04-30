@@ -1,0 +1,6 @@
+<map id="MPU_SetRegion" name="MPU_SetRegion">
+<area shape="rect" id="node1" title="Setup a memory region." alt="" coords="371,31,496,57"/>
+<area shape="rect" id="node2" href="$board__lowlevel_8c.html#a9744d00e2d0a1292c99875113204bcfc" title="Set up a memory region." alt="" coords="157,5,323,32"/>
+<area shape="rect" id="node4" href="$mpu_8h.html#aaa88b8f32a6a4c83d2ddc9a287d82ef2" title="Update MPU regions." alt="" coords="161,56,319,83"/>
+<area shape="rect" id="node3" href="$board__lowlevel_8c.html#a3bcea99c8a544fd0c3a62f43d1259072" title="Performs the low&#45;level initialization of the chip." alt="" coords="5,5,109,32"/>
+</map>

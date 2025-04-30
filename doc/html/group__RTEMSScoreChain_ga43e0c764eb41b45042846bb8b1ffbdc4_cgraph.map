@@ -1,0 +1,6 @@
+<map id="_Chain_Append_if_is_off_chain_unprotected" name="_Chain_Append_if_is_off_chain_unprotected">
+<area shape="rect" id="node1" title="Appends a node on the end of a chain if the node is in the off chain state (unprotected)." alt="" coords="5,31,179,72"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreChain.html#gaa7011c6fe160c457a0d100e41ec3fffe" title="Appends a node (unprotected)." alt="" coords="227,63,433,90"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreChain.html#gad7a790f247b3ace45f039c60c18f999f" title="Checks if the node is off chain." alt="" coords="481,5,628,47"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreChain.html#ga06f3e2dd6d64411f0565e3b483e53673" title="Returns pointer to chain tail." alt="" coords="507,71,602,98"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="rpi_gpio_select_i2c" name="rpi_gpio_select_i2c">
+<area shape="rect" id="node1" title="Setups a I2C interface." alt="" coords="5,5,152,32"/>
+<area shape="rect" id="node2" href="$gpio_8h.html#a1d543b10e6645eee41a5a0e2662a231d" title=" " alt="" coords="200,5,383,32"/>
+</map>

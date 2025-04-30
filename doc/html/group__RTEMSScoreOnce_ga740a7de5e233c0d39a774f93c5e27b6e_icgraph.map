@@ -1,0 +1,12 @@
+<map id="_Once_Unlock" name="_Once_Unlock">
+<area shape="rect" id="node1" title="Unlocks the Once_Information_Mutex and sets the thread life protection to thread_life_state." alt="" coords="669,136,784,163"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreOnce.html#ga2db8aad33d5d118be8a81b4b32caea85" title="Reacts according to the state of once_state." alt="" coords="559,136,621,163"/>
+<area shape="rect" id="node3" href="$pthreadonce_8c.html#a196103ac97710dad7a93fd6c188cc999" title=" " alt="" coords="400,136,511,163"/>
+<area shape="rect" id="node4" href="$pwdgrp_8h.html#a1bbeedf0ac0ab1f4c4b39a1ed89e175f" title=" " alt="" coords="152,5,336,32"/>
+<area shape="rect" id="node6" href="$call__once_8c.html#abff739b74c4ef36c3e4bddd332650493" title=" " alt="" coords="203,56,285,83"/>
+<area shape="rect" id="node7" href="$group__rtems__bdbuf.html#gaf19ee8ba7815e24767b6a91e200a78bc" title=" " alt="" coords="178,107,310,133"/>
+<area shape="rect" id="node8" href="$group__RTEMSPrintSupport.html#ga527e5e5b91e40e2fc44a13be10484105" title="Initializes the printer to print via fprintf() using an unbuffered FILE stream with output through rt..." alt="" coords="171,158,317,199"/>
+<area shape="rect" id="node9" href="$rtems__rpc_8c.html#a8c45ce0b6fb209aa2c10030c3919cf6e" title=" " alt="" coords="169,224,319,251"/>
+<area shape="rect" id="node10" href="$shell_8c.html#aa47c3a144ef665b6d89da417045e3fa0" title=" " alt="" coords="136,275,352,301"/>
+<area shape="rect" id="node5" href="$getpwent_8c.html#a015c67a1cd39fb9dc8910ad7d622c6fa" title=" " alt="" coords="5,5,88,32"/>
+</map>

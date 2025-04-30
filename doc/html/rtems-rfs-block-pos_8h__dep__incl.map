@@ -1,0 +1,13 @@
+<map id="cpukit/include/rtems/rfs/rtems&#45;rfs&#45;block&#45;pos.h" name="cpukit/include/rtems/rfs/rtems&#45;rfs&#45;block&#45;pos.h">
+<area shape="rect" id="node1" title="RTEMS File Systems Block Position and Size Management." alt="" coords="795,5,981,47"/>
+<area shape="rect" id="node2" href="$rtems-rfs-block_8h.html" title="RTEMS File Systems Block Management." alt="" coords="593,95,751,136"/>
+<area shape="rect" id="node4" href="$rtems-rfs-file_8c.html" title="RTEMS File Systems File Routines." alt="" coords="697,273,836,315"/>
+<area shape="rect" id="node3" href="$rtems-rfs-file_8h.html" title="RTEMS File System File Support." alt="" coords="99,184,253,225"/>
+<area shape="rect" id="node7" href="$rtems-rfs-block_8c.html" title="RTEMS File Systems Block Routines." alt="" coords="277,184,416,225"/>
+<area shape="rect" id="node8" href="$rtems-rfs-dir_8c.html" title="RTEMS File Systems Directory Routines." alt="" coords="440,184,579,225"/>
+<area shape="rect" id="node9" href="$rtems-rfs-inode_8c.html" title="RTEMS File Systems Inode Routines." alt="" coords="603,184,741,225"/>
+<area shape="rect" id="node10" href="$rtems-rfs-link_8c.html" title="RTEMS File Systems Link Routines." alt="" coords="765,184,904,225"/>
+<area shape="rect" id="node11" href="$rtems-rfs-shell_8c.html" title="RTEMS File Systems Shell Commands Support." alt="" coords="928,184,1067,225"/>
+<area shape="rect" id="node5" href="$rtems-rfs-rtems-file_8c.html" title="RTEMS RFS File Handlers." alt="" coords="5,273,171,315"/>
+<area shape="rect" id="node6" href="$rtems-rfs-rtems_8c.html" title="RTEMS File System Interface for RTEMS." alt="" coords="195,273,335,315"/>
+</map>

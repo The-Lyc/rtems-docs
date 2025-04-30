@@ -1,0 +1,5 @@
+<map id="OpenRISC 1000 (or1k)" name="OpenRISC 1000 (or1k)">
+<area shape="rect" id="node1" title="OpenRISC 1000 (or1k) Architecture Support." alt="" coords="240,13,405,38"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreCPUor1kASM.html" title="OpenRISC 1000 (or1k) Assembler Support." alt="" coords="453,5,619,45"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreCPU.html" title="Provides CPU architecture dependent services." alt="" coords="5,13,192,38"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="_Thread_Get_CPU_time_used" name="_Thread_Get_CPU_time_used">
+<area shape="rect" id="node1" title="Updates the used cpu time for the heir and dispatches a new heir." alt="" coords="213,13,427,39"/>
+<area shape="rect" id="node2" href="$group__RTEMSTest.html#ga3226bd2aac6e7ea341e160f66a976a65" title="Performs a busy loop for the specified seconds and nanoseconds based on the CPU usage of the executin..." alt="" coords="5,5,165,47"/>
+</map>

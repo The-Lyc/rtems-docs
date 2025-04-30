@@ -1,0 +1,8 @@
+<map id="_Scheduler_EDF_SMP_Set_affinity" name="_Scheduler_EDF_SMP_Set_affinity">
+<area shape="rect" id="node1" title="Checks if the processor set of the scheduler is the subset of the affinity set." alt="" coords="5,122,167,163"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreProcessorMask.html#ga286f1a2dfff65e0fb5c259fd10e7cf33" title="Performs a bitwise a = b &amp; c." alt="" coords="225,5,392,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreProcessorMask.html#gaed9f2ed311a025c27a2a70ca0eef53a9" title="Finds the last set of the processor mask." alt="" coords="224,57,393,98"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreProcessorMask.html#ga841c9df751a70cf2ee8a9f4842d259ff" title="Checks if the processor sets a and b are equal." alt="" coords="232,122,385,163"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreProcessorMask.html#gad7417e61f45dc48871943c92b7d13167" title="Checks if the mask is zero, also considers CPU_MAXIMUM_PROCESSORS." alt="" coords="215,188,403,215"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreScheduler.html#ga9c62ef5a388b998fa041a269297be1fe" title="Gets the context of the scheduler." alt="" coords="219,239,398,265"/>
+</map>

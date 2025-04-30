@@ -1,0 +1,4 @@
+<map id="rtems_chain_is_null_node" name="rtems_chain_is_null_node">
+<area shape="rect" id="node1" title="Is the chain node pointer NULL." alt="" coords="5,5,196,32"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreChain.html#gaa0e3746a0f08242d67fe3f2198f2c6d6" title="Checks if the chain node pointer is NULL." alt="" coords="244,5,399,32"/>
+</map>

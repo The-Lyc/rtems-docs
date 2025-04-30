@@ -1,0 +1,11 @@
+<map id="_ISI_GetCFG2_Workaround" name="_ISI_GetCFG2_Workaround">
+<area shape="rect" id="node1" title="Workaround for ISI CFG2 register read." alt="" coords="220,183,415,209"/>
+<area shape="rect" id="node2" href="$isi_8h.html#a83c18151ae422f303dc9fdbb8e1fbe93" title="Get the number of byte per pixels." alt="" coords="9,5,168,32"/>
+<area shape="rect" id="node3" href="$isi_8h.html#ac07f455584c07e783a07fdbb2762e9fd" title="calculate scaler factor automatically." alt="" coords="13,56,164,83"/>
+<area shape="rect" id="node4" href="$isi_8h.html#abb741d8653383e08b7d5528732fa7d7c" title="Defines RGB pattern when RGB_MODE is set to 1." alt="" coords="10,107,167,133"/>
+<area shape="rect" id="node5" href="$isi_8h.html#af63dcb6b453f63ae9ab6c5ed7cf0d1bb" title="Enables RGB swap." alt="" coords="18,157,159,184"/>
+<area shape="rect" id="node6" href="$isi_8h.html#a046939dd25a14e83412783619bc734a9" title="Input image is assumed to be grayscale&#45;coded." alt="" coords="5,208,172,235"/>
+<area shape="rect" id="node7" href="$isi_8h.html#ac9b2162676d58cd6805b66d888bf4166" title="Set data stream format." alt="" coords="16,259,161,285"/>
+<area shape="rect" id="node8" href="$isi_8h.html#a024631a27128ab97fc06e0a228fa1b43" title="Set vertical and horizontal Size of the Image Sensor." alt="" coords="20,309,157,336"/>
+<area shape="rect" id="node9" href="$isi_8h.html#ae5d49726859be9bbf462cec52cc741b7" title="Defines YCrCb swap format." alt="" coords="24,360,153,387"/>
+</map>

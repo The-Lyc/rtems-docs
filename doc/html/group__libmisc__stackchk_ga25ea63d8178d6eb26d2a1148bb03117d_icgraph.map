@@ -1,0 +1,4 @@
+<map id="rtems_stack_checker_report_usage_with_plugin" name="rtems_stack_checker_report_usage_with_plugin">
+<area shape="rect" id="node1" title="Print the stack usage report using caller&#39;s routine." alt="" coords="212,5,408,47"/>
+<area shape="rect" id="node2" href="$group__libmisc__stackchk.html#ga8df4c8fbe9071233068782c83dc83fd0" title="Print the stack usage report using printk." alt="" coords="5,5,164,47"/>
+</map>

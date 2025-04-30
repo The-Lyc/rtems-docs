@@ -1,0 +1,5 @@
+<map id="_Processor_mask_Zero" name="_Processor_mask_Zero">
+<area shape="rect" id="node1" title="Sets the bits of the mask to zero, also considers CPU_MAXIMUM_PROCESSORS." alt="" coords="243,42,415,69"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreProcessorMask.html#ga5fee4f2abd78b71412d723ec25f2f41b" title="Creates a processor set from an unsigned 32&#45;bit integer relative to the specified index." alt="" coords="13,5,187,47"/>
+<area shape="rect" id="node3" href="$group__RTEMSBSPsPowerPCQorIQInterrupt.html#ga3996d9afea8476b04bb432f07e199cd0" title=" " alt="" coords="5,71,195,98"/>
+</map>

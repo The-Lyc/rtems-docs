@@ -1,0 +1,7 @@
+<map id="rtems_chain_is_empty" name="rtems_chain_is_empty">
+<area shape="rect" id="node1" title="Is the chain empty." alt="" coords="5,31,175,57"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreChain.html#ga67ffad0c14d402473760ec6bb8e93bcc" title="Checks if the chain is empty." alt="" coords="223,31,356,57"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreChain.html#ga8b2c850d4d09d8db80d11e3199bce386" title="Returns pointer to immutable chain&#39;s first node." alt="" coords="404,5,580,32"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreChain.html#gaa2f09e6d639b1bc5a27451eb119b6e33" title="Returns pointer to immutable chain tail." alt="" coords="406,56,578,83"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreChain.html#gac08944db6f0428125d3b0d5a1c65b740" title="Returns pointer to immutable chain head." alt="" coords="628,5,811,32"/>
+</map>

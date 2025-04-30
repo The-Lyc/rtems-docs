@@ -1,0 +1,4 @@
+<map id="Beaglebone" name="Beaglebone">
+<area shape="rect" id="node1" title="Beaglebone Board Support Package." alt="" coords="105,5,204,31"/>
+<area shape="rect" id="node2" href="$group__RTEMSBSPsARM.html" title="ARM Board Support Packages." alt="" coords="5,5,57,31"/>
+</map>

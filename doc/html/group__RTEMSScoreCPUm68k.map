@@ -1,0 +1,5 @@
+<map id="Motorola 68000 and NXP ColdFire (m68k)" name="Motorola 68000 and NXP ColdFire (m68k)">
+<area shape="rect" id="node1" href="$group__RTEMSScoreCPU.html" title="Provides CPU architecture dependent services." alt="" coords="5,13,192,38"/>
+<area shape="rect" id="node2" title="Motorola 68000 and NXP ColdFire (m68k) Architecture Support." alt="" coords="240,5,401,45"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreCPUm68kASM.html" title="Motorola 68000 and NXP ColdFire (m68k) Assembler Support." alt="" coords="449,13,636,38"/>
+</map>

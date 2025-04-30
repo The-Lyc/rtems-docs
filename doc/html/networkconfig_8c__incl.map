@@ -1,0 +1,8 @@
+<map id="bsps/bfin/bf537Stamp/net/networkconfig.c" name="bsps/bfin/bf537Stamp/net/networkconfig.c">
+<area shape="rect" id="node1" title=" " alt="" coords="306,5,469,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,95,199,136"/>
+<area shape="rect" id="node3" title=" " alt="" coords="223,102,280,129"/>
+<area shape="rect" id="node4" title=" " alt="" coords="305,102,470,129"/>
+<area shape="rect" id="node5" href="$libcpu_2interrupt_8h.html" title=" " alt="" coords="494,102,627,129"/>
+<area shape="rect" id="node6" href="$ethernet_8h.html" title=" " alt="" coords="652,102,784,129"/>
+</map>

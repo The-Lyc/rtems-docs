@@ -1,0 +1,11 @@
+<map id="_Chain_Prepend_with_empty_check_unprotected" name="_Chain_Prepend_with_empty_check_unprotected">
+<area shape="rect" id="node1" title="Prepends a node and checks if the chain was empty before (unprotected)." alt="" coords="5,74,207,115"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreChain.html#ga67ffad0c14d402473760ec6bb8e93bcc" title="Checks if the chain is empty." alt="" coords="293,56,427,83"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreChain.html#ga8d8497bea6684f4c685056c75f35522c" title="Prepends a node (unprotected)." alt="" coords="255,107,465,133"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreChain.html#ga8b2c850d4d09d8db80d11e3199bce386" title="Returns pointer to immutable chain&#39;s first node." alt="" coords="523,5,699,32"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreChain.html#gaa2f09e6d639b1bc5a27451eb119b6e33" title="Returns pointer to immutable chain tail." alt="" coords="525,56,697,83"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreChain.html#gac08944db6f0428125d3b0d5a1c65b740" title="Returns pointer to immutable chain head." alt="" coords="756,5,939,32"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreChain.html#ga8b66d3138b9cdacbcb0600c42237ff7d" title="Returns pointer to chain head." alt="" coords="557,107,664,133"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreChain.html#ga0ac64438b8eb6f4dfd182bc3885cea42" title="Inserts a node (unprotected)." alt="" coords="513,157,708,184"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreChain.html#gad7a790f247b3ace45f039c60c18f999f" title="Checks if the node is off chain." alt="" coords="774,150,921,191"/>
+</map>

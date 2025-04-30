@@ -1,0 +1,10 @@
+<map id="bsps/arm/csb336/include/mc9328mxl.h" name="bsps/arm/csb336/include/mc9328mxl.h">
+<area shape="rect" id="node1" title=" " alt="" coords="614,5,797,47"/>
+<area shape="rect" id="node2" href="$arm_2csb336_2btimer_2btimer_8c.html" title="Cogent CSB336 Timer driver." alt="" coords="5,95,184,136"/>
+<area shape="rect" id="node3" href="$arm_2csb336_2clock_2clockdrv_8c.html" title=" " alt="" coords="208,95,379,136"/>
+<area shape="rect" id="node4" href="$arm_2csb336_2console_2uart_8c.html" title=" " alt="" coords="403,95,589,136"/>
+<area shape="rect" id="node5" href="$bsps_2arm_2csb336_2include_2bsp_8h.html" title="Global BSP definitions." alt="" coords="614,95,797,136"/>
+<area shape="rect" id="node6" href="$bsps_2arm_2csb336_2irq_2irq_8c.html" title=" " alt="" coords="821,95,974,136"/>
+<area shape="rect" id="node7" href="$arm_2csb336_2net_2network_8c.html" title=" " alt="" coords="999,95,1156,136"/>
+<area shape="rect" id="node8" href="$arm_2csb336_2start_2bspstart_8c.html" title=" " alt="" coords="1181,95,1347,136"/>
+</map>

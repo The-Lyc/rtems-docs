@@ -1,0 +1,7 @@
+<map id="mscan_set_filter_number" name="mscan_set_filter_number">
+<area shape="rect" id="node1" title="Sets the number of active filters of the MSCAN module m to number and returns true if number is valid..." alt="" coords="5,54,192,81"/>
+<area shape="rect" id="node2" href="$group__RTEMSBSPsPowerPCGen5200MSCAN.html#gaea10ec6ee1163bdb33ff13b21332dfd7" title="Sets the filter ID and mask registers of the MSCAN module m to default values." alt="" coords="240,54,381,81"/>
+<area shape="rect" id="node3" href="$group__RTEMSBSPsPowerPCGen5200MSCAN.html#ga587e0d7b0c1d090fda013c551f02a3f7" title="Enter initialization mode for the MSCAN module m." alt="" coords="429,5,583,47"/>
+<area shape="rect" id="node4" href="$group__RTEMSBSPsPowerPCGen5200MSCAN.html#ga29478727b755ce8d81ded34969194a1b" title="Leave initialization mode for the MSCAN module m." alt="" coords="429,80,583,121"/>
+<area shape="rect" id="node5" href="$group__RTEMSBSPsPowerPCGen5200MSCAN.html#ga189ba2bd33b05769166ff5c105af3395" title="Leave sleep mode for the MSCAN module m." alt="" coords="631,87,825,114"/>
+</map>

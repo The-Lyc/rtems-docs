@@ -1,0 +1,4 @@
+<map id="rtems_clock_get_uptime_nanoseconds" name="rtems_clock_get_uptime_nanoseconds">
+<area shape="rect" id="node1" title="Returns the system uptime in nanoseconds." alt="" coords="235,5,417,47"/>
+<area shape="rect" id="node2" href="$group__libmisc__capture.html#gac9c469ba4a3719c8f240f9a5aad50ddb" title="Capture returns the current time." alt="" coords="5,13,187,39"/>
+</map>

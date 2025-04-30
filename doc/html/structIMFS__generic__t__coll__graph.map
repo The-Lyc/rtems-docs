@@ -1,0 +1,15 @@
+<map id="IMFS_generic_t" name="IMFS_generic_t">
+<area shape="rect" id="node1" title=" " alt="" coords="713,732,833,759"/>
+<area shape="rect" id="node2" href="$structIMFS__jnode__tt.html" title=" " alt="" coords="366,769,479,796"/>
+<area shape="rect" id="node3" href="$structIMFS__node__control.html" title="IMFS node control." alt="" coords="701,681,845,708"/>
+<area shape="rect" id="node4" href="$struct__rtems__filesystem__file__handlers__r.html" title="File system node operations table." alt="" coords="5,511,175,553"/>
+<area shape="rect" id="node5" href="$structrtems__filesystem__location__info__tt.html" title="File system location." alt="" coords="325,489,520,530"/>
+<area shape="rect" id="node8" href="$structrtems__filesystem__global__location__t.html" title="Global file system location." alt="" coords="681,489,864,530"/>
+<area shape="rect" id="node11" href="$struct__rtems__filesystem__operations__table.html" title="File system operations table." alt="" coords="1399,415,1617,457"/>
+<area shape="rect" id="node12" href="$structrtems__filesystem__eval__path__context__t.html" title="Path evaluation context." alt="" coords="1056,333,1227,374"/>
+<area shape="rect" id="node13" href="$structrtems__libio__tt.html" title="An open file data structure." alt="" coords="717,137,829,164"/>
+<area shape="rect" id="node6" href="$structrtems__filesystem__mount__table__entry__tt.html" title="Mount table entry." alt="" coords="1049,555,1233,597"/>
+<area shape="rect" id="node7" href="$structrtems__filesystem__limits__and__options__t.html" title="Contain file system specific information which is required to support fpathconf()." alt="" coords="683,783,862,825"/>
+<area shape="rect" id="node9" href="$unionChain__Control.html" title=" " alt="" coords="544,619,657,645"/>
+<area shape="rect" id="node10" href="$structChain__Node__struct.html" title=" " alt="" coords="18,713,162,740"/>
+</map>

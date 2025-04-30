@@ -1,0 +1,4 @@
+<map id="_CORE_mutex_Is_owner" name="_CORE_mutex_Is_owner">
+<area shape="rect" id="node1" title="Checks if the the thread is the owner of the mutex." alt="" coords="5,5,184,32"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreMutex.html#gac97696832bb6ad43d333541536040ec3" title="Gets the owner of the mutex." alt="" coords="232,5,423,32"/>
+</map>

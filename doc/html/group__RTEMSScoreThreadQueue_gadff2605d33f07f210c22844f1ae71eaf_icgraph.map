@@ -1,0 +1,10 @@
+<map id="_Thread_queue_Object_initialize" name="_Thread_queue_Object_initialize">
+<area shape="rect" id="node1" title="Initializes a thread queue embedded in an object with identifier." alt="" coords="703,79,873,121"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreBarrier.html#gaac782837cb16f03f77181789e809fb1b" title="Initializes the core barrier." alt="" coords="461,7,640,33"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreMutex.html#ga8bc3af4c8e28f7e9090ca1571a0aead6" title="Initializes the mutex." alt="" coords="462,61,639,88"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreSemaphore.html#gac27cc1e0e9ee28a645e9bdbd0f14fb1a" title="Initializes the semaphore based on the parameters passed." alt="" coords="447,112,655,139"/>
+<area shape="rect" id="node8" href="$group__ClassicRegion.html#ga024758f91cbf73e06cbc4c85df83d1ca" title="rtems_region_create" alt="" coords="473,163,629,189"/>
+<area shape="rect" id="node3" href="$group__ClassicBarrier.html#gac0840f8a73784a6c2a97474bcc03cb42" title="RTEMS Create Barrier." alt="" coords="229,5,387,32"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreMutex.html#ga479a63bb7147291650bd7d69c24dc3fd" title="Initializes a recursive mutex." alt="" coords="217,57,399,98"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreMutex.html#gace1e18f3458f6bd2b21d66efdb26b417" title="initializes a ceiling mutex." alt="" coords="5,57,169,98"/>
+</map>

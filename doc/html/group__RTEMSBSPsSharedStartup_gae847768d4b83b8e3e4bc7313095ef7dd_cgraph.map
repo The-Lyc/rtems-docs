@@ -1,0 +1,5 @@
+<map id="bsp_start_on_secondary_processor" name="bsp_start_on_secondary_processor">
+<area shape="rect" id="node1" title="Standard start routine for secondary processors." alt="" coords="5,35,184,76"/>
+<area shape="rect" id="node2" href="$group__bsp__interrupt.html#gab114a6e92b17b99bf52cf24d1125a9df" title="BSP specific initialization." alt="" coords="250,5,410,47"/>
+<area shape="rect" id="node3" href="$group__RTEMSBSPsPowerPCQorIQ.html#ga9b9d1a2e6a914a7ba9dc761200eb161e" title=" " alt="" coords="232,71,428,98"/>
+</map>

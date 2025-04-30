@@ -1,0 +1,52 @@
+<map id="cpukit/include/rtems/score/smplock.h" name="cpukit/include/rtems/score/smplock.h">
+<area shape="rect" id="node1" title="SMP Lock API." alt="" coords="4313,5,4468,47"/>
+<area shape="rect" id="node2" href="$isrlock_8h.html" title="ISR Locks." alt="" coords="3447,95,3601,136"/>
+<area shape="rect" id="node43" href="$profilingiterate_8c.html" title=" " alt="" coords="3740,281,3967,307"/>
+<area shape="rect" id="node49" href="$profilingsmplock_8c.html" title=" " alt="" coords="4347,102,4594,129"/>
+<area shape="rect" id="node50" href="$smplock_8c.html" title=" " alt="" coords="4619,102,4813,129"/>
+<area shape="rect" id="node3" href="$ioimpl_8h.html" title="Classic Input/Output Manager Implementation API." alt="" coords="5545,184,5700,225"/>
+<area shape="rect" id="node15" href="$psignalimpl_8h.html" title="POSIX Signals Support." alt="" coords="1947,273,2101,315"/>
+<area shape="rect" id="node30" href="$intr_8h.html" title=" " alt="" coords="4431,184,4585,225"/>
+<area shape="rect" id="node33" href="$partdata_8h.html" title="Classic Partition Manager Data Structures." alt="" coords="2743,184,2897,225"/>
+<area shape="rect" id="node34" href="$coremsg_8h.html" title="Constants and Structures Associated with the Message Queue Handler." alt="" coords="3991,273,4145,315"/>
+<area shape="rect" id="node35" href="$objectimpl_8h.html" title="Inlined Routines in the Object Handler." alt="" coords="85,452,240,493"/>
+<area shape="rect" id="node36" href="$objectmp_8c.html" title="Objects MP Support." alt="" coords="5,541,205,568"/>
+<area shape="rect" id="node37" href="$score_2percpu_8h.html" title=" " alt="" coords="3213,184,3368,225"/>
+<area shape="rect" id="node38" href="$score_2profiling_8h.html" title="Profiling Support API." alt="" coords="3073,273,3228,315"/>
+<area shape="rect" id="node39" href="$threaddispatch_8h.html" title="Constants and Structures Related with Thread Dispatch." alt="" coords="3671,363,3846,404"/>
+<area shape="rect" id="node40" href="$userextimpl_8h.html" title="User Extension Handler API." alt="" coords="3871,363,4025,404"/>
+<area shape="rect" id="node41" href="$threadrestart_8c.html" title="Restart Thread." alt="" coords="3836,459,4060,486"/>
+<area shape="rect" id="node42" href="$watchdogimpl_8h.html" title="Inlined Routines in the Watchdog Handler." alt="" coords="2798,273,2967,315"/>
+<area shape="rect" id="node44" href="$percpu_8c.html" title="Allocate and Initialize Per CPU Structures." alt="" coords="3354,281,3537,307"/>
+<area shape="rect" id="node45" href="$score_2thread_8h.html" title="Constants and Structures Related with the Thread Control Block." alt="" coords="3561,273,3716,315"/>
+<area shape="rect" id="node46" href="$threadq_8h.html" title="Constants and Structures Needed to Declare a Thread Queue." alt="" coords="3561,184,3716,225"/>
+<area shape="rect" id="node47" href="$score_2timecounter_8h.html" title="Timecounter API." alt="" coords="3841,184,3996,225"/>
+<area shape="rect" id="node48" href="$threadmp_8c.html" title="Distributed MP Support." alt="" coords="4020,191,4223,218"/>
+<area shape="rect" id="node4" href="$mon-driver_8c.html" title=" " alt="" coords="5072,273,5240,315"/>
+<area shape="rect" id="node5" href="$cpukit_2sapi_2src_2io_8c.html" title="Initialization of Device Drivers." alt="" coords="5265,281,5407,307"/>
+<area shape="rect" id="node6" href="$ioclose_8c.html" title="Closing for The IO Manager." alt="" coords="5431,281,5609,307"/>
+<area shape="rect" id="node7" href="$iocontrol_8c.html" title="Control for The IO Manager." alt="" coords="5633,281,5821,307"/>
+<area shape="rect" id="node8" href="$iodefault_8c.html" title="This file contains definitions of IO drivers data structures for the default application configuratio..." alt="" coords="5845,281,6035,307"/>
+<area shape="rect" id="node9" href="$ioinitialize_8c.html" title="IO Driver Initialization." alt="" coords="6059,281,6258,307"/>
+<area shape="rect" id="node10" href="$ioopen_8c.html" title="Opening for The IO Manager." alt="" coords="6282,281,6457,307"/>
+<area shape="rect" id="node11" href="$ioread_8c.html" title="Reading for The IO Manager." alt="" coords="6481,281,6653,307"/>
+<area shape="rect" id="node12" href="$ioregisterdriver_8c.html" title="Classic Input/Output Manager implementation." alt="" coords="4546,281,4777,307"/>
+<area shape="rect" id="node13" href="$iounregisterdriver_8c.html" title="Unregister a Driver from the Device Driver Table." alt="" coords="4801,281,5047,307"/>
+<area shape="rect" id="node14" href="$iowrite_8c.html" title="Writing for The IO Manager." alt="" coords="6677,281,6853,307"/>
+<area shape="rect" id="node16" href="$kill_8c.html" title="Send a Signal to a Process." alt="" coords="1655,370,1814,397"/>
+<area shape="rect" id="node17" href="$kill__r_8c.html" title="Send a Signal to a Process." alt="" coords="1839,370,2009,397"/>
+<area shape="rect" id="node18" href="$killinfo_8c.html" title="Send a Signal to a Process." alt="" coords="2033,370,2217,397"/>
+<area shape="rect" id="node19" href="$psignal_8c.html" title="POSIX Signals Manager Initialization." alt="" coords="2241,370,2428,397"/>
+<area shape="rect" id="node20" href="$psignalclearprocesssignals_8c.html" title="POSIX_signals clear_process_signals." alt="" coords="136,370,451,397"/>
+<area shape="rect" id="node21" href="$psignalclearsignals_8c.html" title="POSIX Signals Clear Signals." alt="" coords="3383,370,3647,397"/>
+<area shape="rect" id="node22" href="$psignalsetprocesssignals_8c.html" title="POSIX Signals Set Process Signals." alt="" coords="3055,370,3358,397"/>
+<area shape="rect" id="node23" href="$psignalunblockthread_8c.html" title="POSIX Signals Thread Unlock." alt="" coords="2453,370,2731,397"/>
+<area shape="rect" id="node24" href="$pthreadkill_8c.html" title="Sends a signal Asynchronously directed to a thread." alt="" coords="475,370,685,397"/>
+<area shape="rect" id="node25" href="$pthreadsigmask_8c.html" title="Examine and/or change the calling thread&#39;s signal mask." alt="" coords="709,370,953,397"/>
+<area shape="rect" id="node26" href="$sigaction_8c.html" title="Allows calling process to examine action of a Specific Signal." alt="" coords="977,370,1175,397"/>
+<area shape="rect" id="node27" href="$sigpending_8c.html" title="Examine Pending Signals." alt="" coords="1199,370,1409,397"/>
+<area shape="rect" id="node28" href="$sigqueue_8c.html" title="Queue a Signal to a Process." alt="" coords="1433,370,1631,397"/>
+<area shape="rect" id="node29" href="$sigtimedwait_8c.html" title="Wait for Queued Signals." alt="" coords="2756,370,2980,397"/>
+<area shape="rect" id="node31" href="$cache-l2c-310_8c.html" title=" " alt="" coords="4298,273,4470,315"/>
+<area shape="rect" id="node32" href="$BSP__irq_8c.html" title=" " alt="" coords="4049,363,4239,404"/>
+</map>

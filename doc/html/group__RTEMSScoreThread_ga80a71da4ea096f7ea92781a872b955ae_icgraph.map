@@ -1,0 +1,52 @@
+<map id="_Thread_Dispatch_disable_with_CPU" name="_Thread_Dispatch_disable_with_CPU">
+<area shape="rect" id="node1" title="Disables thread dispatching inside a critical section (interrupts disabled) with the current processo..." alt="" coords="1372,788,1564,829"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreThread.html#ga5ffeb81480c63293a317f69efc74dec3" title="Disables thread dispatching inside a critical section (interrupts disabled)." alt="" coords="1132,788,1324,829"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreMutex.html#gac76286dab6594ca0499aa20861f69fb8" title="Surrenders the ceiling mutex." alt="" coords="906,173,1070,215"/>
+<area shape="rect" id="node4" href="$group__ClassicEventImpl.html#ga63d82e0e70a4acc2784bb7bc1bba01fb" title=" " alt="" coords="934,239,1042,266"/>
+<area shape="rect" id="node5" href="$group__ClassicRateMonImpl.html#gab174ae30d1440637fecb41e22258f54f" title=" " alt="" coords="895,290,1081,317"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreThread.html#ga044bfb6e9317180d21b05c5338cedd1a" title="Disables thread dispatching." alt="" coords="892,341,1084,367"/>
+<area shape="rect" id="node17" href="$group__ClassicSignal.html#ga9b10bae66f1a80b2bc7151eb1ce90e23" title="RTEMS Send Signal." alt="" coords="207,391,351,418"/>
+<area shape="rect" id="node30" href="$group__RTEMSScoreThreadQueue.html#ga8dcef3658d8266b9f66015474e2c88bd" title="Disables dispatching in a critical section." alt="" coords="895,729,1081,771"/>
+<area shape="rect" id="node41" href="$group__RTEMSScoreThread.html#ga03378c6b7617ec1b5fcc541423e662e5" title="Initializes thread and executes it." alt="" coords="932,795,1044,822"/>
+<area shape="rect" id="node44" href="$cancel_8c.html#a9e77a80c073787bf9a593e9c619dce27" title=" " alt="" coords="927,846,1049,873"/>
+<area shape="rect" id="node45" href="$pthreaddetach_8c.html#a7c275c509c26566b6dd95a2de1668a2f" title=" " alt="" coords="927,897,1049,923"/>
+<area shape="rect" id="node47" href="$group__ClassicTasks.html#gaf4a38e236136d5df6e5bef463a7e5506" title="Gets the processor affinity set of a task." alt="" coords="900,947,1076,974"/>
+<area shape="rect" id="node48" href="$group__ClassicTasks.html#ga5b5778a2be36d41764e730377ccc58a5" title="RTEMS Resume Task." alt="" coords="913,998,1063,1025"/>
+<area shape="rect" id="node49" href="$group__ClassicTasks.html#ga33444117a6771a55307452862a1ca944" title="Sets the processor affinity set of a task." alt="" coords="901,1049,1075,1075"/>
+<area shape="rect" id="node50" href="$group__ClassicTasks.html#ga16aca2f5aa37d9d2b2a1a54de0f63dbf" title="RTEMS Suspend Task." alt="" coords="910,1099,1066,1126"/>
+<area shape="rect" id="node6" href="$group__ClassicRateMon.html#ga4313840d58c7a2ccc4b1e6151e712bf7" title="RTEMS Rate Monotonic Cancel." alt="" coords="658,5,827,47"/>
+<area shape="rect" id="node8" href="$group__ClassicRegionImpl.html#ga3cf94767384ce29609efbb70c01f8531" title="Process Region Queue." alt="" coords="653,71,832,98"/>
+<area shape="rect" id="node10" href="$group__RTEMSBSPsV850GDBSim.html#ga44e69833220d6f060ab637fd7f53ca26" title=" " alt="" coords="641,122,844,149"/>
+<area shape="rect" id="node11" href="$pthreadexit_8c.html#a090bdc13141e76205fab4cb3c5fab0e4" title=" " alt="" coords="691,173,795,199"/>
+<area shape="rect" id="node13" href="$group__libmisc__stackchk.html#ga2ab96674e9e2f3ae35b8d165b548aa61" title=" " alt="" coords="663,224,822,265"/>
+<area shape="rect" id="node14" href="$group__ClassicTasks.html#ga80b90aa7c4e3e500fbbdb5de992a805b" title=" " alt="" coords="679,290,806,317"/>
+<area shape="rect" id="node15" href="$group__ClassicTasks.html#gad74c115e94d1f65c416444b36bf012bf" title="RTEMS Task Mode." alt="" coords="673,341,812,367"/>
+<area shape="rect" id="node19" href="$group__ClassicTasks.html#ga69becc1811a7654b0b74836272ac6429" title="RTEMS Task Wake After." alt="" coords="656,391,829,418"/>
+<area shape="rect" id="node28" href="$sched__yield_8c.html#a357cd4b34c13011749dfffb42b489f09" title=" " alt="" coords="693,518,792,545"/>
+<area shape="rect" id="node9" href="$group__ClassicRegion.html#ga1332adb33a1efe03e31a656a3cf5840c" title="RTEMS Return Region Segment." alt="" coords="419,21,574,63"/>
+<area shape="rect" id="node12" href="$thrd_8c.html#a3b41b58eeee148228fd188cdee6e9389" title=" " alt="" coords="457,87,537,114"/>
+<area shape="rect" id="node16" href="$group__ClassicSignalImpl.html#gaaa0e11ca22aa3c8e65543d6df98b9c2d" title=" " alt="" coords="410,138,583,165"/>
+<area shape="rect" id="node18" href="$signalmp_8c.html#a1259b6d2d57c4768c74ce209c6b16e75" title="Signal MP Process Packet." alt="" coords="5,384,159,425"/>
+<area shape="rect" id="node20" href="$intelFlash_8c.html#a3a98329f20052f9268e70729833ad2df" title=" " alt="" coords="409,189,584,215"/>
+<area shape="rect" id="node21" href="$lan91c11x_8h.html#a3ac7cb86f99220fe89c6298595fbbcbb" title=" " alt="" coords="405,239,589,266"/>
+<area shape="rect" id="node22" href="$lan91c11x_8h.html#ac264c06f764e6b559ce60049e456ce66" title=" " alt="" coords="403,290,591,317"/>
+<area shape="rect" id="node23" href="$mc68681__p_8h.html#a67ad58bc71a6122e20b568c6ea186835" title=" " alt="" coords="412,341,581,367"/>
+<area shape="rect" id="node24" href="$sys-rtems_8c.html#a2f05b83d36614683b8089c75e4781b0b" title=" " alt="" coords="452,391,541,418"/>
+<area shape="rect" id="node25" href="$m68k_2mrm332_2console_2sci_8c.html#a34488c1a3b19150c27b07a4f4eb0f0d9" title=" " alt="" coords="429,442,564,469"/>
+<area shape="rect" id="node26" href="$tms570-sci-driver_8h.html#a73848a263fd0b87c4ab8f1e151239fc5" title="Set attributes of the HW peripheral." alt="" coords="400,493,593,519"/>
+<area shape="rect" id="node27" href="$z85c30__p_8h.html#aabbd8c5d12d511456beff915e9dbd267" title=" " alt="" coords="419,543,574,570"/>
+<area shape="rect" id="node29" href="$thrd_8c.html#acbfb78346e6b76b23da1d2d8df03549a" title=" " alt="" coords="453,594,540,621"/>
+<area shape="rect" id="node31" href="$group__RTEMSScoreMutex.html#ga3c9beab408f6eaae8af2a29d962b08f3" title="Sets the owner of the ceiling mutex." alt="" coords="661,696,825,737"/>
+<area shape="rect" id="node33" href="$posix_2muteximpl_8h.html#aa099656aca92ad7c919c40cac2b1e226" title=" " alt="" coords="659,761,827,803"/>
+<area shape="rect" id="node35" href="$posix_2muteximpl_8h.html#aef2cdaf26c7b8333787140155835917f" title=" " alt="" coords="659,827,827,868"/>
+<area shape="rect" id="node36" href="$pthreadsetschedprio_8c.html#a7a23cbcfc21a4e3edf531ed65f022370" title=" " alt="" coords="661,893,824,919"/>
+<area shape="rect" id="node37" href="$group__ClassicTasks.html#gaf7c82a7fa13338a65583dc3d760ad9cc" title="RTEMS Delete Task." alt="" coords="671,943,814,970"/>
+<area shape="rect" id="node32" href="$group__RTEMSScoreMutex.html#gae40030a2c780f0da5839deee9387f340" title="Seizes the ceiling mutex." alt="" coords="415,696,579,737"/>
+<area shape="rect" id="node34" href="$posix_2muteximpl_8h.html#a02b950e3dfc08bf48aafac65eeaf58e7" title=" " alt="" coords="413,761,581,803"/>
+<area shape="rect" id="node38" href="$grspw__pkt_8c.html#a332e9d8281beb4acd9c2451488def344" title=" " alt="" coords="422,994,571,1021"/>
+<area shape="rect" id="node39" href="$mon-editor_8c.html#a503b370b65a466e1f3b8ac2340707fbd" title=" " alt="" coords="207,918,352,945"/>
+<area shape="rect" id="node40" href="$mon-server_8c.html#a03bb352865788430184a58aaead4286d" title=" " alt="" coords="400,943,593,970"/>
+<area shape="rect" id="node42" href="$group__ClassicTasks.html#gac7fe1362154946d78978ceb4f116f13e" title="RTEMS Start Task." alt="" coords="677,994,809,1021"/>
+<area shape="rect" id="node43" href="$group__ClassicTasksImpl.html#gac2c1ab4bf7c8768a39084976a8d9f669" title="System initialization handler to create and start the first user task." alt="" coords="407,1045,586,1087"/>
+<area shape="rect" id="node46" href="$thrd_8c.html#ad5380997f9e32a31f802bdd9cb266902" title=" " alt="" coords="693,1045,792,1071"/>
+</map>

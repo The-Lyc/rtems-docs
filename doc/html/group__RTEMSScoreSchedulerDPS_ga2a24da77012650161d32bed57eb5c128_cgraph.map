@@ -1,0 +1,30 @@
+<map id="_Scheduler_priority_Unblock" name="_Scheduler_priority_Unblock">
+<area shape="rect" id="node1" title="Unblocks the thread." alt="" coords="5,235,152,276"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreScheduler.html#gaefec9c3ea8b8a7a2090d982af594f414" title="Gets the priority of the node." alt="" coords="209,5,371,47"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreSchedulerDPS.html#ga8a69246c562c36bec9bf7047be7d50ae" title="Gets the context of the scheduler." alt="" coords="217,71,363,112"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreSchedulerDPS.html#ga46493ec8bb581ce801bf2b20e5067cfd" title="Gets the priority node of the scheduler node." alt="" coords="217,136,363,177"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreSchedulerDPS.html#ga6f9c3b0a25b20c2986d5936486e027fd" title="Enqueues a node on the specified ready queue." alt="" coords="200,201,380,243"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreSchedulerDPS.html#ga6acac442055201dbdda485d7b0021628" title="Updates the specified ready queue data according to the new priority value." alt="" coords="205,267,375,308"/>
+<area shape="rect" id="node17" href="$group__RTEMSScoreScheduler.html#ga29bb7f28ab22ddb95869cc527f2f75bf" title="Updates the heir." alt="" coords="201,333,379,359"/>
+<area shape="rect" id="node20" href="$group__RTEMSScoreThread.html#ga3107774ee53fe4ac8323ba4a0f48f8bc" title="Returns the priority of the thread." alt="" coords="211,414,369,441"/>
+<area shape="rect" id="node28" href="$if__xxx__rtems_8c.html#a0d44d815bf35b8d64e2c9b7dc79efa76" title=" " alt="" coords="271,465,309,491"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreScheduler.html#ga9c62ef5a388b998fa041a269297be1fe" title="Gets the context of the scheduler." alt="" coords="442,78,621,105"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreChain.html#gaa7011c6fe160c457a0d100e41ec3fffe" title="Appends a node (unprotected)." alt="" coords="428,158,635,185"/>
+<area shape="rect" id="node10" href="$group__RTEMSScorePriority.html#gaadf94736b9e458d8a92afbbfb2485e12" title="Adds Priority queue bit map information." alt="" coords="447,209,615,235"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreChain.html#gad7a790f247b3ace45f039c60c18f999f" title="Checks if the node is off chain." alt="" coords="685,95,831,136"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreChain.html#ga06f3e2dd6d64411f0565e3b483e53673" title="Returns pointer to chain tail." alt="" coords="711,161,805,187"/>
+<area shape="rect" id="node12" href="$group__RTEMSScorePriority.html#gab11e5706b0623eda6bb5a0c7f85f3a50" title="Initializes the bit map information." alt="" coords="432,260,631,301"/>
+<area shape="rect" id="node13" href="$group__RTEMSScorePriority.html#ga7e9cb59c60f7231a454824509f3a1b6a" title="Returns the bit index position for the specified major or minor bit number." alt="" coords="683,215,833,242"/>
+<area shape="rect" id="node14" href="$group__RTEMSScorePriority.html#ga1e9fd447bd6120ec504a82d5e4f4dc24" title="Returns the major portion of the_priority." alt="" coords="698,266,818,293"/>
+<area shape="rect" id="node15" href="$group__RTEMSScorePriority.html#gadf554c1cf4e5a358ebb28e90e013ccb1" title="Returns the priority bit mask for the specified major or minor bit number." alt="" coords="699,317,817,343"/>
+<area shape="rect" id="node16" href="$group__RTEMSScorePriority.html#gaaf7dd3dde9aa776f2c16fee4c1e572ed" title="Returns the minor portion of the_priority." alt="" coords="698,367,818,394"/>
+<area shape="rect" id="node18" href="$group__RTEMSScoreThread.html#ga04310043b907712ed8693fbbbc6ba0be" title="Gets the cpu of the thread&#39;s scheduler." alt="" coords="462,326,601,353"/>
+<area shape="rect" id="node19" href="$group__RTEMSScoreThread.html#ga02a75f308e726ba3f36a97cd758a8e7e" title="Updates the cpu time used of the thread." alt="" coords="450,377,613,419"/>
+<area shape="rect" id="node21" href="$group__RTEMSScorePriority.html#gaea7676bde1276ab7042195c043e25bd5" title="Gets the priority aggregation&#39;s priority." alt="" coords="451,443,611,470"/>
+<area shape="rect" id="node22" href="$group__RTEMSScoreThread.html#ga080a177afc4fc254a1081485cd89f75d" title="Gets the scheduler&#39;s home node." alt="" coords="445,495,618,536"/>
+<area shape="rect" id="node23" href="$group__RTEMSScoreChain.html#ga89304b2d294b98f4909dcb6e68d7ec82" title="Returns pointer to chain&#39;s first node." alt="" coords="919,477,1020,503"/>
+<area shape="rect" id="node25" href="$group__RTEMSScoreChain.html#ga67ffad0c14d402473760ec6bb8e93bcc" title="Checks if the chain is empty." alt="" coords="691,527,825,554"/>
+<area shape="rect" id="node24" href="$group__RTEMSScoreChain.html#gac08944db6f0428125d3b0d5a1c65b740" title="Returns pointer to immutable chain head." alt="" coords="1105,502,1288,529"/>
+<area shape="rect" id="node26" href="$group__RTEMSScoreChain.html#ga8b2c850d4d09d8db80d11e3199bce386" title="Returns pointer to immutable chain&#39;s first node." alt="" coords="881,527,1057,554"/>
+<area shape="rect" id="node27" href="$group__RTEMSScoreChain.html#gaa2f09e6d639b1bc5a27451eb119b6e33" title="Returns pointer to immutable chain tail." alt="" coords="883,578,1055,605"/>
+</map>

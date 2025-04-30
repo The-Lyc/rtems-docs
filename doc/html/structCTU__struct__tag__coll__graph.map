@@ -1,0 +1,32 @@
+<map id="CTU_struct_tag" name="CTU_struct_tag">
+<area shape="rect" id="node1" title=" " alt="" coords="343,928,464,955"/>
+<area shape="rect" id="node2" href="$unionCTU__FL__32B__tag.html" title=" " alt="" coords="40,132,171,159"/>
+<area shape="rect" id="node3" href="$unionCTU__FRA__32B__tag.html" title=" " alt="" coords="34,183,177,209"/>
+<area shape="rect" id="node4" href="$unionCTU__EXPECTED__A__16B__tag.html" title=" " alt="" coords="5,233,205,260"/>
+<area shape="rect" id="node5" href="$unionCTU__FILTER__16B__tag.html" title=" " alt="" coords="26,284,185,311"/>
+<area shape="rect" id="node6" href="$unionCTU__TH1__32B__tag.html" title=" " alt="" coords="34,335,177,361"/>
+<area shape="rect" id="node7" href="$unionCTU__CLCR2__32B__tag.html" title=" " alt="" coords="26,385,185,412"/>
+<area shape="rect" id="node8" href="$unionCTU__CNT__RANGE__16B__tag.html" title=" " alt="" coords="7,436,203,463"/>
+<area shape="rect" id="node9" href="$unionCTU__CTUIR__16B__tag.html" title=" " alt="" coords="27,487,183,513"/>
+<area shape="rect" id="node10" href="$unionCTU__FLA__32B__tag.html" title=" " alt="" coords="35,537,176,564"/>
+<area shape="rect" id="node11" href="$unionCTU__FR__32B__tag.html" title=" " alt="" coords="39,669,172,696"/>
+<area shape="rect" id="node12" href="$unionCTU__TGSCCR__16B__tag.html" title=" " alt="" coords="21,720,190,747"/>
+<area shape="rect" id="node13" href="$unionCTU__COTR__16B__tag.html" title=" " alt="" coords="29,771,181,797"/>
+<area shape="rect" id="node14" href="$unionCTU__CTUIFR__16B__tag.html" title=" " alt="" coords="23,821,187,848"/>
+<area shape="rect" id="node15" href="$unionCTU__STS__32B__tag.html" title=" " alt="" coords="35,872,175,899"/>
+<area shape="rect" id="node16" href="$unionCTU__EXPECTED__B__16B__tag.html" title=" " alt="" coords="5,923,205,949"/>
+<area shape="rect" id="node17" href="$unionCTU__TH2__32B__tag.html" title=" " alt="" coords="34,973,177,1000"/>
+<area shape="rect" id="node18" href="$unionCTU__THCR1__32B__tag.html" title=" " alt="" coords="25,1024,185,1051"/>
+<area shape="rect" id="node19" href="$unionCTU__TGSCR__16B__tag.html" title=" " alt="" coords="25,1075,185,1101"/>
+<area shape="rect" id="node20" href="$unionCTU__CTUEFR__16B__tag.html" title=" " alt="" coords="21,1125,189,1152"/>
+<area shape="rect" id="node21" href="$unionCTU__TGSISR__32B__tag.html" title=" " alt="" coords="24,1176,187,1203"/>
+<area shape="rect" id="node22" href="$unionCTU__CR__16B__tag.html" title=" " alt="" coords="38,1227,173,1253"/>
+<area shape="rect" id="node23" href="$unionCTU__CLR__DCM__16B__tag.html" title=" " alt="" coords="16,1392,195,1419"/>
+<area shape="rect" id="node24" href="$unionCTU__CLR__SCM__16B__tag.html" title=" " alt="" coords="17,1581,194,1608"/>
+<area shape="rect" id="node25" href="$unionCTU__THCR2__32B__tag.html" title=" " alt="" coords="25,1632,185,1659"/>
+<area shape="rect" id="node26" href="$unionCTU__TCR__16B__tag.html" title=" " alt="" coords="35,1787,176,1813"/>
+<area shape="rect" id="node27" href="$unionCTU__TGSCRR__16B__tag.html" title=" " alt="" coords="21,1837,190,1864"/>
+<area shape="rect" id="node28" href="$unionCTU__CTUCR__16B__tag.html" title=" " alt="" coords="25,1888,186,1915"/>
+<area shape="rect" id="node29" href="$unionCTU__CLCR1__32B__tag.html" title=" " alt="" coords="26,1939,185,1965"/>
+<area shape="rect" id="node30" href="$unionCTU__FCR__32B__tag.html" title=" " alt="" coords="34,1989,177,2016"/>
+</map>

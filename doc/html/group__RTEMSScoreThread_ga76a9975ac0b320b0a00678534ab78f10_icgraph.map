@@ -1,0 +1,6 @@
+<map id="_Thread_Priority_change" name="_Thread_Priority_change">
+<area shape="rect" id="node1" title="Changes the thread priority value of the specified thread priority node in the corresponding thread p..." alt="" coords="252,71,435,98"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreMutex.html#gae13f723fc5cdac5a7f9b5f910b284bf6" title="Sets the priority of the ceiling mutex." alt="" coords="23,5,187,47"/>
+<area shape="rect" id="node3" href="$posix_2muteximpl_8h.html#abfafb525a73733f9fdb9d99cfa8b865a" title=" " alt="" coords="5,71,204,98"/>
+<area shape="rect" id="node4" href="$pthreadsetschedprio_8c.html#a7a23cbcfc21a4e3edf531ed65f022370" title=" " alt="" coords="23,122,186,149"/>
+</map>

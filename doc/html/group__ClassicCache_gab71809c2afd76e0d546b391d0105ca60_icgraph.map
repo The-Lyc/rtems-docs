@@ -1,0 +1,10 @@
+<map id="rtems_cache_flush_multiple_data_lines" name="rtems_cache_flush_multiple_data_lines">
+<area shape="rect" id="node1" title="Flushes multiple data cache lines." alt="" coords="701,78,905,119"/>
+<area shape="rect" id="node2" href="$bsp-uboot-board-info_8c.html#a6d0c70f2be8bbc843da353f42696db9d" title=" " alt="" coords="451,5,653,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSBSPsPowerPCSharedUtility.html#ga2e14393cbb4fc737bc999816febc8228" title=" " alt="" coords="491,56,613,83"/>
+<area shape="rect" id="node4" href="$group__ClassicCache.html#ga5e231667c6314e520fe3d77d64f260ee" title="Ensure necessary synchronization required after code changes." alt="" coords="458,107,646,149"/>
+<area shape="rect" id="node5" href="$rtems-debugger-target_8h.html#a8e2cb9b790c1267678dc15371d2497ad" title=" " alt="" coords="465,173,639,214"/>
+<area shape="rect" id="node6" href="$rtems-debugger-target_8h.html#ae92c00ff1fdf955b3832e5adce85bc14" title=" " alt="" coords="228,139,403,181"/>
+<area shape="rect" id="node7" href="$rtems-debugger-target_8h.html#a0d670aca22774043efa96f1248adf398" title=" " alt="" coords="228,205,403,246"/>
+<area shape="rect" id="node8" href="$rtems-debugger-target_8h.html#a101ab22491608798d0172d6747e07d75" title=" " alt="" coords="5,205,180,246"/>
+</map>

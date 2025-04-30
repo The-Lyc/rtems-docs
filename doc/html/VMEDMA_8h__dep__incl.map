@@ -1,0 +1,9 @@
+<map id="bsps/powerpc/include/bsp/VMEDMA.h" name="bsps/powerpc/include/bsp/VMEDMA.h">
+<area shape="rect" id="node1" title="Public interface of DMA routines." alt="" coords="244,5,406,47"/>
+<area shape="rect" id="node2" href="$vme__dma_8c.html" title=" " alt="" coords="26,184,190,225"/>
+<area shape="rect" id="node3" href="$bspVmeDmaList_8h.html" title="This header should only be used inside a BSP chosing to use bspVmeDmaList for implementing VMEDMA...." alt="" coords="239,95,411,136"/>
+<area shape="rect" id="node4" href="$bspVmeDmaList_8c.html" title=" " alt="" coords="139,273,316,315"/>
+<area shape="rect" id="node6" href="$vmeTsi148_8c.html" title=" " alt="" coords="467,273,626,315"/>
+<area shape="rect" id="node7" href="$vme__universe_8c.html" title=" " alt="" coords="473,184,636,225"/>
+<area shape="rect" id="node5" href="$bspVmeDmaListP_8h.html" title="Private Interface to the bspVmeDmaList facility." alt="" coords="265,184,449,225"/>
+</map>

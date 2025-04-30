@@ -1,0 +1,8 @@
+<map id="rtems_print_printer_printk" name="rtems_print_printer_printk">
+<area shape="rect" id="node1" title="Initializes the printer to print via printk()." alt="" coords="5,23,152,65"/>
+<area shape="rect" id="node2" href="$printk__plugin_8c.html#ada3e7b4e55515d9b5bd320510e73414b" title=" " alt="" coords="200,31,355,57"/>
+<area shape="rect" id="node3" href="$bspIo_8h.html#a48cd00393a9699689b769200037738bb" title="Variable Argument printk()" alt="" coords="403,31,471,57"/>
+<area shape="rect" id="node4" href="$cpukit_2include_2rtems_2score_2io_8h.html#a6bb6bc6df4759579fd2e424421168c24" title=" " alt="" coords="533,5,627,32"/>
+<area shape="rect" id="node5" href="$bspIo_8h.html#aa7aa6e025aa35b36643e9ddbc2eccc10" title="Puts the character via rtems_putc()." alt="" coords="519,56,641,83"/>
+<area shape="rect" id="node6" href="$bspIo_8h.html#a6fd11f34260f10035f38a051af872e1e" title="Kernel Put Character." alt="" coords="689,56,784,83"/>
+</map>

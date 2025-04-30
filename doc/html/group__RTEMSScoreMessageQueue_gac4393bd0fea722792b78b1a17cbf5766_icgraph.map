@@ -1,0 +1,4 @@
+<map id="_CORE_message_queue_Copy_buffer" name="_CORE_message_queue_Copy_buffer">
+<area shape="rect" id="node1" title="Copies the source message buffer to the destination message buffer." alt="" coords="232,5,411,47"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreMessageQueue.html#ga04e5a29d51194c8151bdaf94d2694a63" title="Inserts a message into the message queue." alt="" coords="5,5,184,47"/>
+</map>

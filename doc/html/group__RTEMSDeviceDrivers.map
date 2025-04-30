@@ -1,0 +1,16 @@
+<map id="Device Drivers" name="Device Drivers">
+<area shape="rect" id="node1" href="$group__libmisc__fb__mw.html" title=" " alt="" coords="172,5,404,31"/>
+<area shape="rect" id="node2" href="$group__rtems__rtc.html" title=" " alt="" coords="202,55,374,95"/>
+<area shape="rect" id="node3" href="$group__libi2c.html" title="Legacy I2C library." alt="" coords="217,120,359,145"/>
+<area shape="rect" id="node4" href="$group__rtems__libblock.html" title="Block device modules." alt="" coords="210,169,366,195"/>
+<area shape="rect" id="node5" href="$group__I2C.html" title="Inter&#45;Integrated Circuit (I2C) bus and device driver support." alt="" coords="203,219,373,259"/>
+<area shape="rect" id="node6" title="Device Drivers." alt="" coords="5,348,124,373"/>
+<area shape="rect" id="node7" href="$group__SPI.html" title="Serial Peripheral Interface (SPI) bus driver support." alt="" coords="193,283,383,323"/>
+<area shape="rect" id="node8" href="$group__libmisc__mouse.html" title="Serial Mouse." alt="" coords="235,348,341,373"/>
+<area shape="rect" id="node9" href="$group__libmisc__devzero.html" title=" " alt="" coords="215,397,361,423"/>
+<area shape="rect" id="node10" href="$group__RTEMSTimeTest27Support.html" title="Time Test 27 Support." alt="" coords="209,447,367,472"/>
+<area shape="rect" id="node11" href="$group__RTEMSLegacyBenchmarkDrivers.html" title="Legacy Benchmark Drivers." alt="" coords="189,496,387,521"/>
+<area shape="rect" id="node12" href="$group__RTEMSDriverClock.html" title="The Clock Driver API." alt="" coords="237,545,339,571"/>
+<area shape="rect" id="node13" href="$group__libmisc__fb.html" title=" " alt="" coords="211,595,365,635"/>
+<area shape="rect" id="node14" href="$group__libmisc__devnull.html" title=" " alt="" coords="217,660,359,685"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="cpukit/include/rtems/score/timespec.h" name="cpukit/include/rtems/score/timespec.h">
+<area shape="rect" id="node1" title="Contains Helpers for Manipulating Timespecs." alt="" coords="7219,5,7373,47"/>
+<area shape="rect" id="node2" href="$pthreadimpl_8h.html" title="POSIX Threads Private Support." alt="" coords="2527,184,2683,225"/>
+<area shape="rect" id="node22" href="$timestamp_8h.html" title="Helpers for Manipulating Timestamps." alt="" coords="5267,95,5421,136"/>
+<area shape="rect" id="node37" href="$adjtime_8c.html" title="Adjust the Time to Synchronize the System Clock." alt="" coords="6308,281,6497,307"/>
+<area shape="rect" id="node38" href="$timespecaddto_8c.html" title="Add to a Timespec." alt="" coords="6522,281,6758,307"/>
+<area shape="rect" id="node39" href="$timespecdivide_8c.html" title="Divide Timespec By Integer." alt="" coords="6782,281,7021,307"/>
+<area shape="rect" id="node40" href="$timespecdividebyinteger_8c.html" title="Divide Timespec By Integer." alt="" coords="7045,281,7345,307"/>
+<area shape="rect" id="node41" href="$timespecfromticks_8c.html" title="Convert Ticks to Timespec." alt="" coords="7369,281,7631,307"/>
+<area shape="rect" id="node42" href="$timespecgetasnanoseconds_8c.html" title="Get As Nanoseconds." alt="" coords="7655,281,7975,307"/>
+<area shape="rect" id="node43" href="$timespecisvalid_8c.html" title="Is Timespec Valid." alt="" coords="7999,281,8241,307"/>
+<area shape="rect" id="node44" href="$timespecsubtract_8c.html" title="Subtract Two Timespec." alt="" coords="8266,281,8518,307"/>
+<area shape="rect" id="node45" href="$timespectoticks_8c.html" title=" " alt="" coords="8543,281,8785,307"/>
+<area shape="rect" id="node47" href="$timespec_8h.html" title="Timespec API." alt="" coords="7485,95,7640,136"/>
+<area shape="rect" id="node48" href="$nanosleep_8c.html" title="Suspends Execution of calling thread until Time elapses." alt="" coords="7665,102,7871,129"/>
+<area shape="rect" id="node49" href="$sched__rr__get__interval_8c.html" title="Limits for Scheduling Parameter." alt="" coords="7895,95,8062,136"/>
+<area shape="rect" id="node50" href="$timespeclessthan_8c.html" title="Timespec Less Than Operator." alt="" coords="8086,102,8341,129"/>
+<area shape="rect" id="node3" href="$adasupp_8c.html" title=" " alt="" coords="3355,281,3536,307"/>
+<area shape="rect" id="node4" href="$mon-object_8c.html" title=" " alt="" coords="3560,273,3728,315"/>
+<area shape="rect" id="node5" href="$kill_8c.html" title="Send a Signal to a Process." alt="" coords="3753,281,3911,307"/>
+<area shape="rect" id="node6" href="$kill__r_8c.html" title="Send a Signal to a Process." alt="" coords="5,281,176,307"/>
+<area shape="rect" id="node7" href="$killinfo_8c.html" title="Send a Signal to a Process." alt="" coords="200,281,384,307"/>
+<area shape="rect" id="node8" href="$psignal_8c.html" title="POSIX Signals Manager Initialization." alt="" coords="408,281,595,307"/>
+<area shape="rect" id="node9" href="$psignalclearsignals_8c.html" title="POSIX Signals Clear Signals." alt="" coords="3936,281,4200,307"/>
+<area shape="rect" id="node10" href="$psignalsetprocesssignals_8c.html" title="POSIX Signals Set Process Signals." alt="" coords="4225,281,4527,307"/>
+<area shape="rect" id="node11" href="$psignalunblockthread_8c.html" title="POSIX Signals Thread Unlock." alt="" coords="619,281,898,307"/>
+<area shape="rect" id="node12" href="$psxtransschedparam_8c.html" title="Translate sched_param into SuperCore Terms." alt="" coords="923,281,1197,307"/>
+<area shape="rect" id="node13" href="$pthreadcreate_8c.html" title="Function Starts a New Thread in The Calling Process." alt="" coords="1222,281,1453,307"/>
+<area shape="rect" id="node14" href="$pthreadequal_8c.html" title="Compare Thread IDs." alt="" coords="1477,281,1702,307"/>
+<area shape="rect" id="node15" href="$pthreadgetattrnp_8c.html" title="Pthread Get Attribute." alt="" coords="1726,281,1975,307"/>
+<area shape="rect" id="node16" href="$pthreadgetschedparam_8c.html" title="Gets Scheduling Policy and Parameters of Individual Threads." alt="" coords="2000,281,2291,307"/>
+<area shape="rect" id="node17" href="$pthreadsetschedparam_8c.html" title="Function sets scheduling policy and parameters of the thread." alt="" coords="2315,281,2605,307"/>
+<area shape="rect" id="node18" href="$pthreadsigmask_8c.html" title="Examine and/or change the calling thread&#39;s signal mask." alt="" coords="2629,281,2873,307"/>
+<area shape="rect" id="node19" href="$sigpending_8c.html" title="Examine Pending Signals." alt="" coords="2897,281,3108,307"/>
+<area shape="rect" id="node20" href="$sigqueue_8c.html" title="Queue a Signal to a Process." alt="" coords="3131,281,3330,307"/>
+<area shape="rect" id="node21" href="$sigtimedwait_8c.html" title="Wait for Queued Signals." alt="" coords="5697,281,5921,307"/>
+<area shape="rect" id="node23" href="$ratemondata_8h.html" title="Classic Rate Monotonic Scheduler Data Structures." alt="" coords="4551,273,4715,315"/>
+<area shape="rect" id="node26" href="$score_2percpu_8h.html" title=" " alt="" coords="5209,184,5364,225"/>
+<area shape="rect" id="node33" href="$score_2thread_8h.html" title="Constants and Structures Related with the Thread Control Block." alt="" coords="4832,184,4987,225"/>
+<area shape="rect" id="node34" href="$timestampimpl_8h.html" title="Helpers for Manipulating Timestamps." alt="" coords="4579,184,4757,225"/>
+<area shape="rect" id="node35" href="$todimpl_8h.html" title="Time of Day Handler API." alt="" coords="6971,184,7125,225"/>
+<area shape="rect" id="node36" href="$____times_8c.html" title="Get Process Times." alt="" coords="6145,273,6284,315"/>
+<area shape="rect" id="node46" href="$cpuuseimpl_8h.html" title=" " alt="" coords="5439,184,5601,225"/>
+<area shape="rect" id="node24" href="$ratemonimpl_8h.html" title="Classic Rate Monotonic Scheduler Implementation." alt="" coords="4449,363,4613,404"/>
+<area shape="rect" id="node25" href="$ratemon_8c.html" title="Classic Rate Monotonic Information with Zero Objects." alt="" coords="4637,370,4835,397"/>
+<area shape="rect" id="node27" href="$clockimpl_8h.html" title="Clock Tick Device Driver Shell." alt="" coords="5110,273,5277,315"/>
+<area shape="rect" id="node28" href="$bsps_2bfin_2shared_2dev_2clock_8c.html" title=" " alt="" coords="4739,273,4895,315"/>
+<area shape="rect" id="node29" href="$or1k_2shared_2cache_2cache_8c.html" title=" " alt="" coords="5946,273,6121,315"/>
+<area shape="rect" id="node30" href="$exceptionhandler_8c.html" title=" " alt="" coords="5484,273,5673,315"/>
+<area shape="rect" id="node31" href="$clock-ppc-dec_8c.html" title=" " alt="" coords="4920,273,5085,315"/>
+<area shape="rect" id="node32" href="$pte121_8c.html" title=" " alt="" coords="5301,273,5459,315"/>
+</map>

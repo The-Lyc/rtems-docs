@@ -1,0 +1,12 @@
+<map id="_Workspace_Free" name="_Workspace_Free">
+<area shape="rect" id="node1" title="Frees memory to the workspace." alt="" coords="681,91,816,118"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreObject.html#ga53e22e0d0d91b0f5159aff84a1c40ef3" title="Free the objects block with the specified index." alt="" coords="449,19,616,60"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreObject.html#ga9bcaf0821a56159d15dbb69f97587aba" title="Removes object with a string name from its namespace." alt="" coords="451,84,614,125"/>
+<area shape="rect" id="node9" href="$group__POSIXShmPrivate.html#ga8fa5e0cd45080a255de7fa174fa6fa8c" title="object_delete operation for shm objects stored in RTEMS Workspace." alt="" coords="432,163,633,204"/>
+<area shape="rect" id="node4" href="$mqueueimpl_8h.html#a900ca80a04d42f677e02783ecbec04b5" title="POSIX Message Queue Remove from Namespace." alt="" coords="177,5,357,47"/>
+<area shape="rect" id="node6" href="$posix_2semaphoreimpl_8h.html#a076e453665acee61e02c5427c2bb2e30" title="POSIX Semaphore Namespace Remove." alt="" coords="151,71,384,112"/>
+<area shape="rect" id="node8" href="$shmunlink_8c.html#a4037e49e9537e24edd610bd1acf090da" title=" " alt="" coords="219,137,316,163"/>
+<area shape="rect" id="node5" href="$mqueueunlink_8c.html#accd8c5ee36e60d990963e1d544ef4140" title=" " alt="" coords="9,13,99,39"/>
+<area shape="rect" id="node7" href="$semunlink_8c.html#a776256d1a473906f8b7490689bfcb75c" title=" " alt="" coords="5,78,103,105"/>
+<area shape="rect" id="node10" href="$group__POSIXShmPrivate.html#gaa01bbb91f3e013bb50e38c0773fb57e1" title="object_resize operation for shm objects stored in RTEMS Workspace." alt="" coords="168,188,367,229"/>
+</map>

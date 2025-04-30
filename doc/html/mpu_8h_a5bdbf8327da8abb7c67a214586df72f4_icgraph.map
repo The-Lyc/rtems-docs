@@ -1,0 +1,5 @@
+<map id="MPU_CalMPURegionSize" name="MPU_CalMPURegionSize">
+<area shape="rect" id="node1" title="Calculate region size for the RASR." alt="" coords="371,5,553,32"/>
+<area shape="rect" id="node2" href="$board__lowlevel_8c.html#a9744d00e2d0a1292c99875113204bcfc" title="Set up a memory region." alt="" coords="157,5,323,32"/>
+<area shape="rect" id="node3" href="$board__lowlevel_8c.html#a3bcea99c8a544fd0c3a62f43d1259072" title="Performs the low&#45;level initialization of the chip." alt="" coords="5,5,109,32"/>
+</map>

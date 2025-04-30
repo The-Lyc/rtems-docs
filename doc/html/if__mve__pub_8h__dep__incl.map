@@ -1,0 +1,6 @@
+<map id="bsps/powerpc/beatnik/include/bsp/if_mve_pub.h" name="bsps/powerpc/beatnik/include/bsp/if_mve_pub.h">
+<area shape="rect" id="node1" title=" " alt="" coords="248,5,440,47"/>
+<area shape="rect" id="node2" href="$mv643xx__eth_8c.html" title=" " alt="" coords="5,95,205,136"/>
+<area shape="rect" id="node3" href="$mve__smallbuf__tst_8c.html" title=" " alt="" coords="230,95,458,136"/>
+<area shape="rect" id="node4" href="$bsp__attach_8c.html" title=" " alt="" coords="483,95,669,136"/>
+</map>

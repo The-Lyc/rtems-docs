@@ -1,0 +1,10 @@
+<map id="_CORE_message_queue_Close" name="_CORE_message_queue_Close">
+<area shape="rect" id="node1" title="Closes a message queue." alt="" coords="668,75,847,117"/>
+<area shape="rect" id="node2" href="$mqueuedeletesupp_8c.html#ae039164eaed43207a96cc24ded97b8a6" title="Delete a POSIX Message Queue." alt="" coords="440,42,620,83"/>
+<area shape="rect" id="node5" href="$group__ClassicMessageQueue.html#ga4cf66620ef43543885708a1185b386ab" title="RTEMS Delete Message Queue." alt="" coords="443,107,617,149"/>
+<area shape="rect" id="node3" href="$mqueueclose_8c.html#a3fbd3906296be63451c64d69be2bc371" title=" " alt="" coords="253,5,337,32"/>
+<area shape="rect" id="node4" href="$mqueueunlink_8c.html#accd8c5ee36e60d990963e1d544ef4140" title=" " alt="" coords="250,56,341,83"/>
+<area shape="rect" id="node6" href="$grspw__pkt_8c.html#a332e9d8281beb4acd9c2451488def344" title=" " alt="" coords="221,111,370,137"/>
+<area shape="rect" id="node7" href="$mon-server_8c.html#a03bb352865788430184a58aaead4286d" title=" " alt="" coords="199,161,392,188"/>
+<area shape="rect" id="node8" href="$mon-editor_8c.html#a503b370b65a466e1f3b8ac2340707fbd" title=" " alt="" coords="5,161,151,188"/>
+</map>

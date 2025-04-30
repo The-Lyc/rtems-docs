@@ -1,0 +1,6 @@
+<map id="sched_get_priority_max" name="sched_get_priority_max">
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,184,98"/>
+<area shape="rect" id="node2" href="$group__POSIX__PRIORITY.html#ga3fbcaad724a60cf1caa7a176ca4ab616" title="Gets the maximum POSIX API priority for this scheduler instance." alt="" coords="265,5,417,47"/>
+<area shape="rect" id="node3" href="$group__PerCPU.html#ga294cfaf3cf50de03f1d9821d68b9c1bd" title="Returns the thread control block of the executing thread." alt="" coords="253,71,428,98"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreThread.html#ga0071d4e11d2d68b2e4c43ffe2108e7f5" title="Gets the home scheduler of the thread." alt="" coords="232,122,449,149"/>
+</map>

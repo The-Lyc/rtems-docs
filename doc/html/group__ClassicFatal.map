@@ -1,0 +1,4 @@
+<map id="Fatal" name="Fatal">
+<area shape="rect" id="node1" title="The Fatal Manager provides functions for fatal system states and or irrecoverable errors." alt="" coords="121,5,175,31"/>
+<area shape="rect" id="node2" href="$group__RTEMSAPIClassic.html" title="RTEMS Classic API definitions and modules." alt="" coords="5,5,73,31"/>
+</map>

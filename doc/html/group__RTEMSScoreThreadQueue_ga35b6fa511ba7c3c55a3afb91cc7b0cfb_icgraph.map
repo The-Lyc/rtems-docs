@@ -1,0 +1,5 @@
+<map id="_Thread_queue_Is_empty" name="_Thread_queue_Is_empty">
+<area shape="rect" id="node1" title="Checks if the thread queue queue is empty." alt="" coords="232,42,420,69"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreRWLock.html#ga44d546f0608f0a64a0473cf70bcd251c" title="Obtains RWLock for reading." alt="" coords="11,5,178,47"/>
+<area shape="rect" id="node3" href="$prwlockdestroy_8c.html#a1f09d276abc527af4e6869c609ae0f30" title=" " alt="" coords="5,71,184,98"/>
+</map>

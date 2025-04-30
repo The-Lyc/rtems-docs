@@ -1,0 +1,5 @@
+<map id="_Chain_Append_unprotected" name="_Chain_Append_unprotected">
+<area shape="rect" id="node1" title="Appends a node (unprotected)." alt="" coords="5,42,212,69"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreChain.html#gad7a790f247b3ace45f039c60c18f999f" title="Checks if the node is off chain." alt="" coords="260,5,407,47"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreChain.html#ga06f3e2dd6d64411f0565e3b483e53673" title="Returns pointer to chain tail." alt="" coords="286,71,381,98"/>
+</map>

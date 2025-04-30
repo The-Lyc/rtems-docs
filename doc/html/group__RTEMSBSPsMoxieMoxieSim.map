@@ -1,0 +1,4 @@
+<map id="Simulator" name="Simulator">
+<area shape="rect" id="node1" title="Simulator Board Support Package." alt="" coords="116,5,201,31"/>
+<area shape="rect" id="node2" href="$group__RTEMSBSPsMoxie.html" title="Moxie Board Support Packages." alt="" coords="5,5,68,31"/>
+</map>

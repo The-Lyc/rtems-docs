@@ -1,0 +1,5 @@
+<map id="_Event_Surrender" name="_Event_Surrender">
+<area shape="rect" id="node1" title=" " alt="" coords="5,35,141,61"/>
+<area shape="rect" id="node2" href="$group__ClassicEventImpl.html#ga7f13b2e266b6f66390fcdf588ae80262" title="Posts the given new_events into the event_set passed in." alt="" coords="205,5,339,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreThread.html#gafbc47e5ce486029f2311242f2303c66d" title="Acquires the thread wait default lock inside a critical section (interrupts disabled)." alt="" coords="189,57,355,98"/>
+</map>

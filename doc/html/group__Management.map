@@ -1,0 +1,6 @@
+<map id="Management" name="Management">
+<area shape="rect" id="node1" href="$group__rtems__disk.html" title="This module provides functions to manage disk devices." alt="" coords="417,5,648,31"/>
+<area shape="rect" id="node2" title="Management." alt="" coords="133,36,241,61"/>
+<area shape="rect" id="node4" href="$group__rtems__blkdev.html" title=" " alt="" coords="434,65,631,91"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreCPUExample.html" title="Example CPU Architecture Support." alt="" coords="5,36,84,61"/>
+</map>

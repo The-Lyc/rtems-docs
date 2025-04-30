@@ -1,0 +1,47 @@
+<map id="Thread_queue_Syslock_queue" name="Thread_queue_Syslock_queue">
+<area shape="rect" id="node1" title="Thread queue with a layout compatible to struct _Thread_queue_Queue defined in Newlib &lt;sys/lock...." alt="" coords="1899,345,2069,386"/>
+<area shape="rect" id="node2" href="$structThread__queue__Queue.html" title=" " alt="" coords="1497,323,1660,349"/>
+<area shape="rect" id="node11" href="$structThread__Wait__information.html" title="Information required to manage a thread while it is blocked." alt="" coords="1891,139,2077,165"/>
+<area shape="rect" id="node12" href="$structThread__queue__Operations.html" title="Thread queue operations." alt="" coords="2620,243,2812,269"/>
+<area shape="rect" id="node19" href="$structThread__queue__Control.html" title=" " alt="" coords="1900,411,2068,437"/>
+<area shape="rect" id="node3" href="$struct__Thread__Control.html" title=" " alt="" coords="2297,755,2425,781"/>
+<area shape="rect" id="node6" href="$structScheduler__Node.html" title="Scheduler node for per&#45;thread data." alt="" coords="2653,553,2779,580"/>
+<area shape="rect" id="node23" href="$structThread__Action.html" title="Thread action." alt="" coords="2659,948,2773,975"/>
+<area shape="rect" id="node39" href="$structThread__Start__information.html" title=" " alt="" coords="2622,897,2810,924"/>
+<area shape="rect" id="node4" href="$structThread__Keys__information.html" title="Per&#45;thread information for POSIX Keys." alt="" coords="1890,652,2078,679"/>
+<area shape="rect" id="node5" href="$structThread__Scheduler__control.html" title="Thread scheduler control." alt="" coords="2967,621,3157,648"/>
+<area shape="rect" id="node14" href="$structThread__queue__Priority__queue.html" title="Thread priority queue." alt="" coords="2978,475,3146,517"/>
+<area shape="rect" id="node7" href="$structPriority__Aggregation.html" title="The priority aggregation." alt="" coords="2284,483,2439,509"/>
+<area shape="rect" id="node8" href="$structPriority__Node.html" title="The priority node to build up a priority aggregation." alt="" coords="1724,721,1835,748"/>
+<area shape="rect" id="node9" href="$structRBTree__Node.html" title="Red&#45;black tree node." alt="" coords="1101,895,1209,921"/>
+<area shape="rect" id="node37" href="$structWatchdog__Control.html" title="The control block used to manage each watchdog timer." alt="" coords="1509,867,1649,893"/>
+<area shape="rect" id="node38" href="$structWatchdog__Header.html" title="The watchdog header to manage scheduled watchdogs." alt="" coords="1509,917,1649,944"/>
+<area shape="rect" id="node10" href="$structChain__Node__struct.html" title=" " alt="" coords="5,844,149,871"/>
+<area shape="rect" id="node13" href="$struct__Thread__queue__Heads.html" title="Thread queue heads." alt="" coords="3257,293,3427,320"/>
+<area shape="rect" id="node15" href="$unionChain__Control.html" title=" " alt="" coords="327,1392,441,1419"/>
+<area shape="rect" id="node18" href="$structChain__Iterator.html" title="A chain iterator which is updated during node extraction if it is properly registered." alt="" coords="327,788,441,815"/>
+<area shape="rect" id="node25" href="$structObjects__Control.html" title=" " alt="" coords="321,676,447,703"/>
+<area shape="rect" id="node29" href="$structrtems__filesystem__location__info__tt.html" title="File system location." alt="" coords="1057,1273,1252,1314"/>
+<area shape="rect" id="node30" href="$structrtems__filesystem__mount__table__entry__tt.html" title="Mount table entry." alt="" coords="659,1606,843,1647"/>
+<area shape="rect" id="node24" href="$structThread__Action__control.html" title="Control block to manage thread actions." alt="" coords="867,1219,1033,1245"/>
+<area shape="rect" id="node16" href="$unionThread__Wait__information__Object__argument__type.html" title="Union type to hold a pointer to an immutable or a mutable object." alt="" coords="1485,131,1672,173"/>
+<area shape="rect" id="node17" href="$structUser__extensions__Iterator.html" title="Chain iterator for dynamic user extensions." alt="" coords="1276,809,1461,836"/>
+<area shape="rect" id="node20" href="$structContext__Control__fp.html" title="SPARC basic context." alt="" coords="1911,1019,2057,1045"/>
+<area shape="rect" id="node21" href="$structThread__Capture__control.html" title=" " alt="" coords="1895,917,2073,944"/>
+<area shape="rect" id="node22" href="$structThread__Life__control.html" title="Thread life control." alt="" coords="2987,783,3137,809"/>
+<area shape="rect" id="node26" href="$unionObjects__Name.html" title=" " alt="" coords="19,5,136,32"/>
+<area shape="rect" id="node27" href="$structrtems__user__env__t.html" title="User environment." alt="" coords="1915,1136,2053,1163"/>
+<area shape="rect" id="node28" href="$structrtems__filesystem__global__location__t.html" title="Global file system location." alt="" coords="1487,1310,1670,1351"/>
+<area shape="rect" id="node33" href="$structrtems__filesystem__eval__path__context__t.html" title="Path evaluation context." alt="" coords="1899,1373,2069,1414"/>
+<area shape="rect" id="node32" href="$struct__rtems__filesystem__operations__table.html" title="File system operations table." alt="" coords="2252,1587,2471,1629"/>
+<area shape="rect" id="node34" href="$struct__rtems__filesystem__file__handlers__r.html" title="File system node operations table." alt="" coords="1899,1070,2069,1111"/>
+<area shape="rect" id="node35" href="$structrtems__libio__tt.html" title="An open file data structure." alt="" coords="1523,1219,1635,1245"/>
+<area shape="rect" id="node31" href="$structrtems__filesystem__limits__and__options__t.html" title="Contain file system specific information which is required to support fpathconf()." alt="" coords="295,1703,473,1745"/>
+<area shape="rect" id="node36" href="$structThread__Timer__information.html" title="Information required to manage a thread timer." alt="" coords="1887,867,2081,893"/>
+<area shape="rect" id="node40" href="$structThread__Entry__information.html" title="Thread entry information." alt="" coords="2266,1212,2457,1239"/>
+<area shape="rect" id="node41" href="$structThread__Entry__idle.html" title="Data for idle thread entry." alt="" coords="1915,1187,2053,1213"/>
+<area shape="rect" id="node42" href="$structThread__Entry__numeric.html" title="Data for thread entry with one numeric argument and no return value." alt="" coords="1900,1237,2068,1264"/>
+<area shape="rect" id="node43" href="$structThread__Entry__pointer.html" title="Data for thread entry with one pointer argument and a pointer return value." alt="" coords="1903,1288,2065,1315"/>
+<area shape="rect" id="node44" href="$structStack__Control.html" title=" " alt="" coords="2305,925,2417,952"/>
+<area shape="rect" id="node45" href="$structContext__Control.html" title="Thread register context." alt="" coords="1921,601,2047,628"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="dc_softc" name="dc_softc">
+<area shape="rect" id="node1" title=" " alt="" coords="261,216,335,243"/>
+<area shape="rect" id="node2" href="$structdc__type.html" title=" " alt="" coords="5,118,79,145"/>
+<area shape="rect" id="node3" href="$structdc__chain__data.html" title=" " alt="" coords="103,118,218,145"/>
+<area shape="rect" id="node4" href="$structdc__mediainfo.html" title=" " alt="" coords="243,118,353,145"/>
+<area shape="rect" id="node5" href="$structdc__list__data.html" title=" " alt="" coords="457,118,557,145"/>
+<area shape="rect" id="node6" href="$structdc__desc.html" title=" " alt="" coords="470,5,545,32"/>
+<area shape="rect" id="node7" href="$struct____rtems__irq__connect__data____.html" title=" " alt="" coords="581,111,737,152"/>
+</map>

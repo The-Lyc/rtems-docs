@@ -1,0 +1,4 @@
+<map id="rtems_chain_is_last" name="rtems_chain_is_last">
+<area shape="rect" id="node1" title="Is this the last node on the chain." alt="" coords="5,5,156,32"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreChain.html#ga302e347ec983a8f40a0a36057d817a52" title="Checks if this is the last node on the chain." alt="" coords="204,5,319,32"/>
+</map>

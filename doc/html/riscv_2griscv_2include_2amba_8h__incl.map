@@ -1,0 +1,6 @@
+<map id="bsps/riscv/griscv/include/amba.h" name="bsps/riscv/griscv/include/amba.h">
+<area shape="rect" id="node1" title=" " alt="" coords="40,5,221,47"/>
+<area shape="rect" id="node2" href="$ambapp_8h.html" title=" " alt="" coords="5,95,125,121"/>
+<area shape="rect" id="node4" href="$grlib_8h.html" title="Common GRLIB AMBA Core Register definitions." alt="" coords="149,95,245,121"/>
+<area shape="rect" id="node3" href="$ambapp__ids_8h.html" title="AMBA Plug &amp; Play Bus Vendor and Device IDs." alt="" coords="9,169,122,196"/>
+</map>

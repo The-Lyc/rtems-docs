@@ -1,0 +1,24 @@
+<map id="cpukit/include/rtems/score/threaddispatch.h" name="cpukit/include/rtems/score/threaddispatch.h">
+<area shape="rect" id="node1" title="Constants and Structures Related with Thread Dispatch." alt="" coords="291,5,466,47"/>
+<area shape="rect" id="node2" href="$score_2percpu_8h.html" title=" " alt="" coords="477,169,635,196"/>
+<area shape="rect" id="node11" href="$isrlock_8h.html" title="ISR Locks." alt="" coords="86,244,245,271"/>
+<area shape="rect" id="node22" href="$score_2profiling_8h.html" title="Profiling Support API." alt="" coords="295,95,463,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="473,244,639,271"/>
+<area shape="rect" id="node4" href="$assert_8h.html" title="Information for the Assert Handler." alt="" coords="361,393,516,420"/>
+<area shape="rect" id="node10" href="$score_2chain_8h.html" title="Chain Handler API." alt="" coords="545,319,695,345"/>
+<area shape="rect" id="node15" href="$smp_8h.html" title="SuperCore SMP Support API." alt="" coords="766,244,909,271"/>
+<area shape="rect" id="node16" href="$timestamp_8h.html" title="Helpers for Manipulating Timestamps." alt="" coords="849,319,1036,345"/>
+<area shape="rect" id="node19" href="$cpukit_2include_2rtems_2score_2watchdog_8h.html" title="Constants and Structures Associated with Watchdog Timers." alt="" coords="269,244,448,271"/>
+<area shape="rect" id="node5" href="$basedefs_8h.html" title="Basic Definitions." alt="" coords="201,468,375,495"/>
+<area shape="rect" id="node6" title=" " alt="" coords="33,543,199,569"/>
+<area shape="rect" id="node7" title=" " alt="" coords="237,543,312,569"/>
+<area shape="rect" id="node8" title=" " alt="" coords="432,543,515,569"/>
+<area shape="rect" id="node9" title=" " alt="" coords="337,543,407,569"/>
+<area shape="rect" id="node12" href="$isrlevel_8h.html" title="ISR Level Type." alt="" coords="357,319,520,345"/>
+<area shape="rect" id="node14" href="$smplock_8h.html" title="SMP Lock API." alt="" coords="5,468,176,495"/>
+<area shape="rect" id="node13" title=" " alt="" coords="627,393,765,420"/>
+<area shape="rect" id="node17" href="$score_2timespec_8h.html" title="Contains Helpers for Manipulating Timespecs." alt="" coords="441,468,615,495"/>
+<area shape="rect" id="node18" title=" " alt="" coords="539,543,603,569"/>
+<area shape="rect" id="node20" href="$rtems_2score_2rbtree_8h.html" title="Constants and Structures Associated with the Red&#45;Black Tree Handler." alt="" coords="179,319,333,345"/>
+<area shape="rect" id="node21" title=" " alt="" coords="250,393,337,420"/>
+</map>

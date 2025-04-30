@@ -1,0 +1,7 @@
+<map id="ata_req_s" name="ata_req_s">
+<area shape="rect" id="node1" title=" " alt="" coords="281,187,367,213"/>
+<area shape="rect" id="node2" href="$structrtems__blkdev__request.html" title="The block device transfer request is used to read or write a number of blocks from or to the device." alt="" coords="11,96,178,123"/>
+<area shape="rect" id="node3" href="$structrtems__blkdev__sg__buffer.html" title="Block device scatter or gather buffer structure." alt="" coords="5,5,184,32"/>
+<area shape="rect" id="node4" href="$structata__registers__s.html" title=" " alt="" coords="263,96,385,123"/>
+<area shape="rect" id="node5" href="$structChain__Node__struct.html" title=" " alt="" coords="409,96,553,123"/>
+</map>

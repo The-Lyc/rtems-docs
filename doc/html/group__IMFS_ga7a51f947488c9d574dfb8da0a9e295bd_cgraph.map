@@ -1,0 +1,8 @@
+<map id="IMFS_symlink" name="IMFS_symlink">
+<area shape="rect" id="node1" title="Create a new IMFS symbolic link node." alt="" coords="5,56,117,83"/>
+<area shape="rect" id="node2" href="$group__IMFS.html#ga2f5483a637716c1d4f0e10ad01e99d05" title="Create an IMFS node." alt="" coords="165,56,305,83"/>
+<area shape="rect" id="node3" href="$group__IMFS.html#gaf9dd420f1a8b9f68504f5c8e0238cc94" title=" " alt="" coords="353,31,508,57"/>
+<area shape="rect" id="node6" href="$lib_8c.html#afee04a2bd3690b426c5ead287a32a1a8" title=" " alt="" coords="391,81,470,108"/>
+<area shape="rect" id="node4" href="$getegid_8c.html#a3e7c694d68b4e62c1f275612d30b6d9d" title=" " alt="" coords="556,5,627,32"/>
+<area shape="rect" id="node5" href="$geteuid_8c.html#a8b9a6dcf4e1d237f5607256dad93e26a" title=" " alt="" coords="556,56,627,83"/>
+</map>

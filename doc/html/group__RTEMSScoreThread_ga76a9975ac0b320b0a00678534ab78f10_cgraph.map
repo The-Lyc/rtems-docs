@@ -1,0 +1,5 @@
+<map id="_Thread_Priority_change" name="_Thread_Priority_change">
+<area shape="rect" id="node1" title="Changes the thread priority value of the specified thread priority node in the corresponding thread p..." alt="" coords="5,42,188,69"/>
+<area shape="rect" id="node2" href="$group__RTEMSScorePriority.html#ga8f7626eed557998923ac78733f8790c9" title="Sets the priority of the priority node to the given priority." alt="" coords="259,5,403,47"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreThread.html#ga3c72bf8623d4e8a6b4e5510cdbc4baac" title="Propagates a thread priority value change in the specified thread priority node to the corresponding ..." alt="" coords="236,71,427,98"/>
+</map>

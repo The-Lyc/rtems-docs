@@ -1,0 +1,15 @@
+<map id="ambapp_priv" name="ambapp_priv">
+<area shape="rect" id="node1" title=" " alt="" coords="263,499,370,525"/>
+<area shape="rect" id="node2" href="$structambapp__config.html" title=" " alt="" coords="256,409,377,436"/>
+<area shape="rect" id="node3" href="$structambapp__ops.html" title=" " alt="" coords="5,305,111,332"/>
+<area shape="rect" id="node4" href="$structambapp__bus.html" title=" " alt="" coords="135,305,240,332"/>
+<area shape="rect" id="node5" href="$structambapp__dev.html" title=" " alt="" coords="42,103,149,130"/>
+<area shape="rect" id="node6" href="$structambapp__ahb__bus.html" title=" " alt="" coords="119,216,255,243"/>
+<area shape="rect" id="node7" href="$structambapp__mmap.html" title=" " alt="" coords="280,216,404,243"/>
+<area shape="rect" id="node8" href="$structdrvmgr__func.html" title=" " alt="" coords="265,305,369,332"/>
+<area shape="rect" id="node9" href="$structdrvmgr__map__entry.html" title=" " alt="" coords="393,305,539,332"/>
+<area shape="rect" id="node10" href="$structdrvmgr__bus__res.html" title=" " alt="" coords="564,305,691,332"/>
+<area shape="rect" id="node11" href="$structdrvmgr__drv__res.html" title=" " alt="" coords="565,216,689,243"/>
+<area shape="rect" id="node12" href="$structdrvmgr__key.html" title=" " alt="" coords="578,103,677,130"/>
+<area shape="rect" id="node13" href="$uniondrvmgr__key__value.html" title=" " alt="" coords="556,5,699,32"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="bsps/bfin/TLL6527M" name="bsps/bfin/TLL6527M">
+<area shape="rect" id="node2" href="dir_b9967aa23d63e8c81a71855c544f988f.html" title="console" alt="" coords="37,63,109,111"/>
+<area shape="rect" id="node5" href="dir_c87b4b4abe7d6e32815cfd1b1c17db0d.html" title="include" alt="" coords="60,159,132,207"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000422_000477.html" title="2" alt="" coords="90,132,99,146"/>
+<area shape="rect" id="node7" href="dir_cd198e36225ba3f41de97552050ac017.html" title="cpukit" alt="" coords="169,255,241,303"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000422_000080.html" title="4" alt="" coords="149,253,158,268"/>
+<area shape="rect" id="node3" href="dir_d31e2752fb028f925cbba4d3867d4852.html" title="include" alt="" coords="229,63,301,111"/>
+<area shape="rect" id="node6" href="dir_5d1ab919b2bc2a88d122acf1f2df3693.html" title="include" alt="" coords="207,159,279,207"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000125_000468.html" title="2" alt="" coords="256,136,265,150"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000125_000080.html" title="3" alt="" coords="256,247,266,262"/>
+<area shape="rect" id="node4" href="dir_f949ba624262974e8c12c8122f7edd8e.html" title="start" alt="" coords="133,63,205,111"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000394_000477.html" title="5" alt="" coords="127,142,136,157"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000394_000468.html" title="1" alt="" coords="216,132,225,146"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000394_000080.html" title="4" alt="" coords="201,228,211,242"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000468_000080.html" title="58" alt="" coords="220,234,238,248"/>
+<area shape="rect" id="clust2" href="dir_5a8ed340cb2b1a674e0ef3274604aba7.html" alt="" coords="27,52,424,121"/>
+<area shape="rect" id="clust1" href="dir_743a56b3bfd289c342e52870ff4e331b.html" title="bfin" alt="" coords="16,16,435,132"/>
+</map>

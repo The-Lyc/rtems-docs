@@ -1,0 +1,12 @@
+<map id="bsps/sparc/leon2/start/spurious.c" name="bsps/sparc/leon2/start/spurious.c">
+<area shape="rect" id="node1" title="LEON Spurious Trap Handler." alt="" coords="212,5,377,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="158,95,215,121"/>
+<area shape="rect" id="node3" href="$bspIo_8h.html" title="Interface to Kernel Print Methods." alt="" coords="239,95,350,121"/>
+<area shape="rect" id="node10" href="$inttypes_8h.html" title="Provide printf() PRIxxx Constante Beyond Standards." alt="" coords="357,169,443,196"/>
+<area shape="rect" id="node4" href="$basedefs_8h.html" title="Basic Definitions." alt="" coords="58,169,233,196"/>
+<area shape="rect" id="node9" title=" " alt="" coords="257,169,332,196"/>
+<area shape="rect" id="node5" title=" " alt="" coords="311,244,478,271"/>
+<area shape="rect" id="node6" title=" " alt="" coords="5,244,80,271"/>
+<area shape="rect" id="node7" title=" " alt="" coords="104,244,187,271"/>
+<area shape="rect" id="node8" title=" " alt="" coords="211,244,282,271"/>
+</map>

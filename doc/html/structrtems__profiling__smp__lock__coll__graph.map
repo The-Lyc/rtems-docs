@@ -1,0 +1,4 @@
+<map id="rtems_profiling_smp_lock" name="rtems_profiling_smp_lock">
+<area shape="rect" id="node1" title="SMP lock profiling data." alt="" coords="5,95,195,121"/>
+<area shape="rect" id="node2" href="$structrtems__profiling__header.html" title="The profiling data header." alt="" coords="14,5,186,32"/>
+</map>

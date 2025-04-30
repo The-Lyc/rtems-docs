@@ -1,0 +1,10 @@
+<map id="_Rate_monotonic_Timeout" name="_Rate_monotonic_Timeout">
+<area shape="rect" id="node1" title=" " alt="" coords="5,147,201,174"/>
+<area shape="rect" id="node2" href="$group__ClassicRateMonImpl.html#gae49c0e00563f58a849944135d5c316cd" title=" " alt="" coords="249,5,440,47"/>
+<area shape="rect" id="node3" href="$group__ClassicRateMonImpl.html#gac149608e7b5c9c8400ed8460734351d1" title=" " alt="" coords="250,71,439,98"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreThread.html#ga1234634f1d75c8c0864c5727b526f9a3" title="Unblocks the thread." alt="" coords="277,122,412,149"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreThread.html#ga7c33d34fc273256480b86586c6be431e" title="Gets the thread&#39;s wait flags according to the ATOMIC_ORDER_RELAXED." alt="" coords="257,173,433,199"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreThread.html#ga8eb26230b102f8569856d170145a925c" title="Sets the thread&#39;s wait flags." alt="" coords="257,223,432,250"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreThread.html#gac2c1e8a25615d5aa88b5029feb8d1a55" title="Tries to change the thread wait flags with release semantics in case of success." alt="" coords="267,275,423,316"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreThread.html#ga7e35e9ebb9a5364d00f1f1b1e166e701" title="Clears the specified thread state." alt="" coords="488,122,643,149"/>
+</map>

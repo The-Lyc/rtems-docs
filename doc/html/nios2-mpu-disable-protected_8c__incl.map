@@ -1,0 +1,13 @@
+<map id="cpukit/score/cpu/nios2/nios2&#45;mpu&#45;disable&#45;protected.c" name="cpukit/score/cpu/nios2/nios2&#45;mpu&#45;disable&#45;protected.c">
+<area shape="rect" id="node1" title="NIOS2 MPU Disable Protected." alt="" coords="301,5,527,47"/>
+<area shape="rect" id="node2" href="$isr_8h.html" title="Data Related to the Management of Processor Interrupt Levels." alt="" coords="298,95,429,121"/>
+<area shape="rect" id="node11" href="$nios2-utility_8h.html" title="NIOS II Utility." alt="" coords="343,319,533,345"/>
+<area shape="rect" id="node3" href="$isrlevel_8h.html" title="ISR Level Type." alt="" coords="274,169,437,196"/>
+<area shape="rect" id="node4" title=" " alt="" coords="298,244,437,271"/>
+<area shape="rect" id="node5" href="$assert_8h.html" title="Information for the Assert Handler." alt="" coords="119,244,274,271"/>
+<area shape="rect" id="node6" href="$basedefs_8h.html" title="Basic Definitions." alt="" coords="144,319,319,345"/>
+<area shape="rect" id="node7" title=" " alt="" coords="5,393,172,420"/>
+<area shape="rect" id="node8" title=" " alt="" coords="197,393,271,420"/>
+<area shape="rect" id="node9" title=" " alt="" coords="295,393,378,420"/>
+<area shape="rect" id="node10" title=" " alt="" coords="403,393,473,420"/>
+</map>

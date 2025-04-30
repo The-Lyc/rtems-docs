@@ -1,0 +1,9 @@
+<map id="AfeDma" name="AfeDma">
+<area shape="rect" id="node1" title=" " alt="" coords="99,273,173,300"/>
+<area shape="rect" id="node2" href="$structAfec.html" title="Afec hardware registers." alt="" coords="24,184,75,211"/>
+<area shape="rect" id="node3" href="$struct__Xdmad.html" title=" " alt="" coords="99,184,173,211"/>
+<area shape="rect" id="node4" href="$struct__XdmadChannel.html" title=" " alt="" coords="5,95,133,121"/>
+<area shape="rect" id="node5" href="$structXdmac.html" title=" " alt="" coords="169,95,236,121"/>
+<area shape="rect" id="node6" href="$structXdmacChid.html" title="XdmacChid hardware registers." alt="" coords="155,5,251,32"/>
+<area shape="rect" id="node7" href="$structAfeCmd.html" title="Spi Transfer Request prepared by the application upper layer." alt="" coords="197,184,272,211"/>
+</map>

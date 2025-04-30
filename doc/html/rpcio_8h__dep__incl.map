@@ -1,0 +1,5 @@
+<map id="cpukit/libfs/src/nfsclient/src/rpcio.h" name="cpukit/libfs/src/nfsclient/src/rpcio.h">
+<area shape="rect" id="node1" title="A Multithreaded RPC/UDP Multiplexor." alt="" coords="105,5,283,47"/>
+<area shape="rect" id="node2" href="$nfs_8c.html" title="NFS Client Implementation for RTEMS." alt="" coords="5,95,183,136"/>
+<area shape="rect" id="node3" href="$rpcio_8c.html" title="RPC Multiplexor for a Multitasking Environment." alt="" coords="207,95,384,136"/>
+</map>

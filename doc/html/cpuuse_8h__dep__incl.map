@@ -1,0 +1,11 @@
+<map id="cpukit/include/rtems/cpuuse.h" name="cpukit/include/rtems/cpuuse.h">
+<area shape="rect" id="node1" title="CPU Usage Report." alt="" coords="667,5,822,47"/>
+<area shape="rect" id="node2" href="$capture-cli_8c.html" title=" " alt="" coords="5,95,172,136"/>
+<area shape="rect" id="node3" href="$cpuinforeport_8c.html" title=" " alt="" coords="197,95,359,136"/>
+<area shape="rect" id="node4" href="$cpuusagereport_8c.html" title="CPU Usage Report." alt="" coords="383,95,546,136"/>
+<area shape="rect" id="node5" href="$cpuusagereset_8c.html" title="CPU Usage Reset." alt="" coords="570,95,733,136"/>
+<area shape="rect" id="node6" href="$cpuusagetop_8c.html" title="CPU Usage Top." alt="" coords="757,95,919,136"/>
+<area shape="rect" id="node7" href="$main__cpuinfo_8c.html" title=" " alt="" coords="944,95,1092,136"/>
+<area shape="rect" id="node8" href="$main__cpuuse_8c.html" title=" " alt="" coords="1116,95,1264,136"/>
+<area shape="rect" id="node9" href="$main__top_8c.html" title=" " alt="" coords="1288,95,1436,136"/>
+</map>

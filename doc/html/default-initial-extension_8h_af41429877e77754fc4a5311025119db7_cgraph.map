@@ -1,0 +1,11 @@
+<map id="bsp_fatal_extension" name="bsp_fatal_extension">
+<area shape="rect" id="node1" title=" " alt="" coords="5,132,159,159"/>
+<area shape="rect" id="node2" href="$smp_8c.html#ad354c61a7f2131e8f8647d4e3c9809f4" title=" " alt="" coords="207,5,421,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSBSPsSharedStartup.html#gaee99733067120706ee7d3395ea225dfb" title=" " alt="" coords="271,56,357,83"/>
+<area shape="rect" id="node4" href="$stackTrace_8h.html#aaefc94d60de8a656eb8b806c63653048" title=" " alt="" coords="250,107,378,133"/>
+<area shape="rect" id="node7" href="$leon3_2include_2leon_8h.html#af01c4d1c5d639a9277ba5da923f4d3cf" title=" " alt="" coords="223,157,405,184"/>
+<area shape="rect" id="node8" href="$m5op_8h.html#ac4b3182f8310a939a8640f2dfeeca585" title=" " alt="" coords="277,208,351,235"/>
+<area shape="rect" id="node9" href="$group__ClassicFatal.html#ga64fab8597e14215a31fa5ff98d3c1897" title="Returns a text for a fatal source." alt="" coords="224,259,404,285"/>
+<area shape="rect" id="node5" href="$ppc-print-stack_8c.html#a6d53afeff1884fea118e07f0e177977b" title=" " alt="" coords="469,107,661,133"/>
+<area shape="rect" id="node6" href="$i386-stub-glue_8c.html#a1e0a236f3682681ac79ede3a128bffd5" title=" " alt="" coords="709,107,788,133"/>
+</map>

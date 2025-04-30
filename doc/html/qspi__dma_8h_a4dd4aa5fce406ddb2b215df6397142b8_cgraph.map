@@ -1,0 +1,4 @@
+<map id="QSPID_IsBusy" name="QSPID_IsBusy">
+<area shape="rect" id="node1" title="Check if the QSPI driver is busy." alt="" coords="5,5,117,32"/>
+<area shape="rect" id="node2" href="$arm_2atsam_2contrib_2utils_2utility_8h.html#afa9a47746c2e341f93c341ef12370c41" title=" " alt="" coords="165,5,264,32"/>
+</map>

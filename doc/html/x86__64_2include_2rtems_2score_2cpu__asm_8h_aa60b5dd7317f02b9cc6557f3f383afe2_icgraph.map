@@ -1,0 +1,18 @@
+<map id="outport_byte" name="outport_byte">
+<area shape="rect" id="node1" title=" " alt="" coords="667,208,772,235"/>
+<area shape="rect" id="node2" href="$bsps_2x86__64_2amd64_2include_2clock_8h.html#affdde2e888749707930cfd2cca26fe34" title=" " alt="" coords="449,5,604,32"/>
+<area shape="rect" id="node5" href="$group__mips__i8259__irq.html#gad212efac7a3ac19484ed637d0fb5420b" title=" " alt="" coords="464,56,589,83"/>
+<area shape="rect" id="node8" href="$group__mips__i8259__irq.html#ga71748a7cd08c833484dc27fe32dafeb5" title="function to acknowledge a particular irq at 8259 level." alt="" coords="441,107,612,133"/>
+<area shape="rect" id="node9" href="$group__RTEMSBSPsSharedStartup.html#gaee99733067120706ee7d3395ea225dfb" title=" " alt="" coords="484,157,569,184"/>
+<area shape="rect" id="node10" href="$i386_2pc386_2clock_2rtc_8c.html#a88533ad02465ce52d4e6de7b2095ec32" title=" " alt="" coords="493,208,560,235"/>
+<area shape="rect" id="node11" href="$pic_8c.html#a6eaf3be6b606619a9bc3f06c9bd7c12a" title=" " alt="" coords="479,259,574,285"/>
+<area shape="rect" id="node13" href="$pic_8c.html#a1e8083b0b2dc613e45cdd10c21732555" title=" " alt="" coords="481,309,572,336"/>
+<area shape="rect" id="node14" href="$rtd316_8h.html#ad57822a6f7fe2c1dfeedd53eca02f006" title="RTD316 Obtain Register Helper." alt="" coords="435,360,619,387"/>
+<area shape="rect" id="node16" href="$rtd316_8h.html#aadf9462809af18b83b8ab6fabcc1bebf" title="RTD316 Set Register Helper." alt="" coords="435,411,618,437"/>
+<area shape="rect" id="node3" href="$bsps_2x86__64_2amd64_2include_2clock_8h.html#a84989b05f1f7d1b262923d1bae0a36a3" title=" " alt="" coords="219,5,374,32"/>
+<area shape="rect" id="node4" href="$bsps_2x86__64_2amd64_2include_2clock_8h.html#a2ce3dbcd9abad894735efa572bd10dcd" title=" " alt="" coords="5,125,159,166"/>
+<area shape="rect" id="node6" href="$group__mips__i8259__irq.html#ga01af45dd0d6e61b9ba6361e07db81214" title=" " alt="" coords="207,56,387,83"/>
+<area shape="rect" id="node7" href="$group__RTEMSBSPsSharedStartup.html#ga424dcf8c1e22bf623eb1210a0aa2a3e9" title=" " alt="" coords="255,107,338,133"/>
+<area shape="rect" id="node12" href="$bsps_2x86__64_2amd64_2include_2clock_8h.html#abf0afda694ebc96f87ee2c0623f60f87" title=" " alt="" coords="241,259,353,285"/>
+<area shape="rect" id="node15" href="$rtd316_8h.html#ab62469a877035fdcbb7db5531b2a4442" title="RTD316 Initialization Entry Point." alt="" coords="233,385,360,412"/>
+</map>

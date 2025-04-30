@@ -1,0 +1,10 @@
+<map id="rtems_monitor_id_fixup" name="rtems_monitor_id_fixup">
+<area shape="rect" id="node1" title=" " alt="" coords="5,97,181,124"/>
+<area shape="rect" id="node2" href="$rtemsbuildid_8c.html#ad8008d1e192052bfbc04b6ac01438d60" title=" " alt="" coords="267,5,385,32"/>
+<area shape="rect" id="node3" href="$rtemsobjectidgetclass_8c.html#a8ddfd617d3e6713d2a75947a67a80ddf" title=" " alt="" coords="249,57,403,98"/>
+<area shape="rect" id="node5" href="$rtemsobjectidgetindex_8c.html#a143f3128b50b22e76fcb38b66b28e0e9" title=" " alt="" coords="249,122,403,163"/>
+<area shape="rect" id="node7" href="$rtemsobjectidgetnode_8c.html#a8b4a9549764db96b19340603b1829845" title=" " alt="" coords="229,188,423,215"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreObject.html#ga450c379424f26235d60f702638d229fa" title="Returns the class portion of the ID." alt="" coords="472,64,620,91"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreObject.html#ga22cdf45f285840b7728b06197a7f4627" title="Returns the index portion of the ID." alt="" coords="471,129,621,156"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreObject.html#ga2a5fbd3f068704dab10f651f6aa12d6d" title="Returns the node portion of the ID." alt="" coords="473,188,619,215"/>
+</map>

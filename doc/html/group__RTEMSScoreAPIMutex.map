@@ -1,0 +1,5 @@
+<map id="API Mutex Handler" name="API Mutex Handler">
+<area shape="rect" id="node1" href="$group__RTEMSScoreAllocatorMutex.html" title="Protection for all memory allocations and deallocations in RTEMS." alt="" coords="333,5,507,31"/>
+<area shape="rect" id="node2" href="$group__RTEMSScore.html" title="Provides services for all APIs." alt="" coords="5,5,95,31"/>
+<area shape="rect" id="node3" title="Provides routines to ensure mutual exclusion on API level." alt="" coords="143,5,285,31"/>
+</map>

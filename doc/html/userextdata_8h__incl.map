@@ -1,0 +1,7 @@
+<map id="cpukit/include/rtems/score/userextdata.h" name="cpukit/include/rtems/score/userextdata.h">
+<area shape="rect" id="node1" title="User Extension Handler Data Structures." alt="" coords="101,5,255,47"/>
+<area shape="rect" id="node2" href="$userext_8h.html" title="User Extension Handler API." alt="" coords="5,95,169,121"/>
+<area shape="rect" id="node5" href="$score_2chain_8h.html" title="Chain Handler API." alt="" coords="193,95,344,121"/>
+<area shape="rect" id="node3" href="$interr_8h.html" title="Constants and Prototypes Related to the Internal Error Handler." alt="" coords="13,169,162,196"/>
+<area shape="rect" id="node4" title=" " alt="" coords="18,244,157,271"/>
+</map>

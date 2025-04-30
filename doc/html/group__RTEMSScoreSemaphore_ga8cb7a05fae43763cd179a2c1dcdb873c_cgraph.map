@@ -1,0 +1,6 @@
+<map id="_CORE_semaphore_Destroy" name="_CORE_semaphore_Destroy">
+<area shape="rect" id="node1" title="Destroys the semaphore." alt="" coords="5,64,208,91"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreThreadQueue.html#gaa59fb38f22e409d05123df6627ead47a" title="Destroys the thread queue." alt="" coords="269,5,448,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreThreadQueue.html#gac979e73bbbb59a3157ebd782ff70df0c" title="Unblocks all threads enqueued on the thread queue." alt="" coords="277,57,440,98"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreThreadQueue.html#gac33b5b4a755484ecff2e1f72a56be373" title="Status object was deleted thread queue flush filter function." alt="" coords="256,122,461,163"/>
+</map>

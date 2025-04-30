@@ -1,0 +1,6 @@
+<map id="RCC Support" name="RCC Support">
+<area shape="rect" id="node1" href="$group__stm32f4xxxx__rcc.html" title="STM32F4XXXX RCC Support." alt="" coords="287,5,489,31"/>
+<area shape="rect" id="node2" href="$group__stm32f10xxx__rcc.html" title="STM32F10XXX RCC Support." alt="" coords="287,55,489,80"/>
+<area shape="rect" id="node3" href="$group__RTEMSBSPsARMSTM32F4.html" title="STM32F4 Board Support Package." alt="" coords="5,31,88,56"/>
+<area shape="rect" id="node4" title="RCC Support." alt="" coords="136,31,239,56"/>
+</map>

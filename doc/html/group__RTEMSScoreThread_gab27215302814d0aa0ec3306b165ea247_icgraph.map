@@ -1,0 +1,9 @@
+<map id="_Thread_Start_multitasking" name="_Thread_Start_multitasking">
+<area shape="rect" id="node1" title="Starts thread multitasking." alt="" coords="512,81,713,108"/>
+<area shape="rect" id="node2" href="$exinit_8c.html#af77859ba1987d846716a8071446ca75d" title="Initializes the system and starts multitasking." alt="" coords="271,81,464,108"/>
+<area shape="rect" id="node3" href="$group__RTEMSBSPsSharedStartup.html#gad8a18766fa4f3cf67d8f8ff8938008e0" title="Standard system initialization procedure." alt="" coords="136,81,223,108"/>
+<area shape="rect" id="node4" href="$group__RTEMSBSPsM68kMCF52235.html#gaaaa1dceb8aedec9c7b8c57bc43ac7300" title=" " alt="" coords="5,5,88,32"/>
+<area shape="rect" id="node5" href="$group__RTEMSBSPsM68kMCF5225X.html#ga7bd5a395b072a892758708ebfb1664a0" title=" " alt="" coords="5,56,88,83"/>
+<area shape="rect" id="node6" href="$group__RTEMSBSPsM68kMCF5329.html#ga3978de7a34cd49f7c51c93eb9b831f11" title=" " alt="" coords="9,107,84,133"/>
+<area shape="rect" id="node7" href="$start__c_8c.html#a836f7d00c2331da68daa5e6c7a5fc436" title=" " alt="" coords="13,157,80,184"/>
+</map>

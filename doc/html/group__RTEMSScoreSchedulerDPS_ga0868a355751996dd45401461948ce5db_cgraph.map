@@ -1,0 +1,8 @@
+<map id="_Scheduler_priority_Ready_queue_enqueue_first" name="_Scheduler_priority_Ready_queue_enqueue_first">
+<area shape="rect" id="node1" title="Enqueues a node on the specified ready queue as first." alt="" coords="5,49,217,90"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreChain.html#ga8d8497bea6684f4c685056c75f35522c" title="Prepends a node (unprotected)." alt="" coords="265,31,476,57"/>
+<area shape="rect" id="node6" href="$group__RTEMSScorePriority.html#gaadf94736b9e458d8a92afbbfb2485e12" title="Adds Priority queue bit map information." alt="" coords="287,81,455,108"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreChain.html#ga8b66d3138b9cdacbcb0600c42237ff7d" title="Returns pointer to chain head." alt="" coords="568,5,675,32"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreChain.html#ga0ac64438b8eb6f4dfd182bc3885cea42" title="Inserts a node (unprotected)." alt="" coords="524,56,719,83"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreChain.html#gad7a790f247b3ace45f039c60c18f999f" title="Checks if the node is off chain." alt="" coords="767,49,913,90"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="_Timecounter_Tick_simple" name="_Timecounter_Tick_simple">
+<area shape="rect" id="node1" title="Performs a simple timecounter tick." alt="" coords="501,89,697,116"/>
+<area shape="rect" id="node2" href="$group__ClassicClock.html#ga4077e5036c6378d557be5c22ba30812d" title="Announce a Clock Tick." alt="" coords="289,31,421,57"/>
+<area shape="rect" id="node5" href="$group__SAPITimecounter.html#gaaf2269728a8f160afddd1c097cee60d9" title="Performs a simple timecounter tick for downcounters." alt="" coords="256,82,453,123"/>
+<area shape="rect" id="node6" href="$group__SAPITimecounter.html#ga1de2d1f9f303848bdf2642895035670c" title="Performs a simple timecounter tick for upcounters." alt="" coords="256,147,453,189"/>
+<area shape="rect" id="node3" href="$group__RTEMSBSPsV850GDBSim.html#ga44e69833220d6f060ab637fd7f53ca26" title=" " alt="" coords="5,5,208,32"/>
+<area shape="rect" id="node4" href="$bsps_2powerpc_2ss555_2clock_2clock_8c.html#acf3dbc818ea37dd9ec150ddb6477df9a" title=" " alt="" coords="66,56,147,83"/>
+</map>

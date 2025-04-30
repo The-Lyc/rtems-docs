@@ -1,0 +1,7 @@
+<map id="getentropy" name="getentropy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,99,108"/>
+<area shape="rect" id="node2" href="$main__mv_8c.html#abdf22492bd3ca567c30d0e8d96063abb" title=" " alt="" coords="197,5,250,32"/>
+<area shape="rect" id="node3" href="$lib_8c.html#afee04a2bd3690b426c5ead287a32a1a8" title=" " alt="" coords="184,56,263,83"/>
+<area shape="rect" id="node4" href="$trng_8c.html#afcbb6fe55bfe5b04f3a98a3895a6c917" title="Get the 32&#45;bit Output Data from TRNG peripheral." alt="" coords="147,107,300,133"/>
+<area shape="rect" id="node5" href="$trng_8c.html#a27dbe1eaaab132fbc547bfc53c3b2cd3" title="Get the current status register of the given TRNG peripheral." alt="" coords="158,157,289,184"/>
+</map>

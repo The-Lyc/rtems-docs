@@ -1,0 +1,4 @@
+<map id="QSPI_WriteSPI" name="QSPI_WriteSPI">
+<area shape="rect" id="node1" title="Write to QSPI Tx register in SPI mode." alt="" coords="5,5,120,32"/>
+<area shape="rect" id="node2" href="$qspi_8c.html#a84307d724b3e124e1d4cced163d3074d" title="Get the current status register of the given QSPI peripheral." alt="" coords="168,5,291,32"/>
+</map>

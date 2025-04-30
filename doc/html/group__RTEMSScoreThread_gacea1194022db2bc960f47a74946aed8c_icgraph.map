@@ -1,0 +1,5 @@
+<map id="_Thread_Wait_release_default" name="_Thread_Wait_release_default">
+<area shape="rect" id="node1" title="Releases the thread wait default lock and restores the previous interrupt status." alt="" coords="220,27,385,69"/>
+<area shape="rect" id="node2" href="$group__ClassicEventImpl.html#ga63d82e0e70a4acc2784bb7bc1bba01fb" title=" " alt="" coords="35,5,143,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreThread.html#gad6f75b9158cddc463bad914c2f9f51a1" title="Removes a thread wait lock request." alt="" coords="5,57,172,98"/>
+</map>

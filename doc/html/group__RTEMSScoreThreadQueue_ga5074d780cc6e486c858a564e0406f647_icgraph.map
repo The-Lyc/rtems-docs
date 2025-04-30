@@ -1,0 +1,16 @@
+<map id="_Thread_queue_Queue_release" name="_Thread_queue_Queue_release">
+<area shape="rect" id="node1" title="Releases the thread queue queue and enables interrupts." alt="" coords="716,243,887,284"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreRWLock.html#ga0441e1bfb6a1316cbf35dccf40dbf920" title="Releases the RWlock." alt="" coords="475,137,657,163"/>
+<area shape="rect" id="node7" href="$condimpl_8h.html#a63d6ea83aa8a68a97152996b19db6d52" title=" " alt="" coords="464,243,668,284"/>
+<area shape="rect" id="node8" href="$posix_2muteximpl_8h.html#a7d79a81165ff9936fcac8cfd5912a5f5" title=" " alt="" coords="479,362,653,389"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreRWLock.html#ga44d546f0608f0a64a0473cf70bcd251c" title="Obtains RWLock for reading." alt="" coords="235,5,402,47"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreRWLock.html#ga83de98cd4ad1f99dc3f89b6b31d3d9e8" title="Obtains RWLock for writing." alt="" coords="235,71,402,112"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreRWLock.html#ga52aa185dba7e461fae75d0cb7a183279" title="Releases the RWLock." alt="" coords="221,137,416,163"/>
+<area shape="rect" id="node6" href="$prwlockdestroy_8c.html#a1f09d276abc527af4e6869c609ae0f30" title=" " alt="" coords="229,187,408,214"/>
+<area shape="rect" id="node9" href="$posix_2muteximpl_8h.html#a02b950e3dfc08bf48aafac65eeaf58e7" title=" " alt="" coords="5,260,173,301"/>
+<area shape="rect" id="node10" href="$posix_2muteximpl_8h.html#aa099656aca92ad7c919c40cac2b1e226" title=" " alt="" coords="235,289,403,331"/>
+<area shape="rect" id="node11" href="$posix_2muteximpl_8h.html#aef2cdaf26c7b8333787140155835917f" title=" " alt="" coords="235,355,403,396"/>
+<area shape="rect" id="node12" href="$posix_2muteximpl_8h.html#a1edc3f81cdf62fda42e43874e522f117" title=" " alt="" coords="239,421,398,447"/>
+<area shape="rect" id="node13" href="$mutexlocksupp_8c.html#af5a36f147a0bac173e2c0efaae0c01c1" title=" " alt="" coords="221,471,416,498"/>
+<area shape="rect" id="node14" href="$posix_2muteximpl_8h.html#ad4a37d46a0bf09c90475738e982235c0" title=" " alt="" coords="225,522,412,549"/>
+</map>

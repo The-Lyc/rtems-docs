@@ -1,0 +1,5 @@
+<map id="_CORE_ceiling_mutex_Get_scheduler" name="_CORE_ceiling_mutex_Get_scheduler">
+<area shape="rect" id="node1" title="Gets the scheduler of the ceiling mutex." alt="" coords="217,39,381,80"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreMutex.html#gae40030a2c780f0da5839deee9387f340" title="Seizes the ceiling mutex." alt="" coords="5,5,169,47"/>
+<area shape="rect" id="node3" href="$mon-sema_8c.html#a3840a89ad6ad4048a6314c905ac8e347" title=" " alt="" coords="7,71,168,112"/>
+</map>

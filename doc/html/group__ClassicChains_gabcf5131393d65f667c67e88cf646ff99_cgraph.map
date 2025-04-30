@@ -1,0 +1,6 @@
+<map id="rtems_chain_initialize_empty" name="rtems_chain_initialize_empty">
+<area shape="rect" id="node1" title="Initialize this chain as empty." alt="" coords="5,23,171,65"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreChain.html#ga322cf50ff1974dab1ce8d60ec94ef5f8" title="Initializes this chain as empty." alt="" coords="219,31,397,57"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreChain.html#ga8b66d3138b9cdacbcb0600c42237ff7d" title="Returns pointer to chain head." alt="" coords="445,5,552,32"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreChain.html#ga06f3e2dd6d64411f0565e3b483e53673" title="Returns pointer to chain tail." alt="" coords="451,56,546,83"/>
+</map>

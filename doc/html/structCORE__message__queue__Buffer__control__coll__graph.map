@@ -1,0 +1,5 @@
+<map id="CORE_message_queue_Buffer_control" name="CORE_message_queue_Buffer_control">
+<area shape="rect" id="node1" title="The organization of a message buffer." alt="" coords="73,109,244,151"/>
+<area shape="rect" id="node2" href="$structCORE__message__queue__Buffer.html" title="Data types needed to manipulate the contents of message buffers." alt="" coords="5,5,176,47"/>
+<area shape="rect" id="node3" href="$structChain__Node__struct.html" title=" " alt="" coords="200,13,344,39"/>
+</map>

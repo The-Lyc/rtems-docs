@@ -1,0 +1,5 @@
+<map id="_Stack_Minimum" name="_Stack_Minimum">
+<area shape="rect" id="node1" title="Returns the minimum stack size." alt="" coords="240,31,375,57"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreStack.html#gaa4d28f2b60601a0713925707f4379743" title="Returns the appropriate stack size for the requested size." alt="" coords="5,5,192,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreStack.html#gaf7041341c804491731396adcbb0506cf" title="Checks if the size is enough for a valid stack area on this processor." alt="" coords="29,56,168,83"/>
+</map>

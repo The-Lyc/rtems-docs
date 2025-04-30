@@ -1,0 +1,12 @@
+<map id="pci_bus_count" name="pci_bus_count">
+<area shape="rect" id="node1" title=" " alt="" coords="400,144,515,171"/>
+<area shape="rect" id="node2" href="$group__RTEMSBSPsPowerPCMVME3100.html#ga8753dd0fb905f41f37c5d87c7a26c7e2" title=" " alt="" coords="15,5,189,32"/>
+<area shape="rect" id="node3" href="$pcifinddevice_8c.html#a76837a5e19f24046cd8e54471d15dfae" title=" " alt="" coords="247,93,351,120"/>
+<area shape="rect" id="node7" href="$pci__cfg__print__code_8c.html#a71e477abce4fa372ab48ba3d6deb72d7" title=" " alt="" coords="247,144,352,171"/>
+<area shape="rect" id="node8" href="$pci__for__each_8c.html#ad053f1168bd062a0df2b4572393a5026" title=" " alt="" coords="247,195,351,221"/>
+<area shape="rect" id="node10" href="$pci__print_8c.html#acfc2ceccf70c298e1efa8eccf1cf321e" title=" " alt="" coords="260,245,339,272"/>
+<area shape="rect" id="node4" href="$pcifinddevice_8c.html#a86683f2e4cfb2e307b9058276757b64d" title=" " alt="" coords="25,56,179,83"/>
+<area shape="rect" id="node5" href="$group__RTEMSBSPsPowerPCMVME3100.html#gadc6403b8ac3a64d29c653ef44bab6425" title=" " alt="" coords="5,107,199,133"/>
+<area shape="rect" id="node6" href="$cpukit_2include_2rtems_2pci_8h.html#ac8bed6f556af579104d155a1111779d8" title=" " alt="" coords="41,157,163,184"/>
+<area shape="rect" id="node9" href="$pci__find_8c.html#a6e6342ef9827e1b486c315e7180735d4" title=" " alt="" coords="66,208,138,235"/>
+</map>

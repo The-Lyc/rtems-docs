@@ -1,0 +1,5 @@
+<map id="UART_SetTransmitterEnabled" name="UART_SetTransmitterEnabled">
+<area shape="rect" id="node1" title="Enables or disables the transmitter of an UART peripheral." alt="" coords="252,31,463,57"/>
+<area shape="rect" id="node2" href="$uart__dma_8h.html#a9b0fc44709de4abbf35be9aac35d689f" title="This function disables the appropriate DMA channel for Tx channel of USART." alt="" coords="5,5,204,32"/>
+<area shape="rect" id="node3" href="$uart__dma_8h.html#a88e980ec7908f8ac5ca57b1d0028a987" title="This function initialize the appropriate DMA channel for Tx channel of UART." alt="" coords="7,56,202,83"/>
+</map>

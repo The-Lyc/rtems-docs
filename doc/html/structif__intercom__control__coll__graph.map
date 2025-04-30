@@ -1,0 +1,5 @@
+<map id="if_intercom_control" name="if_intercom_control">
+<area shape="rect" id="node1" title=" " alt="" coords="5,187,153,213"/>
+<area shape="rect" id="node2" href="$structintercom__packet.html" title=" " alt="" coords="14,97,145,124"/>
+<area shape="rect" id="node3" href="$structChain__Node__struct.html" title=" " alt="" coords="7,7,151,33"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="atsam_spi_bus" name="atsam_spi_bus">
+<area shape="rect" id="node1" title=" " alt="" coords="225,199,343,225"/>
+<area shape="rect" id="node2" href="$structSpi.html" title="Spi hardware registers." alt="" coords="5,109,48,136"/>
+<area shape="rect" id="node3" href="$structatsam__spi__dma.html" title=" " alt="" coords="72,109,197,136"/>
+<area shape="rect" id="node4" href="$struct__LinkedListDescriporView0.html" title="Structure for storing parameters for DMA view0 that can be performed by the DMA Master transfer." alt="" coords="37,5,233,32"/>
+<area shape="rect" id="node5" href="$structspi__ioc__transfer.html" title="SPI transfer message." alt="" coords="221,109,347,136"/>
+<area shape="rect" id="node6" href="$structrtems__binary__semaphore.html" title=" " alt="" coords="371,109,559,136"/>
+<area shape="rect" id="node7" href="$structspi__bus.html" title="SPI bus control." alt="" coords="583,109,654,136"/>
+</map>

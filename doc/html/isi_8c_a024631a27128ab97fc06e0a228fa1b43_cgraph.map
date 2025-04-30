@@ -1,0 +1,4 @@
+<map id="ISI_SetSensorSize" name="ISI_SetSensorSize">
+<area shape="rect" id="node1" title="Set vertical and horizontal Size of the Image Sensor." alt="" coords="5,5,143,32"/>
+<area shape="rect" id="node2" href="$isi_8c.html#adbb6e16ad19dced5edc920ec7f8e7bbf" title="Workaround for ISI CFG2 register read." alt="" coords="191,5,385,32"/>
+</map>

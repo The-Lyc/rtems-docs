@@ -1,0 +1,4 @@
+<map id="Watchdog_Header" name="Watchdog_Header">
+<area shape="rect" id="node1" title="The watchdog header to manage scheduled watchdogs." alt="" coords="5,95,145,121"/>
+<area shape="rect" id="node2" href="$structRBTree__Node.html" title="Red&#45;black tree node." alt="" coords="21,5,129,32"/>
+</map>

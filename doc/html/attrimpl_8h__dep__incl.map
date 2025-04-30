@@ -1,0 +1,14 @@
+<map id="cpukit/include/rtems/rtems/attrimpl.h" name="cpukit/include/rtems/rtems/attrimpl.h">
+<area shape="rect" id="node1" title="Classic Attributes Implementation." alt="" coords="1153,5,1308,47"/>
+<area shape="rect" id="node2" href="$mon-part_8c.html" title=" " alt="" coords="5,95,173,136"/>
+<area shape="rect" id="node3" href="$mon-region_8c.html" title=" " alt="" coords="197,95,365,136"/>
+<area shape="rect" id="node4" href="$barriercreate_8c.html" title="RTEMS Create Barrier." alt="" coords="389,102,616,129"/>
+<area shape="rect" id="node5" href="$msgqcreate_8c.html" title="RTEMS Create Message Queue." alt="" coords="640,102,859,129"/>
+<area shape="rect" id="node6" href="$msgqdelete_8c.html" title="RTEMS Delete Message Queue." alt="" coords="883,102,1101,129"/>
+<area shape="rect" id="node7" href="$msgqident_8c.html" title="RTEMS Message Queue Name to Id." alt="" coords="1125,102,1336,129"/>
+<area shape="rect" id="node8" href="$partcreate_8c.html" title="RTEMS Partition Create." alt="" coords="1361,102,1570,129"/>
+<area shape="rect" id="node9" href="$partdelete_8c.html" title="RTEMS Delete Partition." alt="" coords="1594,102,1803,129"/>
+<area shape="rect" id="node10" href="$regioncreate_8c.html" title="rtems_region_create" alt="" coords="1828,102,2052,129"/>
+<area shape="rect" id="node11" href="$semcreate_8c.html" title="rtems_semaphore_create" alt="" coords="2076,102,2287,129"/>
+<area shape="rect" id="node12" href="$taskcreate_8c.html" title="RTEMS Task Create." alt="" coords="2311,102,2521,129"/>
+</map>

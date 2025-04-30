@@ -1,0 +1,5 @@
+<map id="_Protected_heap_Get_information" name="_Protected_heap_Get_information">
+<area shape="rect" id="node1" title="Returns information about used and free blocks for the heap." alt="" coords="219,27,379,69"/>
+<area shape="rect" id="node2" href="$group__libcsupport.html#ga223e58622d39e49bb8b26b6846cb8c28" title="Get malloc status information." alt="" coords="39,5,137,32"/>
+<area shape="rect" id="node3" href="$group__ClassicRTEMSWorkspace.html#ga95815bb0f8f80d806ffafe7fa47ab5c7" title="Gets Workspace Information." alt="" coords="5,57,171,98"/>
+</map>

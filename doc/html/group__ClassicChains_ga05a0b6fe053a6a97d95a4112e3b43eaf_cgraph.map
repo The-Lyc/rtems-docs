@@ -1,0 +1,5 @@
+<map id="rtems_chain_insert_unprotected" name="rtems_chain_insert_unprotected">
+<area shape="rect" id="node1" title="See _Chain_Insert_unprotected()." alt="" coords="5,5,152,47"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreChain.html#ga0ac64438b8eb6f4dfd182bc3885cea42" title="Inserts a node (unprotected)." alt="" coords="200,13,395,39"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreChain.html#gad7a790f247b3ace45f039c60c18f999f" title="Checks if the node is off chain." alt="" coords="443,5,589,47"/>
+</map>

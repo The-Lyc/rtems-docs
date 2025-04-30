@@ -1,0 +1,12 @@
+<map id="bsps/arm/lpc24xx/start/dma.c" name="bsps/arm/lpc24xx/start/dma.c">
+<area shape="rect" id="node1" title="Direct memory access (DMA) support." alt="" coords="283,5,454,47"/>
+<area shape="rect" id="node2" href="$rtems_2endian_8h.html" title=" " alt="" coords="30,95,150,121"/>
+<area shape="rect" id="node5" href="$lpc24xx_8h.html" title="Register definitions." alt="" coords="250,95,362,121"/>
+<area shape="rect" id="node9" title=" " alt="" coords="386,95,477,121"/>
+<area shape="rect" id="node10" title=" " alt="" coords="501,95,575,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="136,319,207,345"/>
+<area shape="rect" id="node4" title=" " alt="" coords="21,169,159,196"/>
+<area shape="rect" id="node6" title=" " alt="" coords="183,169,322,196"/>
+<area shape="rect" id="node7" href="$include_2bsp_2utility_8h.html" title="Utility macros." alt="" coords="311,244,408,271"/>
+<area shape="rect" id="node8" href="$lpc-i2s_8h.html" title="I2S API." alt="" coords="397,169,501,196"/>
+</map>

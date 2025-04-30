@@ -1,0 +1,6 @@
+<map id="_Thread_queue_Extract" name="_Thread_queue_Extract">
+<area shape="rect" id="node1" title="Extracts thread from thread queue." alt="" coords="441,31,616,57"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreMPCI.html#gae2df57913a498a0305315a2fb6cf12fb" title="Passes a packet to the thread." alt="" coords="208,5,393,32"/>
+<area shape="rect" id="node3" href="$group__ClassicRegionImpl.html#ga3cf94767384ce29609efbb70c01f8531" title="Process Region Queue." alt="" coords="211,56,390,83"/>
+<area shape="rect" id="node4" href="$group__ClassicRegion.html#ga1332adb33a1efe03e31a656a3cf5840c" title="RTEMS Return Region Segment." alt="" coords="5,49,160,90"/>
+</map>

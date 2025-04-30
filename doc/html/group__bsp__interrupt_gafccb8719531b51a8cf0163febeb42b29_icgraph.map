@@ -1,0 +1,6 @@
+<map id="bsp_interrupt_initialize" name="bsp_interrupt_initialize">
+<area shape="rect" id="node1" title="Initialize BSP interrupt support." alt="" coords="345,31,516,57"/>
+<area shape="rect" id="node2" href="$group__RTEMSBSPsSPARCERC32.html#ga6069e1c3859da4080ac440883211b2b5" title=" " alt="" coords="108,5,297,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSBSPsSharedStartup.html#ga424dcf8c1e22bf623eb1210a0aa2a3e9" title=" " alt="" coords="161,56,244,83"/>
+<area shape="rect" id="node4" href="$nios2_2nios2__iss_2start_2main_8c.html#a6381598f44b7afdb4ccaecc94d16a0d5" title=" " alt="" coords="5,56,60,83"/>
+</map>

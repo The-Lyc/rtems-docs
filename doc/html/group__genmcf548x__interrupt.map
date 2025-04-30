@@ -1,0 +1,4 @@
+<map id="Interrupt Support" name="Interrupt Support">
+<area shape="rect" id="node1" title="Interrupt support." alt="" coords="137,5,269,31"/>
+<area shape="rect" id="node2" href="$group__RTEMSBSPsM68kGenMCF548X.html" title="MCF548X Board Support Package." alt="" coords="5,5,89,31"/>
+</map>

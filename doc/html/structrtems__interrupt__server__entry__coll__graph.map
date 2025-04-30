@@ -1,0 +1,5 @@
+<map id="rtems_interrupt_server_entry" name="rtems_interrupt_server_entry">
+<area shape="rect" id="node1" title="An interrupt server entry." alt="" coords="124,109,295,151"/>
+<area shape="rect" id="node2" href="$structrtems__interrupt__server__action.html" title="An interrupt server action." alt="" coords="5,5,176,47"/>
+<area shape="rect" id="node3" href="$structChain__Node__struct.html" title=" " alt="" coords="257,13,401,39"/>
+</map>

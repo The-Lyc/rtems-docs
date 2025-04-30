@@ -1,0 +1,29 @@
+<map id="_Objects_Free_objects_block" name="_Objects_Free_objects_block">
+<area shape="rect" id="node1" title="Free the objects block with the specified index." alt="" coords="5,275,172,316"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreChain.html#ga51ca91740b37b6101d1aa80167ddcfe0" title="Extracts this node (unprotected)." alt="" coords="220,71,424,98"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreChain.html#ga89304b2d294b98f4909dcb6e68d7ec82" title="Returns pointer to chain&#39;s first node." alt="" coords="271,122,373,149"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreChain.html#gaa2f09e6d639b1bc5a27451eb119b6e33" title="Returns pointer to immutable chain tail." alt="" coords="236,173,408,199"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreChain.html#ga9502cc5cb6c81ef2bce33698005e1752" title="Returns pointer to the next node from this node." alt="" coords="270,223,374,250"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreObject.html#ga67f9cdae9423a81e46626f0e2cb9f305" title="Checks if the allocator is the owner of the object allocator mutex." alt="" coords="251,275,393,316"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreObject.html#ga22cdf45f285840b7728b06197a7f4627" title="Returns the index portion of the ID." alt="" coords="488,370,639,397"/>
+<area shape="rect" id="node14" href="$group__RTEMSScoreObject.html#gadf825a94fecd0945a4368e503e274bfd" title="Returns the maximum index of the specified object class." alt="" coords="231,392,413,433"/>
+<area shape="rect" id="node15" href="$group__RTEMSScoreObject.html#gaba65e2c96c6fde53bea31b45152fb79d" title="Checks if the automatic object extension (unlimited objects) is enabled." alt="" coords="230,458,414,485"/>
+<area shape="rect" id="node16" href="$group__RTEMSScoreWorkspace.html#gaa33a3d5dcc07a91d0a6ea948eef2f053" title="Frees memory to the workspace." alt="" coords="255,517,389,543"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreChain.html#gad7a790f247b3ace45f039c60c18f999f" title="Checks if the node is off chain." alt="" coords="490,5,637,47"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreChain.html#gadf0e5d55d133694eed8043ec13fe1266" title="Sets off chain." alt="" coords="483,71,643,98"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreChain.html#gac08944db6f0428125d3b0d5a1c65b740" title="Returns pointer to immutable chain head." alt="" coords="472,122,655,149"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreAllocatorMutex.html#ga8698c4f98051e1c097ed32e38fbf786f" title=" " alt="" coords="485,272,641,313"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreAPIMutex.html#ga0a01be1d7b28416e738a2b97ca3f611d" title="Checks if the specified API mutex is owned by the executing thread." alt="" coords="721,277,884,303"/>
+<area shape="rect" id="node12" href="$group__PerCPU.html#ga294cfaf3cf50de03f1d9821d68b9c1bd" title="Returns the thread control block of the executing thread." alt="" coords="951,277,1125,303"/>
+<area shape="rect" id="node17" href="$group__RTEMSScoreHeap.html#gab9a1cc19751295ceb71d1d495fa56b39" title="Frees the allocated memory area." alt="" coords="514,534,613,561"/>
+<area shape="rect" id="node18" href="$group__RTEMSScoreHeap.html#ga231bdbf1ec3d6b82583d0cc3198fc00b" title="Returns the block which is offset away from block." alt="" coords="739,327,866,354"/>
+<area shape="rect" id="node19" href="$group__RTEMSScoreHeap.html#gafd70a7d05fc0c46a87ff68d759ab3af3" title="Returns the starting address of the block corresponding to the allocatable area." alt="" coords="703,378,903,405"/>
+<area shape="rect" id="node21" href="$group__RTEMSScoreHeap.html#ga161ac37dea0961191b2698abf0e61841" title="Returns the block size." alt="" coords="733,429,872,455"/>
+<area shape="rect" id="node22" href="$group__RTEMSScoreHeap.html#ga860e7959de03ba830d0ebe1b4cca8273" title="Returns the head of the free list of the heap." alt="" coords="721,479,885,506"/>
+<area shape="rect" id="node23" href="$group__RTEMSScoreHeap.html#ga7dd632ea52e7866d26cd025fb154387b" title="Inserts a block after an existing block in the free list." alt="" coords="718,531,887,572"/>
+<area shape="rect" id="node24" href="$group__RTEMSScoreHeap.html#ga73da7f4190c5ae1af555374509a5e302" title="Removes the block from the free list." alt="" coords="711,597,894,623"/>
+<area shape="rect" id="node25" href="$group__RTEMSScoreHeap.html#gade52dd12ae2cb6570271313e8bd7fdf7" title="Replaces one block in the free list by another." alt="" coords="713,647,893,674"/>
+<area shape="rect" id="node26" href="$group__RTEMSScoreHeap.html#gabc511a89a627aea2d91fbc21b95a4ae7" title="Returns if the block is part of the heap." alt="" coords="712,698,893,725"/>
+<area shape="rect" id="node27" href="$group__RTEMSScoreHeap.html#gad88e4681224e360888f3f4bd020c97a9" title="Returns if the previous heap block is used." alt="" coords="725,749,880,775"/>
+<area shape="rect" id="node20" href="$group__RTEMSScoreHeap.html#ga2b11e4f1b69d3f6197165e4fb7f2e956" title="Returns the aligned value, truncating." alt="" coords="965,378,1111,405"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="cpukit/include/rtems/devnull.h" name="cpukit/include/rtems/devnull.h">
+<area shape="rect" id="node1" title="RTEMS /dev/null Device Driver." alt="" coords="523,5,678,47"/>
+<area shape="rect" id="node2" href="$bsps_2epiphany_2epiphany__sim_2include_2bsp_8h.html" title=" " alt="" coords="5,95,185,136"/>
+<area shape="rect" id="node3" href="$bsps_2riscv_2griscv_2include_2bsp_8h.html" title="Global BSP definitions." alt="" coords="210,95,391,136"/>
+<area shape="rect" id="node4" href="$bsps_2riscv_2riscv_2include_2bsp_8h.html" title="Global BSP definitions." alt="" coords="415,95,589,136"/>
+<area shape="rect" id="node5" href="$bsps_2sh_2gensh1_2include_2bsp_8h.html" title="Global BSP definitions." alt="" coords="613,95,786,136"/>
+<area shape="rect" id="node6" href="$bsps_2sh_2shsim_2include_2bsp_8h.html" title="Global BSP definitions." alt="" coords="810,95,975,136"/>
+<area shape="rect" id="node7" href="$devnull_8c.html" title="Null Device Driver Init Routine." alt="" coords="999,95,1165,136"/>
+</map>

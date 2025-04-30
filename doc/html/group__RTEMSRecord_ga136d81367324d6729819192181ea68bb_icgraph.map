@@ -1,0 +1,10 @@
+<map id="rtems_record_produce" name="rtems_record_produce">
+<area shape="rect" id="node1" title="Produces a record item." alt="" coords="251,157,417,184"/>
+<area shape="rect" id="node2" href="$record-userext_8c.html#aaf6c250e526735001521c77fd15d52bf" title=" " alt="" coords="19,5,189,32"/>
+<area shape="rect" id="node3" href="$record-userext_8c.html#a8508ac6bcabd43d6a12650ec7c6671ca" title=" " alt="" coords="17,56,191,83"/>
+<area shape="rect" id="node4" href="$record-userext_8c.html#a29be9ea8599435e3ac3c500110bbe9f5" title=" " alt="" coords="15,107,193,133"/>
+<area shape="rect" id="node5" href="$record-userext_8c.html#a4e4f99cac9768ff39c1f7e546866a088" title=" " alt="" coords="16,157,192,184"/>
+<area shape="rect" id="node6" href="$record-userext_8c.html#a1889c2da41801b0ff8e870001dd280d0" title=" " alt="" coords="23,208,185,235"/>
+<area shape="rect" id="node7" href="$record-userext_8c.html#ab36fa9ff7357ed2f775540ad8b14217f" title=" " alt="" coords="5,259,203,285"/>
+<area shape="rect" id="node8" href="$group__RTEMSRecord.html#gafeade04066a667db801ae71a60119c03" title="Generates an RTEMS_RECORD_LINE event." alt="" coords="35,309,173,336"/>
+</map>

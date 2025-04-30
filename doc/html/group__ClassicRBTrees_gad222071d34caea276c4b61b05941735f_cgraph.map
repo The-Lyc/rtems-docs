@@ -1,0 +1,5 @@
+<map id="rtems_rbtree_peek_max" name="rtems_rbtree_peek_max">
+<area shape="rect" id="node1" title="Peek at the max node on a rbtree." alt="" coords="5,5,187,32"/>
+<area shape="rect" id="node2" href="$group__ClassicRBTrees.html#gad2f68e2923189451b5cda9223920d833" title="Returns the maximum node of the red&#45;black tree." alt="" coords="235,5,377,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreRBTree.html#gac5ea3ed76d45cb2b1cfa6f6290f90b65" title="Returns the maximum node of the red&#45;black tree." alt="" coords="425,5,572,32"/>
+</map>

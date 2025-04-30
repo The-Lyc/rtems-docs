@@ -1,0 +1,9 @@
+<map id="_Thread_Clear_state_locked" name="_Thread_Clear_state_locked">
+<area shape="rect" id="node1" title="Clears the specified thread state without locking the lock context." alt="" coords="583,60,737,101"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreThread.html#ga03378c6b7617ec1b5fcc541423e662e5" title="Initializes thread and executes it." alt="" coords="417,42,529,69"/>
+<area shape="rect" id="node6" href="$pthreaddetach_8c.html#a7c275c509c26566b6dd95a2de1668a2f" title=" " alt="" coords="412,93,535,119"/>
+<area shape="rect" id="node3" href="$group__ClassicTasks.html#gac7fe1362154946d78978ceb4f116f13e" title="RTEMS Start Task." alt="" coords="232,42,364,69"/>
+<area shape="rect" id="node4" href="$group__ClassicTasksImpl.html#gac2c1ab4bf7c8768a39084976a8d9f669" title="System initialization handler to create and start the first user task." alt="" coords="5,5,184,47"/>
+<area shape="rect" id="node5" href="$grspw__pkt_8c.html#a332e9d8281beb4acd9c2451488def344" title=" " alt="" coords="20,71,169,98"/>
+<area shape="rect" id="node7" href="$thrd_8c.html#ad5380997f9e32a31f802bdd9cb266902" title=" " alt="" coords="249,93,347,119"/>
+</map>

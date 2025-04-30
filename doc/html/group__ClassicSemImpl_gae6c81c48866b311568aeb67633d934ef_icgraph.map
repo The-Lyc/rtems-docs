@@ -1,0 +1,5 @@
+<map id="_Semaphore_Get" name="_Semaphore_Get">
+<area shape="rect" id="node1" title=" " alt="" coords="232,35,365,61"/>
+<area shape="rect" id="node2" href="$group__ClassicSem.html#ga1d9a04c45e2e1c68fd3e19ee675e6150" title="RTEMS Semaphore Flush." alt="" coords="5,5,184,32"/>
+<area shape="rect" id="node3" href="$group__ClassicSem.html#gad9bd7dcfb6e233a152f02f47bbf73f50" title="Sets the priority value with respect to the specified scheduler of a semaphore." alt="" coords="11,57,178,98"/>
+</map>

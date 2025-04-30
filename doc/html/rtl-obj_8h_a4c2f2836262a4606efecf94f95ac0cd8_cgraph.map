@@ -1,0 +1,20 @@
+<map id="rtems_rtl_obj_add_dependent" name="rtems_rtl_obj_add_dependent">
+<area shape="rect" id="node1" title=" " alt="" coords="5,183,220,209"/>
+<area shape="rect" id="node2" href="$group__ClassicChains.html#ga44b92f7e9e25d9a3a0eadb0b559398cc" title="Return pointer to Chain&#39;s First node after the permanent head." alt="" coords="281,5,415,32"/>
+<area shape="rect" id="node5" href="$group__ClassicChains.html#ga0131faa875818fc0cddb4c960e599396" title="Is this node the chain tail." alt="" coords="274,56,422,83"/>
+<area shape="rect" id="node8" href="$group__ClassicChains.html#gacf4f04f80c5d9e867686087fc0066006" title="Return pointer to Chain&#39;s Last node before the permanent tail." alt="" coords="281,107,415,133"/>
+<area shape="rect" id="node10" href="$group__ClassicChains.html#ga53a35170adf0ff9075a2e04560777eab" title="Return pointer the next node from this node." alt="" coords="279,157,417,184"/>
+<area shape="rect" id="node12" href="$rtl_8h.html#a3f4b19b95e6a3e18b67c282c9d6f2a63" title=" " alt="" coords="268,208,428,235"/>
+<area shape="rect" id="node14" href="$rtl-obj_8c.html#a9877304c222a5c80f68936f814cb42b3" title=" " alt="" coords="275,259,421,301"/>
+<area shape="rect" id="node17" href="$rtl-error_8c.html#a1dd0c70dd33466d399f081dec008cc76" title=" " alt="" coords="481,360,628,387"/>
+<area shape="rect" id="node18" href="$rtl-trace_8h.html#ac04c6d098f19ac5fae73682e2f279e38" title=" " alt="" coords="287,376,409,403"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreChain.html#ga89304b2d294b98f4909dcb6e68d7ec82" title="Returns pointer to chain&#39;s first node." alt="" coords="504,5,605,32"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreChain.html#gac08944db6f0428125d3b0d5a1c65b740" title="Returns pointer to immutable chain head." alt="" coords="681,5,864,32"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreChain.html#gacc6f9947e62bf5bb5fe1cb050b57289b" title="Checks if this node is the chain tail." alt="" coords="499,56,611,83"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreChain.html#gaa2f09e6d639b1bc5a27451eb119b6e33" title="Returns pointer to immutable chain tail." alt="" coords="687,81,859,108"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreChain.html#gaf31036dacdeac30f4890d3b21fe7cad7" title="Returns pointer to chain&#39;s last node." alt="" coords="505,107,605,133"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreChain.html#ga9502cc5cb6c81ef2bce33698005e1752" title="Returns pointer to the next node from this node." alt="" coords="503,157,607,184"/>
+<area shape="rect" id="node13" href="$rtl_8c.html#ac3aff9dcb5d1e56642ea983294fac844" title=" " alt="" coords="497,208,612,235"/>
+<area shape="rect" id="node15" href="$group__ClassicChains.html#ga946ee16c96fcf84a071a5bc951f1eaaa" title="Append a node on the end of a chain." alt="" coords="476,259,633,285"/>
+<area shape="rect" id="node16" href="$rtl-allocator_8h.html#afddd36f9f551ae6646028bcc78f3a6dd" title=" " alt="" coords="478,309,631,336"/>
+</map>

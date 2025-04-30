@@ -1,0 +1,10 @@
+<map id="bsps/arm/altera&#45;cyclone&#45;v/contrib/hwlib/src" name="bsps/arm/altera&#45;cyclone&#45;v/contrib/hwlib/src">
+<area shape="rect" id="node2" href="dir_e0df0230165c2192ea184877bd5ac31a.html" title="hwmgr" alt="" coords="43,63,115,111"/>
+<area shape="rect" id="node3" href="dir_f59c6ae5e6d8c4dec27b664091af7a86.html" title="include" alt="" coords="5,159,77,207"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000083_000084.html" title="45" alt="" coords="56,138,74,152"/>
+<area shape="rect" id="node4" href="dir_cd198e36225ba3f41de97552050ac017.html" title="cpukit" alt="" coords="41,255,113,303"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000083_000080.html" title="2" alt="" coords="89,231,98,246"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000084_000080.html" title="4" alt="" coords="65,227,75,242"/>
+<area shape="rect" id="clust2" href="dir_b39d3d94f8940c55d97e25d52249d0e1.html" alt="" coords="32,52,221,121"/>
+<area shape="rect" id="clust1" href="dir_ec1db1155ab9ecd41730c5016635c7b2.html" title="hwlib" alt="" coords="21,16,232,132"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="clnt_broadcast" name="clnt_broadcast">
+<area shape="rect" id="node1" title=" " alt="" coords="5,107,123,133"/>
+<area shape="rect" id="node2" href="$auth__unix_8c.html#a2468c95cd581164561c33508856bd0c7" title=" " alt="" coords="171,107,351,133"/>
+<area shape="rect" id="node3" href="$auth__unix_8c.html#a9c7f2898a565d90f5dd70c53a79e9113" title=" " alt="" coords="399,5,525,32"/>
+<area shape="rect" id="node4" href="$getegid_8c.html#a3e7c694d68b4e62c1f275612d30b6d9d" title=" " alt="" coords="427,56,497,83"/>
+<area shape="rect" id="node5" href="$geteuid_8c.html#a8b9a6dcf4e1d237f5607256dad93e26a" title=" " alt="" coords="427,107,497,133"/>
+<area shape="rect" id="node6" href="$getgroups_8c.html#a21cd4cae2ec9bd043c6ef5fef0881c43" title=" " alt="" coords="419,157,505,184"/>
+<area shape="rect" id="node12" href="$if__xxx__rtems_8c.html#a0d44d815bf35b8d64e2c9b7dc79efa76" title=" " alt="" coords="443,208,481,235"/>
+<area shape="rect" id="node7" href="$getgrent_8c.html#ad8139e6b6a3e1c75bc059ff9507cbd48" title=" " alt="" coords="581,56,661,83"/>
+<area shape="rect" id="node8" href="$getgrent_8c.html#ad562e93b891b0df5e1d875b7ad118aa6" title=" " alt="" coords="582,107,659,133"/>
+<area shape="rect" id="node9" href="$pwdgrp_8c.html#a171c52c8fac39d01f77ed0d69efbaa61" title=" " alt="" coords="573,157,668,184"/>
+<area shape="rect" id="node10" href="$getuid_8c.html#a2f517436c22ef73337d3de4920908c6c" title=" " alt="" coords="589,208,652,235"/>
+<area shape="rect" id="node11" href="$getgrent_8c.html#acb15dcd4c02d1f8b693306cd43a8aa69" title=" " alt="" coords="583,259,659,285"/>
+</map>

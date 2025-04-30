@@ -1,0 +1,5 @@
+<map id="LCD Support" name="LCD Support">
+<area shape="rect" id="node1" href="$group__RTEMSBSPsARMLPC32XX.html" title="NXP LPC32XX Board Support Package." alt="" coords="41,5,151,31"/>
+<area shape="rect" id="node2" title="LCD support." alt="" coords="235,35,337,60"/>
+<area shape="rect" id="node3" href="$group__RTEMSBSPsARMLPC24XX.html" title="NXP LPC17XX, LPC23XX, LPC24XX and LPC40XX Board Support Package." alt="" coords="5,55,187,95"/>
+</map>

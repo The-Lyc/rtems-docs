@@ -1,0 +1,4 @@
+<map id="_Watchdog_Is_far_future_timespec" name="_Watchdog_Is_far_future_timespec">
+<area shape="rect" id="node1" title="Checks if the timespec is too far in the future." alt="" coords="225,5,408,47"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreWatchdog.html#ga04e1294fd46a613921a5323b3dc0b090" title="Converts the timespec in ticks." alt="" coords="5,5,177,47"/>
+</map>

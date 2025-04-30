@@ -1,0 +1,8 @@
+<map id="Inter&#45;Integrated Circuit (I2C) Driver" name="Inter&#45;Integrated Circuit (I2C) Driver">
+<area shape="rect" id="node1" href="$group__I2CDevice.html" title=" " alt="" coords="449,5,585,31"/>
+<area shape="rect" id="node2" href="$group__I2CLinux.html" title="RTEMS port of Linux I2C user&#45;space API." alt="" coords="424,55,609,80"/>
+<area shape="rect" id="node3" title="Inter&#45;Integrated Circuit (I2C) bus and device driver support." alt="" coords="173,73,344,113"/>
+<area shape="rect" id="node5" href="$group__I2CBus.html" title=" " alt="" coords="459,104,574,129"/>
+<area shape="rect" id="node6" href="$group__stm32f4__i2c.html" title="I2C Module." alt="" coords="468,153,565,179"/>
+<area shape="rect" id="node4" href="$group__RTEMSDeviceDrivers.html" title="Device Drivers." alt="" coords="5,80,124,105"/>
+</map>

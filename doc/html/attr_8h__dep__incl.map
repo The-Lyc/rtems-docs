@@ -1,0 +1,52 @@
+<map id="cpukit/include/rtems/rtems/attr.h" name="cpukit/include/rtems/rtems/attr.h">
+<area shape="rect" id="node1" title=" " alt="" coords="2101,5,2255,47"/>
+<area shape="rect" id="node2" href="$attrimpl_8h.html" title="Classic Attributes Implementation." alt="" coords="1261,273,1415,315"/>
+<area shape="rect" id="node14" href="$barrier_8h.html" title="Classic Barrier Manager API." alt="" coords="1801,95,1955,136"/>
+<area shape="rect" id="node17" href="$message_8h.html" title="Classic Message Queue Manager API." alt="" coords="2043,95,2198,136"/>
+<area shape="rect" id="node19" href="$part_8h.html" title="Classic Partition Manager API." alt="" coords="1507,184,1662,225"/>
+<area shape="rect" id="node21" href="$region_8h.html" title="Classic Region Manager API." alt="" coords="2387,184,2542,225"/>
+<area shape="rect" id="node23" href="$sem_8h.html" title="Classic Semaphores Manager API." alt="" coords="8410,184,8565,225"/>
+<area shape="rect" id="node25" href="$tasks_8h.html" title="Classic Task Manager API." alt="" coords="5375,95,5530,136"/>
+<area shape="rect" id="node32" href="$cpukit_2include_2rtems_2rtems_2timer_8h.html" title="Classic Timer Manager API." alt="" coords="2158,184,2313,225"/>
+<area shape="rect" id="node3" href="$mon-part_8c.html" title=" " alt="" coords="2161,363,2329,404"/>
+<area shape="rect" id="node4" href="$mon-region_8c.html" title=" " alt="" coords="2353,363,2521,404"/>
+<area shape="rect" id="node5" href="$barriercreate_8c.html" title="RTEMS Create Barrier." alt="" coords="1190,370,1417,397"/>
+<area shape="rect" id="node6" href="$msgqcreate_8c.html" title="RTEMS Create Message Queue." alt="" coords="1441,370,1659,397"/>
+<area shape="rect" id="node7" href="$msgqdelete_8c.html" title="RTEMS Delete Message Queue." alt="" coords="1683,370,1902,397"/>
+<area shape="rect" id="node8" href="$msgqident_8c.html" title="RTEMS Message Queue Name to Id." alt="" coords="1926,370,2137,397"/>
+<area shape="rect" id="node9" href="$partcreate_8c.html" title="RTEMS Partition Create." alt="" coords="5,370,215,397"/>
+<area shape="rect" id="node10" href="$partdelete_8c.html" title="RTEMS Delete Partition." alt="" coords="239,370,448,397"/>
+<area shape="rect" id="node11" href="$regioncreate_8c.html" title="rtems_region_create" alt="" coords="473,370,697,397"/>
+<area shape="rect" id="node12" href="$semcreate_8c.html" title="rtems_semaphore_create" alt="" coords="721,370,931,397"/>
+<area shape="rect" id="node13" href="$taskcreate_8c.html" title="RTEMS Task Create." alt="" coords="955,370,1166,397"/>
+<area shape="rect" id="node15" href="$barrierdata_8h.html" title="Classic Barrier Manager Data Structures." alt="" coords="1686,184,1841,225"/>
+<area shape="rect" id="node16" href="$rtems_8h.html" title=" " alt="" coords="2161,281,2328,307"/>
+<area shape="rect" id="node18" href="$messagedata_8h.html" title="Classic Message Queue Manager API." alt="" coords="1915,184,2083,225"/>
+<area shape="rect" id="node20" href="$partdata_8h.html" title="Classic Partition Manager Data Structures." alt="" coords="1731,273,1886,315"/>
+<area shape="rect" id="node22" href="$regiondata_8h.html" title="Classic Region Manager Data Structures." alt="" coords="2378,273,2533,315"/>
+<area shape="rect" id="node24" href="$semdata_8h.html" title="Classic Semaphore Manager Data Structures." alt="" coords="8441,273,8595,315"/>
+<area shape="rect" id="node26" href="$libcsupport_8h.html" title="Standard C Library Support." alt="" coords="2566,184,2721,225"/>
+<area shape="rect" id="node27" href="$printer_8h.html" title="User print interface to the bspIO print plug in." alt="" coords="2745,184,2899,225"/>
+<area shape="rect" id="node28" href="$include_2rtems_2rtems_2config_8h.html" title=" " alt="" coords="8181,184,8335,225"/>
+<area shape="rect" id="node29" href="$scheduleraddprocessor_8c.html" title=" " alt="" coords="6879,281,7170,307"/>
+<area shape="rect" id="node30" href="$schedulerremoveprocessor_8c.html" title=" " alt="" coords="8099,281,8417,307"/>
+<area shape="rect" id="node31" href="$tasksdata_8h.html" title="Classic Tasks Manager Data Structures." alt="" coords="2923,184,3078,225"/>
+<area shape="rect" id="node33" href="$modes_8c.html" title="Body for RTEMS_INTERRUPT_LEVEL Macro." alt="" coords="3102,191,3289,218"/>
+<area shape="rect" id="node34" href="$rtemsmaxprio_8c.html" title=" " alt="" coords="3313,191,3547,218"/>
+<area shape="rect" id="node35" href="$rtemsobjectsetname_8c.html" title="Set Name of Object." alt="" coords="3571,191,3849,218"/>
+<area shape="rect" id="node36" href="$schedulergetmaxprio_8c.html" title=" " alt="" coords="3873,191,4153,218"/>
+<area shape="rect" id="node37" href="$schedulergetprocessorset_8c.html" title=" " alt="" coords="4177,191,4486,218"/>
+<area shape="rect" id="node38" href="$schedulerident_8c.html" title=" " alt="" coords="4511,191,4749,218"/>
+<area shape="rect" id="node39" href="$scheduleridentbyprocessor_8c.html" title=" " alt="" coords="4773,191,5089,218"/>
+<area shape="rect" id="node40" href="$scheduleridentbyprocessorset_8c.html" title=" " alt="" coords="5113,191,5451,218"/>
+<area shape="rect" id="node41" href="$schedulermapfromposix_8c.html" title="Implementation of rtems_scheduler_map_priority_from_posix()." alt="" coords="5475,191,5775,218"/>
+<area shape="rect" id="node42" href="$schedulermaptoposix_8c.html" title="Implementation of rtems_scheduler_map_priority_to_posix()." alt="" coords="5799,191,6082,218"/>
+<area shape="rect" id="node43" href="$taskexit_8c.html" title=" " alt="" coords="6157,191,6351,218"/>
+<area shape="rect" id="node44" href="$taskgetaffinity_8c.html" title="RTEMS Task Get Affinity." alt="" coords="6375,191,6610,218"/>
+<area shape="rect" id="node45" href="$taskgetscheduler_8c.html" title=" " alt="" coords="6634,191,6887,218"/>
+<area shape="rect" id="node46" href="$taskinitdefault_8c.html" title=" " alt="" coords="6911,191,7149,218"/>
+<area shape="rect" id="node47" href="$taskissuspended_8c.html" title="rtems_task_is_suspended" alt="" coords="7173,191,7423,218"/>
+<area shape="rect" id="node48" href="$taskiterate_8c.html" title=" " alt="" coords="7447,191,7661,218"/>
+<area shape="rect" id="node49" href="$taskrestart_8c.html" title="RTEMS Task Restart." alt="" coords="7685,191,7898,218"/>
+<area shape="rect" id="node50" href="$tasksetaffinity_8c.html" title="RTEMS Task Set Affinity." alt="" coords="7922,191,8157,218"/>
+</map>

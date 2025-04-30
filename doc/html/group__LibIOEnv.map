@@ -1,0 +1,4 @@
+<map id="User Environment" name="User Environment">
+<area shape="rect" id="node1" title="Provides a POSIX like user environment for tasks." alt="" coords="139,5,277,31"/>
+<area shape="rect" id="node2" href="$group__LibIO.html" title="Provides system call and file system interface definitions." alt="" coords="5,5,91,31"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="i386_get_info_from_GDTR" name="i386_get_info_from_GDTR">
+<area shape="rect" id="node1" title=" " alt="" coords="411,85,603,112"/>
+<area shape="rect" id="node2" href="$i386_8h.html#aac1a2fb788bcb2eff63e97ac33849704" title="Copies GDT entry at index segment_selector to structure pointed to by struct_to_fill." alt="" coords="207,5,356,32"/>
+<area shape="rect" id="node3" href="$i386_8h.html#a1cb826a0497a7c86d327bc2424c077d7" title="Returns pointer to GDT table at index given by segment_selector." alt="" coords="208,56,355,83"/>
+<area shape="rect" id="node4" href="$i386_8h.html#a9b0f4d3c7601bdd89b3405ddc0350f92" title="Returns next empty descriptor in GDT." alt="" coords="200,107,363,149"/>
+<area shape="rect" id="node5" href="$i386_8h.html#aa540fed4ea64b62a7f6242338b3d4dc8" title="Allows to set a GDT entry." alt="" coords="206,173,357,200"/>
+<area shape="rect" id="node6" href="$i386_8h.html#a24ae2b79f74284f1c07a368b59bfe0f1" title=" " alt="" coords="5,173,152,200"/>
+</map>

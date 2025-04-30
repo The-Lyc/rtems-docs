@@ -1,0 +1,28 @@
+<map id="bsps/arm/include/bsp/lpc&#45;emc.h" name="bsps/arm/include/bsp/lpc&#45;emc.h">
+<area shape="rect" id="node1" title="EMC support API." alt="" coords="840,5,1000,47"/>
+<area shape="rect" id="node2" href="$start-config_8h.html" title="BSP start configuration." alt="" coords="530,95,718,136"/>
+<area shape="rect" id="node3" href="$lpc24xx_2start_2bspstarthooks_8c.html" title="Startup code." alt="" coords="5,184,176,225"/>
+<area shape="rect" id="node8" href="$emc_8h.html" title="EMC support API." alt="" coords="923,95,1111,136"/>
+<area shape="rect" id="node10" href="$lpc32xx_8h.html" title="Register base addresses." alt="" coords="2502,95,2690,136"/>
+<area shape="rect" id="node4" href="$start-config-emc-dynamic_8c.html" title="BSP start EMC dynamic memory configuration." alt="" coords="200,184,405,225"/>
+<area shape="rect" id="node5" href="$start-config-emc-static_8c.html" title="BSP start EMC static memory configuration." alt="" coords="430,184,615,225"/>
+<area shape="rect" id="node6" href="$start-config-mpu_8c.html" title="BSP start MPU configuration." alt="" coords="640,184,811,225"/>
+<area shape="rect" id="node7" href="$start-config-pinsel_8c.html" title="BSP start pin selection configuration." alt="" coords="835,184,1005,225"/>
+<area shape="rect" id="node9" href="$emc_8c.html" title="EMC support implementation." alt="" coords="1029,184,1200,225"/>
+<area shape="rect" id="node11" href="$arm_2lpc32xx_2console_2console-config_8c.html" title="Console configuration." alt="" coords="1225,184,1415,225"/>
+<area shape="rect" id="node12" href="$hsu_8c.html" title="High speed UART driver (14&#45;clock)." alt="" coords="1439,184,1630,225"/>
+<area shape="rect" id="node13" href="$bsps_2arm_2lpc32xx_2include_2bsp_2i2c_8h.html" title="I2C support API." alt="" coords="1654,184,1842,225"/>
+<area shape="rect" id="node14" href="$lpc32xx_2include_2bsp_2lpc-clock-config_8h.html" title="Clock driver configuration." alt="" coords="1866,184,2054,225"/>
+<area shape="rect" id="node16" href="$lpc32xx_2include_2bsp_2lpc-ethernet-config_8h.html" title="Ethernet driver configuration." alt="" coords="2078,184,2266,225"/>
+<area shape="rect" id="node18" href="$bsps_2arm_2lpc32xx_2include_2bsp_8h.html" title="Global BSP definitions." alt="" coords="2290,184,2478,225"/>
+<area shape="rect" id="node19" href="$arm_2lpc32xx_2include_2tm27_8h.html" title=" " alt="" coords="2502,184,2690,225"/>
+<area shape="rect" id="node20" href="$bsps_2arm_2lpc32xx_2irq_2irq_8c.html" title="Interrupt support." alt="" coords="2714,184,2873,225"/>
+<area shape="rect" id="node21" href="$nand-mlc_8c.html" title="NAND MLC controller implementation." alt="" coords="2897,184,3071,225"/>
+<area shape="rect" id="node22" href="$nand-select_8c.html" title="NAND controller selection." alt="" coords="3095,184,3268,225"/>
+<area shape="rect" id="node23" href="$arm_2lpc32xx_2rtc_2rtc-config_8c.html" title="RTC configuration." alt="" coords="3293,184,3451,225"/>
+<area shape="rect" id="node24" href="$arm_2lpc32xx_2start_2bspreset_8c.html" title="Reset code." alt="" coords="3476,184,3647,225"/>
+<area shape="rect" id="node25" href="$lpc32xx_2start_2bspstarthooks_8c.html" title="Startup code." alt="" coords="3671,184,3841,225"/>
+<area shape="rect" id="node26" href="$lpc32xx_2start_2system-clocks_8c.html" title="System clocks." alt="" coords="3865,184,4036,225"/>
+<area shape="rect" id="node15" href="$clock-nxp-lpc_8c.html" title="Clock driver configuration." alt="" coords="1876,273,2044,315"/>
+<area shape="rect" id="node17" href="$lpc-ethernet_8c.html" title="Ethernet driver." alt="" coords="2095,273,2249,315"/>
+</map>

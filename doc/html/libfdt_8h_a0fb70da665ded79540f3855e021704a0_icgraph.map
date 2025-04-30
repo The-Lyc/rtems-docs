@@ -1,0 +1,47 @@
+<map id="fdt_offset_ptr" name="fdt_offset_ptr">
+<area shape="rect" id="node1" title=" " alt="" coords="1925,339,2035,365"/>
+<area shape="rect" id="node2" href="$libfdt_8h.html#a2634793f3f530d97ca208c56b50accf6" title=" " alt="" coords="1773,339,1877,365"/>
+<area shape="rect" id="node3" href="$libfdt_8h.html#a9ec78ea0fd08982a50310216ff295747" title=" " alt="" coords="855,5,1052,32"/>
+<area shape="rect" id="node5" href="$libfdt__internal_8h.html#a8f4832389aff9d7c0663b6b70cdd42dd" title=" " alt="" coords="1551,339,1725,365"/>
+<area shape="rect" id="node7" href="$libfdt_8h.html#a6603ac8041afcc7fde5c0b25de765103" title=" " alt="" coords="1354,281,1469,308"/>
+<area shape="rect" id="node42" href="$libfdt__internal_8h.html#a299827db3d34b686d9ca7f4c60b88a08" title=" " alt="" coords="1552,391,1724,417"/>
+<area shape="rect" id="node44" href="$libfdt_8h.html#aa493ca8c4e02dbfdc415e74115c794bb" title=" " alt="" coords="1583,445,1693,472"/>
+<area shape="rect" id="node4" href="$libfdt_8h.html#a006872c92462f1a3c962192df483600c" title=" " alt="" coords="656,5,789,32"/>
+<area shape="rect" id="node6" href="$libfdt_8h.html#aba2e2271df9d7cbcbb6ac633bd169bcf" title=" " alt="" coords="1344,333,1479,374"/>
+<area shape="rect" id="node8" href="$libfdt_8h.html#a57fbf6be8c4911e8448942b9fed97301" title=" " alt="" coords="1103,180,1269,207"/>
+<area shape="rect" id="node10" href="$libfdt_8h.html#a0c888491fbef3ded52e45ac4772ea02f" title=" " alt="" coords="1119,231,1253,257"/>
+<area shape="rect" id="node11" href="$libfdt_8h.html#a7b25d4bc3dd83403a39ef84b8a362bd5" title=" " alt="" coords="1134,281,1238,308"/>
+<area shape="rect" id="node13" href="$libfdt_8h.html#acc373b28d3daa598bc3aa9a131224773" title=" " alt="" coords="1117,332,1255,359"/>
+<area shape="rect" id="node14" href="$libfdt__internal_8h.html#aa3588d65811fd67a0c11c5c60341caa7" title=" " alt="" coords="1105,383,1267,409"/>
+<area shape="rect" id="node17" href="$libfdt_8h.html#a4ff6571f3fe2fa89cfd6dc15f52eaf1e" title=" " alt="" coords="1113,434,1259,475"/>
+<area shape="rect" id="node19" href="$libfdt_8h.html#a99d317b082102ce9a3eea47e86ab5757" title=" " alt="" coords="1113,499,1259,541"/>
+<area shape="rect" id="node21" href="$libfdt_8h.html#a92756de14074ac915bd5b1056453e04c" title=" " alt="" coords="1113,114,1259,155"/>
+<area shape="rect" id="node33" href="$libfdt_8h.html#a6c960d975c6644172ccc71fc2c48dbb4" title=" " alt="" coords="1100,594,1272,635"/>
+<area shape="rect" id="node41" href="$rtems-fdt_8c.html#a20680319175c55fcc8f375730f2fc98e" title=" " alt="" coords="1106,63,1266,89"/>
+<area shape="rect" id="node9" href="$libfdt_8h.html#a7ad648a7cf17f33659fb6cbb9545ce38" title=" " alt="" coords="871,224,1035,251"/>
+<area shape="rect" id="node12" href="$rtems-fdt_8c.html#afcdb3310c5a54e1f954e30a16af3dc6a" title=" " alt="" coords="879,281,1028,308"/>
+<area shape="rect" id="node15" href="$libfdt_8h.html#ad67005f5936eebeb182e55d5f36e9f85" title=" " alt="" coords="900,383,1007,409"/>
+<area shape="rect" id="node16" href="$libfdt_8h.html#ac1b08e2054997c7e9814fc0b04acb305" title=" " alt="" coords="898,332,1009,359"/>
+<area shape="rect" id="node18" href="$rtems-fdt_8c.html#a0e325bcc41668532f9d4fdc6d66d5fb6" title=" " alt="" coords="869,434,1037,475"/>
+<area shape="rect" id="node20" href="$rtems-fdt_8c.html#adb0fc53f2acd3033dc8c1fea8a1b3672" title=" " alt="" coords="869,499,1037,541"/>
+<area shape="rect" id="node22" href="$libfdt_8h.html#aa8b4d143366fc7d443f47c1c92a8f8cc" title=" " alt="" coords="861,123,1045,149"/>
+<area shape="rect" id="node31" href="$libfdt_8h.html#a22dd90f8bea25063fe0debae7683eb02" title=" " alt="" coords="880,173,1027,200"/>
+<area shape="rect" id="node32" href="$rtems-fdt_8c.html#a17e813a4b49ed057a6668c3d5ddaee53" title=" " alt="" coords="858,57,1049,98"/>
+<area shape="rect" id="node23" href="$libfdt_8h.html#a222c01ef0a514a4cf7586f6de8b17072" title=" " alt="" coords="663,123,783,149"/>
+<area shape="rect" id="node24" href="$group__RTEMSBSPsARMZynqMP.html#ga371b5f674b0ec4957ef0fee036cf6897" title=" " alt="" coords="415,225,588,266"/>
+<area shape="rect" id="node25" href="$libfdt_8h.html#a1446c9a325c1348d88007632675f2641" title=" " alt="" coords="416,72,587,99"/>
+<area shape="rect" id="node27" href="$group__RTEMSBSPsARMimx.html#gaf79daa85e2800cdf3336db338c205074" title="Registers an IMX I2C bus driver." alt="" coords="5,123,165,149"/>
+<area shape="rect" id="node29" href="$group__RTEMSBSPsARMimx.html#ga76c0c74170b6f591738da72382b35dde" title="Registers an IMX ECSPI bus driver." alt="" coords="5,173,165,200"/>
+<area shape="rect" id="node26" href="$libfdt_8h.html#af65ebffdb681288cefa41db5ad41d1fe" title=" " alt="" coords="235,72,342,99"/>
+<area shape="rect" id="node30" href="$rtems-fdt_8c.html#abb99d6e2c000611ea9b7711d29de27fd" title=" " alt="" coords="213,6,364,47"/>
+<area shape="rect" id="node28" href="$rtems-fdt_8c.html#af220698849e74aac90bea92864e5d628" title=" " alt="" coords="10,72,161,99"/>
+<area shape="rect" id="node34" href="$libfdt_8h.html#a2c0d12a5988128f0b674d4ec24b709d8" title=" " alt="" coords="892,681,1015,708"/>
+<area shape="rect" id="node35" href="$libfdt_8h.html#a2b518dbd88cb783a9bffa1680ab297f9" title=" " alt="" coords="656,631,789,657"/>
+<area shape="rect" id="node40" href="$rtems-fdt_8c.html#a20478964d261bd15846a70f3d8af55ab" title=" " alt="" coords="873,565,1033,606"/>
+<area shape="rect" id="node39" href="$rtems-fdt_8c.html#a9ec16b9548b07b98f9d88e2e7a6f62cc" title=" " alt="" coords="639,681,807,708"/>
+<area shape="rect" id="node36" href="$riscv_2riscv_2start_2bspstart_8c.html#a7ee63857ca3030fcbed646c0de1d15f7" title=" " alt="" coords="419,605,583,632"/>
+<area shape="rect" id="node38" href="$rtems-fdt_8c.html#a99132e68dc89a9345760db5f986e26be" title=" " alt="" coords="412,656,591,683"/>
+<area shape="rect" id="node37" href="$group__RTEMSScoreCPUi386.html#ga254ab76f1c02812babdb3d5028f59178" title=" " alt="" coords="225,605,352,632"/>
+<area shape="rect" id="node43" href="$libfdt_8h.html#ad17c7077eebb6668f09aadda1f6c8fb2" title=" " alt="" coords="1320,399,1503,425"/>
+<area shape="rect" id="node45" href="$libfdt_8h.html#abf455011fdab75e2f9df2c5437a04968" title=" " alt="" coords="1326,449,1497,476"/>
+</map>

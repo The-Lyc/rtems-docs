@@ -1,0 +1,33 @@
+<map id="qoriq_ccsr" name="qoriq_ccsr">
+<area shape="rect" id="node1" title=" " alt="" coords="867,641,955,668"/>
+<area shape="rect" id="node2" href="$structqoriq__local__bus.html" title=" " alt="" coords="511,23,633,49"/>
+<area shape="rect" id="node3" href="$structqoriq__boot__rom.html" title=" " alt="" coords="510,73,634,100"/>
+<area shape="rect" id="node4" href="$structqoriq__tdm.html" title=" " alt="" coords="528,124,616,151"/>
+<area shape="rect" id="node5" href="$structqoriq__esdhc.html" title=" " alt="" coords="522,175,622,201"/>
+<area shape="rect" id="node6" href="$structqoriq__ddr__controller.html" title=" " alt="" coords="496,225,648,252"/>
+<area shape="rect" id="node7" href="$structqoriq__performance__monitor.html" title=" " alt="" coords="471,276,673,303"/>
+<area shape="rect" id="node8" href="$structqoriq__pic.html" title=" " alt="" coords="531,327,613,353"/>
+<area shape="rect" id="node9" href="$structqoriq__pic__src__cfg.html" title=" " alt="" coords="214,161,349,188"/>
+<area shape="rect" id="node10" href="$structqoriq__pic__global__timer.html" title=" " alt="" coords="196,216,367,243"/>
+<area shape="rect" id="node11" href="$structqoriq__pic__reg.html" title=" " alt="" coords="5,357,115,384"/>
+<area shape="rect" id="node13" href="$structqoriq__pic__per__cpu.html" title=" " alt="" coords="212,388,351,415"/>
+<area shape="rect" id="node12" href="$structqoriq__pic__bit__field.html" title=" " alt="" coords="211,439,351,465"/>
+<area shape="rect" id="node14" href="$structqoriq__sec.html" title=" " alt="" coords="530,377,614,404"/>
+<area shape="rect" id="node15" href="$structqoriq__usb.html" title=" " alt="" coords="529,428,615,455"/>
+<area shape="rect" id="node16" href="$structqoriq__l2__cache.html" title=" " alt="" coords="513,479,631,505"/>
+<area shape="rect" id="node17" href="$structqoriq__i2c.html" title=" " alt="" coords="531,529,613,556"/>
+<area shape="rect" id="node18" href="$structqoriq__pci__express.html" title=" " alt="" coords="503,580,641,607"/>
+<area shape="rect" id="node19" href="$structqoriq__debug__watchpoint.html" title=" " alt="" coords="481,631,663,657"/>
+<area shape="rect" id="node20" href="$structqoriq__serial__rapid__io.html" title=" " alt="" coords="493,681,651,708"/>
+<area shape="rect" id="node21" href="$structqoriq__tdm__dma.html" title=" " alt="" coords="510,732,634,759"/>
+<area shape="rect" id="node22" href="$structqoriq__spi.html" title=" " alt="" coords="531,783,613,809"/>
+<area shape="rect" id="node23" href="$structqoriq__uart.html" title=" " alt="" coords="528,833,616,860"/>
+<area shape="rect" id="node24" href="$structqoriq__serdes.html" title=" " alt="" coords="519,884,625,911"/>
+<area shape="rect" id="node25" href="$structqoriq__lcc.html" title=" " alt="" coords="532,935,612,961"/>
+<area shape="rect" id="node26" href="$structqoriq__dma.html" title=" " alt="" coords="527,985,617,1012"/>
+<area shape="rect" id="node27" href="$structqoriq__global__utilities.html" title=" " alt="" coords="493,1036,651,1063"/>
+<area shape="rect" id="node28" href="$structqoriq__gpio.html" title=" " alt="" coords="527,1087,617,1113"/>
+<area shape="rect" id="node29" href="$structqoriq__ecm.html" title=" " alt="" coords="527,1137,617,1164"/>
+<area shape="rect" id="node30" href="$structtsec__registers.html" title=" " alt="" coords="515,1336,629,1363"/>
+<area shape="rect" id="node31" href="$structqoriq__law.html" title=" " alt="" coords="529,1387,615,1413"/>
+</map>

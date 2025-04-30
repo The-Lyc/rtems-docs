@@ -1,0 +1,8 @@
+<map id="_RBTree_Initialize_empty" name="_RBTree_Initialize_empty">
+<area shape="rect" id="node1" title="Initializes this RBTree as empty." alt="" coords="481,89,619,131"/>
+<area shape="rect" id="node2" href="$group__RTEMSScorePriority.html#ga8d8c4f07bd22c4dd27a592368fadedcf" title="Initializes the priority aggregation empty." alt="" coords="259,5,397,47"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreSchedulerEDF.html#ga8648861ae22830f1cfcddf7132b6163a" title="Initializes EDF scheduler." alt="" coords="233,71,423,98"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreWatchdog.html#ga6566cd6322fc45173038e64d3232dc0b" title="Initializes the watchdog header." alt="" coords="223,122,433,149"/>
+<area shape="rect" id="node6" href="$group__ClassicRBTrees.html#gafe623affef1c0e550b64bbaf12544488" title="Initialize this RBTree as Empty." alt="" coords="243,173,413,215"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreThreadQueue.html#gaed8b973ae28379dbf863c01f10c993f3" title="Initializes the thread queue heads." alt="" coords="5,5,175,47"/>
+</map>

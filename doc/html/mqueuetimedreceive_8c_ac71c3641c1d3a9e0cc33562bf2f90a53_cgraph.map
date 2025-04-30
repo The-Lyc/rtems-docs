@@ -1,0 +1,5 @@
+<map id="mq_timedreceive" name="mq_timedreceive">
+<area shape="rect" id="node1" title=" " alt="" coords="5,46,141,73"/>
+<area shape="rect" id="node2" href="$mqueueimpl_8h.html#ac8b74d2f584334e664a89d3c1384a930" title=" " alt="" coords="205,5,385,47"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreThreadQueue.html#ga14552dcef85b4627e1b2d150f7245f81" title="Adds a monotonic timespec to the thread and sets the watchdog header to realtime." alt="" coords="189,71,400,112"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="rtems_jffs2_compressor_zlib_control" name="rtems_jffs2_compressor_zlib_control">
+<area shape="rect" id="node1" title="ZLIB compressor control structure." alt="" coords="100,320,279,361"/>
+<area shape="rect" id="node2" href="$structrtems__jffs2__compressor__control.html" title="JFFS2 compressor control." alt="" coords="5,185,184,227"/>
+<area shape="rect" id="node3" href="$structz__stream__s.html" title=" " alt="" coords="316,193,412,219"/>
+<area shape="rect" id="node4" href="$structinternal__state.html" title=" " alt="" coords="439,327,551,354"/>
+<area shape="rect" id="node5" href="$structgz__header__s.html" title=" " alt="" coords="441,193,543,219"/>
+<area shape="rect" id="node6" href="$structtree__desc__s.html" title=" " alt="" coords="568,193,667,219"/>
+<area shape="rect" id="node7" href="$structstatic__tree__desc__s.html" title=" " alt="" coords="653,95,795,121"/>
+<area shape="rect" id="node8" href="$structct__data.html" title=" " alt="" coords="553,5,623,32"/>
+<area shape="rect" id="node9" href="$structct__data__s.html" title=" " alt="" coords="691,193,775,219"/>
+</map>

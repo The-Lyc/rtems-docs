@@ -1,0 +1,52 @@
+<map id="_RTEMS_Lock_allocator" name="_RTEMS_Lock_allocator">
+<area shape="rect" id="node1" title=" " alt="" coords="525,1481,700,1508"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreObject.html#ga3978b5150ea104a85bb28db0585ae000" title="Allocates an object." alt="" coords="296,300,435,327"/>
+<area shape="rect" id="node14" href="$group__RTEMSScoreObject.html#ga3059733162454cc71ff73288ba9b4dfd" title="Locks the object allocator mutex." alt="" coords="277,1051,454,1077"/>
+<area shape="rect" id="node35" href="$group__RTEMSScoreProtHeap.html#ga76e8188c79871f71f9af86616c6ebc53" title="Allocates an aligned memory area with boundary constraint for the protected heap." alt="" coords="270,1102,461,1143"/>
+<area shape="rect" id="node36" href="$group__RTEMSScoreProtHeap.html#gaeafd4fefda9100f0b9484f97f19d1093" title="Extends the protected heap." alt="" coords="274,1168,457,1195"/>
+<area shape="rect" id="node37" href="$group__RTEMSScoreProtHeap.html#ga54aae0cfc83e761f71d9219228f614d4" title="Returns information about free blocks for the heap." alt="" coords="285,1219,445,1261"/>
+<area shape="rect" id="node38" href="$group__RTEMSScoreProtHeap.html#ga327ad8c35910aeef2bad64e4ba05bbbf" title="Returns information about used and free blocks for the heap." alt="" coords="285,1285,445,1326"/>
+<area shape="rect" id="node39" href="$group__RTEMSScoreProtHeap.html#ga8bdc01fbd6baf99d53c193ebd965b7ad" title="Iterates over all blocks of the heap." alt="" coords="275,1351,455,1377"/>
+<area shape="rect" id="node40" href="$group__ClassicRegionImpl.html#ga6e24cf9c8095bbf5470a5ab6a469415c" title=" " alt="" coords="281,1401,450,1428"/>
+<area shape="rect" id="node41" href="$irq-lock_8c.html#ab75d8a53e54d74ff856b3575fd9b31b3" title=" " alt="" coords="294,1452,437,1479"/>
+<area shape="rect" id="node42" href="$group__ClassicCache.html#ga49e156faa000460678269e06e183e087" title="Adds a cache coherent memory area to the cache coherent allocator." alt="" coords="281,1503,450,1545"/>
+<area shape="rect" id="node43" href="$group__ClassicCache.html#ga026115893a08faf480fec18555ce6c26" title="Allocates a memory area of size size bytes from cache coherent memory." alt="" coords="281,1569,450,1610"/>
+<area shape="rect" id="node44" href="$group__ClassicCache.html#gac7d03457fcfb79a8c7ffe530c91118c9" title="Frees memory allocated by rtems_cache_coherent_allocate()." alt="" coords="264,1635,467,1661"/>
+<area shape="rect" id="node45" href="$rtems__heap__greedy_8c.html#aba5ba5020cadde776ad76aff68db5563" title="Greedy allocate all blocks except the largest free block." alt="" coords="260,1686,471,1727"/>
+<area shape="rect" id="node46" href="$rtems__heap__greedy_8c.html#abcd363b410e8f0c2f8fce2e220079f8a" title="Frees space of a greedy allocation." alt="" coords="273,1752,457,1779"/>
+<area shape="rect" id="node47" href="$group__libcsupport.html#ga89d650cbacc4217c00298014c7bfb723" title="Tasks a snapshot of the resource usage of the system." alt="" coords="253,1803,477,1829"/>
+<area shape="rect" id="node48" href="$rtl-alloc-heap_8h.html#a5725b252e21bd77ce9fe5a026c1b886f" title=" " alt="" coords="286,1853,445,1880"/>
+<area shape="rect" id="node49" href="$group__ClassicRTEMSWorkspace.html#ga631bbb4b9c5dab3b7da64412e1a19c16" title="Greedy allocate all blocks except the largest free block." alt="" coords="262,1905,469,1946"/>
+<area shape="rect" id="node50" href="$group__ClassicRTEMSWorkspace.html#gaaf063f7071bd9b97fca4fabfe7cd1166" title="Frees space of a greedy allocation." alt="" coords="254,1971,477,1997"/>
+<area shape="rect" id="node3" href="$group__ClassicBarrierImpl.html#gad929c5e3d1b4a3c1343769a04d9a14ac" title="_Barrier_Allocate" alt="" coords="39,5,172,32"/>
+<area shape="rect" id="node4" href="$group__ClassicDPMEMImpl.html#gad2aa8b47ec76c96c01f44b889756223b" title="Allocates a port control block from the inactive chain of free port control blocks." alt="" coords="20,57,191,98"/>
+<area shape="rect" id="node5" href="$group__ClassicUserExtensionsImpl.html#gaa180c344c3b1a2797be1beda9812a2cc" title=" " alt="" coords="29,123,182,149"/>
+<area shape="rect" id="node6" href="$group__ClassicMessageQueueImpl.html#ga7fecd1a88eefb5ad554e06e265792d1f" title=" " alt="" coords="8,173,203,200"/>
+<area shape="rect" id="node7" href="$group__ClassicPartImpl.html#gaf0cd3ef551cee15f50523308fa63aeed" title="Allocates a partition control block from the inactive chain of free partition control blocks." alt="" coords="34,224,177,251"/>
+<area shape="rect" id="node8" href="$group__POSIX__KEY.html#ga7a110714c13632b85ff13f72031a9f0f" title="Allocate a keys control block." alt="" coords="22,275,189,301"/>
+<area shape="rect" id="node9" href="$posix_2timerimpl_8h.html#ad7b8848202812ff321147886eb5e6fff" title="POSIX Timer Allocate." alt="" coords="19,325,192,352"/>
+<area shape="rect" id="node10" href="$group__ClassicRateMonImpl.html#ga2a5ad9dc60929d941bd4d22c6ee69045" title="Allocates a period control block from the inactive chain of free period control blocks." alt="" coords="8,376,203,403"/>
+<area shape="rect" id="node11" href="$group__ClassicRegionImpl.html#gab5bc70b27378683bf2e2e4cdef8d7417" title="Region_Allocate." alt="" coords="38,427,173,453"/>
+<area shape="rect" id="node12" href="$group__ClassicSemImpl.html#gad485fdb4409216acbb4e339c2fd57889" title="Allocates a semaphore control block from the inactive chain of free semaphore control blocks." alt="" coords="24,477,187,504"/>
+<area shape="rect" id="node13" href="$group__ClassicTimerImpl.html#ga77ef33047cce91fa663a936bafee7eac" title="Timer_Allocate." alt="" coords="42,528,169,555"/>
+<area shape="rect" id="node15" href="$group__RTEMSScoreObject.html#gaf47a19d228137aa86c75bf67953f332e" title="Gets the next open object after the specified object identifier." alt="" coords="33,579,177,605"/>
+<area shape="rect" id="node16" href="$group__POSIX__PTHREAD.html#ga828496f65e824c5195746460a702d29a" title=" " alt="" coords="12,629,199,656"/>
+<area shape="rect" id="node17" href="$group__ClassicTasksImpl.html#ga2a548ef59576b03d7f143e4cf42b0c40" title=" " alt="" coords="18,680,193,707"/>
+<area shape="rect" id="node18" href="$mqueueclose_8c.html#a3fbd3906296be63451c64d69be2bc371" title=" " alt="" coords="63,731,147,757"/>
+<area shape="rect" id="node19" href="$mqueueunlink_8c.html#accd8c5ee36e60d990963e1d544ef4140" title=" " alt="" coords="60,781,151,808"/>
+<area shape="rect" id="node20" href="$pthreadgetnamenp_8c.html#a8d55a60492c979991dc1a361b5453813" title=" " alt="" coords="25,832,185,859"/>
+<area shape="rect" id="node21" href="$keydelete_8c.html#aee96306dc79294927ee840bb4de2244b" title=" " alt="" coords="30,883,181,909"/>
+<area shape="rect" id="node22" href="$group__ClassicBarrier.html#ga942ec086e0fa6aa0939629fb617a763b" title="RTEMS Delete Barrier." alt="" coords="26,933,185,960"/>
+<area shape="rect" id="node23" href="$group__ClassicMessageQueue.html#ga4cf66620ef43543885708a1185b386ab" title="RTEMS Delete Message Queue." alt="" coords="19,985,192,1026"/>
+<area shape="rect" id="node24" href="$mon-config_8c.html#af209a6e58fbfe1653a6eb3ecad1cbf3c" title=" " alt="" coords="5,1051,205,1077"/>
+<area shape="rect" id="node25" href="$mon-driver_8c.html#aebfce93b69cac4ea2837379539415ad0" title=" " alt="" coords="6,1101,205,1128"/>
+<area shape="rect" id="node26" href="$mon-itask_8c.html#a905bf3c0734a3b50b1f8d2f71645d5da" title=" " alt="" coords="32,1153,179,1194"/>
+<area shape="rect" id="node27" href="$mon-mpci_8c.html#a03957bce2d44f625136f35b423bf242f" title=" " alt="" coords="9,1219,202,1245"/>
+<area shape="rect" id="node28" href="$group__ClassicClassInfo.html#gacb1a1933caf2556aa7e9b715c684fe5b" title="Set Name of Object." alt="" coords="16,1269,195,1296"/>
+<area shape="rect" id="node29" href="$group__ClassicPart.html#ga9cb3af79cb02585887caa1f4a2a62deb" title="RTEMS Delete Partition." alt="" coords="20,1320,191,1347"/>
+<area shape="rect" id="node30" href="$group__ClassicDPMEM.html#gab601849546c8342b31dc7db5ea183daf" title="RTEMS Delete Port." alt="" coords="35,1371,176,1397"/>
+<area shape="rect" id="node31" href="$group__ClassicRateMon.html#gacd99140676caf91d1fd3c6fd95e6a9c8" title="rtems_rate_monotonic_reset_all_statistics" alt="" coords="21,1422,190,1463"/>
+<area shape="rect" id="node32" href="$group__ClassicTasks.html#ga7255f41eb20238aebe5ce139d5dfd97d" title="Iterates over all tasks in the system." alt="" coords="33,1488,178,1515"/>
+<area shape="rect" id="node33" href="$group__ClassicTimer.html#ga582cf1f171214dabcc2af8c5bd48898f" title="RTEMS Delete Timer." alt="" coords="30,1539,181,1565"/>
+<area shape="rect" id="node34" href="$semopen_8c.html#a6efb777ffb2b3641875a813a1b22912d" title=" " alt="" coords="61,1589,150,1616"/>
+</map>

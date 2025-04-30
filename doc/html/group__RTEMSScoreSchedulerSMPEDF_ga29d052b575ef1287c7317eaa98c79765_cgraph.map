@@ -1,0 +1,4 @@
+<map id="_Scheduler_EDF_SMP_Update_priority" name="_Scheduler_EDF_SMP_Update_priority">
+<area shape="rect" id="node1" title="Updates the priority of the node." alt="" coords="5,5,167,47"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreScheduler.html#ga9c62ef5a388b998fa041a269297be1fe" title="Gets the context of the scheduler." alt="" coords="215,13,393,39"/>
+</map>

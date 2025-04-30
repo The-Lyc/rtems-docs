@@ -1,0 +1,7 @@
+<map id="DMA Controller API" name="DMA Controller API">
+<area shape="rect" id="node1" href="$group__ALT__DMA__COMPILE.html" title=" " alt="" coords="385,5,575,31"/>
+<area shape="rect" id="node2" href="$group__ALT__DMA__STD__OPS.html" title=" " alt="" coords="399,55,561,95"/>
+<area shape="rect" id="node3" href="$group__RTEMSBSPsARMCycVContrib.html" title="Contributed code from Altera." alt="" coords="5,63,140,88"/>
+<area shape="rect" id="node4" title=" " alt="" coords="188,63,335,88"/>
+<area shape="rect" id="node5" href="$group__ALT__DMA__CSR.html" title=" " alt="" coords="383,119,577,159"/>
+</map>

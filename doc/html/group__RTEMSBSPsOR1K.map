@@ -1,0 +1,7 @@
+<map id="OpenRISC 1000 (or1k)" name="OpenRISC 1000 (or1k)">
+<area shape="rect" id="node1" title="OpenRISC 1000 Board Support Package." alt="" coords="232,55,397,80"/>
+<area shape="rect" id="node2" href="$group__RTEMSBSPsOR1KSharedLinker.html" title="Linker support." alt="" coords="463,5,578,31"/>
+<area shape="rect" id="node3" href="$group__generic__or1k__reg.html" title="Shared register definitions for or1k systems." alt="" coords="445,55,596,80"/>
+<area shape="rect" id="node4" href="$group__generic__or1k__uart.html" title="Universal Asynchronous Receiver/Transmitter (UART) Support." alt="" coords="465,104,576,129"/>
+<area shape="rect" id="node5" href="$group__RTEMSBSPs.html" title="Board Support Packages and Support Modules (BSPs)." alt="" coords="5,55,184,80"/>
+</map>

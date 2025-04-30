@@ -1,0 +1,4 @@
+<map id="_RTEMS_Priority_From_core" name="_RTEMS_Priority_From_core">
+<area shape="rect" id="node1" title="Converts the SuperCore priority to the corresponding RTEMS API priority." alt="" coords="231,5,433,32"/>
+<area shape="rect" id="node2" href="$group__ClassicTasks.html#gad06646a724fbaf16f1a4d117d1c667dc" title="Gets the current priority of the specified task with respect to the specified scheduler instance." alt="" coords="5,5,183,32"/>
+</map>

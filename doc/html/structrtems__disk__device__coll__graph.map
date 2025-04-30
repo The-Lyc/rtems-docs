@@ -1,0 +1,6 @@
+<map id="rtems_disk_device" name="rtems_disk_device">
+<area shape="rect" id="node1" title="Description of a disk device (logical and physical disks)." alt="" coords="129,188,273,215"/>
+<area shape="rect" id="node2" href="$structrtems__blkdev__read__ahead.html" title="Block device read&#45;ahead control." alt="" coords="5,97,200,124"/>
+<area shape="rect" id="node3" href="$structChain__Node__struct.html" title=" " alt="" coords="31,7,175,33"/>
+<area shape="rect" id="node4" href="$structrtems__blkdev__stats.html" title="Block device statistics." alt="" coords="225,97,375,124"/>
+</map>

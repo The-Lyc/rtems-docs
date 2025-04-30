@@ -1,0 +1,13 @@
+<map id="_CORE_message_queue_Insert_message" name="_CORE_message_queue_Insert_message">
+<area shape="rect" id="node1" title="Inserts a message into the message queue." alt="" coords="5,120,184,161"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreChain.html#gaa7011c6fe160c457a0d100e41ec3fffe" title="Appends a node (unprotected)." alt="" coords="234,10,441,37"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreChain.html#ga6f5fcf3a7ec9b65a965c07b9722f6674" title="Inserts a node into the chain according to the order relation." alt="" coords="254,61,421,103"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreChain.html#ga8d8497bea6684f4c685056c75f35522c" title="Prepends a node (unprotected)." alt="" coords="232,127,443,154"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreMessageQueue.html#gac4393bd0fea722792b78b1a17cbf5766" title="Copies the source message buffer to the destination message buffer." alt="" coords="248,179,427,220"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreMessageQueue.html#ga2d7c15075a18043190881cede6cb6749" title="Gets message priority." alt="" coords="248,244,427,285"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreChain.html#gad7a790f247b3ace45f039c60c18f999f" title="Checks if the node is off chain." alt="" coords="733,48,880,89"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreChain.html#ga06f3e2dd6d64411f0565e3b483e53673" title="Returns pointer to chain tail." alt="" coords="541,30,635,57"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreChain.html#ga8b66d3138b9cdacbcb0600c42237ff7d" title="Returns pointer to chain head." alt="" coords="535,81,641,107"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreChain.html#ga0ac64438b8eb6f4dfd182bc3885cea42" title="Inserts a node (unprotected)." alt="" coords="491,131,685,158"/>
+<area shape="rect" id="node10" href="$lib_8c.html#afee04a2bd3690b426c5ead287a32a1a8" title=" " alt="" coords="549,186,627,213"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="_API_Mutex_Unlock" name="_API_Mutex_Unlock">
+<area shape="rect" id="node1" title="Releases the specified API mutex." alt="" coords="5,31,156,57"/>
+<area shape="rect" id="node2" href="$mutex_8c.html#adecd7211e7a1a5035841212574f45b31" title=" " alt="" coords="207,5,403,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreThread.html#gad5aaea7af4482aebd880403fb9c238af" title="Set the thread to life protected." alt="" coords="204,56,407,83"/>
+</map>

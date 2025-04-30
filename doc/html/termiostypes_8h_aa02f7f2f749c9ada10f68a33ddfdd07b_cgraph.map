@@ -1,0 +1,5 @@
+<map id="rtems_termios_baud_to_number" name="rtems_termios_baud_to_number">
+<area shape="rect" id="node1" title="Converts the baud flags to an integral baud value." alt="" coords="5,5,161,47"/>
+<area shape="rect" id="node2" href="$group__RTEMSAPIAssociativity.html#ga3aad4fe900c6a8d2cf4c08e4ec1521d4" title="RTEMS Associate Local by Remote." alt="" coords="209,5,375,47"/>
+<area shape="rect" id="node3" href="$group__RTEMSAPIAssociativity.html#gace083256448a2a428ede7396f2e8fb67" title="RTEMS Associate Pointer by Remote." alt="" coords="423,5,575,47"/>
+</map>

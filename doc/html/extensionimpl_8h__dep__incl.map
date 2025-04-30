@@ -1,0 +1,9 @@
+<map id="cpukit/include/rtems/extensionimpl.h" name="cpukit/include/rtems/extensionimpl.h">
+<area shape="rect" id="node1" title="Classic User Extensions Implementation." alt="" coords="560,5,715,47"/>
+<area shape="rect" id="node2" href="$mon-object_8c.html" title=" " alt="" coords="5,95,173,136"/>
+<area shape="rect" id="node3" href="$exinit_8c.html" title="Initialization Manager." alt="" coords="197,102,365,129"/>
+<area shape="rect" id="node4" href="$extensioncreate_8c.html" title="User Extensions Implementation." alt="" coords="390,102,626,129"/>
+<area shape="rect" id="node5" href="$extensiondelete_8c.html" title="User Extensions Implementation." alt="" coords="650,102,886,129"/>
+<area shape="rect" id="node6" href="$extensionident_8c.html" title="User Extensions Implementation." alt="" coords="910,102,1138,129"/>
+<area shape="rect" id="node7" href="$getconfigmax_8c.html" title=" " alt="" coords="1162,102,1382,129"/>
+</map>

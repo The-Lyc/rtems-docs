@@ -1,0 +1,7 @@
+<map id="bsps/arm/beagle/include/bsp/bbb&#45;gpio.h" name="bsps/arm/beagle/include/bsp/bbb&#45;gpio.h">
+<area shape="rect" id="node1" title="BeagleBone Black BSP definitions." alt="" coords="271,5,452,47"/>
+<area shape="rect" id="node2" href="$bbb-gpio_8c.html" title="Support for the BeagleBone Black." alt="" coords="5,95,168,136"/>
+<area shape="rect" id="node3" href="$bbb-i2c_8c.html" title="BeagleBoard I2C bus initialization and API Support." alt="" coords="193,95,346,136"/>
+<area shape="rect" id="node4" href="$pwm_8c.html" title="Support for PWM for the BeagleBone Black." alt="" coords="370,95,537,136"/>
+<area shape="rect" id="node5" href="$arm_2beagle_2spi_2spi_8c.html" title="BeagleBoard SPI bus initialization and API Support." alt="" coords="561,95,714,136"/>
+</map>

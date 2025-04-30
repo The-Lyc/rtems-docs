@@ -1,0 +1,5 @@
+<map id="VBE_report_DDC_capabilities" name="VBE_report_DDC_capabilities">
+<area shape="rect" id="node1" title="Gets information about display data channel implemented in the graphic&#39;s controller." alt="" coords="5,5,217,32"/>
+<area shape="rect" id="node2" href="$realmode__int_8h.html#a1541b4af8720ed12dd8b966a7db9b100" title="Call to real mode interrupt with specified int NO and processor registers." alt="" coords="265,5,440,32"/>
+<area shape="rect" id="node3" href="$i386-stub-glue_8c.html#a1e0a236f3682681ac79ede3a128bffd5" title=" " alt="" coords="488,5,567,32"/>
+</map>

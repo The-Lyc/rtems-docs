@@ -1,0 +1,52 @@
+<map id="_Chain_Immutable_tail" name="_Chain_Immutable_tail">
+<area shape="rect" id="node1" title="Returns pointer to immutable chain tail." alt="" coords="1289,1210,1461,1237"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreChain.html#ga15a8beccb6581211397b46fe4c79cf66" title="Returns pointer to immutable chain&#39;s last node." alt="" coords="1037,173,1211,199"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreChain.html#ga67ffad0c14d402473760ec6bb8e93bcc" title="Checks if the chain is empty." alt="" coords="1057,810,1191,837"/>
+<area shape="rect" id="node27" href="$group__RTEMSScoreScheduler.html#gad25705e24ba30f0cb36c0e2999fbfbce" title="Blocks a thread with respect to the scheduler." alt="" coords="529,303,665,330"/>
+<area shape="rect" id="node32" href="$group__RTEMSScoreScheduler.html#ga7fdbd807dbde0152b93a9ebc59f69e5d" title="Propagates a priority change of a thread to the scheduler." alt="" coords="496,906,697,933"/>
+<area shape="rect" id="node39" href="$group__RTEMSScoreChain.html#gacc6f9947e62bf5bb5fe1cb050b57289b" title="Checks if this node is the chain tail." alt="" coords="1068,1159,1180,1186"/>
+<area shape="rect" id="node41" href="$group__RTEMSScoreChain.html#gaf31036dacdeac30f4890d3b21fe7cad7" title="Returns pointer to chain&#39;s last node." alt="" coords="1074,1210,1174,1237"/>
+<area shape="rect" id="node44" href="$group__RTEMSScoreChain.html#ga4daa9900dfef1496e71d41a5377ed645" title="Returns the node count of the chain." alt="" coords="1007,1261,1241,1287"/>
+<area shape="rect" id="node47" href="$group__RTEMSScoreObject.html#ga53e22e0d0d91b0f5159aff84a1c40ef3" title="Free the objects block with the specified index." alt="" coords="1041,1312,1207,1353"/>
+<area shape="rect" id="node48" href="$group__RTEMSScoreThread.html#ga3cfaf5eea12b9810ca64404cec7e3763" title="Restores the default thread wait queue and operations." alt="" coords="1043,1377,1205,1419"/>
+<area shape="rect" id="node49" href="$group__RTEMSScoreUserExt.html#ga1246f6873da0a4fae3dd8e8e3b41324b" title="Iterates through all user extensions and calls the visitor for each." alt="" coords="1031,1443,1217,1470"/>
+<area shape="rect" id="node50" href="$group__ClassicChains.html#gad68d645f5c0ba47686c1979cb75bb071" title="Return pointer to immutable Chain Tail." alt="" coords="1020,1494,1228,1521"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreChain.html#ga27385f45cfb88979c37a06ba29d5275f" title="Checks if this chain has only one node." alt="" coords="751,122,953,149"/>
+<area shape="rect" id="node8" href="$group__ClassicChains.html#ga48f59b23a9b31b05b0ad54817207bd0b" title="Return pointer to immutable Chain&#39;s Last node." alt="" coords="747,173,957,199"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreSchedulerDPS.html#ga50249c9f6e86f80647058f85f4df62cb" title="Extracts a node from the specified ready queue." alt="" coords="511,5,682,47"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreSchedulerDPS.html#ga5a3959d17cc9aa59b20ef5622e5de88f" title="Performs the yield of a thread." alt="" coords="523,71,670,112"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreScheduler.html#gafdf8dfa2c90ca2122b995bb6dd42fcda" title="Sets a new scheduler." alt="" coords="280,329,401,355"/>
+<area shape="rect" id="node7" href="$group__ClassicChains.html#ga9a734f3572a98fd660c3914760c0bc73" title="Does this chain have only one node." alt="" coords="513,136,680,177"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreChain.html#ga4cc284fe01b5b460db37b23f230599af" title="Appends a node and checks if the chain was empty before (unprotected)." alt="" coords="751,769,953,811"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreChain.html#ga1b1dedf23d978ddd9b30b0d1feb6e093" title="Gets the first node (unprotected)." alt="" coords="745,1007,959,1034"/>
+<area shape="rect" id="node12" href="$group__RTEMSScoreChain.html#gac5bb79fd8e5b468790918a8e674a5d36" title="Gets the first node (unprotected)." alt="" coords="506,1125,687,1151"/>
+<area shape="rect" id="node15" href="$group__RTEMSScoreFreechain.html#ga2a213d3f834d14e4dae74f7ff7b9f73d" title="Gets a node from the freechain." alt="" coords="279,1307,402,1334"/>
+<area shape="rect" id="node22" href="$group__RTEMSScoreChain.html#ga67db4dd4a19900b5f2f912432bf545ea" title="Prepends a node and checks if the chain was empty before (unprotected)." alt="" coords="751,835,953,876"/>
+<area shape="rect" id="node23" href="$group__RTEMSScoreFreechain.html#ga7ced48b316d9b52cf5ef6da70ea8a76d" title="Return true if the freechain is empty, otherwise false." alt="" coords="773,591,931,618"/>
+<area shape="rect" id="node24" href="$group__RTEMSScoreThread.html#ga080a177afc4fc254a1081485cd89f75d" title="Gets the scheduler&#39;s home node." alt="" coords="765,693,939,735"/>
+<area shape="rect" id="node38" href="$group__ClassicChains.html#ga82c37408681422fcdf19b0cdf4d96332" title="Is the chain empty." alt="" coords="767,642,937,669"/>
+<area shape="rect" id="node20" href="$group__RTEMSScoreFreechain.html#gaf04d9f5d6db92a5724f8a2b8dcc85a1d" title="Pop an item from the freechain." alt="" coords="535,1007,658,1034"/>
+<area shape="rect" id="node21" href="$group__ClassicChains.html#ga4ddf636e0d8b4de874d66d01f991a75c" title="See _Chain_Get_first_unprotected()." alt="" coords="515,1059,678,1100"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreMessageQueue.html#ga58f369b0c41641f951f6d9eb4cc902d0" title="Allocates a message buffer from the inactive message buffer chain." alt="" coords="244,1059,437,1100"/>
+<area shape="rect" id="node14" href="$group__RTEMSScoreMessageQueue.html#gaae44a17e0ce00b0cff6f9894f4fe9845" title="Gets first message of message queue and removes it." alt="" coords="251,1124,430,1165"/>
+<area shape="rect" id="node17" href="$group__RTEMSScoreObject.html#ga65145acdbdabd9d924117aac97f3e08e" title="Get an inactive object or NULL." alt="" coords="257,1190,424,1217"/>
+<area shape="rect" id="node18" href="$group__ClassicPartImpl.html#ga71de1566df69f6963e4e51098c1c4e23" title="Allocate a buffer from the_partition." alt="" coords="269,1241,412,1283"/>
+<area shape="rect" id="node19" href="$group__ClassicChains.html#ga247eca17e96d9c4b634ae3fb84184d80" title="See _Chain_Get_unprotected()." alt="" coords="233,1007,448,1034"/>
+<area shape="rect" id="node16" href="$group__POSIX__KEY.html#ga790a7a15f816d9c7becce14825a5be6e" title=" " alt="" coords="5,1300,185,1341"/>
+<area shape="rect" id="node25" href="$group__RTEMSScoreMutex.html#ga3c9beab408f6eaae8af2a29d962b08f3" title="Sets the owner of the ceiling mutex." alt="" coords="13,667,177,708"/>
+<area shape="rect" id="node26" href="$posix_2muteximpl_8h.html#aa099656aca92ad7c919c40cac2b1e226" title=" " alt="" coords="11,924,179,965"/>
+<area shape="rect" id="node28" href="$group__RTEMSScoreSchedulerCBS.html#gac2cf154d9842c9449d74735b2b1d0a82" title="Gets the CBS node of the thread." alt="" coords="507,557,686,599"/>
+<area shape="rect" id="node29" href="$group__RTEMSScoreSchedulerEDF.html#gae2e85339fc623dca9d51dd8ae3826f4a" title="Gets the scheduler EDF node of the thread." alt="" coords="507,623,686,664"/>
+<area shape="rect" id="node30" href="$group__RTEMSScoreSchedulerDPS.html#ga491e49f14d38c8dfa87378a63cd36520" title="Gets the scheduler node of the thread." alt="" coords="523,688,670,729"/>
+<area shape="rect" id="node31" href="$group__RTEMSScoreScheduler.html#ga8289b090b6cb3c711ba614a047d4a343" title="Unblocks a thread with respect to the scheduler." alt="" coords="520,405,673,431"/>
+<area shape="rect" id="node34" href="$group__RTEMSScoreScheduler.html#ga37b1082aa1832c4a73154d5fc92dceaa" title="Scheduler yield with a particular thread." alt="" coords="531,754,663,781"/>
+<area shape="rect" id="node35" href="$threadunpin_8c.html#a41453055c2526d738a03eacc3775a624" title=" " alt="" coords="525,805,668,831"/>
+<area shape="rect" id="node36" href="$group__RTEMSScoreThread.html#ga3107774ee53fe4ac8323ba4a0f48f8bc" title="Returns the priority of the thread." alt="" coords="517,855,676,882"/>
+<area shape="rect" id="node37" href="$group__RTEMSScoreThread.html#ga4f0fe1a67da542aa18a7cbb3d4e2f47a" title="Replaces the victim priority node with the replacement priority node in the corresponding thread prio..." alt="" coords="505,455,688,482"/>
+<area shape="rect" id="node33" href="$group__RTEMSScoreThread.html#ga424ec96c6cbed5a748565333d5fd7d59" title="Updates the priority of all threads in the set." alt="" coords="251,906,431,933"/>
+<area shape="rect" id="node40" href="$group__ClassicChains.html#ga0131faa875818fc0cddb4c960e599396" title="Is this node the chain tail." alt="" coords="778,1159,926,1186"/>
+<area shape="rect" id="node42" href="$group__RTEMSScoreMessageQueue.html#gabe86da1ead8e6b01ecf69c94e1de29f2" title="Flushes pending messages." alt="" coords="763,1211,941,1252"/>
+<area shape="rect" id="node43" href="$group__ClassicChains.html#gacf4f04f80c5d9e867686087fc0066006" title="Return pointer to Chain&#39;s Last node before the permanent tail." alt="" coords="785,1277,919,1303"/>
+<area shape="rect" id="node45" href="$group__RTEMSScoreObject.html#ga4459fd7150f400e3217170758d0426a3" title="Returns the count of active objects." alt="" coords="767,1327,937,1354"/>
+<area shape="rect" id="node46" href="$group__ClassicChains.html#ga33042af3bb3a9b2903ce85d09cc6bf8f" title="Returns the node count of the chain." alt="" coords="760,1379,944,1420"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="rtems_test_busy_cpu_usage" name="rtems_test_busy_cpu_usage">
+<area shape="rect" id="node1" title="Performs a busy loop for the specified seconds and nanoseconds based on the CPU usage of the executin..." alt="" coords="5,115,165,156"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreThread.html#gaade6e27239f8126f2c2848e7e2ec7244" title="Updates the used cpu time for the heir and dispatches a new heir." alt="" coords="213,71,427,98"/>
+<area shape="rect" id="node9" href="$group__PerCPU.html#ga294cfaf3cf50de03f1d9821d68b9c1bd" title="Returns the thread control block of the executing thread." alt="" coords="233,122,407,149"/>
+<area shape="rect" id="node10" href="$group__SuperCoreTimeStamp.html#ga46e195298144d9defa8cad08207d3ce1" title="Sets timestamp to specified seconds and nanoseconds." alt="" coords="255,173,385,199"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreScheduler.html#ga9e6cf07526560aa067d7bcb92a7aa964" title="Acquires the scheduler instance inside a critical section (interrupts disabled)." alt="" coords="509,5,658,47"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreThread.html#ga0071d4e11d2d68b2e4c43ffe2108e7f5" title="Gets the home scheduler of the thread." alt="" coords="475,71,692,98"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreThread.html#ga9a583864cdcbb7eaeda8002d05de6912" title="Disables interrupts and acquires the lock_context." alt="" coords="498,122,669,149"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreScheduler.html#ga9c62ef5a388b998fa041a269297be1fe" title="Gets the context of the scheduler." alt="" coords="740,13,919,39"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreThread.html#gafd7ff215edf64b4611da7b7c1d4e3050" title="Acquires the lock context in a critical section." alt="" coords="744,115,915,156"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreThreadQueue.html#gaf1488e09cc925566233f2f1fc76c4d81" title="Acquires the thread queue control in a critical section." alt="" coords="967,115,1168,156"/>
+</map>

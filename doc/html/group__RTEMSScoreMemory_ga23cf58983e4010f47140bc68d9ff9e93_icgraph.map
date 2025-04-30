@@ -1,0 +1,5 @@
+<map id="_Memory_Get_count" name="_Memory_Get_count">
+<area shape="rect" id="node1" title="Get the memory area count." alt="" coords="409,31,565,57"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreMemory.html#gaceaec7a5a60fbf7f0d5e5dcd6c0828b2" title="Get a memory area by index." alt="" coords="212,5,361,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreWorkspace.html#gac10ac71b406698cb4441aff69a80c847" title="Initilizes the workspace handler." alt="" coords="5,23,164,65"/>
+</map>

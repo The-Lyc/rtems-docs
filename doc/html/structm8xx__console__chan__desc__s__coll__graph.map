@@ -1,0 +1,10 @@
+<map id="m8xx_console_chan_desc_s" name="m8xx_console_chan_desc_s">
+<area shape="rect" id="node1" title=" " alt="" coords="555,144,760,171"/>
+<area shape="rect" id="node2" href="$structm8xxSMCRegisters__.html" title=" " alt="" coords="253,5,409,32"/>
+<area shape="rect" id="node3" href="$structm8xxSCCRegisters__.html" title=" " alt="" coords="255,56,408,83"/>
+<area shape="rect" id="node4" href="$structrtems__termios__device__context.html" title="Termios device context." alt="" coords="248,107,415,149"/>
+<area shape="rect" id="node5" href="$structISR__lock__Control.html" title="ISR lock control." alt="" coords="5,115,136,141"/>
+<area shape="rect" id="node6" href="$structm8xxSCCparms__.html" title=" " alt="" coords="265,173,398,200"/>
+<area shape="rect" id="node7" href="$structm8xxSMCparms__.html" title=" " alt="" coords="263,224,399,251"/>
+<area shape="rect" id="node8" href="$structm8xxBufferDescriptor__.html" title=" " alt="" coords="245,325,417,352"/>
+</map>

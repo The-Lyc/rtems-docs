@@ -1,0 +1,15 @@
+<map id="bsps/powerpc/shared/vme/vmeconfig.c" name="bsps/powerpc/shared/vme/vmeconfig.c">
+<area shape="rect" id="node1" title=" " alt="" coords="137,5,295,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="22,95,79,121"/>
+<area shape="rect" id="node3" href="$VME_8h.html" title="SVGM et al. BSP&#39;s VME support." alt="" coords="104,95,195,121"/>
+<area shape="rect" id="node6" title=" " alt="" coords="219,95,349,121"/>
+<area shape="rect" id="node7" href="$bspIo_8h.html" title="Interface to Kernel Print Methods." alt="" coords="374,95,485,121"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,169,72,196"/>
+<area shape="rect" id="node5" href="$vme__am__defs_8h.html" title="vxworks compatible addressing modes" alt="" coords="97,169,250,196"/>
+<area shape="rect" id="node8" href="$basedefs_8h.html" title="Basic Definitions." alt="" coords="319,169,494,196"/>
+<area shape="rect" id="node13" title=" " alt="" coords="519,169,593,196"/>
+<area shape="rect" id="node9" title=" " alt="" coords="126,244,293,271"/>
+<area shape="rect" id="node10" title=" " alt="" coords="317,244,392,271"/>
+<area shape="rect" id="node11" title=" " alt="" coords="416,244,499,271"/>
+<area shape="rect" id="node12" title=" " alt="" coords="523,244,594,271"/>
+</map>

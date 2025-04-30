@@ -1,0 +1,5 @@
+<map id="GMACD_SetRxCallback" name="GMACD_SetRxCallback">
+<area shape="rect" id="node1" title="Registers pRxCb callback. Callback will be invoked after the next received frame. When GMAC_Poll() re..." alt="" coords="5,31,179,57"/>
+<area shape="rect" id="node2" href="$group__gmac__defines.html#ga6c39b23fa0f7760458941d6a5bf90669" title=" " alt="" coords="227,5,353,32"/>
+<area shape="rect" id="node3" href="$group__gmac__defines.html#ga7ada4663e83402d9ca6da62f166e115f" title=" " alt="" coords="229,56,351,83"/>
+</map>

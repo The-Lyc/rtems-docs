@@ -1,0 +1,9 @@
+<map id="cpukit/include/rtems/capture.h" name="cpukit/include/rtems/capture.h">
+<area shape="rect" id="node1" title="Capture Engine Component of the RTEMS Measurement and Monitoring System." alt="" coords="107,5,262,47"/>
+<area shape="rect" id="node2" href="$capture-cli_8h.html" title=" " alt="" coords="18,95,173,136"/>
+<area shape="rect" id="node4" href="$captureimpl_8h.html" title="Capture Implementation file." alt="" coords="202,95,357,136"/>
+<area shape="rect" id="node3" href="$capture-cli_8c.html" title=" " alt="" coords="5,184,172,225"/>
+<area shape="rect" id="node5" href="$capture_8c.html" title=" " alt="" coords="196,184,363,225"/>
+<area shape="rect" id="node6" href="$capture__support_8c.html" title=" " alt="" coords="387,184,553,225"/>
+<area shape="rect" id="node7" href="$capture__user__extension_8c.html" title=" " alt="" coords="578,184,770,225"/>
+</map>

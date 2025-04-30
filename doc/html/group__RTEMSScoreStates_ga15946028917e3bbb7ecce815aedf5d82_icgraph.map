@@ -1,0 +1,14 @@
+<map id="_States_Is_ready" name="_States_Is_ready">
+<area shape="rect" id="node1" title="Checks if the state is ready." alt="" coords="603,69,735,96"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreScheduler.html#ga389960397abd4e1c788c887884947f2b" title="Performs tick operations depending on the CPU budget algorithm for each executing thread." alt="" coords="181,5,361,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreScheduler.html#gafdf8dfa2c90ca2122b995bb6dd42fcda" title="Sets a new scheduler." alt="" coords="426,44,547,71"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreThread.html#gab4493fc6ffddc8fd05987cb405f9cf71" title="Checks if the thread is ready." alt="" coords="419,199,555,225"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreThread.html#ga82c1e28e7fcc27135782ff978dcdcb8f" title="Yields the currently executing thread." alt="" coords="430,95,543,121"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreSchedulerEDF.html#gaf8da2ab5519218b6509eeecb90f4f1d7" title="Updates the priority of the scheduler node." alt="" coords="181,250,361,291"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreSchedulerDPS.html#gaa9250624cb136b5fd42bdfe060a2eb5e" title="Updates the priority of the node." alt="" coords="198,315,345,357"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreSchedulerSimple.html#gacb4b8fc8ec7b055afb904072c38f9fc5" title="Updates the priority of the node." alt="" coords="172,133,371,174"/>
+<area shape="rect" id="node8" href="$threadunpin_8c.html#a41453055c2526d738a03eacc3775a624" title=" " alt="" coords="200,199,343,225"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreThread.html#gafc95fd103c5bcd79927f316370080340" title="Unpins the thread." alt="" coords="5,199,124,225"/>
+<area shape="rect" id="node11" href="$sched__yield_8c.html#a357cd4b34c13011749dfffb42b489f09" title=" " alt="" coords="222,81,321,108"/>
+<area shape="rect" id="node12" href="$thrd_8c.html#acbfb78346e6b76b23da1d2d8df03549a" title=" " alt="" coords="21,81,108,108"/>
+</map>

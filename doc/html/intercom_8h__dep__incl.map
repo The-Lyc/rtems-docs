@@ -1,0 +1,11 @@
+<map id="bsps/powerpc/qoriq/include/bsp/intercom.h" name="bsps/powerpc/qoriq/include/bsp/intercom.h">
+<area shape="rect" id="node1" title="Inter&#45;Processor Communication API." alt="" coords="481,5,656,47"/>
+<area shape="rect" id="node2" href="$powerpc_2qoriq_2console_2console-config_8c.html" title="Console configuration." alt="" coords="5,191,191,233"/>
+<area shape="rect" id="node3" href="$uart-bridge_8h.html" title="UART to Intercom bridge API." alt="" coords="181,95,369,136"/>
+<area shape="rect" id="node6" href="$intercom-mpci_8c.html" title="Inter&#45;Processor Communication implementation." alt="" coords="394,95,562,136"/>
+<area shape="rect" id="node7" href="$intercom_8c.html" title="Inter&#45;Processor Communication implementation." alt="" coords="587,95,735,136"/>
+<area shape="rect" id="node8" href="$if__intercom_8c.html" title=" " alt="" coords="759,95,907,136"/>
+<area shape="rect" id="node9" href="$powerpc_2qoriq_2start_2bspstart_8c.html" title="BSP startup." alt="" coords="931,95,1079,136"/>
+<area shape="rect" id="node4" href="$uart-bridge-master_8c.html" title="UART bridge master implementation." alt="" coords="215,184,367,240"/>
+<area shape="rect" id="node5" href="$uart-bridge-slave_8c.html" title="UART bridge slave implementation." alt="" coords="391,184,543,240"/>
+</map>

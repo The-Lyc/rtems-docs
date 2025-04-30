@@ -1,0 +1,16 @@
+<map id="bsps/powerpc/mpc55xxevb/include/bsp/mpc55xx&#45;config.h" name="bsps/powerpc/mpc55xxevb/include/bsp/mpc55xx&#45;config.h">
+<area shape="rect" id="node1" title="Low&#45;level configuration." alt="" coords="1331,5,1551,47"/>
+<area shape="rect" id="node2" href="$powerpc_2mpc55xxevb_2start_2bspstart_8c.html" title="BSP startup code." alt="" coords="5,102,204,143"/>
+<area shape="rect" id="node3" href="$get-system-clock_8c.html" title="System clock calculation." alt="" coords="228,102,427,143"/>
+<area shape="rect" id="node4" href="$start-clock_8c.html" title="Clock and FMPLL initialization code." alt="" coords="451,102,649,143"/>
+<area shape="rect" id="node5" href="$start-config-clock_8c.html" title="Clock and FMPLL configuration." alt="" coords="673,102,872,143"/>
+<area shape="rect" id="node6" href="$start-config-ebi-cs-cal_8c.html" title="EBI calibration chip&#45;select configuration." alt="" coords="896,95,1095,151"/>
+<area shape="rect" id="node7" href="$start-config-ebi-cs_8c.html" title="EBI chip&#45;select configuration." alt="" coords="1119,102,1317,143"/>
+<area shape="rect" id="node8" href="$start-config-ebi_8c.html" title="EBI configuration." alt="" coords="1341,102,1540,143"/>
+<area shape="rect" id="node9" href="$start-config-mmu-early_8c.html" title="MMU early configuration." alt="" coords="1564,95,1763,151"/>
+<area shape="rect" id="node10" href="$start-config-mmu_8c.html" title="MMU configuration." alt="" coords="1787,102,1985,143"/>
+<area shape="rect" id="node11" href="$start-config-siu-pcr_8c.html" title="SIU PCR configuration." alt="" coords="2009,102,2208,143"/>
+<area shape="rect" id="node12" href="$start-early_8c.html" title="Early initialization code." alt="" coords="2232,102,2431,143"/>
+<area shape="rect" id="node13" href="$start-prologue_8c.html" title="Start prologue." alt="" coords="2455,102,2653,143"/>
+<area shape="rect" id="node14" href="$start-watchdog_8c.html" title="Watchdog initialization code." alt="" coords="2677,102,2876,143"/>
+</map>

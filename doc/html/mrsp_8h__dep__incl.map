@@ -1,0 +1,18 @@
+<map id="cpukit/include/rtems/score/mrsp.h" name="cpukit/include/rtems/score/mrsp.h">
+<area shape="rect" id="node1" title="Definitions for Multiprocessor Resource Sharing Protocol (MrsP)." alt="" coords="1199,5,1353,47"/>
+<area shape="rect" id="node2" href="$semdata_8h.html" title="Classic Semaphore Manager Data Structures." alt="" coords="1288,95,1443,136"/>
+<area shape="rect" id="node16" href="$mrspimpl_8h.html" title="Definitions for Multiprocessor Resource Sharing Protocol (MrsP) Implementation." alt="" coords="1109,95,1264,136"/>
+<area shape="rect" id="node3" href="$semimpl_8h.html" title="Classic Semaphore Manager Implementation." alt="" coords="1109,184,1264,225"/>
+<area shape="rect" id="node15" href="$sem_8c.html" title="Classic Semaphore Information with Zero Objects." alt="" coords="1288,191,1459,218"/>
+<area shape="rect" id="node4" href="$mon-object_8c.html" title=" " alt="" coords="5,273,173,315"/>
+<area shape="rect" id="node5" href="$mon-sema_8c.html" title=" " alt="" coords="197,273,365,315"/>
+<area shape="rect" id="node6" href="$semcreate_8c.html" title="rtems_semaphore_create" alt="" coords="389,281,600,307"/>
+<area shape="rect" id="node7" href="$semdelete_8c.html" title="RTEMS Delete Semaphore." alt="" coords="624,281,835,307"/>
+<area shape="rect" id="node8" href="$semflush_8c.html" title="RTEMS Semaphore Flush." alt="" coords="859,281,1061,307"/>
+<area shape="rect" id="node9" href="$semident_8c.html" title="RTEMS Semaphore Name to Id." alt="" coords="1085,281,1288,307"/>
+<area shape="rect" id="node10" href="$semmp_8c.html" title="Semaphore MP Support." alt="" coords="1313,281,1503,307"/>
+<area shape="rect" id="node11" href="$semobtain_8c.html" title="RTEMS Obtain Semaphore." alt="" coords="1528,281,1739,307"/>
+<area shape="rect" id="node12" href="$semrelease_8c.html" title="RTEMS Semaphore Release." alt="" coords="1763,281,1981,307"/>
+<area shape="rect" id="node13" href="$semsetpriority_8c.html" title=" " alt="" coords="2005,281,2240,307"/>
+<area shape="rect" id="node14" href="$getconfigmax_8c.html" title=" " alt="" coords="2265,281,2485,307"/>
+</map>

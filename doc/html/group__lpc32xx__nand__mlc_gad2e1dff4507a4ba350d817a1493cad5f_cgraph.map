@@ -1,0 +1,4 @@
+<map id="lpc32xx_mlc_is_valid_block" name="lpc32xx_mlc_is_valid_block">
+<area shape="rect" id="node1" title="Checks if the block with index block_index is valid." alt="" coords="5,5,167,47"/>
+<area shape="rect" id="node2" href="$group__lpc32xx__nand__mlc.html#gacda5ee7184a3c1671dd838fd18979c5f" title=" " alt="" coords="215,5,393,47"/>
+</map>

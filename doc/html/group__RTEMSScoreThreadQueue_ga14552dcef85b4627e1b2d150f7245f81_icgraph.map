@@ -1,0 +1,10 @@
+<map id="_Thread_queue_Add_timeout_realtime_timespec" name="_Thread_queue_Add_timeout_realtime_timespec">
+<area shape="rect" id="node1" title="Adds a monotonic timespec to the thread and sets the watchdog header to realtime." alt="" coords="701,103,912,145"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreThreadQueue.html#gab148af32965cdef1887db52409f7ee86" title="Sets the enqueue callout to add an absolute realtime timeout in timespec format." alt="" coords="467,5,646,61"/>
+<area shape="rect" id="node6" href="$mqueuetimedreceive_8c.html#ac71c3641c1d3a9e0cc33562bf2f90a53" title=" " alt="" coords="489,85,625,112"/>
+<area shape="rect" id="node7" href="$mqueuetimedsend_8c.html#ac19939c8157d7ef9033a5be97a7ca6a1" title=" " alt="" coords="497,136,616,163"/>
+<area shape="rect" id="node8" href="$mutextimedlock_8c.html#a5f197c3d769dee7a09d911241a7b6766" title=" " alt="" coords="460,187,653,213"/>
+<area shape="rect" id="node3" href="$nanosleep_8c.html#a924d51d78cdcd9d7dee2613fb3a33cd1" title=" " alt="" coords="281,20,412,47"/>
+<area shape="rect" id="node4" href="$nanosleep_8c.html#a9ce6a1ed91a601dee133c8b6cf8b721a" title=" " alt="" coords="144,20,233,47"/>
+<area shape="rect" id="node5" href="$thrd_8c.html#a77f5f79db415e2363470a8570250f785" title=" " alt="" coords="5,20,96,47"/>
+</map>

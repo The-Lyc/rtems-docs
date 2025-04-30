@@ -1,0 +1,8 @@
+<map id="bsps/arm/atsam/include/bsp/atsam&#45;clock&#45;config.h" name="bsps/arm/atsam/include/bsp/atsam&#45;clock&#45;config.h">
+<area shape="rect" id="node1" title=" " alt="" coords="367,5,556,47"/>
+<area shape="rect" id="node2" href="$atsam_2console_2debug-console_8c.html" title=" " alt="" coords="5,95,187,136"/>
+<area shape="rect" id="node3" href="$atsam__i2c__bus_8c.html" title=" " alt="" coords="211,95,362,136"/>
+<area shape="rect" id="node4" href="$atsam__spi__bus_8c.html" title=" " alt="" coords="386,95,537,136"/>
+<area shape="rect" id="node5" href="$atsam_2start_2bspstarthooks_8c.html" title=" " alt="" coords="561,95,722,136"/>
+<area shape="rect" id="node6" href="$pmc-config_8c.html" title=" " alt="" coords="746,95,907,136"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="rtems_monitor_wakeup" name="rtems_monitor_wakeup">
+<area shape="rect" id="node1" title=" " alt="" coords="5,64,180,91"/>
+<area shape="rect" id="node2" href="$group__ClassicEvent.html#ga2d31674c165127bc530178d06d557b94" title="Sends an Event Set to the Target Task." alt="" coords="228,64,371,91"/>
+<area shape="rect" id="node3" href="$group__ClassicEventMP.html#ga4c6cac160ac2e5eb6ee7b9415e16aa29" title="Issues a remote rtems_event_send() request." alt="" coords="421,13,553,40"/>
+<area shape="rect" id="node4" href="$group__ClassicEventImpl.html#ga6ecbbc770f35aa183650e0e11901efc9" title=" " alt="" coords="419,64,555,91"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreThread.html#gadc33b4b428dfc134ae1622441433b1a1" title="Gets a thread by its identifier." alt="" coords="435,148,539,175"/>
+<area shape="rect" id="node5" href="$group__ClassicEventImpl.html#ga7f13b2e266b6f66390fcdf588ae80262" title="Posts the given new_events into the event_set passed in." alt="" coords="623,5,758,32"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreThread.html#gafbc47e5ce486029f2311242f2303c66d" title="Acquires the thread wait default lock inside a critical section (interrupts disabled)." alt="" coords="608,57,773,98"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreObject.html#gaba59419fd15c39c93eedbaba5788de05" title="Checks if two object IDs are equal." alt="" coords="603,123,779,149"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreObject.html#gaccc5682133e4f65b8cb374eab9be2c9d" title="Maps the specified object identifier to the associated local object control block." alt="" coords="637,173,745,200"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreThread.html#ga291d97d78d5460ffa5539964e417bb49" title="Gets object information for the object id." alt="" coords="611,225,770,266"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreObject.html#ga22cdf45f285840b7728b06197a7f4627" title="Returns the index portion of the ID." alt="" coords="833,173,983,200"/>
+<area shape="rect" id="node12" href="$group__RTEMSScoreObject.html#ga907a0412d7c657fa047641444090fe7b" title="Returns the API portion of the ID." alt="" coords="840,228,976,255"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreObject.html#ga8014a70deeb6819f7e2ca50efd13e1be" title="Checks if the api is valid." alt="" coords="827,279,989,305"/>
+</map>

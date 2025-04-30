@@ -1,0 +1,7 @@
+<map id="cpukit/include/rtems/posix/spinlockimpl.h" name="cpukit/include/rtems/posix/spinlockimpl.h">
+<area shape="rect" id="node1" title="Inlined Routines from the POSIX Spinlock Manager." alt="" coords="379,5,539,47"/>
+<area shape="rect" id="node2" href="$pspindestroy_8c.html" title="Destroy a Spinlock." alt="" coords="5,95,227,121"/>
+<area shape="rect" id="node3" href="$pspininit_8c.html" title="POSIX Function Initializes a Spinlock Instance." alt="" coords="251,95,445,121"/>
+<area shape="rect" id="node4" href="$pspinlock_8c.html" title="Wait at a Spinlock." alt="" coords="470,95,671,121"/>
+<area shape="rect" id="node5" href="$pspinunlock_8c.html" title="Function Unlocks a Spin Lock Object." alt="" coords="695,95,913,121"/>
+</map>

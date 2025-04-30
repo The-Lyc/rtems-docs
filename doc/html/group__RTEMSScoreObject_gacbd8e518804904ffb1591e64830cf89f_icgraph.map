@@ -1,0 +1,6 @@
+<map id="_Objects_Activate_unlimited" name="_Objects_Activate_unlimited">
+<area shape="rect" id="node1" title="Activate the object." alt="" coords="481,31,689,57"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreObject.html#gaa0886867669718ead9e2a6f6616b40a0" title="Allocate an object and extend the objects information on demand." alt="" coords="260,23,433,65"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreObject.html#ga0a7f6c580a3b8f84842df598a283b890" title="Return an inactive object or NULL." alt="" coords="5,5,212,32"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreThread.html#ga2cb5db6d9e872bde5dc6d3d3489bcc19" title="Return an inactive thread object or NULL." alt="" coords="7,56,210,83"/>
+</map>

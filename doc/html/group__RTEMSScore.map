@@ -1,0 +1,54 @@
+<map id="SuperCore" name="SuperCore">
+<area shape="rect" id="node1" href="$group__RTEMSScoreRBTree.html" title="Red&#45;Black Tree Handler." alt="" coords="291,5,464,31"/>
+<area shape="rect" id="node2" href="$group__RTEMSScorePriorityBitmap.html" title="Bitmap Priority Thread Routines." alt="" coords="293,55,462,95"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreCPUAtomic.html" title="Atomic Operations CPU API." alt="" coords="290,120,465,145"/>
+<area shape="rect" id="node4" href="$group__PerCPU.html" title=" " alt="" coords="276,169,479,195"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreAtomic.html" title="Support for atomic operations." alt="" coords="306,219,449,244"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreThreadQueue.html" title="Thread Queue Handler." alt="" coords="293,268,461,293"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreSystem.html" title=" " alt="" coords="302,317,453,343"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreSMPLock.html" title="The SMP lock provides mutual exclusion for SMP systems at the lowest level." alt="" coords="332,367,423,392"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreHeap.html" title="The Heap Handler provides a heap." alt="" coords="322,416,433,441"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreSemaphore.html" title="Semaphore Handler." alt="" coords="302,465,453,491"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreTimecounter.html" title="Timecounter Handler." alt="" coords="298,515,457,540"/>
+<area shape="rect" id="node12" href="$group__RTEMSScoreMessageQueue.html" title="Message Queue Handler." alt="" coords="287,564,468,589"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreSMP.html" title="SMP Support." alt="" coords="325,613,429,639"/>
+<area shape="rect" id="node14" href="$group__RTEMSScoreRWLock.html" title="ScoreRWLock." alt="" coords="322,663,433,688"/>
+<area shape="rect" id="node15" href="$group__RTEMSScoreProfiling.html" title="Profiling support." alt="" coords="313,712,442,737"/>
+<area shape="rect" id="node16" href="$group__RTEMSScoreStack.html" title="Stack Handler." alt="" coords="321,761,434,787"/>
+<area shape="rect" id="node17" href="$group__RTEMSScoreCPU.html" title="Provides CPU architecture dependent services." alt="" coords="284,811,471,836"/>
+<area shape="rect" id="node18" href="$group__RTEMSScoreStates.html" title="SuperCore Thread States." alt="" coords="321,860,433,885"/>
+<area shape="rect" id="node19" href="$group__RTEMSScoreBarrier.html" title="Functionality for Foundation Barrier Services." alt="" coords="317,909,438,935"/>
+<area shape="rect" id="node20" href="$group__RTEMSScoreUserExt.html" title="The User Extension Handler provides invocation of application dependent routines at critical points i..." alt="" coords="290,959,465,984"/>
+<area shape="rect" id="node21" href="$group__RTEMSScoreScheduler.html" title=" " alt="" coords="307,1008,448,1033"/>
+<area shape="rect" id="node22" href="$group__Timespec.html" title="Timespec Helpers." alt="" coords="341,1057,413,1083"/>
+<area shape="rect" id="node23" href="$group__RTEMSScoreSMPBarrier.html" title="The SMP barrier provides barrier synchronization for SMP systems at the lowest level." alt="" coords="325,1107,430,1132"/>
+<area shape="rect" id="node24" href="$group__RTEMSScoreTLS.html" title="Thread&#45;local storage (TLS) support." alt="" coords="297,1157,457,1197"/>
+<area shape="rect" id="node25" href="$group__RTEMSScoreTOD.html" title="Time of Day Handler." alt="" coords="299,1221,456,1247"/>
+<area shape="rect" id="node26" href="$group__RTEMSScoreWatchdog.html" title="Watchdog Handler." alt="" coords="307,1271,448,1296"/>
+<area shape="rect" id="node27" href="$group__RTEMSScoreMutex.html" title="Mutex Handler." alt="" coords="318,1320,437,1345"/>
+<area shape="rect" id="node28" href="$group__RTEMSScoreThreadMP.html" title="Thread Handler Multiprocessing Support." alt="" coords="263,1370,492,1410"/>
+<area shape="rect" id="node29" href="$group__RTEMSScoreMPCI.html" title="MPCI Handler." alt="" coords="322,1435,433,1460"/>
+<area shape="rect" id="node30" href="$group__RTEMSScoreAddress.html" title="Support for Address Manipulation." alt="" coords="313,1484,442,1509"/>
+<area shape="rect" id="node31" href="$group__RTEMSScoreThread.html" title="Thread Handler." alt="" coords="316,1533,439,1559"/>
+<area shape="rect" id="node32" href="$group__RTEMSScoreIntErr.html" title="Internal Error Handler." alt="" coords="296,1583,459,1608"/>
+<area shape="rect" id="node33" href="$group__SuperCoreTimeStamp.html" title="Score Timestamp." alt="" coords="309,1632,445,1657"/>
+<area shape="rect" id="node34" href="$group__RTEMSScoreChain.html" title="Provides Data Structures Chain Node and Chain Control." alt="" coords="320,1681,435,1707"/>
+<area shape="rect" id="node35" href="$group__RTEMSScoreContext.html" title="Functionality for Abstraction of Thread Context Management." alt="" coords="313,1731,441,1756"/>
+<area shape="rect" id="node36" href="$group__RTEMSScoreOnce.html" title="The _Once() function for pthread_once() and rtems_gxx_once()." alt="" coords="315,1780,440,1805"/>
+<area shape="rect" id="node37" href="$group__RTEMSScoreISR.html" title="ISR Handler." alt="" coords="328,1829,427,1855"/>
+<area shape="rect" id="node38" href="$group__RTEMSScoreMPPacket.html" title="MP Packte Handler." alt="" coords="306,1879,449,1904"/>
+<area shape="rect" id="node39" href="$group__RTEMSScoreSysState.html" title="Management of the internal system state of RTEMS." alt="" coords="295,1928,459,1953"/>
+<area shape="rect" id="node40" href="$group__RTEMSSuperCoreCopyright.html" title="Copyright Notice for RTEMS." alt="" coords="288,1977,467,2003"/>
+<area shape="rect" id="node41" title="Provides services for all APIs." alt="" coords="125,1247,215,1272"/>
+<area shape="rect" id="node42" href="$group__RTEMSScoreFreechain.html" title="The Freechain Handler." alt="" coords="307,2027,447,2052"/>
+<area shape="rect" id="node43" href="$group__RTEMSScoreAPIMutex.html" title="Provides routines to ensure mutual exclusion on API level." alt="" coords="306,2076,449,2101"/>
+<area shape="rect" id="node44" href="$group__RTEMSScorePriority.html" title="Priority Handler." alt="" coords="315,2125,439,2151"/>
+<area shape="rect" id="node45" href="$group__RTEMSScoreMemory.html" title="Low level handler to provide memory areas for higher level memory handlers such as the Workspace Hand..." alt="" coords="312,2175,443,2200"/>
+<area shape="rect" id="node46" href="$group__RTEMSScoreSetErr.html" title=" " alt="" coords="337,2224,418,2249"/>
+<area shape="rect" id="node48" href="$group__RTEMSScoreObjectMP.html" title="Object Handler Multiprocessing Support." alt="" coords="264,2274,491,2314"/>
+<area shape="rect" id="node49" href="$group__RTEMSScoreBaseDefs.html" title=" " alt="" coords="312,2339,443,2364"/>
+<area shape="rect" id="node50" href="$group__RTEMSScoreProcessorMask.html" title="Processor Mask." alt="" coords="315,2388,439,2413"/>
+<area shape="rect" id="node51" href="$group__RTEMSScoreWorkspace.html" title=" " alt="" coords="303,2437,451,2463"/>
+<area shape="rect" id="node52" href="$group__RTEMSScoreAssert.html" title="Support for Assert Statements." alt="" coords="318,2487,437,2512"/>
+<area shape="rect" id="node47" href="$group__RTEMSInternal.html" title="RTEMS Implementation." alt="" coords="5,1247,77,1272"/>
+</map>

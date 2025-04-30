@@ -1,0 +1,13 @@
+<map id="jffs2_read_inode_range" name="jffs2_read_inode_range">
+<area shape="rect" id="node1" title=" " alt="" coords="5,284,179,311"/>
+<area shape="rect" id="node2" href="$nodelist_8c.html#ac66b85114c803740998555e26a7300cd" title=" " alt="" coords="227,157,399,184"/>
+<area shape="rect" id="node3" href="$libfs_2src_2jffs2_2src_2read_8c.html#a61cac09251fd2d847bacd94dd6d81868" title=" " alt="" coords="246,208,379,235"/>
+<area shape="rect" id="node8" href="$bootldr_8h.html#a36d20f7d597c517b964289f6b54ddfa7" title=" " alt="" coords="659,208,735,235"/>
+<area shape="rect" id="node11" href="$math_8h.html#a766e85f11d336b214337964cd4bf919f" title=" " alt="" coords="289,411,336,437"/>
+<area shape="rect" id="node4" href="$crc32_8c.html#af5a1c7b05170540ef3bb084e6cf903c4" title=" " alt="" coords="499,5,557,32"/>
+<area shape="rect" id="node5" href="$malloc-rtems_8c.html#a6f8a9a0f7158367399edb50c5bda2691" title=" " alt="" coords="447,56,609,83"/>
+<area shape="rect" id="node6" href="$compr_8c.html#a4620038e66349c4038b6ec0b87879199" title=" " alt="" coords="460,157,596,184"/>
+<area shape="rect" id="node7" href="$lib_8c.html#afee04a2bd3690b426c5ead287a32a1a8" title=" " alt="" coords="657,132,736,159"/>
+<area shape="rect" id="node9" href="$flashio_8c.html#ae164917e499ff5dbbdfddeb2bfa99c94" title=" " alt="" coords="466,259,590,285"/>
+<area shape="rect" id="node10" href="$malloc-rtems_8c.html#ac0558b9433ccf232e977fd5a5f61a556" title=" " alt="" coords="449,309,607,336"/>
+</map>

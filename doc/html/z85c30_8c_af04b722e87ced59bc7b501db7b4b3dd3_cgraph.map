@@ -1,0 +1,10 @@
+<map id="z85c30_write_support_polled" name="z85c30_write_support_polled">
+<area shape="rect" id="node1" title=" " alt="" coords="5,49,169,90"/>
+<area shape="rect" id="node2" href="$z85c30_8c.html#aabbd8c5d12d511456beff915e9dbd267" title=" " alt="" coords="217,56,372,83"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreSysState.html#ga1f0777590280f354ba1a73b0b4ed143e" title="Gets the current system state." alt="" coords="433,5,581,32"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreSysState.html#gaa34964b3212ea72baf5ec0064f5d28df" title="Checks if the state is up." alt="" coords="427,56,586,83"/>
+<area shape="rect" id="node5" href="$group__ClassicTasks.html#ga69becc1811a7654b0b74836272ac6429" title="RTEMS Task Wake After." alt="" coords="420,107,593,133"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreThread.html#ga044bfb6e9317180d21b05c5338cedd1a" title="Disables thread dispatching." alt="" coords="641,107,833,133"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreThread.html#ga5ffeb81480c63293a317f69efc74dec3" title="Disables thread dispatching inside a critical section (interrupts disabled)." alt="" coords="881,99,1073,141"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreThread.html#ga80a71da4ea096f7ea92781a872b955ae" title="Disables thread dispatching inside a critical section (interrupts disabled) with the current processo..." alt="" coords="1121,99,1313,141"/>
+</map>

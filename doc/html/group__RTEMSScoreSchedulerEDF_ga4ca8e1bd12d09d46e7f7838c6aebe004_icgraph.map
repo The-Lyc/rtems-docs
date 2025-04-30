@@ -1,0 +1,8 @@
+<map id="_Scheduler_EDF_Priority_less_equal" name="_Scheduler_EDF_Priority_less_equal">
+<area shape="rect" id="node1" title="Checks if left is less or equal than the priority of the node right." alt="" coords="712,57,892,98"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreSchedulerEDF.html#gad3aeb60cde6231ec6baee6649b09d9b5" title="Inserts the scheduler node with the given priority in the ready queue of the context." alt="" coords="475,64,664,91"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreSchedulerEDF.html#ga1c6a885d1cbf890d31be7c539db7c12e" title="Performs an unblocking of the thread." alt="" coords="240,5,427,32"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreSchedulerEDF.html#gaf8da2ab5519218b6509eeecb90f4f1d7" title="Updates the priority of the scheduler node." alt="" coords="243,57,423,98"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreSchedulerEDF.html#ga1e56a56a016ef9317cae0090f846ceb6" title="Executes a thread yield for the thread." alt="" coords="251,123,416,149"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreSchedulerCBS.html#gae0d9c2720ee46efdfe87ebf87cd45cae" title="Unblocks a thread." alt="" coords="5,5,192,32"/>
+</map>

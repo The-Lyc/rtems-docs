@@ -1,0 +1,8 @@
+<map id="pthread_testcancel" name="pthread_testcancel">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,152,57"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreISR.html#ga3b125bb9faac2fa94bd0ba0583cf5f77" title="Checks if an ISR in progress." alt="" coords="204,5,355,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreThread.html#ga7e2c11aa0d3c505d0d3e264fbb6bbe7e" title="Changes the currently executing thread to a new state with the sets." alt="" coords="200,56,359,83"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreThread.html#ga21404c6b38c1c88748cec78a4bbd25f1" title="Disables interrupts and acquires the lock context for the currently executing thread." alt="" coords="407,49,577,90"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreThread.html#gafd7ff215edf64b4611da7b7c1d4e3050" title="Acquires the lock context in a critical section." alt="" coords="625,49,796,90"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreThreadQueue.html#gaf1488e09cc925566233f2f1fc76c4d81" title="Acquires the thread queue control in a critical section." alt="" coords="844,49,1045,90"/>
+</map>

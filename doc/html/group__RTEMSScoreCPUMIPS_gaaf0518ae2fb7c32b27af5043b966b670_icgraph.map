@@ -1,0 +1,6 @@
+<map id="mips_interrupt_mask" name="mips_interrupt_mask">
+<area shape="rect" id="node1" title=" " alt="" coords="231,56,391,83"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreCPUMIPS.html#ga6c257fd8b04820e61c562950280f1d38" title=" " alt="" coords="5,5,183,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreCPUARM.html#ga1d9dcab9170d532b6634a5620385adbd" title="Returns the interrupt level of the executing thread." alt="" coords="17,56,171,83"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreCPUARM.html#ga43820ba3d51d7a699c22fce8cac93ef1" title="Sets the interrupt level for the executing thread." alt="" coords="19,107,169,133"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="_CORE_ceiling_mutex_Initialize" name="_CORE_ceiling_mutex_Initialize">
+<area shape="rect" id="node1" title="initializes a ceiling mutex." alt="" coords="5,35,169,76"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreMutex.html#ga479a63bb7147291650bd7d69c24dc3fd" title="Initializes a recursive mutex." alt="" coords="217,5,399,47"/>
+<area shape="rect" id="node7" href="$group__RTEMSScorePriority.html#ga10c99a53ad7cb8f77e5de8aa06deb934" title="Initializes the priority node to the given priority." alt="" coords="218,71,398,98"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreMutex.html#ga8bc3af4c8e28f7e9090ca1571a0aead6" title="Initializes the mutex." alt="" coords="447,13,624,39"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreThreadQueue.html#gadff2605d33f07f210c22844f1ae71eaf" title="Initializes a thread queue embedded in an object with identifier." alt="" coords="672,5,843,47"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreThreadQueue.html#gae839c93467db7f3bb1776323a17ac8ad" title="Initializes the thread queue control to the given name." alt="" coords="891,13,1075,39"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreThreadQueue.html#ga9bf4b585322581d70c742c7292bc8435" title="Initializes the thread queue queue with the given name." alt="" coords="1123,5,1293,47"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreRBTree.html#gabbc757c2fd03694b6f9bb5aa2be553ff" title="Initializes a red&#45;black tree node." alt="" coords="447,71,623,98"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreRBTree.html#ga82d9b6f1aad201e7c8b614a0e970b356" title="Sets a red&#45;black tree node as off&#45;tree." alt="" coords="678,71,837,98"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Hurricane" name="Hurricane">
+<area shape="rect" id="node1" title="Hurricane Board Support Package." alt="" coords="108,5,193,31"/>
+<area shape="rect" id="node2" href="$group__RTEMSBSPsMIPS.html" title="MIPS Board Support Packages." alt="" coords="5,5,60,31"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="bsps/i386/pc386/start/realmode_int.c" name="bsps/i386/pc386/start/realmode_int.c">
+<area shape="rect" id="node1" title="Real mode interrupt call implementation." alt="" coords="105,5,266,47"/>
+<area shape="rect" id="node2" href="$realmode__int_8h.html" title="Definitioins supporting real mode interrupt calls." alt="" coords="112,95,259,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,169,144,196"/>
+<area shape="rect" id="node5" href="$string_8h.html" title=" " alt="" coords="283,95,354,121"/>
+<area shape="rect" id="node4" title=" " alt="" coords="169,169,239,196"/>
+</map>

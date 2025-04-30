@@ -1,0 +1,4 @@
+<map id="PMC_DisablePeripheral" name="PMC_DisablePeripheral">
+<area shape="rect" id="node1" title="Disables the clock of a peripheral. The peripheral ID is used to identify which peripheral is targete..." alt="" coords="192,5,365,32"/>
+<area shape="rect" id="node2" href="$spi__dma_8h.html#a36e110a3cda7abf52985f30626c47b5f" title="Configures the parameters for the device corresponding to the cs value." alt="" coords="5,5,144,32"/>
+</map>

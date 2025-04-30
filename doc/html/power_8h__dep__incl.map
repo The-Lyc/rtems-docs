@@ -1,0 +1,7 @@
+<map id="bsps/arm/atsam/include/bsp/power.h" name="bsps/arm/atsam/include/bsp/power.h">
+<area shape="rect" id="node1" title=" " alt="" coords="274,5,453,47"/>
+<area shape="rect" id="node2" href="$power-clock_8c.html" title=" " alt="" coords="5,95,167,136"/>
+<area shape="rect" id="node3" href="$power-rtc_8c.html" title=" " alt="" coords="191,95,352,136"/>
+<area shape="rect" id="node4" href="$power-wait_8c.html" title=" " alt="" coords="376,95,537,136"/>
+<area shape="rect" id="node5" href="$power_8c.html" title=" " alt="" coords="561,95,723,136"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="bsps/arm/beagle/include/bsp/beagleboneblack.h" name="bsps/arm/beagle/include/bsp/beagleboneblack.h">
+<area shape="rect" id="node1" title="BeagleBone Black BSP definitions." alt="" coords="192,5,373,47"/>
+<area shape="rect" id="node2" href="$bbb-gpio_8c.html" title="Support for the BeagleBone Black." alt="" coords="5,95,168,136"/>
+<area shape="rect" id="node3" href="$bsps_2arm_2beagle_2include_2bsp_8h.html" title="Global BSP definitions." alt="" coords="192,95,373,136"/>
+<area shape="rect" id="node4" href="$pwm_8c.html" title="Support for PWM for the BeagleBone Black." alt="" coords="398,95,565,136"/>
+</map>

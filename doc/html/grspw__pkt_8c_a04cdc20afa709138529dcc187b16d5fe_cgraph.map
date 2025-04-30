@@ -1,0 +1,6 @@
+<map id="grspw_dma_tx_count" name="grspw_dma_tx_count">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,165,83"/>
+<area shape="rect" id="node2" href="$if__xxx__rtems_8c.html#a0d44d815bf35b8d64e2c9b7dc79efa76" title=" " alt="" coords="291,5,330,32"/>
+<area shape="rect" id="node3" href="$group__ClassicSem.html#gae8c1795a85f982ceea89e7faf7d68e91" title="RTEMS Obtain Semaphore." alt="" coords="217,56,405,83"/>
+<area shape="rect" id="node4" href="$group__ClassicSem.html#gae493f08a92f963ecddc7889181808402" title="RTEMS Semaphore Release." alt="" coords="213,107,408,133"/>
+</map>

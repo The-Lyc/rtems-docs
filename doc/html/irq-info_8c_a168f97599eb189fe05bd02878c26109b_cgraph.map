@@ -1,0 +1,5 @@
+<map id="bsp_interrupt_report_with_plugin" name="bsp_interrupt_report_with_plugin">
+<area shape="rect" id="node1" title="Prints interrupt information via the printk plugin print with the context context." alt="" coords="5,35,160,76"/>
+<area shape="rect" id="node2" href="$group__rtems__interrupt__extension.html#ga31d23275b676018c06e13c7bedc87983" title="Iterates over all installed interrupt handler of the interrupt vector with number vector." alt="" coords="208,5,387,47"/>
+<area shape="rect" id="node3" href="$print_8h.html#a9d7cd7d1a2242a0d33f403ecec3f9baa" title="Print to the kernel plugin handler. This has to be a macro because there is no vprint version of the ..." alt="" coords="246,71,349,98"/>
+</map>

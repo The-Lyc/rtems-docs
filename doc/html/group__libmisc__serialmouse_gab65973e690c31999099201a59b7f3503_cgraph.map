@@ -1,0 +1,5 @@
+<map id="serial_mouse_initialize" name="serial_mouse_initialize">
+<area shape="rect" id="node1" title="The initialization of the serial mouse driver." alt="" coords="5,42,177,69"/>
+<area shape="rect" id="node2" href="$group__RTEMSBSPsI386.html#ga7103f15e10a857e48f4f026a58968288" title="Obtain serial mouse configuration information." alt="" coords="232,5,399,47"/>
+<area shape="rect" id="node3" href="$group__ClassicIO.html#ga26d953ea9e5acc028dd528e85ddef6f5" title="Registers the name device_name in the file system for the device with number tuple major and minor." alt="" coords="225,71,405,98"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="Shm_Initialization" name="Shm_Initialization">
+<area shape="rect" id="node1" title=" " alt="" coords="5,157,144,184"/>
+<area shape="rect" id="node2" href="$bootldr_8h.html#a36d20f7d597c517b964289f6b54ddfa7" title=" " alt="" coords="261,5,337,32"/>
+<area shape="rect" id="node3" href="$rtemsbuildname_8c.html#ad25f5ed0c4beb0750db5c0aab39f4bd1" title=" " alt="" coords="227,56,370,83"/>
+<area shape="rect" id="node4" href="$group__ClassicClassInfo.html#ga62c21de7d0b7487bba7ebd0ecc11edb3" title="Get the local MPCI node number." alt="" coords="193,107,405,133"/>
+<area shape="rect" id="node5" href="$shm__driver_8h.html#a2ceb6e3c7adacc61f4eaa0b5876dab6e" title=" " alt="" coords="212,157,385,184"/>
+<area shape="rect" id="node7" href="$shm__driver_8h.html#ab4d7131cc81519e63dd11297780d6080" title=" " alt="" coords="229,208,369,235"/>
+<area shape="rect" id="node8" href="$shm__driver_8h.html#ae2de606f5281efecf5b2c551d848bd59" title=" " alt="" coords="192,259,405,285"/>
+<area shape="rect" id="node10" href="$shm__driver_8h.html#a9104332dda29a5a174b95160f2e006c8" title=" " alt="" coords="248,309,349,336"/>
+<area shape="rect" id="node6" href="$shm__driver_8h.html#aa639c39fe9b3d0633e4b2c7374cbfd92" title=" " alt="" coords="453,157,615,184"/>
+<area shape="rect" id="node9" href="$shm__driver_8h.html#a4c16e8c9efb45b4db608d8aafdd68ef4" title=" " alt="" coords="460,259,608,285"/>
+<area shape="rect" id="node11" href="$group__RTEMSBSPsBfinBF537Stamp.html#gab3388042c56b34c40be81fd5f028d97e" title=" " alt="" coords="489,309,579,336"/>
+<area shape="rect" id="node12" href="$shm__driver_8h.html#a4ffaf6a9c0123568f3dc0b1d3f214554" title=" " alt="" coords="497,360,571,387"/>
+<area shape="rect" id="node13" href="$group__ClassicMP.html#ga2dacfadddfd9155a1e2f7d4230ac00e0" title="RTEMS Multiprocessing Announce." alt="" coords="663,353,833,394"/>
+<area shape="rect" id="node14" href="$group__RTEMSScoreMPCI.html#gaafbd7ed1ef4bd2b8672df8da832f79f4" title="Announces the availability of a packet." alt="" coords="881,360,1015,387"/>
+<area shape="rect" id="node15" href="$group__RTEMSScoreSemaphore.html#ga77394f444e0a86af7eae34891fe96578" title="Surrenders a unit to the semaphore." alt="" coords="1063,360,1277,387"/>
+</map>

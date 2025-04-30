@@ -1,0 +1,4 @@
+<map id="SPI_Configure" name="SPI_Configure">
+<area shape="rect" id="node1" title="Configures a SPI peripheral as specified. The configuration can be computed using several macros (see..." alt="" coords="175,5,285,32"/>
+<area shape="rect" id="node2" href="$spi__dma_8h.html#a9592feff98f0b7d84dcf2bfb4f49b40d" title="Initializes the Spid structure and the corresponding SPI &amp; DMA hardware. select value...." alt="" coords="5,5,127,32"/>
+</map>

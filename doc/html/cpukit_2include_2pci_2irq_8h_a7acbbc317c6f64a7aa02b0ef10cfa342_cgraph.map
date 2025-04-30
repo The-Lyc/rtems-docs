@@ -1,0 +1,4 @@
+<map id="pci_interrupt_register" name="pci_interrupt_register">
+<area shape="rect" id="node1" title=" " alt="" coords="5,13,167,39"/>
+<area shape="rect" id="node2" href="$group__rtems__interrupt__extension.html#ga086cc450fcdc9e37bfd0744a763dbfd4" title="Installs the interrupt handler routine handler for the interrupt vector with number vector." alt="" coords="215,5,393,47"/>
+</map>

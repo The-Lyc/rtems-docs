@@ -1,0 +1,6 @@
+<map id="fdt_get_alias" name="fdt_get_alias">
+<area shape="rect" id="node1" title=" " alt="" coords="213,56,320,83"/>
+<area shape="rect" id="node2" href="$group__RTEMSBSPsARMimx.html#gaf79daa85e2800cdf3336db338c205074" title="Registers an IMX I2C bus driver." alt="" coords="5,5,165,32"/>
+<area shape="rect" id="node3" href="$rtems-fdt_8c.html#af220698849e74aac90bea92864e5d628" title=" " alt="" coords="10,56,161,83"/>
+<area shape="rect" id="node4" href="$group__RTEMSBSPsARMimx.html#ga76c0c74170b6f591738da72382b35dde" title="Registers an IMX ECSPI bus driver." alt="" coords="5,107,165,133"/>
+</map>

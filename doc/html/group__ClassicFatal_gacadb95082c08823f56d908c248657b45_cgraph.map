@@ -1,0 +1,4 @@
+<map id="rtems_fatal_error_occurred" name="rtems_fatal_error_occurred">
+<area shape="rect" id="node1" title="Invokes the internal error handler with a source of INTERNAL_ERROR_RTEMS_API and is internal set to f..." alt="" coords="5,5,204,32"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreIntErr.html#ga5102f2f0c5939020aa3b11d67afa84eb" title="Initiates system termination." alt="" coords="252,5,347,32"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="_Addresses_Add_offset" name="_Addresses_Add_offset">
+<area shape="rect" id="node1" title="Adds offset to an address." alt="" coords="931,359,1103,385"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreChain.html#ga59b0dbda01fc9f0675bef62722627764" title="Initializes a chain header." alt="" coords="729,157,859,184"/>
+<area shape="rect" id="node14" href="$group__RTEMSScoreCPUARM.html#gaa92701994ad8e3b646667a3e92935ddf" title="Initializes the CPU context." alt="" coords="705,329,883,356"/>
+<area shape="rect" id="node15" href="$group__RTEMSScoreObject.html#ga968b850454008bc4e68ab83c2f033282" title="Initializes the specified objects information." alt="" coords="723,263,865,305"/>
+<area shape="rect" id="node16" href="$group__ClassicPartImpl.html#ga9fc3a1c2d40c73f16df3fd6a6be9c43f" title="Checks whether the_buffer is a valid buffer from the_partition." alt="" coords="721,381,867,422"/>
+<area shape="rect" id="node17" href="$group__ClassicDPMEM.html#gadd2893966bef2ba45246f76630583948" title="RTEMS Port External to Internal." alt="" coords="717,446,871,487"/>
+<area shape="rect" id="node18" href="$group__ClassicDPMEM.html#ga2f93010888da8641e8d419067da3200f" title="RTEMS Port Internal to External." alt="" coords="719,511,869,553"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreFreechain.html#ga6d2f5e4f088a9c17928f2fa925a1d4f6" title="Extend the freechain with new nodes." alt="" coords="503,56,647,83"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreFreechain.html#gae257ce6dd277d9bfe7af999b1dd3c274" title="Initializes a freechain." alt="" coords="497,208,652,235"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreObjectMP.html#ga1d2257e8720ed52a8f851d768a0facfd" title="Intializes the inactive global object chain based on the maximum number of global objects configured." alt="" coords="493,259,656,301"/>
+<area shape="rect" id="node10" href="$group__ClassicPartImpl.html#ga42fbb5cec48fe5747f314e97adfa36de" title=" " alt="" coords="501,5,648,32"/>
+<area shape="rect" id="node12" href="$group__RTEMSScoreThreadMP.html#ga96f0434ad7036721909abeedd0322bba" title="Initialize MP thread handler." alt="" coords="279,121,438,162"/>
+<area shape="rect" id="node13" href="$group__ClassicChains.html#ga4867b0d305def0e61d7c8d72216c638a" title="Initialize a chain Header." alt="" coords="492,157,657,184"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreFreechain.html#ga2a213d3f834d14e4dae74f7ff7b9f73d" title="Gets a node from the freechain." alt="" coords="297,56,420,83"/>
+<area shape="rect" id="node5" href="$group__POSIX__KEY.html#ga790a7a15f816d9c7becce14825a5be6e" title=" " alt="" coords="25,49,205,90"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreThread.html#gacd86ef6b0e5fb19ec14d7fe51e3868e2" title="Initializes the thread information." alt="" coords="290,201,427,242"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreThread.html#ga439268e164b067a866d2901085c8c672" title="Initializes thread handler." alt="" coords="5,161,225,188"/>
+<area shape="rect" id="node11" href="$group__ClassicPart.html#gaae1e45358170b1de610acdae7f4a8148" title="RTEMS Partition Create." alt="" coords="273,5,444,32"/>
+</map>

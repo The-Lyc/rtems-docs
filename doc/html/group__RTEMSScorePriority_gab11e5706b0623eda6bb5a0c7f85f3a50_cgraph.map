@@ -1,0 +1,7 @@
+<map id="_Priority_bit_map_Initialize_information" name="_Priority_bit_map_Initialize_information">
+<area shape="rect" id="node1" title="Initializes the bit map information." alt="" coords="5,74,204,115"/>
+<area shape="rect" id="node2" href="$group__RTEMSScorePriority.html#ga7e9cb59c60f7231a454824509f3a1b6a" title="Returns the bit index position for the specified major or minor bit number." alt="" coords="252,5,403,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScorePriority.html#ga1e9fd447bd6120ec504a82d5e4f4dc24" title="Returns the major portion of the_priority." alt="" coords="267,56,387,83"/>
+<area shape="rect" id="node4" href="$group__RTEMSScorePriority.html#gadf554c1cf4e5a358ebb28e90e013ccb1" title="Returns the priority bit mask for the specified major or minor bit number." alt="" coords="268,107,387,133"/>
+<area shape="rect" id="node5" href="$group__RTEMSScorePriority.html#gaaf7dd3dde9aa776f2c16fee4c1e572ed" title="Returns the minor portion of the_priority." alt="" coords="267,157,387,184"/>
+</map>

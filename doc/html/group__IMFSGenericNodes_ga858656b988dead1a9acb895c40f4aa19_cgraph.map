@@ -1,0 +1,7 @@
+<map id="IMFS_node_initialize_directory" name="IMFS_node_initialize_directory">
+<area shape="rect" id="node1" title=" " alt="" coords="5,23,160,65"/>
+<area shape="rect" id="node2" href="$group__ClassicChains.html#gabcf5131393d65f667c67e88cf646ff99" title="Initialize this chain as empty." alt="" coords="208,23,373,65"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreChain.html#ga322cf50ff1974dab1ce8d60ec94ef5f8" title="Initializes this chain as empty." alt="" coords="421,31,600,57"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreChain.html#ga8b66d3138b9cdacbcb0600c42237ff7d" title="Returns pointer to chain head." alt="" coords="648,5,755,32"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreChain.html#ga06f3e2dd6d64411f0565e3b483e53673" title="Returns pointer to chain tail." alt="" coords="654,56,749,83"/>
+</map>

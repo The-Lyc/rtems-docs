@@ -1,0 +1,7 @@
+<map id="lpc24xx_uart_probe_2" name="lpc24xx_uart_probe_2">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,171,83"/>
+<area shape="rect" id="node2" href="$group__lpc24xx__io.html#gad66b0ee5f7531115187e982b321bf6ce" title=" " alt="" coords="219,5,399,32"/>
+<area shape="rect" id="node3" href="$group__lpc24xx__io.html#gaaa704e4a54e338c74eebce54e23547cd" title="Performs the action with the pins." alt="" coords="235,56,382,83"/>
+<area shape="rect" id="node4" href="$ns16550_8h.html#a399e94659149b71bbcd51b54b2e2a8a1" title=" " alt="" coords="248,107,369,133"/>
+<area shape="rect" id="node5" href="$ns16550_8c.html#ac25510ef61e7c8ba6ef08fafd9eac4e6" title=" " alt="" coords="447,107,645,133"/>
+</map>

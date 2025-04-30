@@ -1,0 +1,4 @@
+<map id="_CORE_mutex_Is_locked" name="_CORE_mutex_Is_locked">
+<area shape="rect" id="node1" title="Checks if the mutex is locked." alt="" coords="5,5,187,32"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreMutex.html#gac97696832bb6ad43d333541536040ec3" title="Gets the owner of the mutex." alt="" coords="235,5,425,32"/>
+</map>

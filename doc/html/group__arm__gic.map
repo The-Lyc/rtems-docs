@@ -1,0 +1,4 @@
+<map id="ARM GIC" name="ARM GIC">
+<area shape="rect" id="node1" title="ARM_GIC Support Package." alt="" coords="120,5,199,31"/>
+<area shape="rect" id="node2" href="$group__RTEMSBSPsARMShared.html" title="Shared Support for ARM Board Support Packages." alt="" coords="5,5,72,31"/>
+</map>

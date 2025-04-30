@@ -1,0 +1,4 @@
+<map id="rtems_chain_immutable_head" name="rtems_chain_immutable_head">
+<area shape="rect" id="node1" title="Return pointer to immutable Chain Head." alt="" coords="5,5,224,32"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreChain.html#gac08944db6f0428125d3b0d5a1c65b740" title="Returns pointer to immutable chain head." alt="" coords="272,5,455,32"/>
+</map>

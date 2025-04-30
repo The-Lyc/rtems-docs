@@ -1,0 +1,8 @@
+<map id="NXP QorIQ" name="NXP QorIQ">
+<area shape="rect" id="node1" href="$group__QorIQUartBridge.html" title="UART to Intercom bridge support." alt="" coords="271,5,457,45"/>
+<area shape="rect" id="node2" href="$group__RTEMSBSPsPowerPCQorIQInterrupt.html" title="Interrupt support." alt="" coords="273,70,455,95"/>
+<area shape="rect" id="node3" href="$group__QorIQInterCom.html" title="Inter&#45;processor communication support." alt="" coords="273,120,455,160"/>
+<area shape="rect" id="node4" href="$group__RTEMSBSPsPowerPC.html" title="PowerPC Board Support Packages." alt="" coords="5,99,84,125"/>
+<area shape="rect" id="node6" title="NXP QorIQ Board Support Package." alt="" coords="132,99,223,125"/>
+<area shape="rect" id="node5" href="$group__QorIQMMU.html" title="MMU support." alt="" coords="284,185,444,210"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="stm32f4_rcc_set_clock" name="stm32f4_rcc_set_clock">
+<area shape="rect" id="node1" title=" " alt="" coords="696,31,867,57"/>
+<area shape="rect" id="node2" href="$group__stm32f4__io.html#gaca9a1e509516fa23513163a011c94c00" title=" " alt="" coords="469,5,648,32"/>
+<area shape="rect" id="node3" href="$group__stm32f4__io.html#ga1338a9cac091aad265392481d5126a07" title=" " alt="" coords="237,31,421,57"/>
+<area shape="rect" id="node4" href="$group__stm32f4__io.html#gae49816ecfcd698a5c6ec1d6722062ad0" title="Sets the GPIO configuration of an array terminated by STM32F4_GPIO_CONFIG_TERMINAL." alt="" coords="5,23,189,65"/>
+</map>

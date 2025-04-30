@@ -1,0 +1,6 @@
+<map id="rtems_clock_tick" name="rtems_clock_tick">
+<area shape="rect" id="node1" title="Announce a Clock Tick." alt="" coords="5,64,137,91"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreThread.html#ga14e949c0f400cda43b1e7547e50b088d" title="Performs a thread dispatch if necessary." alt="" coords="214,5,353,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreThread.html#gaa847ae7c8e3c4cf3f3f3f082124eac8e" title="Indicates if the executing thread is inside a thread dispatch critical section." alt="" coords="205,57,361,98"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreTimecounter.html#ga4846ddfe4d962ac1cc41c022f7ae0d60" title="Performs a simple timecounter tick." alt="" coords="185,123,381,149"/>
+</map>

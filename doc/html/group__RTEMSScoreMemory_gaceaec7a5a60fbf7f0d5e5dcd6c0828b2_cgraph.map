@@ -1,0 +1,4 @@
+<map id="_Memory_Get_area" name="_Memory_Get_area">
+<area shape="rect" id="node1" title="Get a memory area by index." alt="" coords="5,5,155,32"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreMemory.html#ga23cf58983e4010f47140bc68d9ff9e93" title="Get the memory area count." alt="" coords="203,5,359,32"/>
+</map>

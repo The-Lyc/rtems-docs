@@ -1,0 +1,6 @@
+<map id="rtems_dosfs_mount_options" name="rtems_dosfs_mount_options">
+<area shape="rect" id="node1" title="FAT filesystem mount options." alt="" coords="5,294,212,321"/>
+<area shape="rect" id="node2" href="$structrtems__dosfs__convert__control.html" title="FAT filesystem convert control." alt="" coords="127,95,285,136"/>
+<area shape="rect" id="node4" href="$structrtems__dosfs__convert__handler.html" title="FAT filesystem convert handler." alt="" coords="257,287,416,328"/>
+<area shape="rect" id="node3" href="$structrtems__dosfs__buffer.html" title=" " alt="" coords="133,5,279,32"/>
+</map>

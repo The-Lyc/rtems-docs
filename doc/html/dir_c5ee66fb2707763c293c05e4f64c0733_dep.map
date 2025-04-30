@@ -1,0 +1,12 @@
+<map id="cpukit/score/cpu/powerpc/include" name="cpukit/score/cpu/powerpc/include">
+<area shape="rect" id="node2" href="dir_236a8273929378b6a2f488f3aef72533.html" title="machine" alt="" coords="139,63,218,111"/>
+<area shape="rect" id="node3" href="dir_571e3b08bb42bb357ce4aab434ae120c.html" title="rtems" alt="" coords="43,63,115,111"/>
+<area shape="rect" id="node4" href="dir_8c02ade8afce3eac690e731f5f9c9c6b.html" title="libfs" alt="" coords="5,159,77,207"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000873_000480.html" title="1" alt="" coords="60,138,70,152"/>
+<area shape="rect" id="node5" href="dir_4f6a7e6de63bf7faab77653961b179a0.html" title="include" alt="" coords="5,255,77,303"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000873_000241.html" title="4" alt="" coords="75,238,84,252"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000480_000241.html" title="262" alt="" coords="28,229,53,243"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000241_000480.html" title="24" alt="" coords="33,218,51,233"/>
+<area shape="rect" id="clust2" href="dir_c5ee66fb2707763c293c05e4f64c0733.html" alt="" coords="32,52,325,121"/>
+<area shape="rect" id="clust1" href="dir_66302d14b44a516fbe4328f08915702e.html" title="powerpc" alt="" coords="21,16,336,132"/>
+</map>

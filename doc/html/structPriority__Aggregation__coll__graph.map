@@ -1,0 +1,6 @@
+<map id="Priority_Aggregation" name="Priority_Aggregation">
+<area shape="rect" id="node1" title="The priority aggregation." alt="" coords="22,201,177,228"/>
+<area shape="rect" id="node2" href="$structPriority__Node.html" title="The priority node to build up a priority aggregation." alt="" coords="44,97,155,124"/>
+<area shape="rect" id="node3" href="$structRBTree__Node.html" title="Red&#45;black tree node." alt="" coords="5,7,113,33"/>
+<area shape="rect" id="node4" href="$structChain__Node__struct.html" title=" " alt="" coords="138,7,282,33"/>
+</map>

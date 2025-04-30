@@ -1,0 +1,5 @@
+<map id="CPU_Interrupt_frame" name="CPU_Interrupt_frame">
+<area shape="rect" id="node1" title="Interrupt stack frame (ISF)." alt="" coords="116,109,275,136"/>
+<area shape="rect" id="node2" href="$structSPARC__Minimum__stack__frame.html" title=" " alt="" coords="5,5,180,47"/>
+<area shape="rect" id="node3" href="$structSPARC64__Minimum__stack__frame.html" title=" " alt="" coords="204,5,395,47"/>
+</map>

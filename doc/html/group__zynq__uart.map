@@ -1,0 +1,5 @@
+<map id="UART Support" name="UART Support">
+<area shape="rect" id="node1" href="$group__RTEMSBSPsARMZynq.html" title="Xilinx Zynq Board Support Package." alt="" coords="5,5,101,31"/>
+<area shape="rect" id="node3" title="UART Support." alt="" coords="149,5,260,31"/>
+<area shape="rect" id="node2" href="$group__zynq__uart__regs.html" title="UART Register Definitions." alt="" coords="308,5,497,31"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="rtems_clock_get_tod" name="rtems_clock_get_tod">
+<area shape="rect" id="node1" title="Obtain Current Time of Day (Classic TOD)" alt="" coords="235,31,392,57"/>
+<area shape="rect" id="node2" href="$tod_8h.html#a6a39ff7baf74e555ef111dc91b4945df" title=" " alt="" coords="35,5,157,32"/>
+<area shape="rect" id="node3" href="$tod_8c.html#a06ba139644c5af60527bd6efb09a3c59" title=" " alt="" coords="5,56,187,83"/>
+</map>

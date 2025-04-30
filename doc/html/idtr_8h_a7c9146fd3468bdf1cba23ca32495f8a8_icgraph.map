@@ -1,0 +1,10 @@
+<map id="i386_get_info_from_IDTR" name="i386_get_info_from_IDTR">
+<area shape="rect" id="node1" title=" " alt="" coords="443,139,629,166"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreCPUARM.html#gaa3480454768ad843ce97909111a48a1f" title="SPARC specific RTEMS ISR installer." alt="" coords="216,13,395,39"/>
+<area shape="rect" id="node4" href="$i386_8h.html#aa6b848759bca7e193008e409b323e42b" title=" " alt="" coords="227,114,383,141"/>
+<area shape="rect" id="node5" href="$i386_8h.html#a436df8932795e11d28c1cacca217f38e" title=" " alt="" coords="5,82,168,109"/>
+<area shape="rect" id="node6" href="$i386_8h.html#a5a3f52fac206eae0557debba0eae74c6" title=" " alt="" coords="15,154,158,181"/>
+<area shape="rect" id="node7" href="$i386_8h.html#a87e568cea79b853e260a50452049548d" title=" " alt="" coords="228,216,383,257"/>
+<area shape="rect" id="node8" href="$i386_8h.html#aa8ae4fde630fe14e00b493ecf007b194" title=" " alt="" coords="254,282,357,309"/>
+<area shape="rect" id="node3" href="$group__bsp__interrupt.html#gab114a6e92b17b99bf52cf24d1125a9df" title="BSP specific initialization." alt="" coords="7,5,167,47"/>
+</map>

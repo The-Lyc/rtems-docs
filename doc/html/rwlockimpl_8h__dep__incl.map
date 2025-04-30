@@ -1,0 +1,13 @@
+<map id="cpukit/include/rtems/posix/rwlockimpl.h" name="cpukit/include/rtems/posix/rwlockimpl.h">
+<area shape="rect" id="node1" title="Inlined Routines from the POSIX RWLock Manager." alt="" coords="1248,5,1403,47"/>
+<area shape="rect" id="node2" href="$prwlockdestroy_8c.html" title="Destroy a RWLock." alt="" coords="5,95,243,121"/>
+<area shape="rect" id="node3" href="$prwlockinit_8c.html" title="Allocate resources to use the read&#45;write lock and Initialize it." alt="" coords="267,95,477,121"/>
+<area shape="rect" id="node4" href="$prwlockrdlock_8c.html" title="Obtain a Read Lock on a RWLock Instance." alt="" coords="502,95,733,121"/>
+<area shape="rect" id="node5" href="$prwlocktimedrdlock_8c.html" title="Attempt to Obtain a Read Lock on a RWLock Instance." alt="" coords="757,95,1025,121"/>
+<area shape="rect" id="node6" href="$prwlocktimedwrlock_8c.html" title="Function applies a Write lock to RWLock referenced by rwlock." alt="" coords="1049,95,1319,121"/>
+<area shape="rect" id="node7" href="$prwlocktryrdlock_8c.html" title="Attempt to Obtain a Read Lock on a RWLock Instance." alt="" coords="1343,95,1591,121"/>
+<area shape="rect" id="node8" href="$prwlocktrywrlock_8c.html" title="Attempt to Obtain a Write Lock on a RWLock Instance." alt="" coords="1615,95,1865,121"/>
+<area shape="rect" id="node9" href="$prwlockunlock_8c.html" title="Function Releases a lock held on RWLock object referenced by rwlock." alt="" coords="1889,95,2121,121"/>
+<area shape="rect" id="node10" href="$prwlockwrlock_8c.html" title="Obtain a Write Lock on a RWlock Instance." alt="" coords="2146,95,2379,121"/>
+<area shape="rect" id="node11" href="$posixapi_8c.html" title="Initialize POSIX API." alt="" coords="2404,95,2591,121"/>
+</map>

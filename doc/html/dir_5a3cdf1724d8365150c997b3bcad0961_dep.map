@@ -1,0 +1,6 @@
+<map id="bsps/riscv/riscv/include/dev/serial" name="bsps/riscv/riscv/include/dev/serial">
+<area shape="rect" id="node1" href="dir_5a3cdf1724d8365150c997b3bcad0961.html" title="serial" alt="" coords="27,52,99,100"/>
+<area shape="rect" id="node2" href="dir_cd198e36225ba3f41de97552050ac017.html" title="cpukit" alt="" coords="27,148,99,196"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000922_000080.html" title="1" alt="" coords="66,122,76,137"/>
+<area shape="rect" id="clust1" href="dir_cb9b883923a99fc2886c8c8387d28e12.html" title="dev" alt="" coords="16,16,109,111"/>
+</map>

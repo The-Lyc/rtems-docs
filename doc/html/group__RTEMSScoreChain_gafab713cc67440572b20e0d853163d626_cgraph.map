@@ -1,0 +1,9 @@
+<map id="_Chain_Iterator_initialize" name="_Chain_Iterator_initialize">
+<area shape="rect" id="node1" title="Initializes the chain iterator." alt="" coords="5,97,189,123"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreChain.html#gaa7011c6fe160c457a0d100e41ec3fffe" title="Appends a node (unprotected)." alt="" coords="237,21,444,47"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreChain.html#ga06f3e2dd6d64411f0565e3b483e53673" title="Returns pointer to chain tail." alt="" coords="525,71,619,98"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreChain.html#ga8b66d3138b9cdacbcb0600c42237ff7d" title="Returns pointer to chain head." alt="" coords="287,122,394,149"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreChain.html#gab0fa19f01d37f1d510405e6382fd8b67" title="Initializes a chain node." alt="" coords="257,173,425,199"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreChain.html#gad7a790f247b3ace45f039c60c18f999f" title="Checks if the node is off chain." alt="" coords="499,5,645,47"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreChain.html#gadf0e5d55d133694eed8043ec13fe1266" title="Sets off chain." alt="" coords="492,173,652,199"/>
+</map>

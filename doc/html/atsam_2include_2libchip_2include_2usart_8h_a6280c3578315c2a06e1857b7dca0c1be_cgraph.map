@@ -1,0 +1,4 @@
+<map id="USART_Configure" name="USART_Configure">
+<area shape="rect" id="node1" title="Configures an USART peripheral with the specified parameters." alt="" coords="5,5,140,32"/>
+<area shape="rect" id="node2" href="$atsam_2contrib_2libraries_2libchip_2source_2usart_8c.html#a2c462751711f86351d7f6503ff6c2063" title="Configures an USART baudrate." alt="" coords="188,5,341,32"/>
+</map>

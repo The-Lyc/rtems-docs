@@ -1,0 +1,6 @@
+<map id="DBG_GetIntegerMinMax" name="DBG_GetIntegerMinMax">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,184,57"/>
+<area shape="rect" id="node2" href="$dbg__console_8c.html#a807d59a58a4312efa7ef1c445107c256" title=" " alt="" coords="232,31,359,57"/>
+<area shape="rect" id="node3" href="$dbg__console_8c.html#a2eef99b5de5b33158b69f38c0bdfd655" title="Input a character from the UART line." alt="" coords="407,5,517,32"/>
+<area shape="rect" id="node4" href="$dbg__console_8c.html#a7f949ce5c762badb554572a41e19e3fb" title="Outputs a character on the UART line." alt="" coords="407,56,517,83"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="alt_gpio_bit_config" name="alt_gpio_bit_config">
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,149,98"/>
+<area shape="rect" id="node2" href="$group__ALT__GPIO__UTILITY.html#gab9f4dc7b353a6152d22205dcc1b62e4c" title=" " alt="" coords="214,21,359,47"/>
+<area shape="rect" id="node3" href="$group__ALT__GPIO__UTILITY.html#gabb884ac27ac7812efe6286a5162f6241" title=" " alt="" coords="197,71,376,98"/>
+<area shape="rect" id="node4" href="$group__ALT__GPIO__API__CONFIG.html#gaad9e73235f34f2e08f07f8cca9d10afb" title=" " alt="" coords="210,122,363,149"/>
+<area shape="rect" id="node5" href="$group__ALT__GPIO__API__CONFIG.html#ga17555010b17db660fe66b97f8ab7d097" title=" " alt="" coords="455,5,597,47"/>
+<area shape="rect" id="node6" href="$group__ALT__GPIO__API__CONFIG.html#gae7ff5fe93b46ea71b6983b1cc15177f8" title=" " alt="" coords="433,71,619,98"/>
+<area shape="rect" id="node7" href="$group__ALT__GPIO__API__CONFIG.html#ga7464ad71bf31ecc59943be3df4f58c1f" title=" " alt="" coords="424,122,628,149"/>
+<area shape="rect" id="node8" href="$group__ALT__GPIO__INT.html#gaf4f0c4014e0ffd8dae1a565cb3e90ccc" title=" " alt="" coords="433,173,619,199"/>
+<area shape="rect" id="node9" href="$group__ALT__GPIO__INT.html#ga4d56fea036eb7f0f7d803bfe1659ecc4" title=" " alt="" coords="429,223,623,250"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="_Message_queue_MP_Get_number_pending" name="_Message_queue_MP_Get_number_pending">
+<area shape="rect" id="node1" title="Issues a remote rtems_message_queue_get_number_pending() request." alt="" coords="227,5,417,47"/>
+<area shape="rect" id="node2" href="$group__ClassicMessageQueue.html#gacee875342933dcff59f9ed66232cdce8" title="RTEMS Message Queue Get Number Pending." alt="" coords="5,5,179,47"/>
+</map>

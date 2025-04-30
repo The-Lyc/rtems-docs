@@ -1,0 +1,4 @@
+<map id="rtems_stack_checker_switch_extension" name="rtems_stack_checker_switch_extension">
+<area shape="rect" id="node1" title="Stack Checker Task Context Switch Extension." alt="" coords="212,5,371,47"/>
+<area shape="rect" id="node2" href="$group__libmisc__stackchk.html#ga3d14a039e776b11639d8b0a4166756e6" title="Checks if current task is blown its stack." alt="" coords="5,5,164,47"/>
+</map>

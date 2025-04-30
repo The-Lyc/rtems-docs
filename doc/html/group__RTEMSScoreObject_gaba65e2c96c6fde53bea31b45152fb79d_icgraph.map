@@ -1,0 +1,10 @@
+<map id="_Objects_Is_auto_extend" name="_Objects_Is_auto_extend">
+<area shape="rect" id="node1" title="Checks if the automatic object extension (unlimited objects) is enabled." alt="" coords="737,115,921,141"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreObject.html#gacbd8e518804904ffb1591e64830cf89f" title="Activate the object." alt="" coords="481,5,689,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreObject.html#gaa0886867669718ead9e2a6f6616b40a0" title="Allocate an object and extend the objects information on demand." alt="" coords="260,23,433,65"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreObject.html#ga53e22e0d0d91b0f5159aff84a1c40ef3" title="Free the objects block with the specified index." alt="" coords="502,107,669,149"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreObject.html#gae07a394b03c4cb77414045f2fca32e62" title="Free the object." alt="" coords="494,173,677,200"/>
+<area shape="rect" id="node8" href="$group__ClassicClassInfo.html#gae8ffdf2a3cfe0e716ebfd4a3eb1bfece" title="Get Class Information." alt="" coords="498,225,673,266"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreObject.html#ga0a7f6c580a3b8f84842df598a283b890" title="Return an inactive object or NULL." alt="" coords="5,5,212,32"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreThread.html#ga2cb5db6d9e872bde5dc6d3d3489bcc19" title="Return an inactive thread object or NULL." alt="" coords="7,56,210,83"/>
+</map>

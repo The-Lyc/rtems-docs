@@ -1,0 +1,9 @@
+<map id="control" name="control">
+<area shape="rect" id="node1" title=" " alt="" coords="247,291,314,317"/>
+<area shape="rect" id="node2" href="$structintercom__packet.html" title=" " alt="" coords="215,97,346,124"/>
+<area shape="rect" id="node4" href="$structcore__fifo.html" title=" " alt="" coords="364,201,443,228"/>
+<area shape="rect" id="node5" href="$structfree__list.html" title=" " alt="" coords="158,201,233,228"/>
+<area shape="rect" id="node3" href="$structChain__Node__struct.html" title=" " alt="" coords="209,7,353,33"/>
+<area shape="rect" id="node6" href="$structconsumer__list.html" title=" " alt="" coords="5,97,119,124"/>
+<area shape="rect" id="node7" href="$structconsumer.html" title=" " alt="" coords="19,7,105,33"/>
+</map>

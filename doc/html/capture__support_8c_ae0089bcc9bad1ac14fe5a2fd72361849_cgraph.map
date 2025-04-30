@@ -1,0 +1,7 @@
+<map id="rtems_capture_print_record_task" name="rtems_capture_print_record_task">
+<area shape="rect" id="node1" title="Capture print record task." alt="" coords="5,64,159,105"/>
+<area shape="rect" id="node2" href="$capture__support_8c.html#aa80d864c7228dd52f17633466b316626" title="Capture print timestamp." alt="" coords="221,5,374,47"/>
+<area shape="rect" id="node3" href="$monitor_8h.html#a5985e8a569b06883bbba4486998ba803" title=" " alt="" coords="207,71,388,98"/>
+<area shape="rect" id="node4" href="$rtemsobjectidgetapi_8c.html#a9ae816cd3f590744fc6f4c8fcba4a569" title=" " alt="" coords="207,122,388,149"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreObject.html#ga907a0412d7c657fa047641444090fe7b" title="Returns the API portion of the ID." alt="" coords="436,122,572,149"/>
+</map>

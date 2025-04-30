@@ -1,0 +1,8 @@
+<map id="console_inbyte_nonblocking" name="console_inbyte_nonblocking">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,212,108"/>
+<area shape="rect" id="node2" href="$bsps_2sh_2shsim_2include_2bsp_2syscall_8h.html#abe8498f3df15dfe6ed44580044efcd32" title=" " alt="" coords="320,5,399,32"/>
+<area shape="rect" id="node3" href="$powerpc_2psim_2console_2console-io_8c.html#a799a047ef038b61a8125307da2581dfb" title=" " alt="" coords="328,56,391,83"/>
+<area shape="rect" id="node4" href="$no__cpu_2no__bsp_2console_2console_8c.html#ac382596a78e89ad0f0551deaeefcf093" title=" " alt="" coords="287,107,432,133"/>
+<area shape="rect" id="node5" href="$group__ClassicFatal.html#gacadb95082c08823f56d908c248657b45" title="Invokes the internal error handler with a source of INTERNAL_ERROR_RTEMS_API and is internal set to f..." alt="" coords="260,157,459,184"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreIntErr.html#ga5102f2f0c5939020aa3b11d67afa84eb" title="Initiates system termination." alt="" coords="507,157,601,184"/>
+</map>

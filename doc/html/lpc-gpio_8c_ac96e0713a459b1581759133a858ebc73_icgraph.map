@@ -1,0 +1,4 @@
+<map id="lpc176x_gpio_set_pin" name="lpc176x_gpio_set_pin">
+<area shape="rect" id="node1" title="Sets the output pin to 1." alt="" coords="228,5,391,32"/>
+<area shape="rect" id="node2" href="$lpc-gpio_8h.html#ad010bb47d4e2ab9c09a42193cc25d501" title="Sets the output pin to 0 or 1 according to value." alt="" coords="5,5,180,32"/>
+</map>

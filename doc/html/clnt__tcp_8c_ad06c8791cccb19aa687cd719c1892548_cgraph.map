@@ -1,0 +1,20 @@
+<map id="clnttcp_create" name="clnttcp_create">
+<area shape="rect" id="node1" title=" " alt="" coords="5,183,120,209"/>
+<area shape="rect" id="node2" href="$bindresvport_8c.html#a064688fa4433954b5cca5989c939648a" title=" " alt="" coords="179,5,283,32"/>
+<area shape="rect" id="node5" href="$getpid_8c.html#ac61b207337ca21b3b309593fd1a0cb82" title=" " alt="" coords="199,56,262,83"/>
+<area shape="rect" id="node7" href="$__kernel__param_8h.html#a48c07a0bea221f7eaf90df0621df2066" title=" " alt="" coords="613,157,672,184"/>
+<area shape="rect" id="node8" href="$pmap__getport_8c.html#aee06f6c3a1e39a7a9e0c19f6c6f3de20" title=" " alt="" coords="174,183,287,209"/>
+<area shape="rect" id="node10" href="$rpc__prot_8c.html#a6334f9cdd70ff43c64f5e0149dfb3b9a" title=" " alt="" coords="183,233,278,260"/>
+<area shape="rect" id="node17" href="$xdr__mem_8c.html#aaf53fd68f3dc2fd8ab03ec1c3fa08720" title=" " alt="" coords="168,284,293,311"/>
+<area shape="rect" id="node18" href="$xdr__rec_8c.html#a6464ce6fa8b7bf75314550090570f650" title=" " alt="" coords="175,335,286,361"/>
+<area shape="rect" id="node3" href="$bindresvport_8c.html#a86a9a29ce4648aa22e45893f1a9394e7" title=" " alt="" coords="384,5,511,32"/>
+<area shape="rect" id="node4" href="$bootldr_8h.html#a36d20f7d597c517b964289f6b54ddfa7" title=" " alt="" coords="605,5,681,32"/>
+<area shape="rect" id="node6" href="$group__ClassicClassInfo.html#ga62c21de7d0b7487bba7ebd0ecc11edb3" title="Get the local MPCI node number." alt="" coords="341,56,553,83"/>
+<area shape="rect" id="node9" href="$clnt__udp_8c.html#a79836e2d22e18133738997b704134d5b" title=" " alt="" coords="378,208,517,235"/>
+<area shape="rect" id="node11" href="$xdr_8c.html#af4fc09ac0aa101a5ca98462cf8dceabd" title=" " alt="" coords="404,259,491,285"/>
+<area shape="rect" id="node16" href="$xdr_8c.html#a6d8fc8bf86939cbd6347558c018f94a4" title=" " alt="" coords="392,309,503,336"/>
+<area shape="rect" id="node12" href="$xdr_8c.html#ad20be8dcaed463935e944bea4361e8ba" title=" " alt="" coords="609,208,676,235"/>
+<area shape="rect" id="node14" href="$xdr_8c.html#a53931111c739a0464411029dce9f14f1" title=" " alt="" coords="603,259,682,285"/>
+<area shape="rect" id="node15" href="$xdr_8c.html#a235f7e785b208ee9905ed6b0301964c4" title=" " alt="" coords="601,309,684,336"/>
+<area shape="rect" id="node13" href="$if__xxx__rtems_8c.html#a0d44d815bf35b8d64e2c9b7dc79efa76" title=" " alt="" coords="732,208,771,235"/>
+</map>

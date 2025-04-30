@@ -1,0 +1,16 @@
+<map id="_Objects_Get_next" name="_Objects_Get_next">
+<area shape="rect" id="node1" title="Gets the next open object after the specified object identifier." alt="" coords="5,173,149,200"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreObject.html#ga3059733162454cc71ff73288ba9b4dfd" title="Locks the object allocator mutex." alt="" coords="211,27,388,53"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreObject.html#ga41a6751fdfbe5adc5f9cb5d12cc8a214" title="Unlocks the object allocator mutex." alt="" coords="228,78,371,119"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreObject.html#ga22cdf45f285840b7728b06197a7f4627" title="Returns the index portion of the ID." alt="" coords="469,203,619,229"/>
+<area shape="rect" id="node12" href="$group__RTEMSScoreObject.html#gadf825a94fecd0945a4368e503e274bfd" title="Returns the maximum index of the specified object class." alt="" coords="208,195,391,237"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreObject.html#gaaa126abc5988d998acc3b6c9f39c3bee" title="Returns the identifier with the minimum index for the specified identifier." alt="" coords="201,261,398,288"/>
+<area shape="rect" id="node14" href="$group__RTEMSScoreObject.html#ga0f21f1287215fd0f82bedfabf5872058" title="Maps object ids to object control blocks." alt="" coords="197,312,401,339"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreAllocatorMutex.html#ga89aa77edce0d5557b1a7e9d9ef7999c8" title=" " alt="" coords="457,27,631,53"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreAPIMutex.html#ga57829ca494f1d866219c499eadb0ffc9" title="Acquires the specified API mutex." alt="" coords="695,27,829,53"/>
+<area shape="rect" id="node5" href="$mutex_8c.html#a2960aef6016ac8937f24108f9cdeebd0" title=" " alt="" coords="890,5,1083,32"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreThread.html#gad5aaea7af4482aebd880403fb9c238af" title="Set the thread to life protected." alt="" coords="885,56,1088,83"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreAllocatorMutex.html#ga15d657c04537c2ad1841adc28b8dd747" title=" " alt="" coords="449,85,639,112"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreAPIMutex.html#ga64a430ae861d0ce7f63413e651fbe36d" title="Releases the specified API mutex." alt="" coords="687,85,837,112"/>
+<area shape="rect" id="node10" href="$mutex_8c.html#adecd7211e7a1a5035841212574f45b31" title=" " alt="" coords="889,107,1085,133"/>
+</map>

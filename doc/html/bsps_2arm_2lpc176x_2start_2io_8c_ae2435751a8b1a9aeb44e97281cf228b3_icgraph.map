@@ -1,0 +1,7 @@
+<map id="lpc176x_module_enable" name="lpc176x_module_enable">
+<area shape="rect" id="node1" title="Enables the module power and clock." alt="" coords="416,56,596,83"/>
+<area shape="rect" id="node2" href="$arm_2lpc176x_2rtc_2rtc-config_8c.html#ad606cbffb9b6cec52e7ef620acd3e835" title="Initialize the rtc device." alt="" coords="216,5,348,32"/>
+<area shape="rect" id="node3" href="$group__lpc176x__dma.html#gad363140b7213af48d12114d7b123696b" title="Initializes the general purpose DMA." alt="" coords="196,56,368,83"/>
+<area shape="rect" id="node4" href="$arm_2lpc176x_2timer_2timer_8c.html#a75254d6350db9fae2bedaefb25eaca28" title="Initializes timer in timer mode and resets counter but without starting it, and without any capture o..." alt="" coords="211,107,353,133"/>
+<area shape="rect" id="node5" href="$arm_2lpc176x_2timer_2timer_8c.html#abb815062c9b3c17b6c2bd40bb970e7e8" title="Initializes timer in timer mode and resets counter but without starting it, and without any capture o..." alt="" coords="5,99,148,141"/>
+</map>

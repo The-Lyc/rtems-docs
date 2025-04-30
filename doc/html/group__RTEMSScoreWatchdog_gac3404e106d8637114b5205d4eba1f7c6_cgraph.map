@@ -1,0 +1,13 @@
+<map id="_Watchdog_Cancel" name="_Watchdog_Cancel">
+<area shape="rect" id="node1" title="In the case the watchdog is scheduled, then it is removed from the set of scheduled watchdogs." alt="" coords="5,132,149,159"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreWatchdog.html#ga4c6dafd66518b5af7edb7c0d67572065" title="In the case the watchdog is scheduled, then it is removed from the set of scheduled watchdogs." alt="" coords="197,132,352,159"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreRBTree.html#ga26bf30d26e521f0599ae0467abdacc85" title="Extracts (removes) the node from the red&#45;black tree." alt="" coords="429,56,555,83"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreWatchdog.html#gaa77ec8a34fd2830fab0a5bb639c4ab06" title="Checks if the watchdog is scheduled." alt="" coords="400,107,584,133"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreWatchdog.html#gaa3f2959cd64e5f27cf67d1b89c45303a" title="Sets the first node of the header." alt="" coords="411,157,573,184"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreWatchdog.html#ga08d63637741832757cddfc443e9cf473" title="Sets the state of the watchdog." alt="" coords="411,208,573,235"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreRBTree.html#gabbc757c2fd03694b6f9bb5aa2be553ff" title="Initializes a red&#45;black tree node." alt="" coords="632,5,808,32"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreRBTree.html#ga29242f056330aaabc12dcfcaa6f10a05" title="Returns a pointer to root node of the red&#45;black tree." alt="" coords="665,56,775,83"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreRBTree.html#ga82d9b6f1aad201e7c8b614a0e970b356" title="Sets a red&#45;black tree node as off&#45;tree." alt="" coords="856,5,1015,32"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreWatchdog.html#gace59e3b987e52e536a15534fa1f91ec5" title="Gets the state of the watchdog." alt="" coords="639,107,801,133"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreRBTree.html#gadb8aa819c64641ff7a2342a7ef20b950" title="Returns pointer to the right of this node." alt="" coords="663,157,777,184"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="rtems_initialize_executive" name="rtems_initialize_executive">
+<area shape="rect" id="node1" title="Initializes the system and starts multitasking." alt="" coords="5,71,199,98"/>
+<area shape="rect" id="node2" href="$smp_8c.html#a43d82b0c9150747d3c4a50b0055afcfc" title=" " alt="" coords="270,5,425,47"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreSysState.html#gae619801bab42e4e750981529d3f41960" title="Sets the current system state to the given state." alt="" coords="274,71,421,98"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreThread.html#gab27215302814d0aa0ec3306b165ea247" title="Starts thread multitasking." alt="" coords="247,122,448,149"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreThread.html#gacd7c2e371fbc36ba623dffe713e6c427" title="Gets the heir of the processor and makes it executing." alt="" coords="496,115,663,156"/>
+</map>

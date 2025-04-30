@@ -1,0 +1,4 @@
+<map id="RTC_GetDate" name="RTC_GetDate">
+<area shape="rect" id="node1" title="Retrieves the current year, month and day from the RTC. Month, day and week values are numbered start..." alt="" coords="205,5,312,32"/>
+<area shape="rect" id="node2" href="$group__RTEMSBSPsARMAtsam.html#gad3552cd987f5aeeb12d868494234407c" title=" " alt="" coords="5,5,157,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="PCI" name="PCI">
+<area shape="rect" id="node1" href="$group__i386__apci.html" title="Intel Architecture local and I/O APIC definitions." alt="" coords="195,5,279,31"/>
+<area shape="rect" id="node2" href="$group__RTEMSBSPsI386.html" title="i386 Board Support Package." alt="" coords="5,5,56,31"/>
+<area shape="rect" id="node3" title="PCI." alt="" coords="104,5,147,31"/>
+</map>

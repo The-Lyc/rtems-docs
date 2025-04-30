@@ -1,0 +1,10 @@
+<map id="_Scheduler_EDF_Schedule" name="_Scheduler_EDF_Schedule">
+<area shape="rect" id="node1" title="Sets the heir thread to be the next ready thread in the rbtree ready queue." alt="" coords="5,64,197,91"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreSchedulerEDF.html#gacacc0195101c7c177c6bce307de1699a" title="Schedules the next ready thread as the heir." alt="" coords="245,64,476,91"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreRBTree.html#ga4b74812f06506bb6f19b910bfb011070" title="Returns the minimum node of the red&#45;black tree." alt="" coords="542,5,685,32"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreSchedulerEDF.html#ga8f7bd3ea1cd129951cf3246eb4c31b1f" title="Gets the context of the scheduler." alt="" coords="535,57,691,98"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreScheduler.html#ga29bb7f28ab22ddb95869cc527f2f75bf" title="Updates the heir." alt="" coords="524,123,703,149"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreScheduler.html#ga9c62ef5a388b998fa041a269297be1fe" title="Gets the context of the scheduler." alt="" coords="751,64,929,91"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreThread.html#ga04310043b907712ed8693fbbbc6ba0be" title="Gets the cpu of the thread&#39;s scheduler." alt="" coords="771,119,909,145"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreThread.html#ga02a75f308e726ba3f36a97cd758a8e7e" title="Updates the cpu time used of the thread." alt="" coords="759,170,921,211"/>
+</map>

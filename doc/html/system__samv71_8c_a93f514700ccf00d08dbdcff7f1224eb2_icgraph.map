@@ -1,0 +1,4 @@
+<map id="SystemInit" name="SystemInit">
+<area shape="rect" id="node1" title="Setup the microcontroller system. Initialize the System and update the SystemFrequency variable." alt="" coords="157,5,249,32"/>
+<area shape="rect" id="node2" href="$board__lowlevel_8c.html#a3bcea99c8a544fd0c3a62f43d1259072" title="Performs the low&#45;level initialization of the chip." alt="" coords="5,5,109,32"/>
+</map>

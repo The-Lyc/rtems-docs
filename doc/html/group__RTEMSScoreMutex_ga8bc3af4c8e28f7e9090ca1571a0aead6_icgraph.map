@@ -1,0 +1,5 @@
+<map id="_CORE_mutex_Initialize" name="_CORE_mutex_Initialize">
+<area shape="rect" id="node1" title="Initializes the mutex." alt="" coords="447,13,624,39"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreMutex.html#ga479a63bb7147291650bd7d69c24dc3fd" title="Initializes a recursive mutex." alt="" coords="217,5,399,47"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreMutex.html#gace1e18f3458f6bd2b21d66efdb26b417" title="initializes a ceiling mutex." alt="" coords="5,5,169,47"/>
+</map>

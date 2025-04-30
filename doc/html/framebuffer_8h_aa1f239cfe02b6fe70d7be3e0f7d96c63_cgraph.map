@@ -1,0 +1,5 @@
+<map id="frame_buffer_close" name="frame_buffer_close">
+<area shape="rect" id="node1" title="Frame Buffer Close Entry Point." alt="" coords="5,31,152,57"/>
+<area shape="rect" id="node2" href="$bootldr_8h.html#a36d20f7d597c517b964289f6b54ddfa7" title=" " alt="" coords="247,5,323,32"/>
+<area shape="rect" id="node3" href="$mutexunlock_8c.html#a96184290ffb60e04c53a52869cf960a2" title=" " alt="" coords="200,56,371,83"/>
+</map>

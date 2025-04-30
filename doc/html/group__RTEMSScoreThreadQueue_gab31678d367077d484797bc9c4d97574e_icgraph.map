@@ -1,0 +1,15 @@
+<map id="_Thread_queue_Context_set_thread_state" name="_Thread_queue_Context_set_thread_state">
+<area shape="rect" id="node1" title="Sets the thread state for the thread to enqueue in the thread queue context." alt="" coords="604,231,783,273"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreBarrier.html#ga760e64255cc0635768c65b566c536e3e" title="Waits for the barrier." alt="" coords="380,5,537,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreMutex.html#ga89693ae813a53c8984a6e40c6c228322" title="Seize the mutex slowly." alt="" coords="362,56,555,83"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreRWLock.html#ga44d546f0608f0a64a0473cf70bcd251c" title="Obtains RWLock for reading." alt="" coords="375,107,542,149"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreRWLock.html#ga83de98cd4ad1f99dc3f89b6b31d3d9e8" title="Obtains RWLock for writing." alt="" coords="375,173,542,214"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreSemaphore.html#ga7b6f46a1b1493871428be3b274ebb0f0" title="Seizes the semaphore." alt="" coords="365,239,552,265"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreMPCI.html#gaa7cccdabe9e7db7495e1d8bd12e6bcb0" title="Sends a request packet." alt="" coords="380,290,537,331"/>
+<area shape="rect" id="node9" href="$mutexlocksupp_8c.html#af5a36f147a0bac173e2c0efaae0c01c1" title=" " alt="" coords="361,356,556,383"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreThread.html#ga659bc82bc257e001d0b94f10436fbab2" title="Joins the currently executing thread with the given thread to wait for." alt="" coords="406,407,511,433"/>
+<area shape="rect" id="node11" href="$nanosleep_8c.html#a924d51d78cdcd9d7dee2613fb3a33cd1" title=" " alt="" coords="393,457,524,484"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreMPCI.html#gaf232dadc9160e4b1c733906d3a6d1f57" title="Receives and processes all packets." alt="" coords="144,239,313,265"/>
+<area shape="rect" id="node12" href="$nanosleep_8c.html#a9ce6a1ed91a601dee133c8b6cf8b721a" title=" " alt="" coords="184,457,273,484"/>
+<area shape="rect" id="node13" href="$thrd_8c.html#a77f5f79db415e2363470a8570250f785" title=" " alt="" coords="5,457,96,484"/>
+</map>

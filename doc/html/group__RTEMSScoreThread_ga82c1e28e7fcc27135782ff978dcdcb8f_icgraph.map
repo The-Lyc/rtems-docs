@@ -1,0 +1,6 @@
+<map id="_Thread_Yield" name="_Thread_Yield">
+<area shape="rect" id="node1" title="Yields the currently executing thread." alt="" coords="368,31,481,57"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreScheduler.html#ga389960397abd4e1c788c887884947f2b" title="Performs tick operations depending on the CPU budget algorithm for each executing thread." alt="" coords="140,5,320,32"/>
+<area shape="rect" id="node3" href="$sched__yield_8c.html#a357cd4b34c13011749dfffb42b489f09" title=" " alt="" coords="181,56,279,83"/>
+<area shape="rect" id="node4" href="$thrd_8c.html#acbfb78346e6b76b23da1d2d8df03549a" title=" " alt="" coords="5,56,92,83"/>
+</map>

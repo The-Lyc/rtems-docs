@@ -1,0 +1,11 @@
+<map id="bsps/arm/lpc176x/include/bsp/watchdog.h" name="bsps/arm/lpc176x/include/bsp/watchdog.h">
+<area shape="rect" id="node1" title="API of the Watchdog driver for the lpc176x bsp in RTEMS." alt="" coords="257,5,445,47"/>
+<area shape="rect" id="node2" href="$watchdog-defs_8h.html" title="API definitions of the Watchdog driver for the lpc176x bsp in RTEMS." alt="" coords="272,95,429,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,169,144,196"/>
+<area shape="rect" id="node4" title=" " alt="" coords="169,169,226,196"/>
+<area shape="rect" id="node5" title=" " alt="" coords="251,169,336,196"/>
+<area shape="rect" id="node6" href="$include_2bsp_2utility_8h.html" title="Utility macros." alt="" coords="361,169,458,196"/>
+<area shape="rect" id="node8" title=" " alt="" coords="482,169,561,196"/>
+<area shape="rect" id="node9" href="$common-types_8h.html" title="Definitions types used by some devices in common." alt="" coords="585,169,743,196"/>
+<area shape="rect" id="node7" title=" " alt="" coords="374,244,445,271"/>
+</map>

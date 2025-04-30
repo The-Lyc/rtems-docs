@@ -1,0 +1,4 @@
+<map id="rtems_timespec_divide" name="rtems_timespec_divide">
+<area shape="rect" id="node1" title="Divide timespec." alt="" coords="5,5,180,32"/>
+<area shape="rect" id="node2" href="$group__Timespec.html#ga098b04e1bc31a65688df2971188fca06" title="Divides a timespec by another timespec." alt="" coords="228,5,369,32"/>
+</map>

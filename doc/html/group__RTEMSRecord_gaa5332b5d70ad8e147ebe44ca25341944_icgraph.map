@@ -1,0 +1,8 @@
+<map id="rtems_record_produce_2" name="rtems_record_produce_2">
+<area shape="rect" id="node1" title="Produces two record items." alt="" coords="220,129,403,156"/>
+<area shape="rect" id="node2" href="$record-util_8c.html#a56d18a423bf7d59aa60ccadc4d95237d" title=" " alt="" coords="29,5,148,32"/>
+<area shape="rect" id="node3" href="$record-dump-fatal_8c.html#ab01412bd4c3ede7a11cb52ff1ac4c0a0" title=" " alt="" coords="11,57,167,98"/>
+<area shape="rect" id="node4" href="$record-dump-zfatal_8c.html#a356114c9540326dfcd362bb540bcb22d" title=" " alt="" coords="11,122,167,163"/>
+<area shape="rect" id="node5" href="$group__RTEMSRecord.html#ga6f9cb236fa4ba2fa458eea2ec433952b" title="Generates an RTEMS_RECORD_LINE event and an extra event." alt="" coords="11,188,166,215"/>
+<area shape="rect" id="node6" href="$group__RTEMSRecord.html#ga112e2b151dc4e4241f36a52c0413b40b" title="Generates an RTEMS_RECORD_LINE event and one argument event." alt="" coords="5,239,172,265"/>
+</map>

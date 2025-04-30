@@ -1,0 +1,9 @@
+<map id="_Thread_Get" name="_Thread_Get">
+<area shape="rect" id="node1" title="Gets a thread by its identifier." alt="" coords="5,56,109,83"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreObject.html#gaba59419fd15c39c93eedbaba5788de05" title="Checks if two object IDs are equal." alt="" coords="157,5,333,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreObject.html#gaccc5682133e4f65b8cb374eab9be2c9d" title="Maps the specified object identifier to the associated local object control block." alt="" coords="191,56,299,83"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreThread.html#ga291d97d78d5460ffa5539964e417bb49" title="Gets object information for the object id." alt="" coords="166,107,325,149"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreObject.html#ga22cdf45f285840b7728b06197a7f4627" title="Returns the index portion of the ID." alt="" coords="387,56,538,83"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreObject.html#ga907a0412d7c657fa047641444090fe7b" title="Returns the API portion of the ID." alt="" coords="395,111,531,137"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreObject.html#ga8014a70deeb6819f7e2ca50efd13e1be" title="Checks if the api is valid." alt="" coords="381,161,544,188"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="NXP LPC176X" name="NXP LPC176X">
+<area shape="rect" id="node1" title="NXP LPC176X Board Support Package." alt="" coords="105,31,216,56"/>
+<area shape="rect" id="node3" href="$group__lpc176x__clock.html" title="System clocks." alt="" coords="264,5,383,31"/>
+<area shape="rect" id="node4" href="$group__lpc176x__dma.html" title="Direct memory access (DMA) support." alt="" coords="270,55,377,80"/>
+<area shape="rect" id="node2" href="$group__RTEMSBSPsARM.html" title="ARM Board Support Packages." alt="" coords="5,31,57,56"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="ISI_setGrayScaleMode" name="ISI_setGrayScaleMode">
+<area shape="rect" id="node1" title="Input image is assumed to be grayscale&#45;coded." alt="" coords="5,5,172,32"/>
+<area shape="rect" id="node2" href="$isi_8c.html#adbb6e16ad19dced5edc920ec7f8e7bbf" title="Workaround for ISI CFG2 register read." alt="" coords="220,5,415,32"/>
+</map>

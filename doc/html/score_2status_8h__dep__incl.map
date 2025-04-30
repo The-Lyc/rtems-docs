@@ -1,0 +1,52 @@
+<map id="cpukit/include/rtems/score/status.h" name="cpukit/include/rtems/score/status.h">
+<area shape="rect" id="node1" title=" " alt="" coords="4132,5,4287,47"/>
+<area shape="rect" id="node2" href="$corebarrierimpl_8h.html" title="Inlined Routines Associated with the SuperCore Barrier." alt="" coords="899,184,1077,225"/>
+<area shape="rect" id="node7" href="$coremsgimpl_8h.html" title="Inlined Routines in the Core Message Handler." alt="" coords="2253,184,2416,225"/>
+<area shape="rect" id="node21" href="$coremuteximpl_8h.html" title="CORE Mutex Implementation." alt="" coords="4020,363,4196,404"/>
+<area shape="rect" id="node27" href="$corerwlockimpl_8h.html" title="Inlined Routines Associated with the SuperCore RWLock." alt="" coords="5378,184,5555,225"/>
+<area shape="rect" id="node33" href="$coresemimpl_8h.html" title="Inlined Routines Associated with the SuperCore Semaphore." alt="" coords="4835,273,4997,315"/>
+<area shape="rect" id="node36" href="$mpciimpl_8h.html" title="MPCI Layer Implementation." alt="" coords="541,95,696,136"/>
+<area shape="rect" id="node42" href="$schedulerimpl_8h.html" title="Inlined Routines Associated with the Manipulation of the Scheduler." alt="" coords="3913,273,4082,315"/>
+<area shape="rect" id="node43" href="$threadqflush_8c.html" title="Thread Queue Flush." alt="" coords="3765,370,3985,397"/>
+<area shape="rect" id="node44" href="$threadimpl_8h.html" title="Inlined Routines from the Thread Handler." alt="" coords="4092,184,4247,225"/>
+<area shape="rect" id="node45" href="$threadqenqueue_8c.html" title="Thread Queue Operations." alt="" coords="4565,281,4811,307"/>
+<area shape="rect" id="node46" href="$threadtimeout_8c.html" title="Thread Wait Timeout." alt="" coords="4208,281,4440,307"/>
+<area shape="rect" id="node47" href="$threadqimpl_8h.html" title="Constants and Structures Associated with the Manipulation of Objects." alt="" coords="4435,95,4591,136"/>
+<area shape="rect" id="node48" href="$regionprocessqueue_8c.html" title="Process Region Queue." alt="" coords="4870,191,5143,218"/>
+<area shape="rect" id="node49" href="$todimpl_8h.html" title="Time of Day Handler API." alt="" coords="4132,95,4287,136"/>
+<area shape="rect" id="node50" href="$condwaitsupp_8c.html" title="POSIX Condition Variables Wait Support." alt="" coords="5269,102,5499,129"/>
+<area shape="rect" id="node3" href="$rtems_2barrierimpl_8h.html" title="Classic Barrier Manager Implementation." alt="" coords="629,273,784,315"/>
+<area shape="rect" id="node4" href="$corebarrier_8c.html" title="Initialize CORE Barrier." alt="" coords="113,281,322,307"/>
+<area shape="rect" id="node5" href="$corebarrierrelease_8c.html" title="Manually releases the Barrier." alt="" coords="347,281,605,307"/>
+<area shape="rect" id="node6" href="$corebarrierwait_8c.html" title="Wait For The Barrier." alt="" coords="1958,281,2197,307"/>
+<area shape="rect" id="node8" href="$mqueueimpl_8h.html" title="Private Inlined Routines for POSIX Message Queue." alt="" coords="3009,273,3167,315"/>
+<area shape="rect" id="node9" href="$messageimpl_8h.html" title="Classic Message Queue Manager Implementation." alt="" coords="859,273,1027,315"/>
+<area shape="rect" id="node10" href="$msgmp_8c.html" title="Multiprocessing Support for the Message Queue Manager." alt="" coords="1194,370,1385,397"/>
+<area shape="rect" id="node11" href="$msgqcreate_8c.html" title="RTEMS Create Message Queue." alt="" coords="951,370,1169,397"/>
+<area shape="rect" id="node12" href="$msgqident_8c.html" title="RTEMS Message Queue Name to Id." alt="" coords="716,370,927,397"/>
+<area shape="rect" id="node13" href="$coremsg_8c.html" title="Initialize a Message Queue." alt="" coords="1203,281,1397,307"/>
+<area shape="rect" id="node14" href="$coremsgbroadcast_8c.html" title="Broadcast a Message to the Message Queue." alt="" coords="1421,281,1680,307"/>
+<area shape="rect" id="node15" href="$coremsgclose_8c.html" title="Close a Message Queue." alt="" coords="1704,281,1933,307"/>
+<area shape="rect" id="node16" href="$coremsgflush_8c.html" title="Flush Messages Routine." alt="" coords="2221,281,2448,307"/>
+<area shape="rect" id="node17" href="$coremsgflushwait_8c.html" title="Flush Waiting Threads." alt="" coords="2473,281,2727,307"/>
+<area shape="rect" id="node18" href="$coremsginsert_8c.html" title="Insert a Message into the Message Queue." alt="" coords="2752,281,2984,307"/>
+<area shape="rect" id="node19" href="$coremsgseize_8c.html" title="Seize a Message from the Message Queue." alt="" coords="3243,281,3472,307"/>
+<area shape="rect" id="node20" href="$coremsgsubmit_8c.html" title="CORE Message Queue Submit." alt="" coords="3496,281,3736,307"/>
+<area shape="rect" id="node22" href="$semimpl_8h.html" title="Classic Semaphore Manager Implementation." alt="" coords="4592,452,4747,493"/>
+<area shape="rect" id="node23" href="$mutexattrsetprotocol_8c.html" title="Mutex Initialization Scheduling Attributes." alt="" coords="4272,459,4549,486"/>
+<area shape="rect" id="node24" href="$mutexattrsetpshared_8c.html" title="Function sets Current pshared Attribute for Mutex Attributes Object." alt="" coords="3427,459,3703,486"/>
+<area shape="rect" id="node25" href="$mutexattrsettype_8c.html" title="Set a Mutex Type." alt="" coords="3728,459,3981,486"/>
+<area shape="rect" id="node26" href="$coremutexseize_8c.html" title="Seize Mutex with Blocking." alt="" coords="4005,459,4248,486"/>
+<area shape="rect" id="node28" href="$rwlockimpl_8h.html" title="Inlined Routines from the POSIX RWLock Manager." alt="" coords="6149,273,6304,315"/>
+<area shape="rect" id="node29" href="$corerwlock_8c.html" title=" " alt="" coords="5632,281,5843,307"/>
+<area shape="rect" id="node30" href="$corerwlockobtainread_8c.html" title="Obtain RWLock for reading." alt="" coords="5022,281,5301,307"/>
+<area shape="rect" id="node31" href="$corerwlockobtainwrite_8c.html" title="RWLock Obtain for Writing." alt="" coords="5325,281,5608,307"/>
+<area shape="rect" id="node32" href="$corerwlockrelease_8c.html" title="Releases the RWLock." alt="" coords="5867,281,6125,307"/>
+<area shape="rect" id="node34" href="$coresem_8c.html" title="Core Semaphore Initialize." alt="" coords="4819,370,5013,397"/>
+<area shape="rect" id="node35" href="$mpci_8c.html" title="Multiprocessing Communications Interface (MPCI) Handler." alt="" coords="4220,370,4391,397"/>
+<area shape="rect" id="node37" href="$eventmp_8h.html" title=" " alt="" coords="5,184,160,225"/>
+<area shape="rect" id="node38" href="$msgmp_8h.html" title="Message Manager MP Support." alt="" coords="184,184,339,225"/>
+<area shape="rect" id="node39" href="$partmp_8h.html" title="MP Support in Partition Manager." alt="" coords="363,184,517,225"/>
+<area shape="rect" id="node40" href="$signalmp_8h.html" title="Signal MP Support." alt="" coords="541,184,696,225"/>
+<area shape="rect" id="node41" href="$taskmp_8h.html" title=" " alt="" coords="720,184,875,225"/>
+</map>

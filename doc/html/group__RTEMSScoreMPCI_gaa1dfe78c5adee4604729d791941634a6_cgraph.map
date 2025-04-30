@@ -1,0 +1,6 @@
+<map id="_MPCI_Internal_packets_Get_packet" name="_MPCI_Internal_packets_Get_packet">
+<area shape="rect" id="node1" title="Obtains an internal thread." alt="" coords="5,5,181,47"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreMPCI.html#ga66e87499b1e505e2e38411619c88adce" title="Obtains a packet by invoking the user provided MPCI get packet callout." alt="" coords="229,13,372,39"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreIntErr.html#ga092fa4be4bda2528754b494e901d3d2a" title="Terminates the system with an INTERNAL_ERROR_CORE fatal source and the specified core error code." alt="" coords="420,13,537,39"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreIntErr.html#ga5102f2f0c5939020aa3b11d67afa84eb" title="Initiates system termination." alt="" coords="585,13,680,39"/>
+</map>

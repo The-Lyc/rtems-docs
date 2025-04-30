@@ -1,0 +1,10 @@
+<map id="cpukit/include/rtems/framebuffer.h" name="cpukit/include/rtems/framebuffer.h">
+<area shape="rect" id="node1" title="Frame Buffer Device Driver for all Boards." alt="" coords="207,5,362,47"/>
+<area shape="rect" id="node2" href="$cpukit_2include_2rtems_2io_8h.html" title="Classic Input/Output Manager API." alt="" coords="241,95,329,121"/>
+<area shape="rect" id="node3" href="$rtems_2status_8h.html" title=" " alt="" coords="205,169,364,196"/>
+<area shape="rect" id="node4" href="$basedefs_8h.html" title="Basic Definitions." alt="" coords="197,244,372,271"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,319,172,345"/>
+<area shape="rect" id="node6" title=" " alt="" coords="197,319,271,345"/>
+<area shape="rect" id="node7" title=" " alt="" coords="295,319,378,345"/>
+<area shape="rect" id="node8" title=" " alt="" coords="403,319,473,345"/>
+</map>

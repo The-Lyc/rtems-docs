@@ -1,0 +1,9 @@
+<map id="bsps/arm/lpc176x/include/bsp/system&#45;clocks.h" name="bsps/arm/lpc176x/include/bsp/system&#45;clocks.h">
+<area shape="rect" id="node1" title="System clocks." alt="" coords="41,5,229,47"/>
+<area shape="rect" id="node2" href="$lpc176x_8h.html" title="Specific register definitions according to lpc176x family boards." alt="" coords="7,95,119,121"/>
+<area shape="rect" id="node6" href="$timer-defs_8h.html" title="API definitions of the for the timer of the lpc176x bsp." alt="" coords="145,95,274,121"/>
+<area shape="rect" id="node3" href="$lpc-i2s_8h.html" title="I2S API." alt="" coords="5,169,109,196"/>
+<area shape="rect" id="node4" href="$include_2bsp_2utility_8h.html" title="Utility macros." alt="" coords="9,244,106,271"/>
+<area shape="rect" id="node5" title=" " alt="" coords="22,319,93,345"/>
+<area shape="rect" id="node7" href="$common-types_8h.html" title="Definitions types used by some devices in common." alt="" coords="134,169,293,196"/>
+</map>

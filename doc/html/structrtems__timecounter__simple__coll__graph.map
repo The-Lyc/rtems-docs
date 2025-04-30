@@ -1,0 +1,4 @@
+<map id="rtems_timecounter_simple" name="rtems_timecounter_simple">
+<area shape="rect" id="node1" title="Simple timecounter to support legacy clock drivers." alt="" coords="5,95,203,121"/>
+<area shape="rect" id="node2" href="$structtimecounter.html" title=" " alt="" coords="53,5,155,32"/>
+</map>

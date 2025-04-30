@@ -1,0 +1,6 @@
+<map id="Serial Mouse" name="Serial Mouse">
+<area shape="rect" id="node1" href="$group__RTEMSDeviceDrivers.html" title="Device Drivers." alt="" coords="5,31,124,56"/>
+<area shape="rect" id="node2" title="Serial Mouse." alt="" coords="172,31,279,56"/>
+<area shape="rect" id="node3" href="$group__libmisc__mouseparser.html" title=" " alt="" coords="327,5,484,31"/>
+<area shape="rect" id="node4" href="$group__libmisc__serialmouse.html" title=" " alt="" coords="330,55,481,80"/>
+</map>

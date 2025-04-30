@@ -1,0 +1,8 @@
+<map id="_Modes_Get_interrupt_level" name="_Modes_Get_interrupt_level">
+<area shape="rect" id="node1" title="Gets the interrupt level portion of the mode_set." alt="" coords="1017,35,1183,76"/>
+<area shape="rect" id="node2" href="$group__ClassicModesImpl.html#ga0fa0003793c7e73766faa9e5195c0070" title="Sets the current interrupt level to that specified in the mode_set." alt="" coords="807,5,969,47"/>
+<area shape="rect" id="node3" href="$group__ClassicTasks.html#gad74c115e94d1f65c416444b36bf012bf" title="RTEMS Task Mode." alt="" coords="620,42,759,69"/>
+<area shape="rect" id="node4" href="$group__ClassicSignalImpl.html#gaaa0e11ca22aa3c8e65543d6df98b9c2d" title=" " alt="" coords="399,42,572,69"/>
+<area shape="rect" id="node5" href="$group__ClassicSignal.html#ga9b10bae66f1a80b2bc7151eb1ce90e23" title="RTEMS Send Signal." alt="" coords="207,42,351,69"/>
+<area shape="rect" id="node6" href="$signalmp_8c.html#a1259b6d2d57c4768c74ce209c6b16e75" title="Signal MP Process Packet." alt="" coords="5,35,159,76"/>
+</map>

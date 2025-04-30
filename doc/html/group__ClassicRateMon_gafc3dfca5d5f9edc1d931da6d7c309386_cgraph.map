@@ -1,0 +1,12 @@
+<map id="rtems_rate_monotonic_reset_statistics" name="rtems_rate_monotonic_reset_statistics">
+<area shape="rect" id="node1" title="RTEMS Rate Monotonic Reset Statistics." alt="" coords="5,89,175,131"/>
+<area shape="rect" id="node2" href="$group__ClassicRateMonImpl.html#gae49c0e00563f58a849944135d5c316cd" title=" " alt="" coords="225,5,415,47"/>
+<area shape="rect" id="node3" href="$group__ClassicRateMonImpl.html#gafca768d067ab935fdf8d53ebb425d72b" title=" " alt="" coords="237,71,403,98"/>
+<area shape="rect" id="node6" href="$group__ClassicRateMonImpl.html#ga95cf6dc5dfb1e993a22066834528aaba" title=" " alt="" coords="223,122,417,149"/>
+<area shape="rect" id="node7" href="$group__ClassicRateMonImpl.html#gaca5bc85e1ebdb42e97eea716854143eb" title=" " alt="" coords="231,173,409,215"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreObject.html#gaccc5682133e4f65b8cb374eab9be2c9d" title="Maps the specified object identifier to the associated local object control block." alt="" coords="501,71,609,98"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreObject.html#ga22cdf45f285840b7728b06197a7f4627" title="Returns the index portion of the ID." alt="" coords="692,71,843,98"/>
+<area shape="rect" id="node8" href="$group__ClassicRateMonImpl.html#gad2ee630f4db943eacd1763ae84739b13" title=" " alt="" coords="465,148,644,189"/>
+<area shape="rect" id="node10" href="$bootldr_8h.html#a36d20f7d597c517b964289f6b54ddfa7" title=" " alt="" coords="517,214,593,241"/>
+<area shape="rect" id="node9" href="$group__SuperCoreTimeStamp.html#ga46e195298144d9defa8cad08207d3ce1" title="Sets timestamp to specified seconds and nanoseconds." alt="" coords="702,155,833,182"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="rtems_heap_greedy_free" name="rtems_heap_greedy_free">
+<area shape="rect" id="node1" title="Frees space of a greedy allocation." alt="" coords="5,56,189,83"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreHeap.html#ga01401364d81dc07728aea35aac06e84d" title="Frees blocks of a greedy allocation." alt="" coords="257,5,407,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreAllocatorMutex.html#ga89aa77edce0d5557b1a7e9d9ef7999c8" title=" " alt="" coords="245,56,419,83"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreAllocatorMutex.html#ga15d657c04537c2ad1841adc28b8dd747" title=" " alt="" coords="237,107,427,133"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreAPIMutex.html#ga57829ca494f1d866219c499eadb0ffc9" title="Acquires the specified API mutex." alt="" coords="483,56,617,83"/>
+<area shape="rect" id="node5" href="$mutex_8c.html#a2960aef6016ac8937f24108f9cdeebd0" title=" " alt="" coords="678,31,871,57"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreThread.html#gad5aaea7af4482aebd880403fb9c238af" title="Set the thread to life protected." alt="" coords="673,81,876,108"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreAPIMutex.html#ga64a430ae861d0ce7f63413e651fbe36d" title="Releases the specified API mutex." alt="" coords="475,107,625,133"/>
+<area shape="rect" id="node9" href="$mutex_8c.html#adecd7211e7a1a5035841212574f45b31" title=" " alt="" coords="677,132,873,159"/>
+</map>

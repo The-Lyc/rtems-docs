@@ -1,0 +1,6 @@
+<map id="Scheduler_priority_Ready_queue" name="Scheduler_priority_Ready_queue">
+<area shape="rect" id="node1" title="Data for ready queue operations." alt="" coords="117,201,257,243"/>
+<area shape="rect" id="node2" href="$structPriority__bit__map__Information.html" title=" " alt="" coords="5,112,217,139"/>
+<area shape="rect" id="node3" href="$unionChain__Control.html" title=" " alt="" coords="241,112,355,139"/>
+<area shape="rect" id="node4" href="$structChain__Node__struct.html" title=" " alt="" coords="226,7,370,33"/>
+</map>

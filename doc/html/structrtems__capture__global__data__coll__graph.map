@@ -1,0 +1,6 @@
+<map id="rtems_capture_global_data" name="rtems_capture_global_data">
+<area shape="rect" id="node1" title=" " alt="" coords="162,184,361,211"/>
+<area shape="rect" id="node2" href="$structrtems__capture__control.html" title="Capture control structure for a group of tasks." alt="" coords="5,95,173,121"/>
+<area shape="rect" id="node3" href="$structrtems__capture__from.html" title="Task id and mask for the from trigger." alt="" coords="12,5,167,32"/>
+<area shape="rect" id="node4" href="$structISR__lock__Control.html" title="ISR lock control." alt="" coords="255,95,385,121"/>
+</map>

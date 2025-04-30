@@ -1,0 +1,4 @@
+<map id="tms570_pinmux_init" name="tms570_pinmux_init">
+<area shape="rect" id="node1" title="setups pin multiplexer according to precomputed registers values (HCG:muxInit)" alt="" coords="5,5,160,32"/>
+<area shape="rect" id="node2" href="$tms570-pinmux_8h.html#a061d7b53280d6fc349a4157613712aef" title="configure block or whole pin multiplexer" alt="" coords="208,5,413,32"/>
+</map>

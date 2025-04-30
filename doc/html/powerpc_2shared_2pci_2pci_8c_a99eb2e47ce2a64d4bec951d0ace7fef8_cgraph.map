@@ -1,0 +1,6 @@
+<map id="pci_initialize" name="pci_initialize">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,109,57"/>
+<area shape="rect" id="node2" href="$powerpc_2shared_2pci_2pci_8c.html#aa30bcdceb952d1c42a9c0917c3138a73" title=" " alt="" coords="157,5,304,32"/>
+<area shape="rect" id="node4" href="$mips_2malta_2pci_2pci_8c.html#ae1fc5b8b4ed910da0f27dba28425116e" title=" " alt="" coords="185,56,277,83"/>
+<area shape="rect" id="node3" href="$residual_8h.html#a1a5f67b71455fe36e4c51021a243340c" title=" " alt="" coords="352,5,507,32"/>
+</map>

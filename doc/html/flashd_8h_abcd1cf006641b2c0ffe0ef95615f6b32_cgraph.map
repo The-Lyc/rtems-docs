@@ -1,0 +1,5 @@
+<map id="FLASHD_Initialize" name="FLASHD_Initialize">
+<area shape="rect" id="node1" title="Initializes the flash driver." alt="" coords="5,5,144,32"/>
+<area shape="rect" id="node2" href="$efc_8c.html#a47e9d8bbb518d8c528cf7317b9080aa3" title="Disables the flash ready interrupt source on the EEFC peripheral." alt="" coords="192,5,332,32"/>
+<area shape="rect" id="node3" href="$efc_8c.html#a9472975ee0e532c5f2b8114953ddb66d" title=" " alt="" coords="380,5,499,32"/>
+</map>

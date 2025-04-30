@@ -1,0 +1,5 @@
+<map id="cpukit/include/rtems/rtems/modesimpl.h" name="cpukit/include/rtems/rtems/modesimpl.h">
+<area shape="rect" id="node1" title="Classic Modes Implementation." alt="" coords="149,5,304,47"/>
+<area shape="rect" id="node2" href="$taskcreate_8c.html" title="RTEMS Task Create." alt="" coords="5,95,216,121"/>
+<area shape="rect" id="node3" href="$taskmode_8c.html" title="RTEMS Task Mode." alt="" coords="241,95,447,121"/>
+</map>

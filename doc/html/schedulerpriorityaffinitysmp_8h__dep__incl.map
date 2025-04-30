@@ -1,0 +1,4 @@
+<map id="cpukit/include/rtems/score/schedulerpriorityaffinitysmp.h" name="cpukit/include/rtems/score/schedulerpriorityaffinitysmp.h">
+<area shape="rect" id="node1" title="Deterministic Priority Affinity SMP Scheduler API." alt="" coords="36,5,297,47"/>
+<area shape="rect" id="node2" href="$schedulerpriorityaffinitysmp_8c.html" title="Deterministic Priority Affinity SMP Scheduler Implementation." alt="" coords="5,95,328,121"/>
+</map>

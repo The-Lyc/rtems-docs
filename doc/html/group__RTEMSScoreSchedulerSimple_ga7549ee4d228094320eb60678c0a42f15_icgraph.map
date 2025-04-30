@@ -1,0 +1,5 @@
+<map id="_Scheduler_simple_Extract" name="_Scheduler_simple_Extract">
+<area shape="rect" id="node1" title="Extracts the threads node." alt="" coords="252,35,449,61"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreSchedulerSimple.html#ga34e93fa9cafb272a16320fe540ac86a3" title="Blocks the thread." alt="" coords="11,5,198,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreSchedulerSimple.html#gacb4b8fc8ec7b055afb904072c38f9fc5" title="Updates the priority of the node." alt="" coords="5,57,204,98"/>
+</map>

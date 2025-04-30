@@ -1,0 +1,5 @@
+<map id="_Rate_monotonic_Get" name="_Rate_monotonic_Get">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,171,32"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreObject.html#gaccc5682133e4f65b8cb374eab9be2c9d" title="Maps the specified object identifier to the associated local object control block." alt="" coords="219,5,327,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreObject.html#ga22cdf45f285840b7728b06197a7f4627" title="Returns the index portion of the ID." alt="" coords="375,5,525,32"/>
+</map>

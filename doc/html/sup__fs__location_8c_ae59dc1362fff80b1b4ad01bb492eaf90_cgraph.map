@@ -1,0 +1,6 @@
+<map id="RTEMS_INTERRUPT_LOCK_DEFINE" name="RTEMS_INTERRUPT_LOCK_DEFINE">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,195,47"/>
+<area shape="rect" id="node2" href="$group__ClassicChains.html#ga8e0356d0c5f3efe5c26ddabfffe9f101" title="Initializes a chain node." alt="" coords="243,13,447,39"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreChain.html#gab0fa19f01d37f1d510405e6382fd8b67" title="Initializes a chain node." alt="" coords="495,13,663,39"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreChain.html#gadf0e5d55d133694eed8043ec13fe1266" title="Sets off chain." alt="" coords="711,13,871,39"/>
+</map>

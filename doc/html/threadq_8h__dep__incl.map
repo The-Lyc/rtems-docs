@@ -1,0 +1,52 @@
+<map id="cpukit/include/rtems/score/threadq.h" name="cpukit/include/rtems/score/threadq.h">
+<area shape="rect" id="node1" title="Constants and Structures Needed to Declare a Thread Queue." alt="" coords="1790,5,1945,47"/>
+<area shape="rect" id="node2" href="$shm_8h.html" title="Internal Support for POSIX Shared Memory." alt="" coords="493,95,647,136"/>
+<area shape="rect" id="node8" href="$regiondata_8h.html" title="Classic Region Manager Data Structures." alt="" coords="5943,95,6098,136"/>
+<area shape="rect" id="node12" href="$corebarrier_8h.html" title="Constants and Structures Associated with the Barrier Handler." alt="" coords="1051,95,1206,136"/>
+<area shape="rect" id="node15" href="$coremsg_8h.html" title="Constants and Structures Associated with the Message Queue Handler." alt="" coords="1429,95,1583,136"/>
+<area shape="rect" id="node19" href="$coremutex_8h.html" title="CORE Mutex API." alt="" coords="1905,191,2059,233"/>
+<area shape="rect" id="node22" href="$coresem_8h.html" title="Data Associated with the Counting Semaphore Handler." alt="" coords="1675,191,1830,233"/>
+<area shape="rect" id="node24" href="$cpukit_2include_2rtems_2score_2mpci_8h.html" title="MPCI Layer API." alt="" coords="2083,191,2238,233"/>
+<area shape="rect" id="node27" href="$score_2thread_8h.html" title="Constants and Structures Related with the Thread Control Block." alt="" coords="3611,95,3766,136"/>
+<area shape="rect" id="node50" href="$threadqimpl_8h.html" title="Constants and Structures Associated with the Manipulation of Objects." alt="" coords="2479,288,2635,329"/>
+<area shape="rect" id="node3" href="$mmanimpl_8h.html" title="Internal Support for POSIX 1003.1b 6.3.1 &#45; map pages of memory." alt="" coords="221,191,375,233"/>
+<area shape="rect" id="node4" href="$shmimpl_8h.html" title="Private Support Information for POSIX Shared Memory." alt="" coords="399,191,554,233"/>
+<area shape="rect" id="node5" href="$shm_8c.html" title="POSIX Shared Memory Information with Zero Objects." alt="" coords="579,199,745,225"/>
+<area shape="rect" id="node6" href="$shmconfig_8c.html" title=" " alt="" coords="769,199,976,225"/>
+<area shape="rect" id="node7" href="$shmops_8c.html" title=" " alt="" coords="5,199,196,225"/>
+<area shape="rect" id="node9" href="$regionimpl_8h.html" title="Classic Region Manager Implementation." alt="" coords="5821,377,5975,419"/>
+<area shape="rect" id="node10" href="$mon-region_8c.html" title=" " alt="" coords="6123,191,6291,233"/>
+<area shape="rect" id="node11" href="$region_8c.html" title="Classic Region Information with Zero Objects." alt="" coords="5865,199,6048,225"/>
+<area shape="rect" id="node13" href="$barrierdata_8h.html" title="Classic Barrier Manager Data Structures." alt="" coords="1051,191,1206,233"/>
+<area shape="rect" id="node14" href="$corebarrierimpl_8h.html" title="Inlined Routines Associated with the SuperCore Barrier." alt="" coords="1076,377,1253,419"/>
+<area shape="rect" id="node16" href="$rtems_2posix_2mqueue_8h.html" title="POSIX Message Queues Private Private Support." alt="" coords="1230,191,1385,233"/>
+<area shape="rect" id="node17" href="$messagedata_8h.html" title="Classic Message Queue Manager API." alt="" coords="1483,191,1651,233"/>
+<area shape="rect" id="node18" href="$coremsgimpl_8h.html" title="Inlined Routines in the Core Message Handler." alt="" coords="1674,377,1837,419"/>
+<area shape="rect" id="node20" href="$semdata_8h.html" title="Classic Semaphore Manager Data Structures." alt="" coords="1809,288,1963,329"/>
+<area shape="rect" id="node21" href="$coremuteximpl_8h.html" title="CORE Mutex Implementation." alt="" coords="2343,377,2519,419"/>
+<area shape="rect" id="node23" href="$coresemimpl_8h.html" title="Inlined Routines Associated with the SuperCore Semaphore." alt="" coords="2058,377,2221,419"/>
+<area shape="rect" id="node25" href="$mpciimpl_8h.html" title="MPCI Layer Implementation." alt="" coords="2058,288,2213,329"/>
+<area shape="rect" id="node26" href="$mpcidefault_8c.html" title="Multiprocessing Communications Interface (MPCI) Default Configuration." alt="" coords="2237,295,2455,322"/>
+<area shape="rect" id="node28" href="$clockimpl_8h.html" title="Clock Tick Device Driver Shell." alt="" coords="3727,191,3893,233"/>
+<area shape="rect" id="node29" href="$bsps_2bfin_2shared_2dev_2clock_8c.html" title=" " alt="" coords="3917,191,4073,233"/>
+<area shape="rect" id="node30" href="$idle-mcf5272_8c.html" title=" " alt="" coords="4097,191,4275,233"/>
+<area shape="rect" id="node31" href="$m68kidle_8c.html" title=" " alt="" coords="4351,199,4568,225"/>
+<area shape="rect" id="node32" href="$powerpc_2mpc8260ads_2start_2bspstart_8c.html" title=" " alt="" coords="4592,191,4791,233"/>
+<area shape="rect" id="node33" href="$BSP__irq_8c.html" title=" " alt="" coords="4815,191,5005,233"/>
+<area shape="rect" id="node34" href="$clock-ppc-dec_8c.html" title=" " alt="" coords="5029,191,5194,233"/>
+<area shape="rect" id="node35" href="$bsps_2powerpc_2shared_2cpu_8c.html" title=" " alt="" coords="5219,191,5377,233"/>
+<area shape="rect" id="node36" href="$ppc__exc__print_8c.html" title="PowerPC Exceptions implementation." alt="" coords="5401,184,5560,240"/>
+<area shape="rect" id="node37" href="$key_8h.html" title="POSIX Key Private Support." alt="" coords="5642,288,5797,329"/>
+<area shape="rect" id="node38" href="$pthread_8h.html" title="POSIX Threads Private Support." alt="" coords="5585,191,5739,233"/>
+<area shape="rect" id="node39" href="$threadsup_8h.html" title="POSIX Thread API Support." alt="" coords="5463,288,5618,329"/>
+<area shape="rect" id="node40" href="$eventimpl_8h.html" title="Classic Event Manager Implementation." alt="" coords="2262,191,2417,233"/>
+<area shape="rect" id="node41" href="$ratemondata_8h.html" title="Classic Rate Monotonic Scheduler Data Structures." alt="" coords="2441,191,2605,233"/>
+<area shape="rect" id="node42" href="$signalimpl_8h.html" title="Signals Implementation." alt="" coords="2630,191,2785,233"/>
+<area shape="rect" id="node43" href="$tasksdata_8h.html" title="Classic Tasks Manager Data Structures." alt="" coords="2809,191,2963,233"/>
+<area shape="rect" id="node44" href="$rtems_2timerimpl_8h.html" title="Classic Timer Implementation." alt="" coords="2987,191,3142,233"/>
+<area shape="rect" id="node45" href="$apimutex_8h.html" title="API Mutex Handler API." alt="" coords="5821,288,5975,329"/>
+<area shape="rect" id="node46" href="$corerwlockimpl_8h.html" title="Inlined Routines Associated with the SuperCore RWLock." alt="" coords="2593,377,2771,419"/>
+<area shape="rect" id="node47" href="$onceimpl_8h.html" title="Once API." alt="" coords="3166,191,3321,233"/>
+<area shape="rect" id="node48" href="$score_2scheduler_8h.html" title="Constants and Structures Associated with the Scheduler." alt="" coords="3446,191,3601,233"/>
+<area shape="rect" id="node49" href="$schedulercbs_8h.html" title="Thread manipulation for the CBS scheduler." alt="" coords="3465,288,3627,329"/>
+</map>

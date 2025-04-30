@@ -1,0 +1,5 @@
+<map id="lpc_dma" name="lpc_dma">
+<area shape="rect" id="node1" title="DMA control block." alt="" coords="41,184,119,211"/>
+<area shape="rect" id="node2" href="$structlpc__dma__channel.html" title="DMA channel block." alt="" coords="13,95,147,121"/>
+<area shape="rect" id="node3" href="$structlpc__dma__descriptor.html" title="DMA descriptor item." alt="" coords="5,5,155,32"/>
+</map>

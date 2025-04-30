@@ -1,0 +1,6 @@
+<map id="cpukit/score/cpu/x86_64/include/rtems/score/idt.h" name="cpukit/score/cpu/x86_64/include/rtems/score/idt.h">
+<area shape="rect" id="node1" title=" " alt="" coords="225,5,435,47"/>
+<area shape="rect" id="node2" href="$bsps_2x86__64_2amd64_2clock_2clock_8c.html" title=" " alt="" coords="5,95,196,136"/>
+<area shape="rect" id="node3" href="$x86__64_2amd64_2interrupts_2idt_8c.html" title=" " alt="" coords="221,95,439,136"/>
+<area shape="rect" id="node4" href="$cpukit_2score_2cpu_2x86__64_2cpu_8c.html" title="x86_64 Dependent Source" alt="" coords="464,95,620,136"/>
+</map>

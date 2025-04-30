@@ -1,0 +1,5 @@
+<map id="_CORE_semaphore_Release" name="_CORE_semaphore_Release">
+<area shape="rect" id="node1" title="Releases the semaphore." alt="" coords="457,5,661,32"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreSemaphore.html#ga7b6f46a1b1493871428be3b274ebb0f0" title="Seizes the semaphore." alt="" coords="223,5,409,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreMPCI.html#gaf232dadc9160e4b1c733906d3a6d1f57" title="Receives and processes all packets." alt="" coords="5,5,175,32"/>
+</map>

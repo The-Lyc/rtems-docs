@@ -1,0 +1,10 @@
+<map id="bsps/powerpc/include/bsp/consoleIo.h" name="bsps/powerpc/include/bsp/consoleIo.h">
+<area shape="rect" id="node1" title=" " alt="" coords="595,5,758,47"/>
+<area shape="rect" id="node2" href="$bootldr_8h.html" title=" " alt="" coords="259,95,478,136"/>
+<area shape="rect" id="node5" href="$powerpc_2motorola__powerpc_2bootloader_2pci_8c.html" title=" " alt="" coords="457,184,649,225"/>
+<area shape="rect" id="node6" href="$polled__io_8c.html" title=" " alt="" coords="571,95,783,136"/>
+<area shape="rect" id="node7" href="$powerpc_2motorola__powerpc_2start_2bspstart_8c.html" title=" " alt="" coords="807,95,994,136"/>
+<area shape="rect" id="node8" href="$detect__raven__bridge_8c.html" title=" " alt="" coords="1019,95,1212,136"/>
+<area shape="rect" id="node3" href="$bsps_2powerpc_2motorola__powerpc_2bootloader_2misc_8c.html" title=" " alt="" coords="5,184,209,225"/>
+<area shape="rect" id="node4" href="$mm_8c.html" title=" " alt="" coords="233,184,432,225"/>
+</map>

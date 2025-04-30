@@ -1,0 +1,12 @@
+<map id="The Clock Manager API" name="The Clock Manager API">
+<area shape="rect" id="node1" href="$group__CLK__MGR__INT.html" title=" " alt="" coords="415,5,593,45"/>
+<area shape="rect" id="node2" href="$group__CLK__MGR__BYPASS.html" title=" " alt="" coords="431,70,577,95"/>
+<area shape="rect" id="node3" href="$group__CLK__MGR__GATE.html" title=" " alt="" coords="426,119,582,145"/>
+<area shape="rect" id="node4" href="$group__CLK__MGR__FREQ.html" title=" " alt="" coords="414,169,594,194"/>
+<area shape="rect" id="node5" title=" " alt="" coords="188,194,360,219"/>
+<area shape="rect" id="node7" href="$group__CLK__MGR__SAFE__MODE.html" title=" " alt="" coords="431,218,577,243"/>
+<area shape="rect" id="node8" href="$group__CLK__MGR__CLK__SEL.html" title=" " alt="" coords="419,267,589,293"/>
+<area shape="rect" id="node9" href="$group__CLK__MGR__STATUS.html" title=" " alt="" coords="422,317,586,342"/>
+<area shape="rect" id="node10" href="$group__CLK__MGR__GROUP__CFG.html" title=" " alt="" coords="408,366,600,391"/>
+<area shape="rect" id="node6" href="$group__RTEMSBSPsARMCycVContrib.html" title="Contributed code from Altera." alt="" coords="5,194,140,219"/>
+</map>

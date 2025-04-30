@@ -1,0 +1,4 @@
+<map id="DMA Support" name="DMA Support">
+<area shape="rect" id="node1" href="$group__RTEMSBSPsARMLPC24XX.html" title="NXP LPC17XX, LPC23XX, LPC24XX and LPC40XX Board Support Package." alt="" coords="5,5,187,45"/>
+<area shape="rect" id="node2" title="Direct memory access (DMA) support." alt="" coords="235,13,341,38"/>
+</map>

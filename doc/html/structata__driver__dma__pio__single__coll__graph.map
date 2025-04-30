@@ -1,0 +1,8 @@
+<map id="ata_driver_dma_pio_single" name="ata_driver_dma_pio_single">
+<area shape="rect" id="node1" title=" " alt="" coords="153,184,303,225"/>
+<area shape="rect" id="node2" href="$structbestcomm__task.html" title=" " alt="" coords="6,95,133,121"/>
+<area shape="rect" id="node3" href="$structbestcomm__irq.html" title=" " alt="" coords="5,5,120,32"/>
+<area shape="rect" id="node4" href="$structata__sg__context.html" title=" " alt="" coords="167,95,289,121"/>
+<area shape="rect" id="node5" href="$structrtems__blkdev__sg__buffer.html" title="Block device scatter or gather buffer structure." alt="" coords="144,5,323,32"/>
+<area shape="rect" id="node6" href="$structata__driver.html" title=" " alt="" coords="313,95,401,121"/>
+</map>

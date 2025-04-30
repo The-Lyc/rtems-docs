@@ -1,0 +1,15 @@
+<map id="benchmark_timer_initialize" name="benchmark_timer_initialize">
+<area shape="rect" id="node1" title="Initialize the Benchmark Timer." alt="" coords="5,183,205,209"/>
+<area shape="rect" id="node2" href="$i386-stub-glue_8c.html#a1e0a236f3682681ac79ede3a128bffd5" title=" " alt="" coords="311,5,390,32"/>
+<area shape="rect" id="node3" href="$at91rm9200__pmc_8h.html#ad88895dc34e7d43595c4515a9d2fd86f" title=" " alt="" coords="269,56,433,83"/>
+<area shape="rect" id="node6" href="$group__RTEMSBSPsM68kMCF5329.html#ga659d9c6679e263b0565119c541e15576" title=" " alt="" coords="253,107,448,133"/>
+<area shape="rect" id="node7" href="$group__RTEMSBSPsM68kMCF52235.html#gaf40918e55ef318de160e2e3174ba5562" title=" " alt="" coords="253,157,448,184"/>
+<area shape="rect" id="node8" href="$group__RTEMSBSPsARMSMDK2410.html#gab285fe3912fc1f5b4e762e7d57d817d4" title=" " alt="" coords="309,208,392,235"/>
+<area shape="rect" id="node11" href="$group__RTEMSBSPsARMCSB336.html#gab1cccc6d72c35777b9cd43e97ef2fcbd" title=" " alt="" coords="285,259,416,285"/>
+<area shape="rect" id="node12" href="$group__RTEMSBSPsBfinBF537Stamp.html#gab3388042c56b34c40be81fd5f028d97e" title=" " alt="" coords="305,309,396,336"/>
+<area shape="rect" id="node13" href="$i386_2pc386_2btimer_2btimer_8c.html#ad0456d369c78dc959246bebcbde4d670" title=" " alt="" coords="314,360,387,387"/>
+<area shape="rect" id="node4" href="$csb337_2start_2pmc_8c.html#a084f31e527dec185a0eb21dc5d72289f" title=" " alt="" coords="496,31,684,57"/>
+<area shape="rect" id="node5" href="$csb337_2start_2pmc_8c.html#ac6f6c1c0cf759befc86ceddb91706a82" title=" " alt="" coords="509,81,671,108"/>
+<area shape="rect" id="node9" href="$group__RTEMSBSPsARMSMDK2410.html#ga246cbf7f95a83c60a64b412c5b0b5c25" title=" " alt="" coords="547,208,633,235"/>
+<area shape="rect" id="node10" href="$group__RTEMSBSPsARMSMDK2410.html#gab56a88aaed3e12f431d886a095a6106a" title="functions to get the differents s3c2400 clks" alt="" coords="732,208,815,235"/>
+</map>

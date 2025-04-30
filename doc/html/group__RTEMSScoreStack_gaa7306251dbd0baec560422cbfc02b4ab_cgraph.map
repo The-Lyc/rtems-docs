@@ -1,0 +1,4 @@
+<map id="_Stack_Extend_size" name="_Stack_Extend_size">
+<area shape="rect" id="node1" title="Extend the stack size to account for additional data structures allocated in the stack area of a thre..." alt="" coords="5,5,156,32"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreTLS.html#ga895642c73096b9995106694f3b0832d5" title="Return the TLS area allocation size." alt="" coords="204,5,391,32"/>
+</map>

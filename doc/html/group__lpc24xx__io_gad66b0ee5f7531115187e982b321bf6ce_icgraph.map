@@ -1,0 +1,8 @@
+<map id="lpc24xx_module_enable" name="lpc24xx_module_enable">
+<area shape="rect" id="node1" title=" " alt="" coords="225,107,405,133"/>
+<area shape="rect" id="node2" href="$group__RTEMSBSPsSharedStartup.html#ga424dcf8c1e22bf623eb1210a0aa2a3e9" title=" " alt="" coords="50,5,133,32"/>
+<area shape="rect" id="node3" href="$group__lpc24xx__dma.html#gabf4a36e44f073c52f9d2d590760e7a0f" title="Initializes the general purpose DMA." alt="" coords="5,56,177,83"/>
+<area shape="rect" id="node4" href="$group__RTEMSBSPsARMLPC24XX.html#gab2205a0ac20f2d085f05f7d53ec2f754" title=" " alt="" coords="9,107,174,133"/>
+<area shape="rect" id="node5" href="$group__RTEMSBSPsARMLPC24XX.html#ga699dc0b86c047ef05292bb159d36ab63" title=" " alt="" coords="9,157,174,184"/>
+<area shape="rect" id="node6" href="$group__RTEMSBSPsARMLPC24XX.html#ga12a3ab98c362a1fcdf0bc1e95d077f76" title=" " alt="" coords="9,208,174,235"/>
+</map>

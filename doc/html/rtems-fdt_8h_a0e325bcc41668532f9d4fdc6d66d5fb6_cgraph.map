@@ -1,0 +1,12 @@
+<map id="rtems_fdt_node_offset_by_phandle" name="rtems_fdt_node_offset_by_phandle">
+<area shape="rect" id="node1" title=" " alt="" coords="5,49,173,90"/>
+<area shape="rect" id="node2" href="$fdt__ro_8c.html#a4ff6571f3fe2fa89cfd6dc15f52eaf1e" title=" " alt="" coords="221,49,368,90"/>
+<area shape="rect" id="node3" href="$fdt__ro_8c.html#a0689bb9f27bdaaa355855425b4eb7149" title=" " alt="" coords="416,31,543,57"/>
+<area shape="rect" id="node7" href="$fdt_8c.html#a6603ac8041afcc7fde5c0b25de765103" title=" " alt="" coords="422,81,537,108"/>
+<area shape="rect" id="node4" href="$fdt__ro_8c.html#a0a72997fe1eb5a57885bbb988256d08f" title=" " alt="" coords="629,31,727,57"/>
+<area shape="rect" id="node5" href="$fdt__ro_8c.html#af06aa67642c5e97ec636619a4ac3f19a" title=" " alt="" coords="813,5,975,32"/>
+<area shape="rect" id="node6" href="$lib_8c.html#ace2e8f8b5db1119196eee36974d8b536" title=" " alt="" coords="865,56,923,83"/>
+<area shape="rect" id="node8" href="$fdt_8c.html#a8f4832389aff9d7c0663b6b70cdd42dd" title=" " alt="" coords="591,81,765,108"/>
+<area shape="rect" id="node9" href="$fdt_8c.html#ae1b4b34a1b1fa1230d3ccacf14446b61" title=" " alt="" coords="842,119,946,145"/>
+<area shape="rect" id="node10" href="$fdt_8c.html#a8ff1531b134887d2b9f7845df85ffe4c" title=" " alt="" coords="1023,119,1132,145"/>
+</map>

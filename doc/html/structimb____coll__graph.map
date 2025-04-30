@@ -1,0 +1,12 @@
+<map id="imb_" name="imb_">
+<area shape="rect" id="node1" title=" " alt="" coords="516,157,571,184"/>
+<area shape="rect" id="node2" href="$structm5xxMIOS1Registers__.html" title=" " alt="" coords="239,5,408,32"/>
+<area shape="rect" id="node3" href="$structm5xxDPTRAMRegisters__.html" title=" " alt="" coords="232,56,415,83"/>
+<area shape="rect" id="node4" href="$structm5xxTPU3Registers__.html" title=" " alt="" coords="243,107,404,133"/>
+<area shape="rect" id="node5" href="$structm5xxTouCANRegisters__.html" title=" " alt="" coords="235,157,412,184"/>
+<area shape="rect" id="node6" href="$structm5xxUIMBRegisters__.html" title=" " alt="" coords="242,208,405,235"/>
+<area shape="rect" id="node7" href="$structm5xxQSMCMRegisters__.html" title=" " alt="" coords="234,259,413,285"/>
+<area shape="rect" id="node8" href="$structm5xxSCIRegisters__.html" title=" " alt="" coords="5,233,153,260"/>
+<area shape="rect" id="node9" href="$structm5xxSPIRegisters__.html" title=" " alt="" coords="6,284,153,311"/>
+<area shape="rect" id="node10" href="$structm5xxQADC64Registers__.html" title=" " alt="" coords="233,309,414,336"/>
+</map>

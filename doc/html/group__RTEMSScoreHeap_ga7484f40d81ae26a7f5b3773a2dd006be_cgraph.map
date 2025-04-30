@@ -1,0 +1,9 @@
+<map id="_Heap_Extend" name="_Heap_Extend">
+<area shape="rect" id="node1" title="Extends the memory available for the heap." alt="" coords="5,89,120,116"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreHeap.html#ga231bdbf1ec3d6b82583d0cc3198fc00b" title="Returns the block which is offset away from block." alt="" coords="425,5,552,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreHeap.html#gafd70a7d05fc0c46a87ff68d759ab3af3" title="Returns the starting address of the block corresponding to the allocatable area." alt="" coords="168,119,368,145"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreHeap.html#ga161ac37dea0961191b2698abf0e61841" title="Returns the block size." alt="" coords="199,169,337,196"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreHeap.html#ga31ce1fc13ec844eaccf67486e290324b" title="Gets the first and last block for the heap area." alt="" coords="190,53,346,94"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreHeap.html#ga2b11e4f1b69d3f6197165e4fb7f2e956" title="Returns the aligned value, truncating." alt="" coords="416,115,561,141"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreHeap.html#gaa7c54b3d49cb3fbcf12bbf7a7a45e8d5" title="Aligns the value to a given alignment, rounding up." alt="" coords="425,60,552,87"/>
+</map>

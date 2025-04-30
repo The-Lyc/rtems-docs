@@ -1,0 +1,11 @@
+<map id="console_initialize" name="console_initialize">
+<area shape="rect" id="node1" title="Console initialization entry point." alt="" coords="5,145,140,172"/>
+<area shape="rect" id="node2" href="$link_8c.html#a8c94afd0b7e5bb4ce95fefd964241f7f" title=" " alt="" coords="255,87,301,113"/>
+<area shape="rect" id="node8" href="$termiostypes_8h.html#aede46864d5d763fd7591830fefe22e1c" title="Installs a Termios device." alt="" coords="195,138,361,179"/>
+<area shape="rect" id="node9" href="$group__Termios.html#ga7e15e9e6d765ad1552dd9f6ee6444cd9" title=" " alt="" coords="188,204,368,231"/>
+<area shape="rect" id="node3" href="$group__LibIOInternal.html#gaa5aa49d164d6bc6f231e793f655e2be2" title=" " alt="" coords="438,46,609,87"/>
+<area shape="rect" id="node7" href="$group__LibIOInternal.html#gad070afa17e85fbb4b8f96a954ba4fda4" title="Checks that the locations exist in the same file system instance." alt="" coords="416,111,631,153"/>
+<area shape="rect" id="node4" href="$group__LibIOInternal.html#ga9b379361499c56529d158c30562cf399" title=" " alt="" coords="679,5,849,61"/>
+<area shape="rect" id="node6" href="$lib_8c.html#ace2e8f8b5db1119196eee36974d8b536" title=" " alt="" coords="735,85,793,112"/>
+<area shape="rect" id="node5" href="$bootldr_8h.html#a36d20f7d597c517b964289f6b54ddfa7" title=" " alt="" coords="897,20,973,47"/>
+</map>

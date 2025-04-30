@@ -1,0 +1,16 @@
+<map id="cpukit/score/src/wkstringduplicate.c" name="cpukit/score/src/wkstringduplicate.c">
+<area shape="rect" id="node1" title="Duplicates String with Memory from the Workspace." alt="" coords="197,5,451,32"/>
+<area shape="rect" id="node2" href="$score_2wkspace_8h.html" title="Information Related to the RAM Workspace." alt="" coords="166,80,338,107"/>
+<area shape="rect" id="node14" href="$string_8h.html" title=" " alt="" coords="362,80,433,107"/>
+<area shape="rect" id="node3" href="$heap_8h.html" title="Heap Handler API." alt="" coords="179,155,325,181"/>
+<area shape="rect" id="node7" href="$interr_8h.html" title="Constants and Prototypes Related to the Internal Error Handler." alt="" coords="5,155,155,181"/>
+<area shape="rect" id="node8" href="$rtems_2score_2memory_8h.html" title="Memory Handler API." alt="" coords="349,155,517,181"/>
+<area shape="rect" id="node4" title=" " alt="" coords="44,229,183,256"/>
+<area shape="rect" id="node5" href="$heapinfo_8h.html" title="Heap Handler Information API." alt="" coords="166,304,338,331"/>
+<area shape="rect" id="node6" title=" " alt="" coords="217,379,287,405"/>
+<area shape="rect" id="node9" href="$basedefs_8h.html" title="Basic Definitions." alt="" coords="407,304,582,331"/>
+<area shape="rect" id="node13" href="$assert_8h.html" title="Information for the Assert Handler." alt="" coords="444,229,599,256"/>
+<area shape="rect" id="node10" title=" " alt="" coords="311,379,478,405"/>
+<area shape="rect" id="node11" title=" " alt="" coords="503,379,577,405"/>
+<area shape="rect" id="node12" title=" " alt="" coords="601,379,684,405"/>
+</map>

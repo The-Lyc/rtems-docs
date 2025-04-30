@@ -1,0 +1,6 @@
+<map id="_Libatomic_Unlock_n" name="_Libatomic_Unlock_n">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,165,57"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreAPIMutex.html#ga64a430ae861d0ce7f63413e651fbe36d" title="Releases the specified API mutex." alt="" coords="213,31,364,57"/>
+<area shape="rect" id="node3" href="$mutex_8c.html#adecd7211e7a1a5035841212574f45b31" title=" " alt="" coords="415,5,611,32"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreThread.html#gad5aaea7af4482aebd880403fb9c238af" title="Set the thread to life protected." alt="" coords="412,56,615,83"/>
+</map>

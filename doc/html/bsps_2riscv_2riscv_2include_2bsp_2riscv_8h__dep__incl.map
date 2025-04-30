@@ -1,0 +1,11 @@
+<map id="bsps/riscv/riscv/include/bsp/riscv.h" name="bsps/riscv/riscv/include/bsp/riscv.h">
+<area shape="rect" id="node1" title=" " alt="" coords="683,5,856,47"/>
+<area shape="rect" id="node2" href="$riscv_2riscv_2clock_2clockdrv_8c.html" title="riscv clock support." alt="" coords="5,95,165,136"/>
+<area shape="rect" id="node3" href="$riscv_2riscv_2console_2console-config_8c.html" title=" " alt="" coords="189,95,365,136"/>
+<area shape="rect" id="node4" href="$fe310-uart_8c.html" title=" " alt="" coords="389,95,565,136"/>
+<area shape="rect" id="node5" href="$htif_8c.html" title=" " alt="" coords="589,95,765,136"/>
+<area shape="rect" id="node6" href="$bsps_2riscv_2riscv_2irq_2irq_8c.html" title="Interrupt support." alt="" coords="790,95,933,136"/>
+<area shape="rect" id="node7" href="$riscv_2riscv_2start_2bsp__fatal__halt_8c.html" title=" " alt="" coords="957,95,1113,136"/>
+<area shape="rect" id="node8" href="$riscv_2riscv_2start_2bspsmp_8c.html" title=" " alt="" coords="1137,95,1293,136"/>
+<area shape="rect" id="node9" href="$riscv_2riscv_2start_2bspstart_8c.html" title=" " alt="" coords="1317,95,1473,136"/>
+</map>

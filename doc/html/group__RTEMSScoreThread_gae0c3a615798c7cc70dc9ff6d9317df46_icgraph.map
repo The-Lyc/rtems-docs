@@ -1,0 +1,8 @@
+<map id="_Thread_Handler" name="_Thread_Handler">
+<area shape="rect" id="node1" title="Wrapper function for all threads." alt="" coords="823,42,955,69"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreThread.html#gade10731d5bc6570cc485999da44acd43" title="Initializes enviroment for a thread." alt="" coords="572,42,775,69"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreThread.html#ga03378c6b7617ec1b5fcc541423e662e5" title="Initializes thread and executes it." alt="" coords="412,42,524,69"/>
+<area shape="rect" id="node4" href="$group__ClassicTasks.html#gac7fe1362154946d78978ceb4f116f13e" title="RTEMS Start Task." alt="" coords="232,42,364,69"/>
+<area shape="rect" id="node5" href="$group__ClassicTasksImpl.html#gac2c1ab4bf7c8768a39084976a8d9f669" title="System initialization handler to create and start the first user task." alt="" coords="5,5,184,47"/>
+<area shape="rect" id="node6" href="$grspw__pkt_8c.html#a332e9d8281beb4acd9c2451488def344" title=" " alt="" coords="20,71,169,98"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="rtems_chain_is_first" name="rtems_chain_is_first">
+<area shape="rect" id="node1" title="Is this the first node on the chain." alt="" coords="5,5,157,32"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreChain.html#ga47c4ae692b2752899ac0ac3515fbf985" title="Checks if this is the first node on the chain." alt="" coords="205,5,321,32"/>
+</map>

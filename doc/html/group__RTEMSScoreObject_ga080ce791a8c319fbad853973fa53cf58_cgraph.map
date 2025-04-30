@@ -1,0 +1,6 @@
+<map id="_Objects_Free_static" name="_Objects_Free_static">
+<area shape="rect" id="node1" title="Free the object." alt="" coords="5,42,161,69"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreChain.html#gaa7011c6fe160c457a0d100e41ec3fffe" title="Appends a node (unprotected)." alt="" coords="209,42,416,69"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreChain.html#gad7a790f247b3ace45f039c60c18f999f" title="Checks if the node is off chain." alt="" coords="464,5,611,47"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreChain.html#ga06f3e2dd6d64411f0565e3b483e53673" title="Returns pointer to chain tail." alt="" coords="490,71,585,98"/>
+</map>

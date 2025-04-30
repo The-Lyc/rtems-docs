@@ -1,0 +1,25 @@
+<map id="_Workspace_Handler_initialization" name="_Workspace_Handler_initialization">
+<area shape="rect" id="node1" title="Initilizes the workspace handler." alt="" coords="5,579,164,620"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreHeap.html#gaa4fd1c467f6288c7c7501e99b8446e27" title="Returns the worst case overhead to manage a memory area." alt="" coords="223,117,391,143"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreHeap.html#gac5974c7ccf84c152ba6c8e17bea3ca5f" title="Initializes the heap control block." alt="" coords="243,309,370,335"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreHeap.html#gad616af34405ce4473f9ff3050ce39d90" title="Sets the fraction of delayed free blocks that is actually freed during memory shortage." alt="" coords="463,512,633,553"/>
+<area shape="rect" id="node17" href="$group__RTEMSScoreIntErr.html#ga092fa4be4bda2528754b494e901d3d2a" title="Terminates the system with an INTERNAL_ERROR_CORE fatal source and the specified core error code." alt="" coords="248,535,365,562"/>
+<area shape="rect" id="node19" href="$group__RTEMSScoreMemory.html#ga59b8e7636ced3a31e9dfda4519753592" title="Consume the specified size from the free memory area of the memory area." alt="" coords="231,586,382,613"/>
+<area shape="rect" id="node20" href="$group__RTEMSScoreMemory.html#gaceaec7a5a60fbf7f0d5e5dcd6c0828b2" title="Get a memory area by index." alt="" coords="232,687,381,714"/>
+<area shape="rect" id="node21" href="$group__RTEMSScoreMemory.html#ga23cf58983e4010f47140bc68d9ff9e93" title="Get the memory area count." alt="" coords="470,662,626,689"/>
+<area shape="rect" id="node22" href="$group__RTEMSScoreMemory.html#ga75120e2d8e6de6e70c9e910d933828e5" title="Get the begin of the free area of the memory area." alt="" coords="212,738,401,765"/>
+<area shape="rect" id="node23" href="$group__RTEMSScoreMemory.html#ga587b6b432ef9f07573042c0dc76cfe48" title="Get the size of the free memory area of the memory area." alt="" coords="217,789,396,815"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreHeap.html#gaa7c54b3d49cb3fbcf12bbf7a7a45e8d5" title="Aligns the value to a given alignment, rounding up." alt="" coords="715,50,841,77"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreHeap.html#ga2563e03746d89148a8782b02f6159821" title="Returns the first address in the block without the heap header." alt="" coords="469,192,627,233"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreHeap.html#ga860e7959de03ba830d0ebe1b4cca8273" title="Returns the head of the free list of the heap." alt="" coords="466,258,630,285"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreHeap.html#gad25276de4aa987568f1bfc66a0c66700" title="Returns the tail of the free list of the heap." alt="" coords="471,309,625,335"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreHeap.html#ga31ce1fc13ec844eaccf67486e290324b" title="Gets the first and last block for the heap area." alt="" coords="470,127,626,168"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreHeap.html#ga6a21a1797970a73dfe515f3defc5fe8d" title="Checks if the value is aligned to the given alignment." alt="" coords="480,359,616,386"/>
+<area shape="rect" id="node12" href="$group__RTEMSScoreHeap.html#ga54ed70e7cf8e99037c356772c927eaee" title="Returns the minimal Heap Block size for the given page_size." alt="" coords="463,75,633,102"/>
+<area shape="rect" id="node14" href="$group__RTEMSScoreHeap.html#gaf95a9dbdca32f811e64b2bedf4f74ff3" title="Sets the size of the last block for the heap." alt="" coords="449,410,647,437"/>
+<area shape="rect" id="node16" href="$bootldr_8h.html#a36d20f7d597c517b964289f6b54ddfa7" title=" " alt="" coords="510,461,586,487"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreHeap.html#ga2b11e4f1b69d3f6197165e4fb7f2e956" title="Returns the aligned value, truncating." alt="" coords="705,130,851,157"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreHeap.html#ga231bdbf1ec3d6b82583d0cc3198fc00b" title="Returns the block which is offset away from block." alt="" coords="715,181,841,207"/>
+<area shape="rect" id="node15" href="$group__RTEMSScoreHeap.html#gaf0c66d5f866002204674e2639575efc3" title="Sets the block size." alt="" coords="695,410,861,437"/>
+<area shape="rect" id="node18" href="$group__RTEMSScoreIntErr.html#ga5102f2f0c5939020aa3b11d67afa84eb" title="Initiates system termination." alt="" coords="501,578,595,605"/>
+</map>

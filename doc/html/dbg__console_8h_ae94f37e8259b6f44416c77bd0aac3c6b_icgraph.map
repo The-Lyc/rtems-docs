@@ -1,0 +1,13 @@
+<map id="DBG_PutChar" name="DBG_PutChar">
+<area shape="rect" id="node1" title="Outputs a character on the UART line." alt="" coords="631,107,740,133"/>
+<area shape="rect" id="node2" href="$dbg__console_8c.html#a9fb3a4c8d4eb60a7b43a57477c8d8c5c" title=" " alt="" coords="432,5,583,32"/>
+<area shape="rect" id="node3" href="$dbg__console_8c.html#af9bb27367f558fe5135b7f59a134f074" title=" " alt="" coords="442,56,573,83"/>
+<area shape="rect" id="node4" href="$dbg__console_8c.html#a807d59a58a4312efa7ef1c445107c256" title=" " alt="" coords="444,107,571,133"/>
+<area shape="rect" id="node6" href="$dbg__console_8c.html#a4c525b3c7f5f90a659cacb562a248c20" title=" " alt="" coords="482,157,533,184"/>
+<area shape="rect" id="node7" href="$dbg__console_8c.html#addff62e507194a8602e3bd3e93532917" title=" " alt="" coords="482,208,533,235"/>
+<area shape="rect" id="node5" href="$dbg__console_8c.html#a96012354201cbb18946e35061140c87d" title=" " alt="" coords="199,107,377,133"/>
+<area shape="rect" id="node8" href="$drvmgr__print_8c.html#aea7c351b14401a01719381a904ca8311" title=" " alt="" coords="215,157,361,184"/>
+<area shape="rect" id="node9" href="$drvmgr__print_8c.html#afb77f8bfaed3074eb239a73e9d906797" title=" " alt="" coords="192,208,384,235"/>
+<area shape="rect" id="node11" href="$drvmgr__print_8c.html#a515fda47c8e2ef62bcf5c54324af510e" title=" " alt="" coords="220,259,356,285"/>
+<area shape="rect" id="node10" href="$drvmgr__print_8c.html#ab8e6ecbe4e1dec40478cc61d4a6caf60" title=" " alt="" coords="5,208,144,235"/>
+</map>

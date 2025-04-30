@@ -1,0 +1,4 @@
+<map id="lpc32xx_i2c_clock" name="lpc32xx_i2c_clock">
+<area shape="rect" id="node1" title="Sets the I2C module i2c clock." alt="" coords="180,5,320,32"/>
+<area shape="rect" id="node2" href="$group__lpc32xx__i2c.html#ga3cdd34b373a9c1d04a7686f459fbc3e0" title="Initializes the I2C module i2c." alt="" coords="5,5,132,32"/>
+</map>

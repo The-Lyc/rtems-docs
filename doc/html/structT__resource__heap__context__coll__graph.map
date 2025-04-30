@@ -1,0 +1,6 @@
+<map id="T_resource_heap_context" name="T_resource_heap_context">
+<area shape="rect" id="node1" title=" " alt="" coords="50,213,238,240"/>
+<area shape="rect" id="node2" href="$structHeap__Information__block.html" title="Information block returned by _Heap_Get_information()." alt="" coords="53,109,235,136"/>
+<area shape="rect" id="node3" href="$structHeap__Statistics.html" title="Run&#45;time heap statistics." alt="" coords="5,5,128,32"/>
+<area shape="rect" id="node4" href="$structHeap__Information.html" title="Information about blocks." alt="" coords="152,5,291,32"/>
+</map>

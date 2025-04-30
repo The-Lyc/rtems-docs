@@ -1,0 +1,7 @@
+<map id="tms570_bsp_pin_config_one" name="tms570_bsp_pin_config_one">
+<area shape="rect" id="node1" title="configure one pin according to its function specification" alt="" coords="5,85,211,112"/>
+<area shape="rect" id="node2" href="$intrbody_8c.html#a382fc4b29e2c3c681a14c6f306b2a2ad" title=" " alt="" coords="259,5,436,32"/>
+<area shape="rect" id="node3" href="$intrbody_8c.html#a33b26f833e238ecdeddb2f4b8fda18d6" title=" " alt="" coords="260,56,435,83"/>
+<area shape="rect" id="node4" href="$pinmux_8c.html#ac225c1f6113c3a39dfe69324b07fa625" title="clear connection between pin and specified peripherals/function" alt="" coords="264,107,431,149"/>
+<area shape="rect" id="node5" href="$pinmux_8c.html#a096924e434015941cae44dce897ea5ef" title="select desired function of pin/ball" alt="" coords="270,173,425,214"/>
+</map>

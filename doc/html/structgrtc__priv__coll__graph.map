@@ -1,0 +1,21 @@
+<map id="grtc_priv" name="grtc_priv">
+<area shape="rect" id="node1" title=" " alt="" coords="969,169,1047,196"/>
+<area shape="rect" id="node2" href="$structgrtc__ioc__stats.html" title=" " alt="" coords="699,5,811,32"/>
+<area shape="rect" id="node3" href="$structgrtc__list.html" title=" " alt="" coords="717,169,792,196"/>
+<area shape="rect" id="node4" href="$structgrtc__frame.html" title=" " alt="" coords="463,87,557,113"/>
+<area shape="rect" id="node5" href="$structgrtc__frame__pool.html" title=" " alt="" coords="691,56,819,83"/>
+<area shape="rect" id="node6" href="$structgrtc__hdr.html" title=" " alt="" coords="279,87,353,113"/>
+<area shape="rect" id="node7" href="$structgrtc__ioc__config.html" title=" " alt="" coords="695,220,814,247"/>
+<area shape="rect" id="node8" href="$structdrvmgr__dev.html" title=" " alt="" coords="705,457,805,484"/>
+<area shape="rect" id="node9" href="$structdrvmgr__bus.html" title=" " alt="" coords="959,691,1057,717"/>
+<area shape="rect" id="node17" href="$structdrvmgr__drv.html" title=" " alt="" coords="959,435,1057,461"/>
+<area shape="rect" id="node10" href="$structdrvmgr__func.html" title=" " alt="" coords="703,612,807,639"/>
+<area shape="rect" id="node11" href="$structdrvmgr__map__entry.html" title=" " alt="" coords="681,773,828,800"/>
+<area shape="rect" id="node12" href="$structdrvmgr__bus__res.html" title=" " alt="" coords="691,863,818,889"/>
+<area shape="rect" id="node13" href="$structdrvmgr__drv__res.html" title=" " alt="" coords="448,863,572,889"/>
+<area shape="rect" id="node14" href="$structdrvmgr__key.html" title=" " alt="" coords="267,863,365,889"/>
+<area shape="rect" id="node15" href="$uniondrvmgr__key__value.html" title=" " alt="" coords="5,863,148,889"/>
+<area shape="rect" id="node16" href="$structdrvmgr__bus__ops.html" title=" " alt="" coords="690,713,819,740"/>
+<area shape="rect" id="node18" href="$structdrvmgr__drv__ops.html" title=" " alt="" coords="691,321,818,348"/>
+<area shape="rect" id="node19" href="$structgrtc__regs.html" title=" " alt="" coords="713,271,796,297"/>
+</map>

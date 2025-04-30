@@ -1,0 +1,5 @@
+<map id="_Thread_queue_Surrender" name="_Thread_queue_Surrender">
+<area shape="rect" id="node1" title="Surrenders the thread queue previously owned by the thread to the first enqueued thread." alt="" coords="240,42,431,69"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreMutex.html#ga5096e2975fb3918dafc94ee7d1fc2c06" title="Surrenders the recursive mutex." alt="" coords="8,5,189,47"/>
+<area shape="rect" id="node3" href="$posix_2muteximpl_8h.html#ad4a37d46a0bf09c90475738e982235c0" title=" " alt="" coords="5,71,192,98"/>
+</map>

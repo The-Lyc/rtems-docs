@@ -1,0 +1,7 @@
+<map id="PIO_Configure" name="PIO_Configure">
+<area shape="rect" id="node1" title="Configures a list of Pin instances, each of which can either hold a single pin or a group of pins,..." alt="" coords="233,81,347,108"/>
+<area shape="rect" id="node2" href="$board__memories_8c.html#a0e0e3f4ee2328faeb9f45c5fc591f8de" title="Configures the EBI for SDRAM (IS42S16100E&#45;7B) access." alt="" coords="5,5,185,32"/>
+<area shape="rect" id="node3" href="$atsam_2start_2bspstarthooks_8c.html#a06e072a731868d79984388eb6cda8d5c" title=" " alt="" coords="27,56,163,83"/>
+<area shape="rect" id="node4" href="$dbg__console_8c.html#ace83a2e17586584b7c798ca7ba872bb9" title="Configures an USART peripheral with the specified parameters." alt="" coords="35,107,155,133"/>
+<area shape="rect" id="node5" href="$group__can__module.html#ga9b35cd79fb5eeec8cf1ba7247b25a646" title="Initializes the MCAN hardware for giving peripheral. Default: Mixed mode TX Buffer + FIFO." alt="" coords="50,157,141,184"/>
+</map>

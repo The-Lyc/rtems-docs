@@ -1,0 +1,7 @@
+<map id="rpi_spi_init" name="rpi_spi_init">
+<area shape="rect" id="node1" title="Setups the Raspberry Pi SPI bus (located on the GPIO header) on the &quot;/dev/spi&quot; device file,..." alt="" coords="5,56,99,83"/>
+<area shape="rect" id="node2" href="$rpi-gpio_8c.html#a2546c0dc5eb7c840fe712e9ac748e6a9" title="Setups a SPI interface." alt="" coords="156,5,303,32"/>
+<area shape="rect" id="node4" href="$gpio_8h.html#a569b507754f117c929de86f9ea24c27b" title="Initializes the GPIO API." alt="" coords="150,56,309,83"/>
+<area shape="rect" id="node5" href="$group__libi2c.html#ga54050c8f5f11d948e9e9cf006537c998" title=" " alt="" coords="147,107,312,133"/>
+<area shape="rect" id="node3" href="$gpio_8h.html#a1d543b10e6645eee41a5a0e2662a231d" title=" " alt="" coords="360,5,543,32"/>
+</map>

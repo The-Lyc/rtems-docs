@@ -1,0 +1,13 @@
+<map id="rtems_monitor_separator" name="rtems_monitor_separator">
+<area shape="rect" id="node1" title=" " alt="" coords="243,307,429,334"/>
+<area shape="rect" id="node2" href="$mon-config_8c.html#a5b3b8d30d08397152e1fbc81be53eb3e" title=" " alt="" coords="18,5,182,47"/>
+<area shape="rect" id="node3" href="$mon-driver_8c.html#a5096095e9251d7b131df1a757318c1c6" title=" " alt="" coords="19,71,181,112"/>
+<area shape="rect" id="node4" href="$mon-extension_8c.html#ac15c02494aca151db6435f05e539a2b7" title=" " alt="" coords="5,136,195,177"/>
+<area shape="rect" id="node5" href="$mon-itask_8c.html#ac0c72d23cb661f72c35617da127f7022" title=" " alt="" coords="23,201,177,243"/>
+<area shape="rect" id="node6" href="$mon-mpci_8c.html#a67baabb227dd7614bb5b63a25cf16f4f" title=" " alt="" coords="21,267,179,308"/>
+<area shape="rect" id="node7" href="$mon-part_8c.html#acf9b38266544355bded947e8ce8dbc0e" title=" " alt="" coords="25,332,175,373"/>
+<area shape="rect" id="node8" href="$mon-queue_8c.html#a5efb9cbc86865cc3213140e07a3b60ff" title=" " alt="" coords="17,397,183,439"/>
+<area shape="rect" id="node9" href="$mon-region_8c.html#ad4ce6c57987741449e9e2ca97117eb0f" title=" " alt="" coords="17,463,183,504"/>
+<area shape="rect" id="node10" href="$mon-sema_8c.html#a3a32442d59da2f3a618cf8fdb961030a" title=" " alt="" coords="19,528,181,569"/>
+<area shape="rect" id="node11" href="$mon-task_8c.html#a382234f86c80a933db338d12fd62e938" title=" " alt="" coords="23,593,177,635"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="_TOD_Unlock" name="_TOD_Unlock">
+<area shape="rect" id="node1" title="Unlocks the time of day mutex." alt="" coords="227,31,336,57"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreTODHooks.html#ga9db96e52b259d049f468578e081605ff" title="Add a TOD Action Hook." alt="" coords="13,5,171,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreTODHooks.html#ga1d70eadc6cc3f1c7766d9fb6b8709e65" title="Remove a TOD Action Hook." alt="" coords="5,56,179,83"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="cpukit/include/rtems/score/scheduleredfimpl.h" name="cpukit/include/rtems/score/scheduleredfimpl.h">
+<area shape="rect" id="node1" title="EDF Scheduler Implementation." alt="" coords="1569,5,1758,47"/>
+<area shape="rect" id="node2" href="$schedulercbscreateserver_8c.html" title="Scheduler CBS Create Server." alt="" coords="5,95,311,121"/>
+<area shape="rect" id="node3" href="$schedulercbssetparameters_8c.html" title="Set Parameters for CBS Scheduling." alt="" coords="335,95,653,121"/>
+<area shape="rect" id="node4" href="$schedulercbsunblock_8c.html" title="Unblocks a Thread from the Queue." alt="" coords="678,95,953,121"/>
+<area shape="rect" id="node5" href="$scheduleredf_8c.html" title="Scheduler EDF Initialize and Support." alt="" coords="977,95,1200,121"/>
+<area shape="rect" id="node6" href="$scheduleredfblock_8c.html" title="Removes the Thread from Ready Queue." alt="" coords="1223,95,1482,121"/>
+<area shape="rect" id="node7" href="$scheduleredfchangepriority_8c.html" title="Scheduler EDF Extract." alt="" coords="1506,95,1821,121"/>
+<area shape="rect" id="node8" href="$scheduleredfnodeinit_8c.html" title="Scheduler EDF Allocate." alt="" coords="1845,95,2121,121"/>
+<area shape="rect" id="node9" href="$scheduleredfreleasejob_8c.html" title="Scheduler EDF Release Job." alt="" coords="2146,95,2437,121"/>
+<area shape="rect" id="node10" href="$scheduleredfschedule_8c.html" title="Scheduler EDF Allocate." alt="" coords="2461,95,2743,121"/>
+<area shape="rect" id="node11" href="$scheduleredfunblock_8c.html" title="Scheduler EDF Unblock." alt="" coords="2767,95,3042,121"/>
+<area shape="rect" id="node12" href="$scheduleredfyield_8c.html" title="Scheduler EDF Yield." alt="" coords="3067,95,3321,121"/>
+</map>

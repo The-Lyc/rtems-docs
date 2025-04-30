@@ -1,0 +1,52 @@
+<map id="cpukit/include/rtems/rtems/modes.h" name="cpukit/include/rtems/rtems/modes.h">
+<area shape="rect" id="node1" title=" " alt="" coords="2779,5,2933,47"/>
+<area shape="rect" id="node2" href="$asr_8h.html" title=" " alt="" coords="2588,95,2743,136"/>
+<area shape="rect" id="node9" href="$include_2rtems_2rtems_2signal_8h.html" title="Signals API." alt="" coords="2613,184,2768,225"/>
+<area shape="rect" id="node27" href="$modesimpl_8h.html" title="Classic Modes Implementation." alt="" coords="2559,273,2713,315"/>
+<area shape="rect" id="node29" href="$cpukit_2include_2rtems_2rtems_2types_8h.html" title=" " alt="" coords="3628,95,3783,136"/>
+<area shape="rect" id="node37" href="$taskident_8c.html" title="RTEMS Task Name to Id." alt="" coords="4621,459,4824,486"/>
+<area shape="rect" id="node48" href="$modes_8c.html" title="Body for RTEMS_INTERRUPT_LEVEL Macro." alt="" coords="2788,281,2975,307"/>
+<area shape="rect" id="node3" href="$asrdata_8h.html" title="Classic ASR Data Structures." alt="" coords="2235,184,2389,225"/>
+<area shape="rect" id="node4" href="$asrimpl_8h.html" title="Classic ASR Implementation." alt="" coords="2056,273,2211,315"/>
+<area shape="rect" id="node8" href="$tasksdata_8h.html" title="Classic Tasks Manager Data Structures." alt="" coords="2235,273,2389,315"/>
+<area shape="rect" id="node5" href="$signalcatch_8c.html" title="RTEMS Catch Signal." alt="" coords="1732,370,1948,397"/>
+<area shape="rect" id="node6" href="$signalsend_8c.html" title="RTEMS Send Signal." alt="" coords="1973,370,2185,397"/>
+<area shape="rect" id="node7" href="$taskmode_8c.html" title="RTEMS Task Mode." alt="" coords="2209,370,2415,397"/>
+<area shape="rect" id="node10" href="$signalimpl_8h.html" title="Signals Implementation." alt="" coords="1877,273,2032,315"/>
+<area shape="rect" id="node12" href="$schedulercbs_8h.html" title="Thread manipulation for the CBS scheduler." alt="" coords="2440,363,2603,404"/>
+<area shape="rect" id="node25" href="$rtems_8h.html" title=" " alt="" coords="3907,459,4074,486"/>
+<area shape="rect" id="node11" href="$signalmp_8c.html" title="Signal MP Support." alt="" coords="1505,370,1708,397"/>
+<area shape="rect" id="node13" href="$cbs_8h.html" title="Constants and Structures Associated with the CBS library in RTEMS." alt="" coords="2059,452,2213,493"/>
+<area shape="rect" id="node14" href="$qreslib_8h.html" title="Constants and Structures Associated with the QoS RES library in RTEMS." alt="" coords="2237,452,2392,493"/>
+<area shape="rect" id="node15" href="$schedulercbsimpl_8h.html" title="CBS Scheduler Implementation." alt="" coords="2417,452,2607,493"/>
+<area shape="rect" id="node16" href="$schedulercbscleanup_8c.html" title="Scheduler CBS Cleanup." alt="" coords="5,459,280,486"/>
+<area shape="rect" id="node17" href="$schedulercbscreateserver_8c.html" title="Scheduler CBS Create Server." alt="" coords="305,459,610,486"/>
+<area shape="rect" id="node18" href="$schedulercbsdestroyserver_8c.html" title="Scheduler CBS Destroy Server." alt="" coords="634,459,947,486"/>
+<area shape="rect" id="node19" href="$schedulercbsgetapprovedbudget_8c.html" title="Scheduler CBS Get Approved Budget." alt="" coords="2631,459,2982,486"/>
+<area shape="rect" id="node20" href="$schedulercbsgetexecutiontime_8c.html" title="Get Thread Execution Info." alt="" coords="972,459,1311,486"/>
+<area shape="rect" id="node21" href="$schedulercbsgetparameters_8c.html" title="_Scheduler_CBS_Get_parameters" alt="" coords="3007,459,3327,486"/>
+<area shape="rect" id="node22" href="$schedulercbsgetremainingbudget_8c.html" title="Scheduler CBS Get Remaining Budget." alt="" coords="1335,459,1691,486"/>
+<area shape="rect" id="node23" href="$schedulercbsgetserverid_8c.html" title="Scheduler CBS Get Server id." alt="" coords="3351,459,3649,486"/>
+<area shape="rect" id="node24" href="$schedulercbssetparameters_8c.html" title="Set Parameters for CBS Scheduling." alt="" coords="1715,459,2034,486"/>
+<area shape="rect" id="node26" href="$i2cdrv-config_8h.html" title=" " alt="" coords="3901,541,4080,583"/>
+<area shape="rect" id="node28" href="$taskcreate_8c.html" title="RTEMS Task Create." alt="" coords="3673,459,3884,486"/>
+<area shape="rect" id="node30" href="$pci__map_8c.html" title=" " alt="" coords="3819,184,4008,225"/>
+<area shape="rect" id="node31" href="$extension_8h.html" title="User Extensions API." alt="" coords="3788,273,3943,315"/>
+<area shape="rect" id="node32" href="$init_8h.html" title="Constants and Structures Associated with the Initialization Manager." alt="" coords="3164,363,3319,404"/>
+<area shape="rect" id="node33" href="$barrier_8h.html" title="Classic Barrier Manager API." alt="" coords="3903,363,4057,404"/>
+<area shape="rect" id="node34" href="$cpukit_2include_2rtems_2rtems_2clock_8h.html" title=" " alt="" coords="3343,363,3497,404"/>
+<area shape="rect" id="node35" href="$include_2rtems_2rtems_2config_8h.html" title=" " alt="" coords="3177,273,3332,315"/>
+<area shape="rect" id="node36" href="$support_8h.html" title=" " alt="" coords="3572,363,3727,404"/>
+<area shape="rect" id="node38" href="$dpmem_8h.html" title="Classic Dual Ported Memory Manager API." alt="" coords="4017,273,4172,315"/>
+<area shape="rect" id="node39" href="$rtems_2rtems_2event_8h.html" title="Classic Event Manager API." alt="" coords="4244,363,4399,404"/>
+<area shape="rect" id="node40" href="$message_8h.html" title="Classic Message Queue Manager API." alt="" coords="4471,273,4625,315"/>
+<area shape="rect" id="node41" href="$rtems_2object_8h.html" title=" " alt="" coords="4585,184,4740,225"/>
+<area shape="rect" id="node42" href="$part_8h.html" title="Classic Partition Manager API." alt="" coords="4764,184,4919,225"/>
+<area shape="rect" id="node43" href="$ratemon_8h.html" title=" " alt="" coords="4943,184,5097,225"/>
+<area shape="rect" id="node44" href="$region_8h.html" title="Classic Region Manager API." alt="" coords="5121,184,5276,225"/>
+<area shape="rect" id="node45" href="$sem_8h.html" title="Classic Semaphores Manager API." alt="" coords="3508,273,3663,315"/>
+<area shape="rect" id="node46" href="$tasks_8h.html" title="Classic Task Manager API." alt="" coords="3127,184,3281,225"/>
+<area shape="rect" id="node47" href="$cpukit_2include_2rtems_2rtems_2timer_8h.html" title="Classic Timer Manager API." alt="" coords="2999,273,3153,315"/>
+<area shape="rect" id="node49" href="$spurious_8h.html" title=" " alt="" coords="4032,184,4187,225"/>
+<area shape="rect" id="node50" href="$rtemsbuildname_8c.html" title="Build Thirty&#45;Two Bit Object Name." alt="" coords="4211,191,4461,218"/>
+</map>

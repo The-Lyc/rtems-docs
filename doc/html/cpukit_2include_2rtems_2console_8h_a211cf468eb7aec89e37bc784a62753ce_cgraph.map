@@ -1,0 +1,9 @@
+<map id="console_write" name="console_write">
+<area shape="rect" id="node1" title="Console write entry point." alt="" coords="5,107,117,133"/>
+<area shape="rect" id="node2" href="$sh4uart_8h.html#abcf5f27f9be99a4eb3427383f0ddbeb1" title=" " alt="" coords="181,5,348,32"/>
+<area shape="rect" id="node3" href="$mcfuart_8h.html#a0710b6962bd45f7f3ed6ca4323c5ae26" title=" " alt="" coords="193,56,337,83"/>
+<area shape="rect" id="node4" href="$group__ClassicFatal.html#gacadb95082c08823f56d908c248657b45" title="Invokes the internal error handler with a source of INTERNAL_ERROR_RTEMS_API and is internal set to f..." alt="" coords="165,107,364,133"/>
+<area shape="rect" id="node6" href="$group__Termios.html#gad7b53fb199631aacfe771ccd9c14e06f" title=" " alt="" coords="186,157,343,184"/>
+<area shape="rect" id="node7" href="$sh4uart_8c.html#a87b8924686dc56277844fcbdeb3f9328" title=" " alt="" coords="193,208,336,235"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreIntErr.html#ga5102f2f0c5939020aa3b11d67afa84eb" title="Initiates system termination." alt="" coords="412,107,507,133"/>
+</map>

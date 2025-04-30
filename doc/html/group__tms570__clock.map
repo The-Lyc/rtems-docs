@@ -1,0 +1,4 @@
+<map id="System Clocks" name="System Clocks">
+<area shape="rect" id="node1" title="System clocks." alt="" coords="128,5,247,31"/>
+<area shape="rect" id="node2" href="$group__RTEMSBSPsARMTMS570.html" title="TMS570 Board Support Package." alt="" coords="5,5,80,31"/>
+</map>

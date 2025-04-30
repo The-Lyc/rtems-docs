@@ -1,0 +1,8 @@
+<map id="bsps/include/libchip/ide_ctrl.h" name="bsps/include/libchip/ide_ctrl.h">
+<area shape="rect" id="node1" title=" " alt="" coords="367,5,518,47"/>
+<area shape="rect" id="node2" href="$ide_8c.html" title=" " alt="" coords="5,95,157,136"/>
+<area shape="rect" id="node3" href="$i386_2pc386_2ata_2idecfg_8c.html" title=" " alt="" coords="181,95,333,136"/>
+<area shape="rect" id="node4" href="$powerpc_2gen5200_2ata_2idecfg_8c.html" title=" " alt="" coords="357,95,528,136"/>
+<area shape="rect" id="node5" href="$pcmcia__ide_8c.html" title=" " alt="" coords="552,95,723,136"/>
+<area shape="rect" id="node6" href="$ide__controller_8c.html" title=" " alt="" coords="747,95,899,136"/>
+</map>

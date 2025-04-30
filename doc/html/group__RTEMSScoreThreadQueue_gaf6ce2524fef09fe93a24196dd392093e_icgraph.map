@@ -1,0 +1,6 @@
+<map id="_Thread_queue_Extract_critical" name="_Thread_queue_Extract_critical">
+<area shape="rect" id="node1" title="Extracts the thread from the thread queue and unblocks it." alt="" coords="263,71,437,112"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreMutex.html#gac76286dab6594ca0499aa20861f69fb8" title="Surrenders the ceiling mutex." alt="" coords="28,5,192,47"/>
+<area shape="rect" id="node3" href="$posix_2muteximpl_8h.html#aef2cdaf26c7b8333787140155835917f" title=" " alt="" coords="26,71,194,112"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreThreadQueue.html#ga1671707d42e9a381c3737b58deed97d5" title="Dequeues the first thread waiting on the thread queue and returns it." alt="" coords="5,137,215,163"/>
+</map>

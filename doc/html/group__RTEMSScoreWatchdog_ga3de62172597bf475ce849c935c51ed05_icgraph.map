@@ -1,0 +1,14 @@
+<map id="_Watchdog_Set_CPU" name="_Watchdog_Set_CPU">
+<area shape="rect" id="node1" title="Sets the cpu for the watchdog." alt="" coords="957,78,1112,105"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreWatchdog.html#gafe13ff2012b33245774dd1ccb09da175" title="Sets the watchdog&#39;s cpu and inserts it with the given expiration time in the scheduled watchdogs." alt="" coords="711,17,909,43"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreWatchdog.html#gae396749d9d59bd42fb6927ef35880661" title="Sets the watchdog&#39;s cpu to the given instance and sets its expiration time to the watchdog expiration..." alt="" coords="711,71,909,112"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreWatchdog.html#gad98da837d665c764654ed6bcc25131dc" title="Pre&#45;initializes a watchdog." alt="" coords="721,166,899,193"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreThread.html#ga21916832cf16bf603f348041e2c04859" title="Inserts the cpu&#39;s watchdog realtime into the thread&#39;s timer." alt="" coords="490,5,653,47"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreThread.html#ga9f508c3f03d4d52fd2420746ce14fe03" title="Adds timeout ticks to the thread." alt="" coords="489,71,653,112"/>
+<area shape="rect" id="node6" href="$group__ClassicEventImpl.html#ga63d82e0e70a4acc2784bb7bc1bba01fb" title=" " alt="" coords="299,78,407,105"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreThread.html#gacb988363d243a9c060fdeb9a2cf3d401" title="Initializes the thread timer." alt="" coords="480,137,663,163"/>
+<area shape="rect" id="node11" href="$group__ClassicRateMon.html#gab599ee7e8f65f1d1461a3a5e198491eb" title="Create a Period." alt="" coords="487,188,656,229"/>
+<area shape="rect" id="node12" href="$group__ClassicTimer.html#ga57cf664e958961aefdb8ef8440f23afa" title="RTEMS Create Timer." alt="" coords="496,254,647,281"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreThreadMP.html#ga96f0434ad7036721909abeedd0322bba" title="Initialize MP thread handler." alt="" coords="273,129,432,171"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreThread.html#ga439268e164b067a866d2901085c8c672" title="Initializes thread handler." alt="" coords="5,137,225,163"/>
+</map>

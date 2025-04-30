@@ -1,0 +1,13 @@
+<map id="bsps/arm/include/bsp/arm&#45;gic&#45;irq.h" name="bsps/arm/include/bsp/arm&#45;gic&#45;irq.h">
+<area shape="rect" id="node1" title="ARM GIC IRQ." alt="" coords="135,5,295,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="78,95,135,121"/>
+<area shape="rect" id="node3" href="$arm-gic_8h.html" title="ARM GIC Support." alt="" coords="159,95,270,121"/>
+<area shape="rect" id="node8" href="$processormask_8h.html" title="Processor Mask API." alt="" coords="341,95,555,121"/>
+<area shape="rect" id="node4" href="$arm-gic-regs_8h.html" title="ARM GIC Register definitions." alt="" coords="5,169,149,196"/>
+<area shape="rect" id="node7" title=" " alt="" coords="173,169,256,196"/>
+<area shape="rect" id="node5" href="$include_2bsp_2utility_8h.html" title="Utility macros." alt="" coords="29,244,126,271"/>
+<area shape="rect" id="node6" title=" " alt="" coords="42,319,113,345"/>
+<area shape="rect" id="node9" title=" " alt="" coords="280,169,419,196"/>
+<area shape="rect" id="node10" title=" " alt="" coords="443,169,546,196"/>
+<area shape="rect" id="node11" title=" " alt="" coords="570,169,649,196"/>
+</map>

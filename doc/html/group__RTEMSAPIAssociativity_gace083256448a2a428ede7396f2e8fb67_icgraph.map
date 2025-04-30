@@ -1,0 +1,12 @@
+<map id="rtems_assoc_ptr_by_remote" name="rtems_assoc_ptr_by_remote">
+<area shape="rect" id="node1" title="RTEMS Associate Pointer by Remote." alt="" coords="683,97,835,139"/>
+<area shape="rect" id="node2" href="$group__RTEMSAPIAssociativity.html#ga3aad4fe900c6a8d2cf4c08e4ec1521d4" title="RTEMS Associate Local by Remote." alt="" coords="467,64,632,105"/>
+<area shape="rect" id="node10" href="$group__RTEMSAPIAssociativity.html#ga64ac112275510abebf41cabf873ae62e" title="RTEMS Associate Name by Remote." alt="" coords="464,129,635,171"/>
+<area shape="rect" id="node3" href="$group__RTEMSAPIAssociativity.html#ga797d358d94044a9a675824dffd20735a" title=" " alt="" coords="249,5,414,47"/>
+<area shape="rect" id="node4" href="$group__LibIOInternal.html#ga0f1f1dcc65233793d22aa713c4709020" title=" " alt="" coords="247,71,416,98"/>
+<area shape="rect" id="node5" href="$termios__baud2num_8c.html#ae9e4e2411039c63ddd8b0597fdbdeede" title="Converts the baud flags to an integral baud value." alt="" coords="253,123,409,164"/>
+<area shape="rect" id="node6" href="$ns16550_8c.html#a6f36f50f38e058b71eb8957890e8d4dc" title=" " alt="" coords="15,54,189,81"/>
+<area shape="rect" id="node7" href="$m68k_2mrm332_2console_2sci_8c.html#a9bc0382d130e64dd6250adba3be0cb0b" title=" " alt="" coords="39,105,165,131"/>
+<area shape="rect" id="node8" href="$tms570-sci-driver_8h.html#a73848a263fd0b87c4ab8f1e151239fc5" title="Set attributes of the HW peripheral." alt="" coords="5,155,199,182"/>
+<area shape="rect" id="node9" href="$z85c30__p_8h.html#af363420d920e0ed18f53833f626730d1" title=" " alt="" coords="19,206,185,233"/>
+</map>

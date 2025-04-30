@@ -1,0 +1,7 @@
+<map id="_Objects_MP_Open" name="_Objects_MP_Open">
+<area shape="rect" id="node1" title="Place the specified global object in the specified information table." alt="" coords="637,42,784,69"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreObjectMP.html#gaee5f1bac6bea600e8f437c6cb0458f97" title="Allocates a global object control block and places it in the specified information table." alt="" coords="424,35,589,76"/>
+<area shape="rect" id="node3" href="$group__ClassicMessageQueue.html#gaea76fd325e8a84810f2be119448a307d" title="RTEMS Create Message Queue." alt="" coords="203,5,376,47"/>
+<area shape="rect" id="node5" href="$group__ClassicPart.html#gaae1e45358170b1de610acdae7f4a8148" title="RTEMS Partition Create." alt="" coords="204,71,375,98"/>
+<area shape="rect" id="node4" href="$grspw__pkt_8c.html#a332e9d8281beb4acd9c2451488def344" title=" " alt="" coords="5,13,155,39"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="bsps/shared/dev/serial/legacy&#45;console.h" name="bsps/shared/dev/serial/legacy&#45;console.h">
+<area shape="rect" id="node1" title="Extension of the generic libchip console driver shell." alt="" coords="323,5,491,47"/>
+<area shape="rect" id="node2" href="$i386-stub-glue_8c.html" title=" " alt="" coords="5,95,187,136"/>
+<area shape="rect" id="node3" href="$legacy-console-control_8c.html" title="Generic libchip console io_ctl extension." alt="" coords="211,95,397,136"/>
+<area shape="rect" id="node4" href="$legacy-console-select_8c.html" title="Generic libchip console select." alt="" coords="421,95,600,136"/>
+<area shape="rect" id="node5" href="$legacy-console_8c.html" title="Extension of the generic libchip console driver shell." alt="" coords="624,95,792,136"/>
+</map>

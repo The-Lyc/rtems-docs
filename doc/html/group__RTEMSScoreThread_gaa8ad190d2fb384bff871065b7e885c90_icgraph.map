@@ -1,0 +1,5 @@
+<map id="_Thread_Wait_acquire" name="_Thread_Wait_acquire">
+<area shape="rect" id="node1" title="Acquires the thread wait default lock and disables interrupts." alt="" coords="252,42,417,69"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreMutex.html#gae13f723fc5cdac5a7f9b5f910b284bf6" title="Sets the priority of the ceiling mutex." alt="" coords="23,5,187,47"/>
+<area shape="rect" id="node3" href="$posix_2muteximpl_8h.html#abfafb525a73733f9fdb9d99cfa8b865a" title=" " alt="" coords="5,71,204,98"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="grpwm_register_io" name="grpwm_register_io">
+<area shape="rect" id="node1" title=" " alt="" coords="5,13,148,39"/>
+<area shape="rect" id="node2" href="$group__ClassicIO.html#gaa47cf2e1f0bc2a31f6c55f71dd12b8ea" title="Registers and initializes the device with the device driver table driver_table and major number major..." alt="" coords="196,13,377,39"/>
+<area shape="rect" id="node3" href="$intrbody_8c.html#a391281d20834a3e12f0448d69d9a993e" title=" " alt="" coords="425,5,567,47"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreISR.html#ga3b125bb9faac2fa94bd0ba0583cf5f77" title="Checks if an ISR in progress." alt="" coords="615,13,765,39"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="mscan_get_error_counters" name="mscan_get_error_counters">
+<area shape="rect" id="node1" title="Returns the receiver and transmitter error counter values in rec and tec of MSCAN module m." alt="" coords="5,46,200,73"/>
+<area shape="rect" id="node2" href="$group__RTEMSBSPsPowerPCGen5200MSCAN.html#ga587e0d7b0c1d090fda013c551f02a3f7" title="Enter initialization mode for the MSCAN module m." alt="" coords="248,5,401,47"/>
+<area shape="rect" id="node3" href="$group__RTEMSBSPsPowerPCGen5200MSCAN.html#ga29478727b755ce8d81ded34969194a1b" title="Leave initialization mode for the MSCAN module m." alt="" coords="248,71,401,112"/>
+<area shape="rect" id="node4" href="$group__RTEMSBSPsPowerPCGen5200MSCAN.html#ga189ba2bd33b05769166ff5c105af3395" title="Leave sleep mode for the MSCAN module m." alt="" coords="449,78,644,105"/>
+</map>

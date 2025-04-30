@@ -1,0 +1,11 @@
+<map id="SPP_DMA2_CHANNEL_struct_tag" name="SPP_DMA2_CHANNEL_struct_tag">
+<area shape="rect" id="node1" title=" " alt="" coords="332,242,567,269"/>
+<area shape="rect" id="node2" href="$unionSPP__DMA2__TCDWORD16____32B__tag.html" title=" " alt="" coords="5,5,188,47"/>
+<area shape="rect" id="node3" href="$unionSPP__DMA2__TCDWORD20____32B__tag.html" title=" " alt="" coords="5,71,188,112"/>
+<area shape="rect" id="node4" href="$unionSPP__DMA2__TCDWORD8____32B__tag.html" title=" " alt="" coords="5,136,188,177"/>
+<area shape="rect" id="node5" href="$unionSPP__DMA2__TCDWORD12____32B__tag.html" title=" " alt="" coords="5,201,188,243"/>
+<area shape="rect" id="node6" href="$unionSPP__DMA2__TCDWORD4____32B__tag.html" title=" " alt="" coords="5,267,188,308"/>
+<area shape="rect" id="node7" href="$unionSPP__DMA2__TCDWORD28____32B__tag.html" title=" " alt="" coords="5,332,188,373"/>
+<area shape="rect" id="node8" href="$unionSPP__DMA2__TCDWORD0____32B__tag.html" title=" " alt="" coords="5,397,188,439"/>
+<area shape="rect" id="node9" href="$unionSPP__DMA2__TCDWORD24____32B__tag.html" title=" " alt="" coords="5,463,188,504"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="cpukit/score/cpu/epiphany/include/rtems/score/cpu.h" name="cpukit/score/cpu/epiphany/include/rtems/score/cpu.h">
+<area shape="rect" id="node1" title=" " alt="" coords="155,5,348,47"/>
+<area shape="rect" id="node2" href="$basedefs_8h.html" title="Basic Definitions." alt="" coords="87,169,261,196"/>
+<area shape="rect" id="node6" title=" " alt="" coords="5,244,76,271"/>
+<area shape="rect" id="node7" href="$epiphany_8h.html" title=" " alt="" coords="82,95,255,121"/>
+<area shape="rect" id="node8" href="$bspIo_8h.html" title="Interface to Kernel Print Methods." alt="" coords="280,95,391,121"/>
+<area shape="rect" id="node10" title=" " alt="" coords="415,95,482,121"/>
+<area shape="rect" id="node11" href="$inttypes_8h.html" title="Provide printf() PRIxxx Constante Beyond Standards." alt="" coords="436,169,523,196"/>
+<area shape="rect" id="node3" title=" " alt="" coords="344,244,511,271"/>
+<area shape="rect" id="node4" title=" " alt="" coords="125,244,199,271"/>
+<area shape="rect" id="node5" title=" " alt="" coords="223,244,306,271"/>
+<area shape="rect" id="node9" title=" " alt="" coords="298,169,373,196"/>
+</map>

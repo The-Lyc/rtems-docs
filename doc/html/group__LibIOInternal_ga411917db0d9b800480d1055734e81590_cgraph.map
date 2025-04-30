@@ -1,0 +1,5 @@
+<map id="rtems_filesystem_check_access" name="rtems_filesystem_check_access">
+<area shape="rect" id="node1" title="Checks if access to an object is allowed for the current user." alt="" coords="5,5,185,47"/>
+<area shape="rect" id="node2" href="$group__LibIOEnv.html#gae0ea3b12bb890c1f272b6d049a486160" title="Fetch the pointer to the current user environment." alt="" coords="233,5,381,47"/>
+<area shape="rect" id="node3" href="$group__PerCPU.html#ga294cfaf3cf50de03f1d9821d68b9c1bd" title="Returns the thread control block of the executing thread." alt="" coords="429,13,604,39"/>
+</map>

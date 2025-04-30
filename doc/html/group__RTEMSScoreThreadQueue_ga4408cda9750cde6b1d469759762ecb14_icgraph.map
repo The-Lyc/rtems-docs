@@ -1,0 +1,5 @@
+<map id="_Thread_queue_First" name="_Thread_queue_First">
+<area shape="rect" id="node1" title="Returns the first thread on the thread queue if it exists, otherwise NULL." alt="" coords="435,13,591,39"/>
+<area shape="rect" id="node2" href="$group__ClassicRegionImpl.html#ga3cf94767384ce29609efbb70c01f8531" title="Process Region Queue." alt="" coords="208,13,387,39"/>
+<area shape="rect" id="node3" href="$group__ClassicRegion.html#ga1332adb33a1efe03e31a656a3cf5840c" title="RTEMS Return Region Segment." alt="" coords="5,5,160,47"/>
+</map>

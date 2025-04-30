@@ -1,0 +1,6 @@
+<map id="_SetupMemoryRegion" name="_SetupMemoryRegion">
+<area shape="rect" id="node1" title="Set up a memory region." alt="" coords="5,56,171,83"/>
+<area shape="rect" id="node2" href="$mpu_8c.html#a5bdbf8327da8abb7c67a214586df72f4" title="Calculate region size for the RASR." alt="" coords="219,5,401,32"/>
+<area shape="rect" id="node3" href="$mpu_8c.html#a04bb5350667e9ca80c259db5544c7bec" title="Enables the MPU module." alt="" coords="259,56,361,83"/>
+<area shape="rect" id="node4" href="$mpu_8c.html#a5b599da2790baa9affb17efe20e758a1" title="Setup a memory region." alt="" coords="247,107,373,133"/>
+</map>

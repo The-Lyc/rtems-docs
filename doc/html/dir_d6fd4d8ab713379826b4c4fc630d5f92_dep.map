@@ -1,0 +1,12 @@
+<map id="bsps/riscv/riscv/include" name="bsps/riscv/riscv/include">
+<area shape="rect" id="node4" href="dir_5d1ab919b2bc2a88d122acf1f2df3693.html" title="include" alt="" coords="49,159,121,207"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000218_000468.html" title="1" alt="" coords="84,132,93,147"/>
+<area shape="rect" id="node2" href="dir_0ea662d83dcf46baff04aec8bb881071.html" title="bsp" alt="" coords="133,63,205,111"/>
+<area shape="rect" id="node5" href="dir_cd198e36225ba3f41de97552050ac017.html" title="cpukit" alt="" coords="133,255,205,303"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000321_000080.html" title="5" alt="" coords="173,229,182,244"/>
+<area shape="rect" id="node3" href="dir_cb9b883923a99fc2886c8c8387d28e12.html" title="dev" alt="" coords="229,63,301,111"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000921_000080.html" title="1" alt="" coords="192,235,201,249"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000468_000080.html" title="58" alt="" coords="134,228,152,243"/>
+<area shape="rect" id="clust2" href="dir_d6fd4d8ab713379826b4c4fc630d5f92.html" alt="" coords="27,52,312,121"/>
+<area shape="rect" id="clust1" href="dir_a1bb5e756f1c789267c18cfde856b21c.html" title="riscv" alt="" coords="16,16,323,132"/>
+</map>

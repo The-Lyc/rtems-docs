@@ -1,0 +1,4 @@
+<map id="_CORE_barrier_Flush" name="_CORE_barrier_Flush">
+<area shape="rect" id="node1" title="Flushes the barrier using _CORE_barrier_Do_flush()." alt="" coords="212,5,369,32"/>
+<area shape="rect" id="node2" href="$group__ClassicBarrier.html#ga942ec086e0fa6aa0939629fb617a763b" title="RTEMS Delete Barrier." alt="" coords="5,5,164,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="puts" name="puts">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,56,32"/>
+<area shape="rect" id="node2" href="$dbg__console_8c.html#a7f949ce5c762badb554572a41e19e3fb" title="Outputs a character on the UART line." alt="" coords="104,5,213,32"/>
+</map>

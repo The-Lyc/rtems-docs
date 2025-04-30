@@ -1,0 +1,6 @@
+<map id="rtems_rtl_check_handle" name="rtems_rtl_check_handle">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,183,32"/>
+<area shape="rect" id="node2" href="$group__ClassicChains.html#ga44b92f7e9e25d9a3a0eadb0b559398cc" title="Return pointer to Chain&#39;s First node after the permanent head." alt="" coords="231,5,365,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreChain.html#ga89304b2d294b98f4909dcb6e68d7ec82" title="Returns pointer to chain&#39;s first node." alt="" coords="413,5,515,32"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreChain.html#gac08944db6f0428125d3b0d5a1c65b740" title="Returns pointer to immutable chain head." alt="" coords="563,5,745,32"/>
+</map>

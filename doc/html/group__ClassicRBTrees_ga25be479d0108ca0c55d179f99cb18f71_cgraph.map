@@ -1,0 +1,5 @@
+<map id="rtems_rbtree_is_root" name="rtems_rbtree_is_root">
+<area shape="rect" id="node1" title="Checks if this node is the root node of a red&#45;black tree." alt="" coords="5,5,163,32"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreRBTree.html#ga8496286f0a637353c8046e0d2625ea08" title="Checks if this node is the root node of a red&#45;black tree." alt="" coords="211,5,336,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreRBTree.html#ga15c887d3c6f0fe578b8ddb8332ad3828" title="Returns a pointer to the parent of this node." alt="" coords="384,5,507,32"/>
+</map>

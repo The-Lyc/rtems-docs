@@ -1,0 +1,12 @@
+<map id="_Record_Fatal_dump_base64" name="_Record_Fatal_dump_base64">
+<area shape="rect" id="node1" title=" " alt="" coords="5,49,161,90"/>
+<area shape="rect" id="node2" href="$bspIo_8h.html#aa7aa6e025aa35b36643e9ddbc2eccc10" title="Puts the character via rtems_putc()." alt="" coords="251,5,374,32"/>
+<area shape="rect" id="node4" href="$group__RTEMSRecord.html#gab6001739484c4535adaf515af6fc253a" title="Dumps the event records in base64 encoding." alt="" coords="209,56,416,83"/>
+<area shape="rect" id="node5" href="$group__RTEMSRecord.html#gaa5332b5d70ad8e147ebe44ca25341944" title="Produces two record items." alt="" coords="221,107,404,133"/>
+<area shape="rect" id="node3" href="$bspIo_8h.html#a6fd11f34260f10035f38a051af872e1e" title="Kernel Put Character." alt="" coords="499,5,594,32"/>
+<area shape="rect" id="node6" href="$group__RTEMSRecord.html#ga5e164fc0a361be6cac976c3afa8ec732" title="Adds a record item." alt="" coords="477,56,616,83"/>
+<area shape="rect" id="node8" href="$group__RTEMSRecord.html#gac80cf4761566e19371353c9c72271e84" title="Commits a set of record items." alt="" coords="464,107,629,133"/>
+<area shape="rect" id="node10" href="$group__RTEMSRecord.html#gad96c3279a0126090309e78135151168e" title="Prepares to add and commit record items." alt="" coords="464,157,629,184"/>
+<area shape="rect" id="node7" href="$record_8h.html#aa1f6bc150385e3209e68a628887f52ba" title=" " alt="" coords="701,52,819,79"/>
+<area shape="rect" id="node9" href="$group__RTEMSRecord.html#ga2a34e1207be9164960fd9fe9bf18bb57" title="Commits a set of record items in a critical section with interrupts disabled." alt="" coords="677,103,843,145"/>
+</map>

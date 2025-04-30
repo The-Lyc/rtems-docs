@@ -1,0 +1,5 @@
+<map id="rtems_capture_per_cpu_data" name="rtems_capture_per_cpu_data">
+<area shape="rect" id="node1" title=" " alt="" coords="66,95,277,121"/>
+<area shape="rect" id="node2" href="$structrtems__capture__buffer.html" title=" " alt="" coords="5,5,167,32"/>
+<area shape="rect" id="node3" href="$structISR__lock__Control.html" title="ISR lock control." alt="" coords="191,5,322,32"/>
+</map>

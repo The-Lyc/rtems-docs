@@ -1,0 +1,8 @@
+<map id="ata_process_request_on_init_phase" name="ata_process_request_on_init_phase">
+<area shape="rect" id="node1" title=" " alt="" coords="5,104,161,145"/>
+<area shape="rect" id="node2" href="$ide__ctrl__io_8h.html#a6d2c4a6775f3b76bee9e0ffa4b4c18df" title=" " alt="" coords="235,5,382,47"/>
+<area shape="rect" id="node3" href="$ide__ctrl__io_8h.html#af55304e47e8f20f6d0cd961a52fbc37e" title=" " alt="" coords="235,71,382,112"/>
+<area shape="rect" id="node4" href="$ide__ctrl__io_8h.html#a6c8d707b66df3753ac7d50c21598f69b" title=" " alt="" coords="233,136,384,177"/>
+<area shape="rect" id="node5" href="$group__ClassicFatal.html#gacadb95082c08823f56d908c248657b45" title="Invokes the internal error handler with a source of INTERNAL_ERROR_RTEMS_API and is internal set to f..." alt="" coords="209,202,408,229"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreIntErr.html#ga5102f2f0c5939020aa3b11d67afa84eb" title="Initiates system termination." alt="" coords="456,202,551,229"/>
+</map>

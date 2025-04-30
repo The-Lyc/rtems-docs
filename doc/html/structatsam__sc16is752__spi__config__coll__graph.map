@@ -1,0 +1,5 @@
+<map id="atsam_sc16is752_spi_config" name="atsam_sc16is752_spi_config">
+<area shape="rect" id="node1" title="The SC16IS752 device configuration." alt="" coords="5,184,167,225"/>
+<area shape="rect" id="node2" href="$struct__Pin.html" title=" " alt="" coords="61,95,111,121"/>
+<area shape="rect" id="node3" href="$structPio.html" title="Pio hardware registers." alt="" coords="65,5,107,32"/>
+</map>

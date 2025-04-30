@@ -1,0 +1,10 @@
+<map id="bsps/arm/lpc176x/include/bsp/pwmout&#45;defs.h" name="bsps/arm/lpc176x/include/bsp/pwmout&#45;defs.h">
+<area shape="rect" id="node1" title="PWM&#45;Out controller for the mbed lpc1768 board." alt="" coords="21,5,209,47"/>
+<area shape="rect" id="node2" href="$lpc176x_8h.html" title="Specific register definitions according to lpc176x family boards." alt="" coords="5,169,117,196"/>
+<area shape="rect" id="node6" href="$pwmout_8h.html" title="PWM&#45;Out controller for the mbed lpc1768 board." alt="" coords="109,95,224,121"/>
+<area shape="rect" id="node3" href="$lpc-i2s_8h.html" title="I2S API." alt="" coords="9,244,113,271"/>
+<area shape="rect" id="node4" href="$include_2bsp_2utility_8h.html" title="Utility macros." alt="" coords="13,319,110,345"/>
+<area shape="rect" id="node5" title=" " alt="" coords="26,393,97,420"/>
+<area shape="rect" id="node7" title=" " alt="" coords="142,169,199,196"/>
+<area shape="rect" id="node8" title=" " alt="" coords="223,169,297,196"/>
+</map>

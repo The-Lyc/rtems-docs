@@ -1,0 +1,4 @@
+<map id="i2c_smbus_ioctl_data" name="i2c_smbus_ioctl_data">
+<area shape="rect" id="node1" title="Argument type for I2C_SMBUS IO control call." alt="" coords="5,95,168,121"/>
+<area shape="rect" id="node2" href="$unioni2c__smbus__data.html" title="SMBus data." alt="" coords="23,5,150,32"/>
+</map>

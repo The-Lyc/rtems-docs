@@ -1,0 +1,4 @@
+<map id="EXTI Support" name="EXTI Support">
+<area shape="rect" id="node1" title="STM32F10XXX EXTI Support." alt="" coords="136,5,241,31"/>
+<area shape="rect" id="node2" href="$group__RTEMSBSPsARMSTM32F4.html" title="STM32F4 Board Support Package." alt="" coords="5,5,88,31"/>
+</map>

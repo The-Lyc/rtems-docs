@@ -1,0 +1,5 @@
+<map id="_Scheduler_default_Set_affinity_body" name="_Scheduler_default_Set_affinity_body">
+<area shape="rect" id="node1" title="Checks if the affinity is a subset of the online processors." alt="" coords="5,35,152,76"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreProcessorMask.html#ga4d831c7282fa105db97ce7c229a2e463" title="Checks if the processor set small is a subset of processor set big." alt="" coords="229,5,382,47"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreSMP.html#ga49129f922ec8d5f4863575ae74daf310" title="Gets all online processors." alt="" coords="200,71,411,98"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="_Thread_Get_priority" name="_Thread_Get_priority">
+<area shape="rect" id="node1" title="Returns the priority of the thread." alt="" coords="5,35,164,61"/>
+<area shape="rect" id="node2" href="$group__RTEMSScorePriority.html#gaea7676bde1276ab7042195c043e25bd5" title="Gets the priority aggregation&#39;s priority." alt="" coords="219,5,379,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreThread.html#ga080a177afc4fc254a1081485cd89f75d" title="Gets the scheduler&#39;s home node." alt="" coords="212,57,385,98"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreChain.html#ga89304b2d294b98f4909dcb6e68d7ec82" title="Returns pointer to chain&#39;s first node." alt="" coords="449,39,551,65"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreChain.html#ga67ffad0c14d402473760ec6bb8e93bcc" title="Checks if the chain is empty." alt="" coords="433,89,567,116"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreChain.html#gac08944db6f0428125d3b0d5a1c65b740" title="Returns pointer to immutable chain head." alt="" coords="839,64,1021,91"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreChain.html#ga8b2c850d4d09d8db80d11e3199bce386" title="Returns pointer to immutable chain&#39;s first node." alt="" coords="615,89,791,116"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreChain.html#gaa2f09e6d639b1bc5a27451eb119b6e33" title="Returns pointer to immutable chain tail." alt="" coords="617,140,789,167"/>
+</map>

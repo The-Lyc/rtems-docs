@@ -1,0 +1,7 @@
+<map id="bsps/sparc/include/bsp/gnatcommon.h" name="bsps/sparc/include/bsp/gnatcommon.h">
+<area shape="rect" id="node1" title=" " alt="" coords="355,5,506,47"/>
+<area shape="rect" id="node2" href="$erc32_2gnatsupp_2gnatsupp_8c.html" title="Support for gnat/rtems interrupts and exception handling." alt="" coords="5,95,200,136"/>
+<area shape="rect" id="node3" href="$leon2_2gnatsupp_2gnatsupp_8c.html" title="Support for gnat/rtems iterrupts and exception handling." alt="" coords="224,95,419,136"/>
+<area shape="rect" id="node4" href="$leon3_2gnatsupp_2gnatsupp_8c.html" title="Support for gnat/rtems interrupts and exception handling." alt="" coords="443,95,637,136"/>
+<area shape="rect" id="node5" href="$gnatcommon_8c.html" title=" " alt="" coords="661,102,901,129"/>
+</map>

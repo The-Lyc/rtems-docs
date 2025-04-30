@@ -1,0 +1,8 @@
+<map id="_Objects_Is_local_node" name="_Objects_Is_local_node">
+<area shape="rect" id="node1" title="Checks if the node is of the local object." alt="" coords="675,70,848,97"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreObject.html#gac7e6cf1ee2d115abb4d53efc9ba2bca0" title="Checks if the id is of a local object." alt="" coords="453,45,606,71"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreObject.html#ga115dd4137b68639f3dab80aad2f46ced" title="Converts an object name to an Id." alt="" coords="432,95,627,122"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreMutex.html#gac76286dab6594ca0499aa20861f69fb8" title="Surrenders the ceiling mutex." alt="" coords="219,5,383,47"/>
+<area shape="rect" id="node4" href="$mon-object_8c.html#a569c4ee5ca16ba96573fe786de0955bc" title=" " alt="" coords="219,71,384,112"/>
+<area shape="rect" id="node5" href="$mon-object_8c.html#a5829e8ea5e1716af2053eb12d17e5b83" title=" " alt="" coords="5,71,171,112"/>
+</map>

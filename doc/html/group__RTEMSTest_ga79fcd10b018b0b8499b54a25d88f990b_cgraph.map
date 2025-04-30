@@ -1,0 +1,10 @@
+<map id="rtems_test_fatal_extension" name="rtems_test_fatal_extension">
+<area shape="rect" id="node1" title="Fatal extension for tests." alt="" coords="5,60,205,87"/>
+<area shape="rect" id="node2" href="$group__RTEMSPrintSupport.html#ga553b725c5361554dc9788e1a6a82b373" title="Initializes the printer to print via printk()." alt="" coords="279,23,426,65"/>
+<area shape="rect" id="node8" href="$group__Profiling.html#gae1d3b285861598637ed453b7084896ed" title="Reports profiling data as XML." alt="" coords="253,89,452,116"/>
+<area shape="rect" id="node3" href="$printk__plugin_8c.html#ada3e7b4e55515d9b5bd320510e73414b" title=" " alt="" coords="500,31,655,57"/>
+<area shape="rect" id="node4" href="$bspIo_8h.html#a48cd00393a9699689b769200037738bb" title="Variable Argument printk()" alt="" coords="703,31,771,57"/>
+<area shape="rect" id="node5" href="$cpukit_2include_2rtems_2score_2io_8h.html#a6bb6bc6df4759579fd2e424421168c24" title=" " alt="" coords="833,5,927,32"/>
+<area shape="rect" id="node6" href="$bspIo_8h.html#aa7aa6e025aa35b36643e9ddbc2eccc10" title="Puts the character via rtems_putc()." alt="" coords="819,56,941,83"/>
+<area shape="rect" id="node7" href="$bspIo_8h.html#a6fd11f34260f10035f38a051af872e1e" title="Kernel Put Character." alt="" coords="989,56,1084,83"/>
+</map>

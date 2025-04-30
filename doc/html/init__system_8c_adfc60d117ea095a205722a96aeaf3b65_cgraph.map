@@ -1,0 +1,13 @@
+<map id="tms570_system_hw_init" name="tms570_system_hw_init">
+<area shape="rect" id="node1" title="TMS570 system hardware initialization (HCG:systemInit)" alt="" coords="5,208,185,235"/>
+<area shape="rect" id="node2" href="$tms570__selftest_8h.html#a30cfa0cf0faa449eb4b23e4fbff1b998" title=" " alt="" coords="233,5,441,32"/>
+<area shape="rect" id="node3" href="$tms570__selftest_8h.html#afd959ec39d9ce0d6aedcb981fcafe068" title="EFUSE module self check Driver (HCG:efcCheck)" alt="" coords="266,56,409,83"/>
+<area shape="rect" id="node4" href="$tms570__selftest_8h.html#ae8189fb35808005c608dec5b8aa171c4" title="EFUSE module self check Driver (HCG:checkefcSelfTest)" alt="" coords="234,107,441,133"/>
+<area shape="rect" id="node5" href="$init__system_8c.html#a93991a2136c7abc0b1c6be56b46bd1dd" title="Setup Flash memory parameters and timing (HCG:setupFlash)" alt="" coords="269,157,406,184"/>
+<area shape="rect" id="node6" href="$init__system_8c.html#a6843c9d8e672b736a060ea5314bd2c91" title="Setup chip clocks including to wait for PLLs locks (HCG:mapClocks)" alt="" coords="249,208,425,235"/>
+<area shape="rect" id="node7" href="$init__system_8c.html#ae309cda1599147b5dbdec6c4d19732b6" title="Power&#45;up all peripherals and enable their clocks (HCG:periphInit)" alt="" coords="264,259,411,285"/>
+<area shape="rect" id="node8" href="$tms570__hwinit_8h.html#a42616a5455eebfb4efa9bfc67e4dfdf7" title="setups pin multiplexer according to precomputed registers values (HCG:muxInit)" alt="" coords="260,309,415,336"/>
+<area shape="rect" id="node10" href="$init__system_8c.html#a43137f0b9b1e10251be70ee40935709a" title="Setup all system PLLs (HCG:setupPLL)" alt="" coords="276,360,399,387"/>
+<area shape="rect" id="node11" href="$init__system_8c.html#a788b6e4333764ce64557748a795fcaef" title="Adjust Low&#45;Frequency (LPO) oscilator (HCG:trimLPO)" alt="" coords="257,411,417,437"/>
+<area shape="rect" id="node9" href="$tms570-pinmux_8h.html#a061d7b53280d6fc349a4157613712aef" title="configure block or whole pin multiplexer" alt="" coords="489,309,695,336"/>
+</map>

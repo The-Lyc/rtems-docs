@@ -1,0 +1,5 @@
+<map id="_Scheduler_priority_Ready_queue_enqueue" name="_Scheduler_priority_Ready_queue_enqueue">
+<area shape="rect" id="node1" title="Enqueues a node on the specified ready queue." alt="" coords="200,39,380,80"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreSchedulerDPS.html#ga2a24da77012650161d32bed57eb5c128" title="Unblocks the thread." alt="" coords="5,5,152,47"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreSchedulerDPS.html#gaa9250624cb136b5fd42bdfe060a2eb5e" title="Updates the priority of the node." alt="" coords="5,71,152,112"/>
+</map>

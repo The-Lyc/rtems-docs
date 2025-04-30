@@ -1,0 +1,7 @@
+<map id="LEON3_Atomic_Swap" name="LEON3_Atomic_Swap">
+<area shape="rect" id="node1" title=" " alt="" coords="580,31,740,57"/>
+<area shape="rect" id="node2" href="$sparc_2leon3_2mpci_2lock_8c.html#a87efd7432a8230eafbdb22158edb5471" title=" " alt="" coords="444,31,532,57"/>
+<area shape="rect" id="node3" href="$shmdr-addlq_8c.html#a87f51344b57f52cfaa3dc36f23667f89" title=" " alt="" coords="213,5,396,32"/>
+<area shape="rect" id="node4" href="$shmdr-getlq_8c.html#a05fddcaf985ca959e50da3b1ccee3061" title=" " alt="" coords="215,56,395,83"/>
+<area shape="rect" id="node5" href="$shmdr-receive_8c.html#ab268ad1889513022aac5bc8a68cbe1da" title=" " alt="" coords="5,56,165,83"/>
+</map>

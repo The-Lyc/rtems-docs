@@ -1,0 +1,4 @@
+<map id="GMAC_DisableIt" name="GMAC_DisableIt">
+<area shape="rect" id="node1" title=" " alt="" coords="227,5,353,32"/>
+<area shape="rect" id="node2" href="$group__gmacd__functions.html#ga3ea0884def476f9698f1cdbae6b6f3e2" title="Registers pRxCb callback. Callback will be invoked after the next received frame. When GMAC_Poll() re..." alt="" coords="5,5,179,32"/>
+</map>

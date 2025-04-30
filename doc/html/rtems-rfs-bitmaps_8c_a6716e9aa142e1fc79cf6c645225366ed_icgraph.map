@@ -1,0 +1,7 @@
+<map id="rtems_rfs_bitmap_map_alloc" name="rtems_rfs_bitmap_map_alloc">
+<area shape="rect" id="node1" title=" " alt="" coords="861,5,1035,47"/>
+<area shape="rect" id="node2" href="$rtems-rfs-group_8c.html#a41c38f1d939cf04cad27dde05f52c394" title="Allocate an inode or block." alt="" coords="632,5,813,47"/>
+<area shape="rect" id="node3" href="$rtems-rfs-inode_8c.html#a3debf4c8c9f9149e355abd82a1804e44" title=" " alt="" coords="419,13,584,39"/>
+<area shape="rect" id="node4" href="$rtems-rfs-inode_8c.html#a84fd42caa1f9dada5918fbb1e42c7978" title=" " alt="" coords="196,13,371,39"/>
+<area shape="rect" id="node5" href="$rtems-rfs-link_8c.html#ad174cb40689aacab6621b9df946bc3f3" title=" " alt="" coords="5,13,148,39"/>
+</map>

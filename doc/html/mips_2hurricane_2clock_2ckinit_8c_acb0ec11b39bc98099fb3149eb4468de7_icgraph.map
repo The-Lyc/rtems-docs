@@ -1,0 +1,5 @@
+<map id="reset_wdt" name="reset_wdt">
+<area shape="rect" id="node1" title=" " alt="" coords="311,5,397,32"/>
+<area shape="rect" id="node2" href="$mpc5xx_8h.html#acf3dbc818ea37dd9ec150ddb6477df9a" title="Clock_isr." alt="" coords="181,5,263,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSDriverClock.html#gafddd4d0e38336d3fbc84b05d0dcd5cbe" title="Initialize the clock driver." alt="" coords="5,5,133,32"/>
+</map>

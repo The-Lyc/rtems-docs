@@ -1,0 +1,6 @@
+<map id="zynq_uart_context" name="zynq_uart_context">
+<area shape="rect" id="node1" title=" " alt="" coords="31,199,173,225"/>
+<area shape="rect" id="node2" href="$structzynq__uart.html" title=" " alt="" coords="5,102,92,129"/>
+<area shape="rect" id="node3" href="$structrtems__termios__device__context.html" title="Termios device context." alt="" coords="116,95,283,136"/>
+<area shape="rect" id="node4" href="$structISR__lock__Control.html" title="ISR lock control." alt="" coords="134,5,265,32"/>
+</map>

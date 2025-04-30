@@ -1,0 +1,5 @@
+<map id="_Chain_Get_with_empty_check_unprotected" name="_Chain_Get_with_empty_check_unprotected">
+<area shape="rect" id="node1" title="Gets the first node and checks if the chain is empty afterwards (unprotected)." alt="" coords="5,23,185,65"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreChain.html#ga8b66d3138b9cdacbcb0600c42237ff7d" title="Returns pointer to chain head." alt="" coords="233,5,340,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreChain.html#ga06f3e2dd6d64411f0565e3b483e53673" title="Returns pointer to chain tail." alt="" coords="239,56,334,83"/>
+</map>

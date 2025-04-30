@@ -1,0 +1,4 @@
+<map id="pci_interrupt_unregister" name="pci_interrupt_unregister">
+<area shape="rect" id="node1" title=" " alt="" coords="5,13,183,39"/>
+<area shape="rect" id="node2" href="$group__rtems__interrupt__extension.html#ga90011d3f7a1f614913fd6386f1725b9d" title="Removes the interrupt handler routine handler with argument arg for the interrupt vector with number ..." alt="" coords="231,5,409,47"/>
+</map>

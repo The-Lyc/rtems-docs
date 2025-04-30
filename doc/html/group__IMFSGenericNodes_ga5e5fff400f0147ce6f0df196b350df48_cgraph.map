@@ -1,0 +1,8 @@
+<map id="IMFS_node_remove_directory" name="IMFS_node_remove_directory">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,220,57"/>
+<area shape="rect" id="node2" href="$group__ClassicChains.html#ga82c37408681422fcdf19b0cdf4d96332" title="Is the chain empty." alt="" coords="268,31,437,57"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreChain.html#ga67ffad0c14d402473760ec6bb8e93bcc" title="Checks if the chain is empty." alt="" coords="485,31,619,57"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreChain.html#ga8b2c850d4d09d8db80d11e3199bce386" title="Returns pointer to immutable chain&#39;s first node." alt="" coords="667,5,843,32"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreChain.html#gaa2f09e6d639b1bc5a27451eb119b6e33" title="Returns pointer to immutable chain tail." alt="" coords="669,56,841,83"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreChain.html#gac08944db6f0428125d3b0d5a1c65b740" title="Returns pointer to immutable chain head." alt="" coords="891,5,1073,32"/>
+</map>

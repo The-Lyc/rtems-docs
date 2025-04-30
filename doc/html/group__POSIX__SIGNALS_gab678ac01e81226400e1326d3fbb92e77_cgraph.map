@@ -1,0 +1,11 @@
+<map id="_POSIX_signals_Set_process_signals" name="_POSIX_signals_Set_process_signals">
+<area shape="rect" id="node1" title="Set POSIX process signals." alt="" coords="5,49,155,90"/>
+<area shape="rect" id="node2" href="$group__POSIX__SIGNALS.html#gaed33464be8fad528f3c52f2bb1e6f973" title=" " alt="" coords="204,5,381,32"/>
+<area shape="rect" id="node4" href="$group__POSIX__SIGNALS.html#ga3ecb9c45e9caed87553068a70252232e" title=" " alt="" coords="203,56,383,83"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreThreadQueue.html#gae18ee06777084a67d286d743355d47ac" title="Initializes a thread queue context." alt="" coords="203,107,382,149"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreThreadQueue.html#ga40080175681761a842fe6ab4784735b9" title="Acquires the thread queue control in a critical section." alt="" coords="432,5,609,32"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreThreadQueue.html#ga0a8881ef4106a0707b2751cdd3d18bef" title="Releases the thread queue control and enables interrupts." alt="" coords="431,56,611,83"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreChain.html#gab0fa19f01d37f1d510405e6382fd8b67" title="Initializes a chain node." alt="" coords="437,111,605,137"/>
+<area shape="rect" id="node9" href="$bootldr_8h.html#a36d20f7d597c517b964289f6b54ddfa7" title=" " alt="" coords="483,161,559,188"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreChain.html#gadf0e5d55d133694eed8043ec13fe1266" title="Sets off chain." alt="" coords="659,111,819,137"/>
+</map>

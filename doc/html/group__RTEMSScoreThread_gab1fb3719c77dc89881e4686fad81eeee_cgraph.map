@@ -1,0 +1,6 @@
+<map id="_Thread_Cancel" name="_Thread_Cancel">
+<area shape="rect" id="node1" title="Cancels the thread." alt="" coords="5,13,131,39"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreThread.html#ga9a583864cdcbb7eaeda8002d05de6912" title="Disables interrupts and acquires the lock_context." alt="" coords="179,13,349,39"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreThread.html#gafd7ff215edf64b4611da7b7c1d4e3050" title="Acquires the lock context in a critical section." alt="" coords="397,5,568,47"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreThreadQueue.html#gaf1488e09cc925566233f2f1fc76c4d81" title="Acquires the thread queue control in a critical section." alt="" coords="616,5,817,47"/>
+</map>

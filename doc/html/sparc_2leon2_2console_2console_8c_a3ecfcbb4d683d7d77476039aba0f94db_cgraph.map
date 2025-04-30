@@ -1,0 +1,4 @@
+<map id="console_control" name="console_control">
+<area shape="rect" id="node1" title="Console IO control entry point." alt="" coords="5,5,129,32"/>
+<area shape="rect" id="node2" href="$group__Termios.html#ga73583d3b1a0974cdebef828e25e8ba3a" title=" " alt="" coords="177,5,329,32"/>
+</map>

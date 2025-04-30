@@ -1,0 +1,8 @@
+<map id="sonic_softc" name="sonic_softc">
+<area shape="rect" id="node1" title=" " alt="" coords="301,213,395,240"/>
+<area shape="rect" id="node2" href="$structReceiveDescriptor.html" title=" " alt="" coords="5,109,147,136"/>
+<area shape="rect" id="node3" href="$structCamDescriptor__t.html" title=" " alt="" coords="228,109,359,136"/>
+<area shape="rect" id="node4" href="$structTransmitDescriptor.html" title=" " alt="" coords="383,109,529,136"/>
+<area shape="rect" id="node5" href="$structTransmitDescriptor_1_1TransmitDescriptorFragLink.html" title=" " alt="" coords="352,5,560,47"/>
+<area shape="rect" id="node6" href="$structReceiveResource.html" title=" " alt="" coords="610,109,745,136"/>
+</map>

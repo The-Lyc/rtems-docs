@@ -1,0 +1,7 @@
+<map id="rtems_scheduler_remove_processor" name="rtems_scheduler_remove_processor">
+<area shape="rect" id="node1" title="Removes a processor from set of processors owned by the specified scheduler instance." alt="" coords="5,31,192,72"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreScheduler.html#ga0c890185e97bf23c9ac8800beb60b4d4" title="Gets the scheduler from the given object build id." alt="" coords="247,13,412,39"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreScheduler.html#ga9c62ef5a388b998fa041a269297be1fe" title="Gets the context of the scheduler." alt="" coords="240,63,419,90"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreScheduler.html#ga6a59bd6a442d2c5acf247c66e1b21757" title="Gets the scheduler index from the given object build id." alt="" coords="467,5,633,47"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreScheduler.html#ga5012b61871058535e8b6bfd316787fd7" title="Builds an object build id." alt="" coords="681,13,833,39"/>
+</map>

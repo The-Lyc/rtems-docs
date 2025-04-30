@@ -1,0 +1,5 @@
+<map id="_Scheduler_Get_processor_count" name="_Scheduler_Get_processor_count">
+<area shape="rect" id="node1" title="Gets the number of processors of the scheduler." alt="" coords="235,23,428,65"/>
+<area shape="rect" id="node2" href="$sched_8c.html#af76cf1a8afb380ce5637641e60c6fcff" title=" " alt="" coords="5,5,187,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreScheduler.html#gafdf8dfa2c90ca2122b995bb6dd42fcda" title="Sets a new scheduler." alt="" coords="35,56,157,83"/>
+</map>

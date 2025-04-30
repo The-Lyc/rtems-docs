@@ -1,0 +1,4 @@
+<map id="rtems_record_drain" name="rtems_record_drain">
+<area shape="rect" id="node1" title="Drains the record items on all processors." alt="" coords="209,5,357,32"/>
+<area shape="rect" id="node2" href="$record-server_8c.html#a19bb9acbabd34dc43ef6f9b480c210d0" title="Drains the record items on all processors an writes them to the file descriptor." alt="" coords="5,5,161,32"/>
+</map>

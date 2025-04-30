@@ -1,0 +1,5 @@
+<map id="T_measure_runtime_create" name="T_measure_runtime_create">
+<area shape="rect" id="node1" title=" " alt="" coords="5,46,205,73"/>
+<area shape="rect" id="node2" href="$group__ClassicCache.html#ga518a30758a99000e752ba02f04674749" title="Returns the data cache size in bytes." alt="" coords="253,5,423,47"/>
+<area shape="rect" id="node3" href="$group__ClassicCache.html#gaf4dd0168871b3939eae1541c216eca31" title="Returns the data cache line size in bytes." alt="" coords="253,71,423,112"/>
+</map>

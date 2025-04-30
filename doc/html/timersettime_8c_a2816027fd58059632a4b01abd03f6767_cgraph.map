@@ -1,0 +1,6 @@
+<map id="_POSIX_Timer_TSR" name="_POSIX_Timer_TSR">
+<area shape="rect" id="node1" title=" " alt="" coords="5,35,151,61"/>
+<area shape="rect" id="node2" href="$posix_2timerimpl_8h.html#aec7705a0a3576d845124c84d59087181" title=" " alt="" coords="199,27,368,69"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreWatchdog.html#gaf1cb44dc5d0789c722e5272370fc20b4" title="Gets the watchdog&#39;s cpu." alt="" coords="443,5,600,32"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreWatchdog.html#ga2d69aa4531d31a6d4c7784de2e4e91ae" title="Acquires the per cpu watchdog lock in a critical section." alt="" coords="416,57,627,98"/>
+</map>

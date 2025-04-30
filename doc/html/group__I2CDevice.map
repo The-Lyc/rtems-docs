@@ -1,0 +1,8 @@
+<map id="I2C Device Driver" name="I2C Device Driver">
+<area shape="rect" id="node1" title=" " alt="" coords="224,99,360,125"/>
+<area shape="rect" id="node2" href="$group__I2CSWITCHNXPPCA9548A.html" title="Driver for NXP PCA9548A 8&#45;channel switch device." alt="" coords="424,5,583,45"/>
+<area shape="rect" id="node4" href="$group__I2CEEPROM.html" title="Driver for EEPROM device." alt="" coords="443,70,564,95"/>
+<area shape="rect" id="node5" href="$group__I2CSensorLM75A.html" title="Driver for NXP or Texas Instruments LM75A temperature sensor." alt="" coords="427,120,579,160"/>
+<area shape="rect" id="node6" href="$group__I2CGPIONXPPCA9535.html" title="Driver for NXP PCA9535 16&#45;bit GPIO device." alt="" coords="408,185,599,210"/>
+<area shape="rect" id="node3" href="$group__I2C.html" title="Inter&#45;Integrated Circuit (I2C) bus and device driver support." alt="" coords="5,92,176,132"/>
+</map>

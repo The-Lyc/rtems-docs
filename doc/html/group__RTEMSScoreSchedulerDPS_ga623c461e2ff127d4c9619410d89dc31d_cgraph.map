@@ -1,0 +1,11 @@
+<map id="_Scheduler_priority_Initialize" name="_Scheduler_priority_Initialize">
+<area shape="rect" id="node1" title="Initializes the priority scheduler." alt="" coords="5,57,152,98"/>
+<area shape="rect" id="node2" href="$group__RTEMSScorePriority.html#gae1b3ddc145139b8cedba8169214f2dab" title="Initializes a bit map." alt="" coords="200,5,399,32"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreSchedulerDPS.html#ga8a69246c562c36bec9bf7047be7d50ae" title="Gets the context of the scheduler." alt="" coords="226,57,373,98"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreSchedulerDPS.html#ga7a379ad8779fd574bbf2644248ba0db9" title="Ready queue initialization." alt="" coords="209,122,389,163"/>
+<area shape="rect" id="node3" href="$bootldr_8h.html#a36d20f7d597c517b964289f6b54ddfa7" title=" " alt="" coords="498,5,574,32"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreScheduler.html#ga9c62ef5a388b998fa041a269297be1fe" title="Gets the context of the scheduler." alt="" coords="447,64,625,91"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreChain.html#ga322cf50ff1974dab1ce8d60ec94ef5f8" title="Initializes this chain as empty." alt="" coords="447,129,625,156"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreChain.html#ga8b66d3138b9cdacbcb0600c42237ff7d" title="Returns pointer to chain head." alt="" coords="673,104,780,131"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreChain.html#ga06f3e2dd6d64411f0565e3b483e53673" title="Returns pointer to chain tail." alt="" coords="679,155,774,181"/>
+</map>

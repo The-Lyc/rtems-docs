@@ -1,0 +1,8 @@
+<map id="_Priority_Mask" name="_Priority_Mask">
+<area shape="rect" id="node1" title="Returns the priority bit mask for the specified major or minor bit number." alt="" coords="664,78,783,105"/>
+<area shape="rect" id="node2" href="$group__RTEMSScorePriority.html#gab11e5706b0623eda6bb5a0c7f85f3a50" title="Initializes the bit map information." alt="" coords="417,71,616,112"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreSchedulerDPS.html#ga6acac442055201dbdda485d7b0021628" title="Updates the specified ready queue data according to the new priority value." alt="" coords="200,71,369,112"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreSchedulerDPS.html#ga068b274fb5ddb43859266d6bcfadb060" title="Initializes the node with the given priority." alt="" coords="5,5,152,47"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreSchedulerDPS.html#ga2a24da77012650161d32bed57eb5c128" title="Unblocks the thread." alt="" coords="5,71,152,112"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreSchedulerDPS.html#gaa9250624cb136b5fd42bdfe060a2eb5e" title="Updates the priority of the node." alt="" coords="5,136,152,177"/>
+</map>

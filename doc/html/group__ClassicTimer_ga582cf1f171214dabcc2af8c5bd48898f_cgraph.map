@@ -1,0 +1,51 @@
+<map id="rtems_timer_delete" name="rtems_timer_delete">
+<area shape="rect" id="node1" title="RTEMS Delete Timer." alt="" coords="5,279,156,305"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreObject.html#ga3059733162454cc71ff73288ba9b4dfd" title="Locks the object allocator mutex." alt="" coords="204,37,381,64"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreObject.html#ga41a6751fdfbe5adc5f9cb5d12cc8a214" title="Unlocks the object allocator mutex." alt="" coords="221,95,364,137"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreObject.html#ga48be735854a391514fdac4881e9ef8fc" title="Closes object." alt="" coords="232,308,353,335"/>
+<area shape="rect" id="node18" href="$group__ClassicTimerImpl.html#ga2481e0d8ec0197f69ef648b23d742b80" title=" " alt="" coords="205,249,380,276"/>
+<area shape="rect" id="node21" href="$group__ClassicTimerImpl.html#gad3cc9c58e403f6c6e7e53ab678d665f7" title=" " alt="" coords="233,657,352,684"/>
+<area shape="rect" id="node40" href="$group__ClassicTimerImpl.html#gac8b9418437bbd28ed3d1c81093cb9ec8" title="Timer_Free." alt="" coords="241,788,344,815"/>
+<area shape="rect" id="node46" href="$group__ClassicTimerImpl.html#ga40195e79d37f84fa3d6b9ba166f6d384" title=" " alt="" coords="244,173,341,200"/>
+<area shape="rect" id="node48" href="$group__ClassicTimerImpl.html#ga9ea668bbebc7986833bffff61fb751c2" title=" " alt="" coords="229,999,356,1025"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreAllocatorMutex.html#ga89aa77edce0d5557b1a7e9d9ef7999c8" title=" " alt="" coords="447,31,622,57"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreAPIMutex.html#ga57829ca494f1d866219c499eadb0ffc9" title="Acquires the specified API mutex." alt="" coords="720,31,855,57"/>
+<area shape="rect" id="node5" href="$mutex_8c.html#a2960aef6016ac8937f24108f9cdeebd0" title=" " alt="" coords="939,5,1133,32"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreThread.html#gad5aaea7af4482aebd880403fb9c238af" title="Set the thread to life protected." alt="" coords="935,56,1137,83"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreAllocatorMutex.html#ga15d657c04537c2ad1841adc28b8dd747" title=" " alt="" coords="440,81,629,108"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreAPIMutex.html#ga64a430ae861d0ce7f63413e651fbe36d" title="Releases the specified API mutex." alt="" coords="712,81,863,108"/>
+<area shape="rect" id="node10" href="$mutex_8c.html#adecd7211e7a1a5035841212574f45b31" title=" " alt="" coords="938,107,1134,133"/>
+<area shape="rect" id="node12" href="$group__RTEMSScoreObject.html#gabcf4e7e43d740a83abd8651c86fc3260" title="Invalidates an object Id." alt="" coords="450,367,619,393"/>
+<area shape="rect" id="node16" href="$group__RTEMSScoreObject.html#gab8d9bdacd7890b74bd890eda839c0f86" title="Removes object with a 32&#45;bit integer name from its namespace." alt="" coords="453,301,616,342"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreObject.html#ga22cdf45f285840b7728b06197a7f4627" title="Returns the index portion of the ID." alt="" coords="1191,333,1342,360"/>
+<area shape="rect" id="node14" href="$group__RTEMSScoreObject.html#ga9c697fd8a483c32420ccfff211ec3c14" title="Sets the pointer to the local_table object referenced by the index." alt="" coords="715,385,859,426"/>
+<area shape="rect" id="node15" href="$group__RTEMSScoreObject.html#gadf825a94fecd0945a4368e503e274bfd" title="Returns the maximum index of the specified object class." alt="" coords="945,385,1127,426"/>
+<area shape="rect" id="node17" href="$group__RTEMSScoreObject.html#ga0a217bcdc113857e4f370aea14dbe025" title="Returns if the object has a string name." alt="" coords="688,283,887,309"/>
+<area shape="rect" id="node19" href="$group__RTEMSScoreWatchdog.html#gaf1cb44dc5d0789c722e5272370fc20b4" title="Gets the watchdog&#39;s cpu." alt="" coords="456,249,613,276"/>
+<area shape="rect" id="node20" href="$group__RTEMSScoreWatchdog.html#ga2d69aa4531d31a6d4c7784de2e4e91ae" title="Acquires the per cpu watchdog lock in a critical section." alt="" coords="429,183,640,225"/>
+<area shape="rect" id="node22" href="$group__RTEMSScoreChain.html#ga51ca91740b37b6101d1aa80167ddcfe0" title="Extracts this node (unprotected)." alt="" coords="433,969,637,996"/>
+<area shape="rect" id="node25" href="$group__ClassicTimerImpl.html#gaacab90062cdce2d4686dc3b56b7eb666" title=" " alt="" coords="450,417,619,444"/>
+<area shape="rect" id="node26" href="$group__ClassicTimerImpl.html#gaf2616957bbd4c72158bc785bf2bd6b23" title=" " alt="" coords="443,468,626,495"/>
+<area shape="rect" id="node27" href="$group__ClassicTimerImpl.html#ga47a0d493165b8a0d10c85d1768041202" title=" " alt="" coords="449,519,620,561"/>
+<area shape="rect" id="node28" href="$group__ClassicTimerImpl.html#ga2cba35074736e90029c84b81661d76d8" title=" " alt="" coords="447,585,622,626"/>
+<area shape="rect" id="node29" href="$group__ClassicTimerImpl.html#ga87bad837f2067c99fb19c6a7f05164c0" title=" " alt="" coords="439,650,630,691"/>
+<area shape="rect" id="node30" href="$group__RTEMSScoreWatchdog.html#gace59e3b987e52e536a15534fa1f91ec5" title="Gets the state of the watchdog." alt="" coords="955,716,1117,743"/>
+<area shape="rect" id="node31" href="$group__RTEMSScoreWatchdog.html#gaa77ec8a34fd2830fab0a5bb639c4ab06" title="Checks if the watchdog is scheduled." alt="" coords="695,767,879,793"/>
+<area shape="rect" id="node32" href="$group__RTEMSScoreWatchdog.html#ga4c6dafd66518b5af7edb7c0d67572065" title="In the case the watchdog is scheduled, then it is removed from the set of scheduled watchdogs." alt="" coords="457,817,612,844"/>
+<area shape="rect" id="node39" href="$group__RTEMSScoreWatchdog.html#ga08d63637741832757cddfc443e9cf473" title="Sets the state of the watchdog." alt="" coords="707,919,868,945"/>
+<area shape="rect" id="node23" href="$group__RTEMSScoreChain.html#gad7a790f247b3ace45f039c60c18f999f" title="Checks if the node is off chain." alt="" coords="714,1021,861,1062"/>
+<area shape="rect" id="node24" href="$group__RTEMSScoreChain.html#gadf0e5d55d133694eed8043ec13fe1266" title="Sets off chain." alt="" coords="707,969,867,996"/>
+<area shape="rect" id="node33" href="$group__RTEMSScoreRBTree.html#ga26bf30d26e521f0599ae0467abdacc85" title="Extracts (removes) the node from the red&#45;black tree." alt="" coords="724,817,851,844"/>
+<area shape="rect" id="node37" href="$group__RTEMSScoreWatchdog.html#gaa3f2959cd64e5f27cf67d1b89c45303a" title="Sets the first node of the header." alt="" coords="706,868,869,895"/>
+<area shape="rect" id="node34" href="$group__RTEMSScoreRBTree.html#gabbc757c2fd03694b6f9bb5aa2be553ff" title="Initializes a red&#45;black tree node." alt="" coords="948,817,1124,844"/>
+<area shape="rect" id="node36" href="$group__RTEMSScoreRBTree.html#ga29242f056330aaabc12dcfcaa6f10a05" title="Returns a pointer to root node of the red&#45;black tree." alt="" coords="981,767,1091,793"/>
+<area shape="rect" id="node35" href="$group__RTEMSScoreRBTree.html#ga82d9b6f1aad201e7c8b614a0e970b356" title="Sets a red&#45;black tree node as off&#45;tree." alt="" coords="1187,817,1346,844"/>
+<area shape="rect" id="node38" href="$group__RTEMSScoreRBTree.html#gadb8aa819c64641ff7a2342a7ef20b950" title="Returns pointer to the right of this node." alt="" coords="979,868,1093,895"/>
+<area shape="rect" id="node41" href="$group__RTEMSScoreObject.html#ga2215dcf7e3251e6f629b6a3a96fff44e" title="Frees an object." alt="" coords="478,1020,591,1047"/>
+<area shape="rect" id="node42" href="$group__RTEMSScoreObject.html#ga67f9cdae9423a81e46626f0e2cb9f305" title="Checks if the allocator is the owner of the object allocator mutex." alt="" coords="716,1086,859,1127"/>
+<area shape="rect" id="node43" href="$group__RTEMSScoreAllocatorMutex.html#ga8698c4f98051e1c097ed32e38fbf786f" title=" " alt="" coords="958,1086,1114,1127"/>
+<area shape="rect" id="node44" href="$group__RTEMSScoreAPIMutex.html#ga0a01be1d7b28416e738a2b97ca3f611d" title="Checks if the specified API mutex is owned by the executing thread." alt="" coords="1185,1093,1348,1120"/>
+<area shape="rect" id="node45" href="$group__PerCPU.html#ga294cfaf3cf50de03f1d9821d68b9c1bd" title="Returns the thread control block of the executing thread." alt="" coords="1396,1093,1571,1120"/>
+<area shape="rect" id="node47" href="$group__RTEMSScoreObject.html#gaccc5682133e4f65b8cb374eab9be2c9d" title="Maps the specified object identifier to the associated local object control block." alt="" coords="982,220,1090,247"/>
+<area shape="rect" id="node49" href="$group__RTEMSScoreWatchdog.html#ga6b10befdd7d24a03d5b738b62c08a4f3" title="Releases the per cpu watchdog lock in a critical section." alt="" coords="429,1071,640,1113"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="_Heap_Resize_block" name="_Heap_Resize_block">
+<area shape="rect" id="node1" title="Resizes the block of the allocated memory area." alt="" coords="5,31,160,57"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreHeap.html#gafd70a7d05fc0c46a87ff68d759ab3af3" title="Returns the starting address of the block corresponding to the allocatable area." alt="" coords="208,5,408,32"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreHeap.html#gabc511a89a627aea2d91fbc21b95a4ae7" title="Returns if the block is part of the heap." alt="" coords="217,56,399,83"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreHeap.html#ga2b11e4f1b69d3f6197165e4fb7f2e956" title="Returns the aligned value, truncating." alt="" coords="456,5,601,32"/>
+</map>

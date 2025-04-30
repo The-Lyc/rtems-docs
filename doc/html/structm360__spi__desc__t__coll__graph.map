@@ -1,0 +1,7 @@
+<map id="m360_spi_desc_t" name="m360_spi_desc_t">
+<area shape="rect" id="node1" title=" " alt="" coords="112,199,247,225"/>
+<area shape="rect" id="node2" href="$structrtems__libi2c__bus__t__.html" title=" " alt="" coords="24,109,175,136"/>
+<area shape="rect" id="node3" href="$structrtems__libi2c__bus__ops__.html" title=" " alt="" coords="5,5,175,32"/>
+<area shape="rect" id="node4" href="$structm360__spi__softc.html" title=" " alt="" coords="215,109,338,136"/>
+<area shape="rect" id="node5" href="$structm360BufferDescriptor__.html" title=" " alt="" coords="199,5,371,32"/>
+</map>

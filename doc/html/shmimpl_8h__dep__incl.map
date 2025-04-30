@@ -1,0 +1,9 @@
+<map id="cpukit/include/rtems/posix/shmimpl.h" name="cpukit/include/rtems/posix/shmimpl.h">
+<area shape="rect" id="node1" title="Private Support Information for POSIX Shared Memory." alt="" coords="565,5,720,47"/>
+<area shape="rect" id="node2" href="$mmap_8c.html" title=" " alt="" coords="5,95,187,121"/>
+<area shape="rect" id="node3" href="$munmap_8c.html" title=" " alt="" coords="211,95,408,121"/>
+<area shape="rect" id="node4" href="$shmheap_8c.html" title=" " alt="" coords="433,95,631,121"/>
+<area shape="rect" id="node5" href="$shmopen_8c.html" title=" " alt="" coords="655,95,854,121"/>
+<area shape="rect" id="node6" href="$shmunlink_8c.html" title=" " alt="" coords="878,95,1085,121"/>
+<area shape="rect" id="node7" href="$shmwkspace_8c.html" title=" " alt="" coords="1109,95,1333,121"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="cpukit/include/rtems/score/schedulerpriorityimpl.h" name="cpukit/include/rtems/score/schedulerpriorityimpl.h">
+<area shape="rect" id="node1" title="Inlined Routines Associated with the Manipulation of the Priority&#45;Based Scheduling Structures." alt="" coords="1115,5,1331,47"/>
+<area shape="rect" id="node2" href="$schedulerprioritysmpimpl_8h.html" title="Deterministic Priority SMP Scheduler API." alt="" coords="205,95,449,136"/>
+<area shape="rect" id="node3" href="$schedulerpriorityaffinitysmp_8c.html" title="Deterministic Priority Affinity SMP Scheduler Implementation." alt="" coords="5,184,328,211"/>
+<area shape="rect" id="node5" href="$schedulerpriority_8c.html" title=" " alt="" coords="473,102,719,129"/>
+<area shape="rect" id="node6" href="$schedulerpriorityblock_8c.html" title="Scheduler Priority Block." alt="" coords="743,102,1027,129"/>
+<area shape="rect" id="node7" href="$schedulerprioritychangepriority_8c.html" title="Removes Thread from Thread Queue." alt="" coords="1052,102,1393,129"/>
+<area shape="rect" id="node8" href="$schedulerpriorityschedule_8c.html" title="Priority Scheduler Schedule Method." alt="" coords="1417,102,1724,129"/>
+<area shape="rect" id="node9" href="$schedulerpriorityunblock_8c.html" title="Scheduler Priority Unblock." alt="" coords="1749,102,2049,129"/>
+<area shape="rect" id="node10" href="$schedulerpriorityyield_8c.html" title="Scheduler Priority Yield." alt="" coords="2073,102,2354,129"/>
+<area shape="rect" id="node11" href="$schedulerstrongapa_8c.html" title="Strong APA Scheduler Implementation." alt="" coords="2379,102,2645,129"/>
+<area shape="rect" id="node4" href="$schedulerprioritysmp_8c.html" title="Deterministic Priority SMP Scheduler Implementation." alt="" coords="352,184,629,211"/>
+</map>

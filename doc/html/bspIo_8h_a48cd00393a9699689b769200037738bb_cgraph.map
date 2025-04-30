@@ -1,0 +1,6 @@
+<map id="vprintk" name="vprintk">
+<area shape="rect" id="node1" title="Variable Argument printk()" alt="" coords="5,31,73,57"/>
+<area shape="rect" id="node2" href="$cpukit_2include_2rtems_2score_2io_8h.html#a6bb6bc6df4759579fd2e424421168c24" title=" " alt="" coords="135,5,230,32"/>
+<area shape="rect" id="node3" href="$bspIo_8h.html#aa7aa6e025aa35b36643e9ddbc2eccc10" title="Puts the character via rtems_putc()." alt="" coords="121,56,244,83"/>
+<area shape="rect" id="node4" href="$bspIo_8h.html#a6fd11f34260f10035f38a051af872e1e" title="Kernel Put Character." alt="" coords="292,56,387,83"/>
+</map>

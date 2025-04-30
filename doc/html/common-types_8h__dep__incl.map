@@ -1,0 +1,21 @@
+<map id="bsps/arm/lpc176x/include/bsp/common&#45;types.h" name="bsps/arm/lpc176x/include/bsp/common&#45;types.h">
+<area shape="rect" id="node1" title="Definitions types used by some devices in common." alt="" coords="727,5,915,47"/>
+<area shape="rect" id="node2" href="$lpc176x_2include_2bsp_2adc_8h.html" title="ADC library for the lpc176x bsp." alt="" coords="91,95,279,136"/>
+<area shape="rect" id="node5" href="$can-defs_8h.html" title="CAN controller for the lpc176x controller." alt="" coords="303,95,491,136"/>
+<area shape="rect" id="node7" href="$gpio-defs_8h.html" title="API definitions of the GPIO driver for the lpc176x bsp in RTEMS." alt="" coords="515,95,703,136"/>
+<area shape="rect" id="node10" href="$io-defs_8h.html" title="Input/output module definitions." alt="" coords="727,95,915,136"/>
+<area shape="rect" id="node12" href="$timer-defs_8h.html" title="API definitions of the for the timer of the lpc176x bsp." alt="" coords="939,95,1127,136"/>
+<area shape="rect" id="node16" href="$arm_2lpc176x_2start_2bspstart_8c.html" title="Startup code." alt="" coords="1317,273,1487,315"/>
+<area shape="rect" id="node18" href="$watchdog-defs_8h.html" title="API definitions of the Watchdog driver for the lpc176x bsp in RTEMS." alt="" coords="1408,95,1596,136"/>
+<area shape="rect" id="node3" href="$adc-defs_8h.html" title="ADC library for the lpc176x bsp." alt="" coords="5,184,193,225"/>
+<area shape="rect" id="node4" href="$adc_8c.html" title="ADC library for the lpc176x bsp." alt="" coords="81,273,251,315"/>
+<area shape="rect" id="node6" href="$can_8c.html" title="CAN controller for the mbed lpc1768 board." alt="" coords="315,184,479,225"/>
+<area shape="rect" id="node8" href="$lpc-gpio_8h.html" title="API of the GPIO driver for the lpc176x bsp in RTEMS." alt="" coords="508,184,696,225"/>
+<area shape="rect" id="node9" href="$lpc-gpio_8c.html" title="GPIO library for the lpc176x bsp." alt="" coords="517,273,687,315"/>
+<area shape="rect" id="node11" href="$bsps_2arm_2lpc176x_2include_2bsp_2io_8h.html" title="Input/output module methods definitions." alt="" coords="720,184,908,225"/>
+<area shape="rect" id="node13" href="$lpc176x_2include_2bsp_2system-clocks_8h.html" title="System clocks." alt="" coords="932,184,1120,225"/>
+<area shape="rect" id="node14" href="$bsps_2arm_2lpc176x_2include_2bsp_2timer_8h.html" title="Timer API for the lpc176x bsp." alt="" coords="1144,184,1332,225"/>
+<area shape="rect" id="node15" href="$arm_2lpc176x_2btimer_2btimer_8c.html" title="Timer benchmark functions for the lpc176x bsp." alt="" coords="909,273,1093,315"/>
+<area shape="rect" id="node17" href="$arm_2lpc176x_2timer_2timer_8c.html" title="Timer controller for the mbed lpc1768 board." alt="" coords="1117,273,1293,315"/>
+<area shape="rect" id="node19" href="$bsps_2arm_2lpc176x_2include_2bsp_2watchdog_8h.html" title="API of the Watchdog driver for the lpc176x bsp in RTEMS." alt="" coords="1408,184,1596,225"/>
+</map>

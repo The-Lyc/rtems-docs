@@ -1,0 +1,4 @@
+<map id="tms570_bsp_pin_clear_function" name="tms570_bsp_pin_clear_function">
+<area shape="rect" id="node1" title="clear connection between pin and specified peripherals/function" alt="" coords="259,5,425,47"/>
+<area shape="rect" id="node2" href="$pinmux_8c.html#a3f1fcae6177e90127dd1af7e9c93efe4" title="configure one pin according to its function specification" alt="" coords="5,13,211,39"/>
+</map>

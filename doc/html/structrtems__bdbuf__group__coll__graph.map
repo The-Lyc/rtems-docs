@@ -1,0 +1,9 @@
+<map id="rtems_bdbuf_group" name="rtems_bdbuf_group">
+<area shape="rect" id="node1" title=" " alt="" coords="5,97,153,124"/>
+<area shape="rect" id="node2" href="$structrtems__bdbuf__buffer.html" title=" " alt="" coords="77,279,226,305"/>
+<area shape="rect" id="node3" href="$structrtems__bdbuf__buffer_1_1rtems__bdbuf__avl__node.html" title=" " alt="" coords="62,383,241,424"/>
+<area shape="rect" id="node4" href="$structrtems__disk__device.html" title="Description of a disk device (logical and physical disks)." alt="" coords="254,188,398,215"/>
+<area shape="rect" id="node5" href="$structrtems__blkdev__read__ahead.html" title="Block device read&#45;ahead control." alt="" coords="229,97,423,124"/>
+<area shape="rect" id="node6" href="$structChain__Node__struct.html" title=" " alt="" coords="119,7,263,33"/>
+<area shape="rect" id="node7" href="$structrtems__blkdev__stats.html" title="Block device statistics." alt="" coords="448,97,599,124"/>
+</map>

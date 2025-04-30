@@ -1,0 +1,10 @@
+<map id="rtems_print_printer_printk" name="rtems_print_printer_printk">
+<area shape="rect" id="node1" title="Initializes the printer to print via printk()." alt="" coords="253,158,400,199"/>
+<area shape="rect" id="node2" href="$irq-info_8c.html#aedadad85f99e06e3101e9da39b343985" title="Prints interrupt information via the default printk plugin." alt="" coords="28,5,183,32"/>
+<area shape="rect" id="node3" href="$group__libmisc__cpuuse.html#gadb8847280947582f897b8b544dee213f" title="Report CPU usage." alt="" coords="14,56,197,83"/>
+<area shape="rect" id="node4" href="$group__libmisc__cpuuse.html#ga19ebbbc28253558959a17de6992d0ef2" title="CPU usage top." alt="" coords="23,107,187,133"/>
+<area shape="rect" id="node5" href="$group__ClassicRateMon.html#ga556dec002aada3b85d6af370fe233848" title="RTEMS Report Rate Monotonic Statistics." alt="" coords="21,158,190,199"/>
+<area shape="rect" id="node6" href="$group__libmisc__stackchk.html#ga8df4c8fbe9071233068782c83dc83fd0" title="Print the stack usage report using printk." alt="" coords="26,223,185,265"/>
+<area shape="rect" id="node7" href="$group__RTEMSTest.html#ga79fcd10b018b0b8499b54a25d88f990b" title="Fatal extension for tests." alt="" coords="5,289,205,316"/>
+<area shape="rect" id="node8" href="$group__libmisc__fb__mw.html#ga7266208fe16f89c75b32ea0dcc0c1a92" title=" " alt="" coords="33,340,178,367"/>
+</map>

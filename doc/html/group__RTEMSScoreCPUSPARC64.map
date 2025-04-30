@@ -1,0 +1,5 @@
+<map id="SPARC64" name="SPARC64">
+<area shape="rect" id="node1" href="$group__RTEMSScoreCPUSPARC64ASM.html" title="SPARC64 Assembler Support." alt="" coords="368,5,575,31"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreCPU.html" title="Provides CPU architecture dependent services." alt="" coords="5,5,192,31"/>
+<area shape="rect" id="node3" title="SPARC64 Architecture Support." alt="" coords="240,5,320,31"/>
+</map>

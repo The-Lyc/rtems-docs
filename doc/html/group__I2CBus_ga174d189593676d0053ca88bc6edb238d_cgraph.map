@@ -1,0 +1,4 @@
+<map id="i2c_bus_destroy_and_free" name="i2c_bus_destroy_and_free">
+<area shape="rect" id="node1" title="Destroys a bus control and frees its memory." alt="" coords="5,5,196,32"/>
+<area shape="rect" id="node2" href="$group__I2CBus.html#ga000d6042dcb980798aa8358dbdd5cfba" title="Destroys a bus control." alt="" coords="244,5,371,32"/>
+</map>

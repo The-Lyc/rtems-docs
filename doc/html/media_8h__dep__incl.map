@@ -1,0 +1,8 @@
+<map id="cpukit/include/rtems/media.h" name="cpukit/include/rtems/media.h">
+<area shape="rect" id="node1" title="Media Manager API." alt="" coords="331,5,486,47"/>
+<area shape="rect" id="node2" href="$media-desc_8c.html" title="Media implementation." alt="" coords="5,95,145,136"/>
+<area shape="rect" id="node3" href="$media-dev-ident_8c.html" title="Media implementation." alt="" coords="169,95,315,136"/>
+<area shape="rect" id="node4" href="$media-path_8c.html" title="Media implementation." alt="" coords="339,95,479,136"/>
+<area shape="rect" id="node5" href="$media-server_8c.html" title="Media implementation." alt="" coords="503,95,643,136"/>
+<area shape="rect" id="node6" href="$media_8c.html" title="Media implementation." alt="" coords="667,95,807,136"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="_Chain_Insert_ordered_unprotected" name="_Chain_Insert_ordered_unprotected">
+<area shape="rect" id="node1" title="Inserts a node into the chain according to the order relation." alt="" coords="493,35,660,76"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreMessageQueue.html#ga04e5a29d51194c8151bdaf94d2694a63" title="Inserts a message into the message queue." alt="" coords="262,5,441,47"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreSchedulerSimple.html#gaa5300b25adb782773a0974c4a4419fb2" title="Inserts the thread control with the given priority into the chain." alt="" coords="257,71,445,98"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreSchedulerSimple.html#ga5e15d6514580c3184e93d3dc935d0a6f" title="Unblocks the thread." alt="" coords="5,13,209,39"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreSchedulerSimple.html#gacb4b8fc8ec7b055afb904072c38f9fc5" title="Updates the priority of the node." alt="" coords="8,64,207,105"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreSchedulerSimple.html#gacbdfbb5b5fa2df49606df7bda8a69431" title="Performs the yield of a thread." alt="" coords="16,130,199,157"/>
+</map>

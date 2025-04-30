@@ -1,0 +1,7 @@
+<map id="Objects_Information" name="Objects_Information">
+<area shape="rect" id="node1" title="The information structure used to manage each API class of objects." alt="" coords="79,245,233,272"/>
+<area shape="rect" id="node2" href="$structObjects__Control.html" title=" " alt="" coords="159,112,284,139"/>
+<area shape="rect" id="node3" href="$structChain__Node__struct.html" title=" " alt="" coords="5,7,149,33"/>
+<area shape="rect" id="node5" href="$unionChain__Control.html" title=" " alt="" coords="21,112,134,139"/>
+<area shape="rect" id="node4" href="$unionObjects__Name.html" title=" " alt="" coords="259,7,376,33"/>
+</map>

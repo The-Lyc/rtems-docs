@@ -1,0 +1,6 @@
+<map id="cpukit/include/rtems/score/onceimpl.h" name="cpukit/include/rtems/score/onceimpl.h">
+<area shape="rect" id="node1" title="Once API." alt="" coords="281,5,435,47"/>
+<area shape="rect" id="node2" href="$pthreadonce_8c.html" title="Call to function by Thread will call init_routine with no Arguments." alt="" coords="5,95,225,121"/>
+<area shape="rect" id="node3" href="$timerserver_8c.html" title=" " alt="" coords="249,95,467,121"/>
+<area shape="rect" id="node4" href="$once_8c.html" title=" " alt="" coords="491,95,662,121"/>
+</map>

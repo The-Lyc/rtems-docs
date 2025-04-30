@@ -1,0 +1,5 @@
+<map id="rtems_rfs_group_bitmap_alloc" name="rtems_rfs_group_bitmap_alloc">
+<area shape="rect" id="node1" title="Allocate an inode or block." alt="" coords="5,35,187,76"/>
+<area shape="rect" id="node2" href="$rtems-rfs-bitmaps_8h.html#a9440e240c08c3da4132de47af5b9a21b" title=" " alt="" coords="235,5,408,47"/>
+<area shape="rect" id="node3" href="$rtems-rfs-trace_8h.html#ac3ad3d65a0c8d230ec5b076c78f09fd2" title=" " alt="" coords="259,71,383,98"/>
+</map>

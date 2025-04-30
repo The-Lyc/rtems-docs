@@ -1,0 +1,5 @@
+<map id="x86&#45;64" name="x86&#45;64">
+<area shape="rect" id="node1" href="$group__RTEMSScoreCPU.html" title="Provides CPU architecture dependent services." alt="" coords="5,5,192,31"/>
+<area shape="rect" id="node2" title="x86&#45;64 Architecture Support" alt="" coords="240,5,307,31"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreCPUx86-64ASM.html" title="x86&#45;64 Assembler Support" alt="" coords="355,5,549,31"/>
+</map>

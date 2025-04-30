@@ -1,0 +1,11 @@
+<map id="cpukit/include/rtems/rtems/partimpl.h" name="cpukit/include/rtems/rtems/partimpl.h">
+<area shape="rect" id="node1" title="Classic Partition Manager Implementation." alt="" coords="820,5,975,47"/>
+<area shape="rect" id="node2" href="$mon-object_8c.html" title=" " alt="" coords="5,95,173,136"/>
+<area shape="rect" id="node3" href="$partcreate_8c.html" title="RTEMS Partition Create." alt="" coords="198,102,407,129"/>
+<area shape="rect" id="node4" href="$partdelete_8c.html" title="RTEMS Delete Partition." alt="" coords="431,102,641,129"/>
+<area shape="rect" id="node5" href="$partgetbuffer_8c.html" title="RTEMS Get Partition Buffer." alt="" coords="665,102,892,129"/>
+<area shape="rect" id="node6" href="$partident_8c.html" title="RTEMS Partition Name to Id." alt="" coords="917,102,1118,129"/>
+<area shape="rect" id="node7" href="$partmp_8c.html" title="Partition_MP_Send_process_packet." alt="" coords="1143,102,1332,129"/>
+<area shape="rect" id="node8" href="$partreturnbuffer_8c.html" title=" " alt="" coords="1357,102,1601,129"/>
+<area shape="rect" id="node9" href="$getconfigmax_8c.html" title=" " alt="" coords="1625,102,1845,129"/>
+</map>

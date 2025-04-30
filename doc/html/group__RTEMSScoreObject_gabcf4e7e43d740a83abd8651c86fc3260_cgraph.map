@@ -1,0 +1,6 @@
+<map id="_Objects_Invalidate_Id" name="_Objects_Invalidate_Id">
+<area shape="rect" id="node1" title="Invalidates an object Id." alt="" coords="5,5,175,32"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreObject.html#ga22cdf45f285840b7728b06197a7f4627" title="Returns the index portion of the ID." alt="" coords="645,5,796,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreObject.html#ga9c697fd8a483c32420ccfff211ec3c14" title="Sets the pointer to the local_table object referenced by the index." alt="" coords="223,27,367,69"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreObject.html#gadf825a94fecd0945a4368e503e274bfd" title="Returns the maximum index of the specified object class." alt="" coords="415,27,597,69"/>
+</map>

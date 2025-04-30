@@ -1,0 +1,7 @@
+<map id="Thread_Timer_information" name="Thread_Timer_information">
+<area shape="rect" id="node1" title="Information required to manage a thread timer." alt="" coords="70,187,265,213"/>
+<area shape="rect" id="node2" href="$structWatchdog__Control.html" title="The control block used to manage each watchdog timer." alt="" coords="169,97,309,124"/>
+<area shape="rect" id="node3" href="$structRBTree__Node.html" title="Red&#45;black tree node." alt="" coords="32,7,140,33"/>
+<area shape="rect" id="node5" href="$structWatchdog__Header.html" title="The watchdog header to manage scheduled watchdogs." alt="" coords="5,97,145,124"/>
+<area shape="rect" id="node4" href="$structChain__Node__struct.html" title=" " alt="" coords="167,7,311,33"/>
+</map>

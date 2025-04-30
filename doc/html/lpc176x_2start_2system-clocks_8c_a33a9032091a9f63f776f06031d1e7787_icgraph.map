@@ -1,0 +1,5 @@
+<map id="lpc176x_sysclk" name="lpc176x_sysclk">
+<area shape="rect" id="node1" title=" " alt="" coords="323,5,444,32"/>
+<area shape="rect" id="node2" href="$group__lpc176x__clock.html#gabd5c49363477314782dd3ce3521962b1" title="Returns the CPU clock frequency in [Hz]." alt="" coords="5,5,112,32"/>
+<area shape="rect" id="node3" href="$group__lpc176x__clock.html#ga1838b91b836f6ac5a926f2976cc3ff91" title="Returns the PLL output clock frequency in [Hz]." alt="" coords="160,31,275,57"/>
+</map>

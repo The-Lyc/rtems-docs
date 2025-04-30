@@ -1,0 +1,10 @@
+<map id="rtems_rate_monotonic_report_statistics" name="rtems_rate_monotonic_report_statistics">
+<area shape="rect" id="node1" title="RTEMS Report Rate Monotonic Statistics." alt="" coords="5,61,175,102"/>
+<area shape="rect" id="node2" href="$group__RTEMSPrintSupport.html#ga553b725c5361554dc9788e1a6a82b373" title="Initializes the printer to print via printk()." alt="" coords="234,23,381,65"/>
+<area shape="rect" id="node8" href="$ratemonreportstatistics_8c.html#ad52240710b57a206748d17b882988a8c" title=" " alt="" coords="223,89,392,145"/>
+<area shape="rect" id="node3" href="$printk__plugin_8c.html#ada3e7b4e55515d9b5bd320510e73414b" title=" " alt="" coords="440,31,595,57"/>
+<area shape="rect" id="node4" href="$bspIo_8h.html#a48cd00393a9699689b769200037738bb" title="Variable Argument printk()" alt="" coords="643,31,711,57"/>
+<area shape="rect" id="node5" href="$cpukit_2include_2rtems_2score_2io_8h.html#a6bb6bc6df4759579fd2e424421168c24" title=" " alt="" coords="773,5,867,32"/>
+<area shape="rect" id="node6" href="$bspIo_8h.html#aa7aa6e025aa35b36643e9ddbc2eccc10" title="Puts the character via rtems_putc()." alt="" coords="759,56,881,83"/>
+<area shape="rect" id="node7" href="$bspIo_8h.html#a6fd11f34260f10035f38a051af872e1e" title="Kernel Put Character." alt="" coords="929,56,1024,83"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="_Timer_Free" name="_Timer_Free">
+<area shape="rect" id="node1" title="Timer_Free." alt="" coords="5,13,108,39"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreObject.html#ga2215dcf7e3251e6f629b6a3a96fff44e" title="Frees an object." alt="" coords="156,13,269,39"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreObject.html#ga67f9cdae9423a81e46626f0e2cb9f305" title="Checks if the allocator is the owner of the object allocator mutex." alt="" coords="317,5,460,47"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreAllocatorMutex.html#ga8698c4f98051e1c097ed32e38fbf786f" title=" " alt="" coords="508,5,664,47"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreAPIMutex.html#ga0a01be1d7b28416e738a2b97ca3f611d" title="Checks if the specified API mutex is owned by the executing thread." alt="" coords="712,13,875,39"/>
+<area shape="rect" id="node6" href="$group__PerCPU.html#ga294cfaf3cf50de03f1d9821d68b9c1bd" title="Returns the thread control block of the executing thread." alt="" coords="923,13,1097,39"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="bsps/powerpc/mpc8260ads/start/brg.c" name="bsps/powerpc/mpc8260ads/start/brg.c">
+<area shape="rect" id="node1" title=" " alt="" coords="101,5,300,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,95,63,121"/>
+<area shape="rect" id="node3" href="$mpc8260_8h.html" title=" " alt="" coords="87,95,181,121"/>
+<area shape="rect" id="node4" href="$mpc8260_2cpm_8h.html" title=" " alt="" coords="205,95,332,121"/>
+<area shape="rect" id="node5" href="$bspIo_8h.html" title="Interface to Kernel Print Methods." alt="" coords="356,95,467,121"/>
+<area shape="rect" id="node6" href="$basedefs_8h.html" title="Basic Definitions." alt="" coords="249,169,424,196"/>
+<area shape="rect" id="node11" title=" " alt="" coords="449,169,523,196"/>
+<area shape="rect" id="node7" title=" " alt="" coords="57,244,224,271"/>
+<area shape="rect" id="node8" title=" " alt="" coords="249,244,323,271"/>
+<area shape="rect" id="node9" title=" " alt="" coords="347,244,430,271"/>
+<area shape="rect" id="node10" title=" " alt="" coords="455,244,525,271"/>
+</map>

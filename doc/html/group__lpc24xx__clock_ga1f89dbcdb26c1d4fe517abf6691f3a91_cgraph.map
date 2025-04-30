@@ -1,0 +1,4 @@
+<map id="lpc24xx_cclk" name="lpc24xx_cclk">
+<area shape="rect" id="node1" title="Returns the CPU clock frequency in [Hz]." alt="" coords="5,5,112,32"/>
+<area shape="rect" id="node2" href="$group__lpc24xx__clock.html#ga985f11224a9ca5c881d6a7da40eb1b97" title="Returns the PLL output clock frequency in [Hz]." alt="" coords="160,5,275,32"/>
+</map>

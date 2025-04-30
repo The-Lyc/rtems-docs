@@ -1,0 +1,8 @@
+<map id="bsps/bfin/TLL6527M/console" name="bsps/bfin/TLL6527M/console">
+<area shape="rect" id="node1" href="dir_b9967aa23d63e8c81a71855c544f988f.html" title="console" alt="" coords="53,52,125,100"/>
+<area shape="rect" id="node2" href="dir_c87b4b4abe7d6e32815cfd1b1c17db0d.html" title="include" alt="" coords="5,148,77,196"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000422_000477.html" title="2" alt="" coords="64,128,74,143"/>
+<area shape="rect" id="node3" href="dir_cd198e36225ba3f41de97552050ac017.html" title="cpukit" alt="" coords="101,148,173,196"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000422_000080.html" title="4" alt="" coords="120,121,129,135"/>
+<area shape="rect" id="clust1" href="dir_5a8ed340cb2b1a674e0ef3274604aba7.html" title="TLL6527M" alt="" coords="43,16,136,111"/>
+</map>

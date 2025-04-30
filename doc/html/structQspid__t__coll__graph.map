@@ -1,0 +1,9 @@
+<map id="Qspid_t" name="Qspid_t">
+<area shape="rect" id="node1" title="qspi driver structure" alt="" coords="259,303,329,329"/>
+<area shape="rect" id="node2" href="$structQspiInstFrame__t.html" title="qspi frame structure for QSPI mode" alt="" coords="39,213,167,240"/>
+<area shape="rect" id="node3" href="$unionQspiInstFrame__t_1_1__QspiInstFrame.html" title=" " alt="" coords="5,109,201,151"/>
+<area shape="rect" id="node4" href="$structQspiInstFrame__t_1_1__QspiInstFrame_1_1__QspiInstFrameBM.html" title=" " alt="" coords="5,5,201,47"/>
+<area shape="rect" id="node5" href="$structQspiBuffer__t.html" title="qspi buffer structure" alt="" coords="192,213,295,240"/>
+<area shape="rect" id="node6" href="$structQspi.html" title="Qspi hardware registers." alt="" coords="319,213,370,240"/>
+<area shape="rect" id="node7" href="$structQspiMemCmd__t.html" title="qspi command structure" alt="" coords="395,213,521,240"/>
+</map>

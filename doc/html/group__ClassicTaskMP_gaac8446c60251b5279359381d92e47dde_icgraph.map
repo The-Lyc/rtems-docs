@@ -1,0 +1,4 @@
+<map id="_RTEMS_tasks_MP_Suspend" name="_RTEMS_tasks_MP_Suspend">
+<area shape="rect" id="node1" title="Issues a remote rtems_task_suspend() request." alt="" coords="209,5,413,32"/>
+<area shape="rect" id="node2" href="$group__ClassicTasks.html#ga16aca2f5aa37d9d2b2a1a54de0f63dbf" title="RTEMS Suspend Task." alt="" coords="5,5,161,32"/>
+</map>

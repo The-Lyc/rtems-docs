@@ -1,0 +1,9 @@
+<map id="_Objects_Get_information_id" name="_Objects_Get_information_id">
+<area shape="rect" id="node1" title="Gets information of an object from an ID." alt="" coords="5,56,216,83"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreObject.html#ga907a0412d7c657fa047641444090fe7b" title="Returns the API portion of the ID." alt="" coords="291,5,427,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreObject.html#ga450c379424f26235d60f702638d229fa" title="Returns the class portion of the ID." alt="" coords="285,56,433,83"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreObject.html#gaf45a5862e6e8eab0823ef39dfd1e9403" title="Gets object information." alt="" coords="264,107,455,133"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreObject.html#ga160a712acafe6e9c4a8b9ea6dcc2597b" title="Returns highest numeric value of a valid API for the specified API." alt="" coords="504,66,684,107"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreObject.html#gadf825a94fecd0945a4368e503e274bfd" title="Returns the maximum index of the specified object class." alt="" coords="503,131,685,173"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreObject.html#ga22cdf45f285840b7728b06197a7f4627" title="Returns the index portion of the ID." alt="" coords="733,139,884,165"/>
+</map>

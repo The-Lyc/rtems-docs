@@ -1,0 +1,24 @@
+<map id="_POSIX_Keys_Key_value_allocate" name="_POSIX_Keys_Key_value_allocate">
+<area shape="rect" id="node1" title=" " alt="" coords="5,251,185,293"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreFreechain.html#ga2a213d3f834d14e4dae74f7ff7b9f73d" title="Gets a node from the freechain." alt="" coords="252,233,375,260"/>
+<area shape="rect" id="node15" href="$group__RTEMSScoreWorkspace.html#ga8b19b310c0e6194a2750c505367d8539" title="Allocates a memory block of the specified size from the workspace." alt="" coords="233,284,393,311"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreChain.html#gac5bb79fd8e5b468790918a8e674a5d36" title="Gets the first node (unprotected)." alt="" coords="441,208,623,235"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreChain.html#ga67ffad0c14d402473760ec6bb8e93bcc" title="Checks if the chain is empty." alt="" coords="951,208,1085,235"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreFreechain.html#ga6d2f5e4f088a9c17928f2fa925a1d4f6" title="Extend the freechain with new nodes." alt="" coords="460,132,604,159"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreChain.html#ga1b1dedf23d978ddd9b30b0d1feb6e093" title="Gets the first node (unprotected)." alt="" coords="671,157,884,184"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreChain.html#ga8b66d3138b9cdacbcb0600c42237ff7d" title="Returns pointer to chain head." alt="" coords="965,107,1071,133"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreChain.html#gadf0e5d55d133694eed8043ec13fe1266" title="Sets off chain." alt="" coords="938,157,1098,184"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreChain.html#ga8b2c850d4d09d8db80d11e3199bce386" title="Returns pointer to immutable chain&#39;s first node." alt="" coords="1152,233,1328,260"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreChain.html#gaa2f09e6d639b1bc5a27451eb119b6e33" title="Returns pointer to immutable chain tail." alt="" coords="1154,183,1326,209"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreChain.html#gac08944db6f0428125d3b0d5a1c65b740" title="Returns pointer to immutable chain head." alt="" coords="1376,233,1559,260"/>
+<area shape="rect" id="node12" href="$group__RTEMSScoreChain.html#ga59b0dbda01fc9f0675bef62722627764" title="Initializes a chain header." alt="" coords="713,81,842,108"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreAddress.html#gaa7812bb29c95ed68f2b958d833c79399" title="Adds offset to an address." alt="" coords="932,56,1104,83"/>
+<area shape="rect" id="node14" href="$group__RTEMSScoreChain.html#ga06f3e2dd6d64411f0565e3b483e53673" title="Returns pointer to chain tail." alt="" coords="971,5,1065,32"/>
+<area shape="rect" id="node16" href="$group__RTEMSScoreHeap.html#gad26c02ca60b04b7e5845ec959f6d4330" title="Allocates a memory area." alt="" coords="471,313,593,340"/>
+<area shape="rect" id="node17" href="$group__RTEMSScoreHeap.html#ga15167f1ad5eb93d85f15adb5e5524ff5" title="Allocates an aligned memory area with boundary constraint." alt="" coords="688,310,867,351"/>
+<area shape="rect" id="node18" href="$group__RTEMSScoreHeap.html#ga2563e03746d89148a8782b02f6159821" title="Returns the first address in the block without the heap header." alt="" coords="939,310,1097,351"/>
+<area shape="rect" id="node19" href="$group__RTEMSScoreHeap.html#ga0299809a91130b3da718ee889f4fe43d" title="Returns the first block of the free list of the heap." alt="" coords="939,376,1097,403"/>
+<area shape="rect" id="node21" href="$group__RTEMSScoreHeap.html#gad25276de4aa987568f1bfc66a0c66700" title="Returns the tail of the free list of the heap." alt="" coords="941,427,1095,453"/>
+<area shape="rect" id="node22" href="$group__RTEMSScoreHeap.html#gad88e4681224e360888f3f4bd020c97a9" title="Returns if the previous heap block is used." alt="" coords="941,259,1095,285"/>
+<area shape="rect" id="node20" href="$group__RTEMSScoreHeap.html#ga860e7959de03ba830d0ebe1b4cca8273" title="Returns the head of the free list of the heap." alt="" coords="1158,376,1322,403"/>
+</map>

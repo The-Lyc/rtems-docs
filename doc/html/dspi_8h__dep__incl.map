@@ -1,0 +1,5 @@
+<map id="bsps/powerpc/mpc55xxevb/include/mpc55xx/dspi.h" name="bsps/powerpc/mpc55xxevb/include/mpc55xx/dspi.h">
+<area shape="rect" id="node1" title="Header file for the LibI2C bus driver for the Deserial Serial Peripheral Interface (DSPI)." alt="" coords="116,5,315,47"/>
+<area shape="rect" id="node2" href="$dspi_8c.html" title="Source file for the LibI2C bus driver for the Deserial Serial Peripheral Interface (DSPI)." alt="" coords="5,95,204,136"/>
+<area shape="rect" id="node3" href="$sd-card-init_8c.html" title="SD Card initialization code." alt="" coords="228,95,427,136"/>
+</map>

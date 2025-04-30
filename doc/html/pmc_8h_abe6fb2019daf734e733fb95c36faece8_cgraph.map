@@ -1,0 +1,4 @@
+<map id="PMC_SelectExtOsc" name="PMC_SelectExtOsc">
+<area shape="rect" id="node1" title="Select external OSC." alt="" coords="5,13,148,39"/>
+<area shape="rect" id="node2" href="$atsam_2contrib_2libraries_2libchip_2source_2pmc_8c.html#a1ee2f3bdfda0aadc728aa36d13a3371e" title="Disable internal 4/8/12MHz fast RC." alt="" coords="196,5,361,47"/>
+</map>

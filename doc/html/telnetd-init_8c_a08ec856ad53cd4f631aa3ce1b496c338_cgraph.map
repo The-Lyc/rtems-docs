@@ -1,0 +1,4 @@
+<map id="rtems_telnetd_initialize" name="rtems_telnetd_initialize">
+<area shape="rect" id="node1" title="Initializes the Telnet subsystem." alt="" coords="5,5,181,32"/>
+<area shape="rect" id="node2" href="$telnetd_8h.html#ab7d5c65a6bb6194b02bda5319d00de0d" title="Starts the Telnet server using the provided configuration." alt="" coords="229,5,380,32"/>
+</map>

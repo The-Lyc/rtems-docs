@@ -1,0 +1,6 @@
+<map id="_Priority_bit_map_Get_highest" name="_Priority_bit_map_Get_highest">
+<area shape="rect" id="node1" title="Gets highest portion of Priority queue bit map." alt="" coords="5,23,172,65"/>
+<area shape="rect" id="node2" href="$group__RTEMSScorePriority.html#gacf3f0ba39c90e26e3f821c04a2e48ee5" title="Returns the bit number of the first bit set in the specified value." alt="" coords="220,5,385,32"/>
+<area shape="rect" id="node4" href="$group__RTEMSScorePriority.html#ga7e9cb59c60f7231a454824509f3a1b6a" title="Returns the bit index position for the specified major or minor bit number." alt="" coords="227,56,378,83"/>
+<area shape="rect" id="node3" href="$if__xxx__rtems_8c.html#a0d44d815bf35b8d64e2c9b7dc79efa76" title=" " alt="" coords="433,5,472,32"/>
+</map>

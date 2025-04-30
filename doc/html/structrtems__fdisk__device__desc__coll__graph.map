@@ -1,0 +1,5 @@
+<map id="rtems_fdisk_device_desc" name="rtems_fdisk_device_desc">
+<area shape="rect" id="node1" title="Flash Device Descriptor holds the segments in a device." alt="" coords="109,109,296,136"/>
+<area shape="rect" id="node2" href="$structrtems__fdisk__segment__desc.html" title="Flash Segment Descriptor holds, number of continuous segments in the device of this type,..." alt="" coords="5,13,205,39"/>
+<area shape="rect" id="node3" href="$structrtems__fdisk__driver__handlers.html" title="Flash Low Level driver handlers." alt="" coords="229,5,373,47"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="bsp_interrupt_unlock" name="bsp_interrupt_unlock">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,164,108"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreAllocatorMutex.html#ga15d657c04537c2ad1841adc28b8dd747" title=" " alt="" coords="212,31,401,57"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreSysState.html#ga1f0777590280f354ba1a73b0b4ed143e" title="Gets the current system state." alt="" coords="233,81,381,108"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreSysState.html#gaa34964b3212ea72baf5ec0064f5d28df" title="Checks if the state is up." alt="" coords="227,132,386,159"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreAPIMutex.html#ga64a430ae861d0ce7f63413e651fbe36d" title="Releases the specified API mutex." alt="" coords="449,31,600,57"/>
+<area shape="rect" id="node4" href="$mutex_8c.html#adecd7211e7a1a5035841212574f45b31" title=" " alt="" coords="651,5,847,32"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreThread.html#gad5aaea7af4482aebd880403fb9c238af" title="Set the thread to life protected." alt="" coords="648,56,851,83"/>
+</map>

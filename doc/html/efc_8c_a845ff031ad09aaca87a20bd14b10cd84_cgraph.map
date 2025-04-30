@@ -1,0 +1,4 @@
+<map id="EFC_SetWaitState" name="EFC_SetWaitState">
+<area shape="rect" id="node1" title="Set read/write wait state on the EEFC peripheral." alt="" coords="5,5,144,32"/>
+<area shape="rect" id="node2" href="$efc_8c.html#a9472975ee0e532c5f2b8114953ddb66d" title=" " alt="" coords="192,5,311,32"/>
+</map>

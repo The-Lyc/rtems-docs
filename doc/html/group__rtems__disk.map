@@ -1,0 +1,5 @@
+<map id="Block Device Disk Management" name="Block Device Disk Management">
+<area shape="rect" id="node1" title="This module provides functions to manage disk devices." alt="" coords="211,7,441,33"/>
+<area shape="rect" id="node2" href="$group__Management.html" title="Management." alt="" coords="585,7,693,33"/>
+<area shape="rect" id="node3" href="$group__rtems__libblock.html" title="Block device modules." alt="" coords="5,7,161,33"/>
+</map>

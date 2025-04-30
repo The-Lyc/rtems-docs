@@ -1,0 +1,52 @@
+<map id="cpukit/libfs/src/dosfs/msdos_misc.c" name="cpukit/libfs/src/dosfs/msdos_misc.c">
+<area shape="rect" id="node1" title="Miscellaneous Routines Implementation for MSDOS FileSystem." alt="" coords="1083,5,1239,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,95,76,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="100,95,171,121"/>
+<area shape="rect" id="node4" title=" " alt="" coords="195,95,286,121"/>
+<area shape="rect" id="node5" title=" " alt="" coords="223,468,298,495"/>
+<area shape="rect" id="node6" href="$string_8h.html" title=" " alt="" coords="1635,319,1705,345"/>
+<area shape="rect" id="node7" href="$assert_8h.html" title="Information for the Assert Handler." alt="" coords="325,319,399,345"/>
+<area shape="rect" id="node13" href="$errno_8h.html" title=" " alt="" coords="1563,393,1631,420"/>
+<area shape="rect" id="node14" href="$inttypes_8h.html" title="Provide printf() PRIxxx Constante Beyond Standards." alt="" coords="2095,767,2181,793"/>
+<area shape="rect" id="node15" href="$libio___8h.html" title="LibIO Internal Interface." alt="" coords="920,244,1031,271"/>
+<area shape="rect" id="node41" href="$fat_8h.html" title="Constants/Data Structures/Prototypes on a Volume with FAT Filesystem." alt="" coords="1311,244,1363,271"/>
+<area shape="rect" id="node44" href="$fat__fat__operations_8h.html" title="Constants/Data Structures/Prototypes for Files Allocation Table." alt="" coords="1013,169,1167,196"/>
+<area shape="rect" id="node45" href="$fat__file_8h.html" title="Constants/Data Structures/Prototypes for Operations on &quot;fat&#45;file&quot;." alt="" coords="1191,169,1269,196"/>
+<area shape="rect" id="node47" href="$msdos_8h.html" title="The MSDOS Filesystem Constants/Data Structures/Prototypes." alt="" coords="1345,95,1422,121"/>
+<area shape="rect" id="node50" title=" " alt="" coords="2185,95,2251,121"/>
+<area shape="rect" id="node8" href="$basedefs_8h.html" title="Basic Definitions." alt="" coords="908,767,1083,793"/>
+<area shape="rect" id="node9" title=" " alt="" coords="1819,841,1985,868"/>
+<area shape="rect" id="node10" title=" " alt="" coords="1010,841,1085,868"/>
+<area shape="rect" id="node11" title=" " alt="" coords="903,841,986,868"/>
+<area shape="rect" id="node12" title=" " alt="" coords="1488,841,1559,868"/>
+<area shape="rect" id="node16" title=" " alt="" coords="685,468,765,495"/>
+<area shape="rect" id="node17" title=" " alt="" coords="731,393,801,420"/>
+<area shape="rect" id="node18" href="$pthread_8h.html" title="POSIX Threads Private Support." alt="" coords="523,319,607,345"/>
+<area shape="rect" id="node21" href="$rtems_8h.html" title=" " alt="" coords="1161,468,1233,495"/>
+<area shape="rect" id="node37" href="$libio_8h.html" title="Basic IO API." alt="" coords="1005,393,1109,420"/>
+<area shape="rect" id="node38" href="$seterr_8h.html" title="Data which Ease the Burden of Consistently Setting Errno." alt="" coords="1317,319,1431,345"/>
+<area shape="rect" id="node39" href="$userenv_8h.html" title="User Environment Support." alt="" coords="776,319,903,345"/>
+<area shape="rect" id="node19" href="$threadsup_8h.html" title="POSIX Thread API Support." alt="" coords="475,393,655,420"/>
+<area shape="rect" id="node20" href="$score_2thread_8h.html" title="Constants and Structures Related with the Thread Control Block." alt="" coords="454,468,611,495"/>
+<area shape="rect" id="node22" href="$system_8h.html" title="Information Included in Every Function in the Executive." alt="" coords="1044,543,1168,569"/>
+<area shape="rect" id="node23" href="$rtems_2status_8h.html" title=" " alt="" coords="1043,692,1201,719"/>
+<area shape="rect" id="node24" href="$cpukit_2include_2rtems_2rtems_2types_8h.html" title=" " alt="" coords="1446,692,1601,719"/>
+<area shape="rect" id="node25" href="$include_2rtems_2config_8h.html" title="Table of User Defined Configuration Parameters." alt="" coords="1366,543,1481,569"/>
+<area shape="rect" id="node26" href="$extension_8h.html" title="User Extensions API." alt="" coords="1453,617,1593,644"/>
+<area shape="rect" id="node27" href="$init_8h.html" title="Constants and Structures Associated with the Initialization Manager." alt="" coords="1244,543,1341,569"/>
+<area shape="rect" id="node28" href="$intr_8h.html" title=" " alt="" coords="879,617,1018,644"/>
+<area shape="rect" id="node29" href="$options_8h.html" title=" " alt="" coords="536,617,703,644"/>
+<area shape="rect" id="node30" href="$tasks_8h.html" title="Classic Task Manager API." alt="" coords="1669,617,1823,644"/>
+<area shape="rect" id="node31" href="$barrier_8h.html" title="Classic Barrier Manager API." alt="" coords="1042,617,1202,644"/>
+<area shape="rect" id="node32" href="$cpukit_2include_2rtems_2rtems_2cache_8h.html" title=" " alt="" coords="548,692,704,719"/>
+<area shape="rect" id="node33" href="$cpukit_2include_2rtems_2rtems_2clock_8h.html" title=" " alt="" coords="1226,617,1378,644"/>
+<area shape="rect" id="node34" href="$cpukit_2include_2rtems_2rtems_2timer_8h.html" title="Classic Timer Manager API." alt="" coords="1777,543,1929,569"/>
+<area shape="rect" id="node35" href="$sem_8h.html" title="Classic Semaphores Manager API." alt="" coords="1555,543,1702,569"/>
+<area shape="rect" id="node36" href="$message_8h.html" title="Classic Message Queue Manager API." alt="" coords="652,543,829,569"/>
+<area shape="rect" id="node40" title=" " alt="" coords="877,393,980,420"/>
+<area shape="rect" id="node42" href="$sys_2endian_8h.html" title=" " alt="" coords="1455,319,1559,345"/>
+<area shape="rect" id="node43" href="$bdbuf_8h.html" title="Block Device Buffer Management." alt="" coords="1079,319,1191,345"/>
+<area shape="rect" id="node46" title=" " alt="" coords="1127,244,1191,271"/>
+<area shape="rect" id="node48" href="$dosfs_8h.html" title="Application Interface to FAT Filesystem." alt="" coords="1753,319,1864,345"/>
+<area shape="rect" id="node49" href="$thread_8h.html" title=" " alt="" coords="1991,319,2109,345"/>
+</map>

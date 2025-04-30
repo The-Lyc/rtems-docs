@@ -1,0 +1,11 @@
+<map id="_Thread_queue_Enqueue" name="_Thread_queue_Enqueue">
+<area shape="rect" id="node1" title="Blocks the thread and places it on the thread queue." alt="" coords="465,180,649,207"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreBarrier.html#ga760e64255cc0635768c65b566c536e3e" title="Waits for the barrier." alt="" coords="241,5,399,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreMutex.html#ga89693ae813a53c8984a6e40c6c228322" title="Seize the mutex slowly." alt="" coords="223,56,417,83"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreRWLock.html#ga44d546f0608f0a64a0473cf70bcd251c" title="Obtains RWLock for reading." alt="" coords="237,107,403,149"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreRWLock.html#ga83de98cd4ad1f99dc3f89b6b31d3d9e8" title="Obtains RWLock for writing." alt="" coords="237,173,403,214"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreSemaphore.html#ga7b6f46a1b1493871428be3b274ebb0f0" title="Seizes the semaphore." alt="" coords="227,239,413,265"/>
+<area shape="rect" id="node8" href="$mutexlocksupp_8c.html#af5a36f147a0bac173e2c0efaae0c01c1" title=" " alt="" coords="223,289,417,316"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreThread.html#ga659bc82bc257e001d0b94f10436fbab2" title="Joins the currently executing thread with the given thread to wait for." alt="" coords="267,340,373,367"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreMPCI.html#gaf232dadc9160e4b1c733906d3a6d1f57" title="Receives and processes all packets." alt="" coords="5,239,175,265"/>
+</map>

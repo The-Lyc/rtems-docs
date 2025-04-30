@@ -1,0 +1,26 @@
+<map id="bsp_start_hook_0" name="bsp_start_hook_0">
+<area shape="rect" id="node1" title=" " alt="" coords="5,267,141,293"/>
+<area shape="rect" id="node2" href="$tms570__hwinit_8h.html#a1e087d887d4b7158cac63c2b7e3b2c7d" title=" " alt="" coords="189,5,400,32"/>
+<area shape="rect" id="node3" href="$tms570__hwinit_8h.html#a4061392dca6693f25e76131c6081c99a" title=" " alt="" coords="207,56,382,83"/>
+<area shape="rect" id="node4" href="$tms570__hwinit_8h.html#a6677e111798acb3b452b56c197e5b881" title=" " alt="" coords="207,107,382,133"/>
+<area shape="rect" id="node5" href="$tms570__hwinit_8h.html#a41e8e4dc7ef2ed7eaf51e5db53a39697" title=" " alt="" coords="212,157,377,184"/>
+<area shape="rect" id="node6" href="$tms570__selftest_8h.html#a3af264550de13cdb92997bdf563e9608" title="Reaction to PBIST failure (HCG:pbistFail)" alt="" coords="225,208,364,235"/>
+<area shape="rect" id="node9" href="$tms570__selftest_8h.html#af1c3d98396d0f295ab496cdc0577bd35" title="Checks to see if the PBIST test is completed (HCG:pbistIsTestCompleted)" alt="" coords="215,259,375,301"/>
+<area shape="rect" id="node10" href="$tms570__selftest_8h.html#a3d0fcf098db785473095cdb41233f1a5" title="Checks to see if the PBIST test is completed successfully (HCG:pbistIsTestPassed)" alt="" coords="215,325,375,366"/>
+<area shape="rect" id="node11" href="$tms570__selftest_8h.html#a2376e5b0a51e86ba1f63df1bbada21ae" title="CPU self test Driver (HCG:pbistRun)" alt="" coords="225,391,364,417"/>
+<area shape="rect" id="node12" href="$tms570__selftest_8h.html#a1918892570812dab64902cec171d51c7" title="PBIST self test Driver (HCG:pbistSelfCheck)" alt="" coords="201,441,388,468"/>
+<area shape="rect" id="node14" href="$tms570__selftest_8h.html#ac5cc973602c5b073b3440d9ecc5baea3" title="Routine to stop PBIST test enabled (HCG:pbistStop)" alt="" coords="222,492,367,519"/>
+<area shape="rect" id="node15" href="$tms570__hwinit_8h.html#adfc60d117ea095a205722a96aeaf3b65" title="TMS570 system hardware initialization (HCG:systemInit)" alt="" coords="205,580,385,607"/>
+<area shape="rect" id="node7" href="$tms570__selftest_8h.html#ae89ad5a284c2bbd6ce089c00a2af859a" title=" " alt="" coords="465,167,639,209"/>
+<area shape="rect" id="node8" href="$tms570__selftest_8c.html#a4b1c93384127a551a362cb3b5e177612" title="Checks to see if the PBIST Port test is completed successfully (HCG:pbistPortTestStatus)" alt="" coords="465,233,639,274"/>
+<area shape="rect" id="node13" href="$tms570__selftest_8h.html#a30cfa0cf0faa449eb4b23e4fbff1b998" title=" " alt="" coords="448,403,656,429"/>
+<area shape="rect" id="node16" href="$tms570__selftest_8h.html#afd959ec39d9ce0d6aedcb981fcafe068" title="EFUSE module self check Driver (HCG:efcCheck)" alt="" coords="481,453,623,480"/>
+<area shape="rect" id="node17" href="$tms570__selftest_8h.html#ae8189fb35808005c608dec5b8aa171c4" title="EFUSE module self check Driver (HCG:checkefcSelfTest)" alt="" coords="449,504,655,531"/>
+<area shape="rect" id="node18" href="$init__system_8c.html#a93991a2136c7abc0b1c6be56b46bd1dd" title="Setup Flash memory parameters and timing (HCG:setupFlash)" alt="" coords="483,555,621,581"/>
+<area shape="rect" id="node19" href="$init__system_8c.html#a6843c9d8e672b736a060ea5314bd2c91" title="Setup chip clocks including to wait for PLLs locks (HCG:mapClocks)" alt="" coords="464,605,640,632"/>
+<area shape="rect" id="node20" href="$init__system_8c.html#ae309cda1599147b5dbdec6c4d19732b6" title="Power&#45;up all peripherals and enable their clocks (HCG:periphInit)" alt="" coords="479,656,625,683"/>
+<area shape="rect" id="node21" href="$tms570__hwinit_8h.html#a42616a5455eebfb4efa9bfc67e4dfdf7" title="setups pin multiplexer according to precomputed registers values (HCG:muxInit)" alt="" coords="475,707,629,733"/>
+<area shape="rect" id="node23" href="$init__system_8c.html#a43137f0b9b1e10251be70ee40935709a" title="Setup all system PLLs (HCG:setupPLL)" alt="" coords="491,757,613,784"/>
+<area shape="rect" id="node24" href="$init__system_8c.html#a788b6e4333764ce64557748a795fcaef" title="Adjust Low&#45;Frequency (LPO) oscilator (HCG:trimLPO)" alt="" coords="472,808,632,835"/>
+<area shape="rect" id="node22" href="$tms570-pinmux_8h.html#a061d7b53280d6fc349a4157613712aef" title="configure block or whole pin multiplexer" alt="" coords="704,707,909,733"/>
+</map>

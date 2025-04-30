@@ -1,0 +1,36 @@
+<map id="_RBTree_Root" name="_RBTree_Root">
+<area shape="rect" id="node1" title="Returns a pointer to root node of the red&#45;black tree." alt="" coords="1433,443,1544,469"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreRBTree.html#ga26bf30d26e521f0599ae0467abdacc85" title="Extracts (removes) the node from the red&#45;black tree." alt="" coords="1235,392,1361,419"/>
+<area shape="rect" id="node33" href="$group__RTEMSScoreRBTree.html#ga35988f7d76f4cbc30fa90df30993cdf7" title="Returns the container of the first node of the specified red&#45;black tree in postorder." alt="" coords="1211,443,1385,469"/>
+<area shape="rect" id="node34" href="$group__ClassicRBTrees.html#ga1403efdb42c97e073824a6350f09ea6f" title="Return pointer to RBTree root." alt="" coords="1229,493,1367,520"/>
+<area shape="rect" id="node3" href="$group__RTEMSScorePriority.html#ga3f23c793bc3fa87aa768c81154f1b54a" title="Extracts the priority node from the aggregation." alt="" coords="989,123,1157,149"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreSchedulerEDF.html#ga3b25999c8ed803d5e2cebce7ad1b2060" title="Extracts the scheduler node from the ready queue of the context." alt="" coords="984,312,1163,339"/>
+<area shape="rect" id="node14" href="$group__RTEMSScoreWatchdog.html#ga4c6dafd66518b5af7edb7c0d67572065" title="In the case the watchdog is scheduled, then it is removed from the set of scheduled watchdogs." alt="" coords="996,443,1151,469"/>
+<area shape="rect" id="node30" href="$group__ClassicRBTrees.html#gac42d79ad499c2243f75ebdb4df3edb5c" title="Extracts (removes) the node from the red&#45;black tree." alt="" coords="994,595,1153,621"/>
+<area shape="rect" id="node4" href="$group__RTEMSScorePriority.html#ga4a779aca3d3f5d714c7468398c30399d" title="Extracts the node from the aggregation." alt="" coords="762,5,891,32"/>
+<area shape="rect" id="node5" href="$group__RTEMSScorePriority.html#ga8628c09ae0aafba6264881d74cf3bcc6" title="Extracts the node from the aggregation." alt="" coords="747,57,907,98"/>
+<area shape="rect" id="node6" href="$group__RTEMSScorePriority.html#ga96c4da0740e220f6f9a130b00a08c336" title="Updates the priority of the node in the aggregation." alt="" coords="738,123,915,149"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreScheduler.html#gafdf8dfa2c90ca2122b995bb6dd42fcda" title="Sets a new scheduler." alt="" coords="766,173,887,200"/>
+<area shape="rect" id="node7" href="$group__RTEMSScorePriority.html#gaf09a0d40270cffbc84c45ca0655d2d78" title="Updates the priority of the node in the aggregation." alt="" coords="493,123,633,149"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreSchedulerEDF.html#ga0daebfc9b131bd097db9899942bb0926" title="Extracts the node from the context of the given scheduler." alt="" coords="717,224,936,251"/>
+<area shape="rect" id="node12" href="$group__RTEMSScoreSchedulerEDF.html#gaf8da2ab5519218b6509eeecb90f4f1d7" title="Updates the priority of the scheduler node." alt="" coords="737,275,917,317"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreSchedulerEDF.html#ga1e56a56a016ef9317cae0090f846ceb6" title="Executes a thread yield for the thread." alt="" coords="744,341,909,368"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreSchedulerEDF.html#gac26bbc49f94fa506fd0bdea7c1f09066" title="Removes the blocking thread from the ready queue and schedules is only again if the thread is executi..." alt="" coords="479,224,648,251"/>
+<area shape="rect" id="node15" href="$group__ClassicTimerImpl.html#gad3cc9c58e403f6c6e7e53ab678d665f7" title=" " alt="" coords="767,392,886,419"/>
+<area shape="rect" id="node22" href="$group__RTEMSScoreWatchdog.html#gac3404e106d8637114b5205d4eba1f7c6" title="In the case the watchdog is scheduled, then it is removed from the set of scheduled watchdogs." alt="" coords="755,443,899,469"/>
+<area shape="rect" id="node23" href="$group__RTEMSScoreWatchdog.html#ga5634267a330e8974e3035399224cf029" title="Removes the watchdog from the cpu and the scheduled watchdogs." alt="" coords="721,493,933,520"/>
+<area shape="rect" id="node29" href="$psxtimerdelete_8c.html#ad114bb350d7d5d12cff3fd19bf533303" title=" " alt="" coords="774,544,879,571"/>
+<area shape="rect" id="node16" href="$group__ClassicTimerImpl.html#ga88df13f9a367637321a0783369bec2cb" title=" " alt="" coords="514,341,613,368"/>
+<area shape="rect" id="node20" href="$group__ClassicTimer.html#ga746671597de779ad02b9ca72facc9e92" title="rtems_timer_cancel" alt="" coords="488,392,639,419"/>
+<area shape="rect" id="node21" href="$group__ClassicTimer.html#ga582cf1f171214dabcc2af8c5bd48898f" title="RTEMS Delete Timer." alt="" coords="488,443,639,469"/>
+<area shape="rect" id="node17" href="$group__ClassicTimerImpl.html#gaa71b85670a35521a0f1267eabcbc3835" title=" " alt="" coords="249,341,383,368"/>
+<area shape="rect" id="node18" href="$group__ClassicTimer.html#gad9785a6bd78ab5a591a134d147b2bdd3" title="RTEMS Timer Fire After." alt="" coords="7,312,173,339"/>
+<area shape="rect" id="node19" href="$group__ClassicTimer.html#ga521234c97e4fbf2d2e759d78447b5a8f" title="RTEMS Timer Server Fire After." alt="" coords="15,363,165,405"/>
+<area shape="rect" id="node24" href="$group__RTEMSScoreThread.html#ga8483d8009fe0047a5a48de4a5f6f2ad7" title="Remove the watchdog timer from the thread." alt="" coords="475,493,651,520"/>
+<area shape="rect" id="node26" href="$group__RTEMSScoreWatchdog.html#ga0d978ece12fb00ebea90c370fcd5c871" title="Removes the watchdog from the cpu and the scheduled watchdogs." alt="" coords="457,545,669,586"/>
+<area shape="rect" id="node25" href="$group__ClassicEventImpl.html#ga63d82e0e70a4acc2784bb7bc1bba01fb" title=" " alt="" coords="262,493,370,520"/>
+<area shape="rect" id="node27" href="$group__ClassicRateMonImpl.html#gab174ae30d1440637fecb41e22258f54f" title=" " alt="" coords="223,552,409,579"/>
+<area shape="rect" id="node28" href="$group__ClassicRateMon.html#ga4313840d58c7a2ccc4b1e6151e712bf7" title="RTEMS Rate Monotonic Cancel." alt="" coords="5,545,175,586"/>
+<area shape="rect" id="node31" href="$group__ClassicRBTrees.html#ga358665bb5a3ebe142489530fb86af804" title="Gets a node with the maximal key value from the red&#45;black tree." alt="" coords="741,595,912,621"/>
+<area shape="rect" id="node32" href="$group__ClassicRBTrees.html#gaf2f3d6be3886b350a0ef83d4225b74bc" title="Gets a node with the minimum key value from the red&#45;black tree." alt="" coords="743,645,910,672"/>
+</map>

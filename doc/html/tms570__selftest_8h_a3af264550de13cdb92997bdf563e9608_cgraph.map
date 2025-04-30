@@ -1,0 +1,5 @@
+<map id="tms570_pbist_fail" name="tms570_pbist_fail">
+<area shape="rect" id="node1" title="Reaction to PBIST failure (HCG:pbistFail)" alt="" coords="5,46,144,73"/>
+<area shape="rect" id="node2" href="$tms570__selftest_8h.html#ae89ad5a284c2bbd6ce089c00a2af859a" title=" " alt="" coords="192,5,367,47"/>
+<area shape="rect" id="node3" href="$tms570__selftest_8c.html#a4b1c93384127a551a362cb3b5e177612" title="Checks to see if the PBIST Port test is completed successfully (HCG:pbistPortTestStatus)" alt="" coords="192,71,367,112"/>
+</map>

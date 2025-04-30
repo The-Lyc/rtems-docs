@@ -1,0 +1,10 @@
+<map id="rtems_rbtree_get_max" name="rtems_rbtree_get_max">
+<area shape="rect" id="node1" title="Gets a node with the maximal key value from the red&#45;black tree." alt="" coords="5,56,176,83"/>
+<area shape="rect" id="node2" href="$group__ClassicRBTrees.html#gac42d79ad499c2243f75ebdb4df3edb5c" title="Extracts (removes) the node from the red&#45;black tree." alt="" coords="224,31,383,57"/>
+<area shape="rect" id="node7" href="$group__ClassicRBTrees.html#gad2f68e2923189451b5cda9223920d833" title="Returns the maximum node of the red&#45;black tree." alt="" coords="232,81,375,108"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreRBTree.html#ga26bf30d26e521f0599ae0467abdacc85" title="Extracts (removes) the node from the red&#45;black tree." alt="" coords="441,31,567,57"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreRBTree.html#gabbc757c2fd03694b6f9bb5aa2be553ff" title="Initializes a red&#45;black tree node." alt="" coords="625,5,801,32"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreRBTree.html#ga29242f056330aaabc12dcfcaa6f10a05" title="Returns a pointer to root node of the red&#45;black tree." alt="" coords="658,56,769,83"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreRBTree.html#ga82d9b6f1aad201e7c8b614a0e970b356" title="Sets a red&#45;black tree node as off&#45;tree." alt="" coords="849,5,1008,32"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreRBTree.html#gac5ea3ed76d45cb2b1cfa6f6290f90b65" title="Returns the maximum node of the red&#45;black tree." alt="" coords="431,81,577,108"/>
+</map>

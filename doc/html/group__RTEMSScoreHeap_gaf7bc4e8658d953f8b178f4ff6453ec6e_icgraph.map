@@ -1,0 +1,9 @@
+<map id="_Heap_Get_free_information" name="_Heap_Get_free_information">
+<area shape="rect" id="node1" title="Returns information about free blocks for the heap." alt="" coords="488,139,697,166"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreHeap.html#ga7822352d7403927196f2403ec48fc882" title="Greedily allocates all blocks except the largest free block." alt="" coords="264,67,440,108"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreProtHeap.html#ga54aae0cfc83e761f71d9219228f614d4" title="Returns information about free blocks for the heap." alt="" coords="272,132,432,173"/>
+<area shape="rect" id="node7" href="$group__ClassicRegion.html#ga30893b36778c4b55d2e38ecd36a8a5a2" title="RTEMS Get Region Free Information." alt="" coords="267,197,437,239"/>
+<area shape="rect" id="node3" href="$rtems__heap__greedy_8c.html#aba5ba5020cadde776ad76aff68db5563" title="Greedy allocate all blocks except the largest free block." alt="" coords="5,5,216,47"/>
+<area shape="rect" id="node4" href="$group__ClassicRTEMSWorkspace.html#ga631bbb4b9c5dab3b7da64412e1a19c16" title="Greedy allocate all blocks except the largest free block." alt="" coords="7,71,214,112"/>
+<area shape="rect" id="node6" href="$group__libcsupport.html#ga94bb8ab9f51bf5f8228de8068c1b5e86" title="Get free malloc information." alt="" coords="39,139,183,166"/>
+</map>

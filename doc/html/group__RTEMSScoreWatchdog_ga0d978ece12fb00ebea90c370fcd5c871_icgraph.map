@@ -1,0 +1,5 @@
+<map id="_Watchdog_Per_CPU_remove_ticks" name="_Watchdog_Per_CPU_remove_ticks">
+<area shape="rect" id="node1" title="Removes the watchdog from the cpu and the scheduled watchdogs." alt="" coords="457,5,669,47"/>
+<area shape="rect" id="node2" href="$group__ClassicRateMonImpl.html#gab174ae30d1440637fecb41e22258f54f" title=" " alt="" coords="223,13,409,39"/>
+<area shape="rect" id="node3" href="$group__ClassicRateMon.html#ga4313840d58c7a2ccc4b1e6151e712bf7" title="RTEMS Rate Monotonic Cancel." alt="" coords="5,5,175,47"/>
+</map>

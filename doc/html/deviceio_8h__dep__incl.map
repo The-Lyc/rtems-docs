@@ -1,0 +1,6 @@
+<map id="cpukit/include/rtems/deviceio.h" name="cpukit/include/rtems/deviceio.h">
+<area shape="rect" id="node1" title="Operations on IMFS Device Nodes." alt="" coords="191,5,346,47"/>
+<area shape="rect" id="node2" href="$sup__fs__deviceio_8c.html" title="RTEMS DeviceIO Support." alt="" coords="5,95,169,136"/>
+<area shape="rect" id="node3" href="$deviceio_8c.html" title="IMFS Device Node Handlers." alt="" coords="193,95,344,136"/>
+<area shape="rect" id="node4" href="$rtems-rfs-rtems-dev_8c.html" title="RTEMS RFS Device Interface." alt="" coords="369,95,537,136"/>
+</map>

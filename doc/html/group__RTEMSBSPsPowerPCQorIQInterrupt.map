@@ -1,0 +1,9 @@
+<map id="QorIQ &#45; Interrupt Support" name="QorIQ &#45; Interrupt Support">
+<area shape="rect" id="node1" href="$group__QoriqInterruptP2020.html" title="P2020 internal interrupt sources." alt="" coords="385,5,551,45"/>
+<area shape="rect" id="node2" href="$group__QoriqInterruptAll.html" title="Internal interrupt sources." alt="" coords="377,69,559,109"/>
+<area shape="rect" id="node3" href="$group__QoriqInterruptP1020.html" title="P1020 internal interrupt sources." alt="" coords="385,133,551,173"/>
+<area shape="rect" id="node4" href="$group__QoriqInterruptIPI.html" title="Interprocessor interrupts." alt="" coords="385,197,551,237"/>
+<area shape="rect" id="node5" title="Interrupt support." alt="" coords="144,141,327,166"/>
+<area shape="rect" id="node6" href="$group__QoriqInterruptExternal.html" title="External interrupt sources." alt="" coords="375,261,561,301"/>
+<area shape="rect" id="node7" href="$group__RTEMSBSPsPowerPCQorIQ.html" title="NXP QorIQ Board Support Package." alt="" coords="5,141,96,166"/>
+</map>

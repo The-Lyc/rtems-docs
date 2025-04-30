@@ -1,0 +1,9 @@
+<map id="rtems_assoc_ptr_by_local" name="rtems_assoc_ptr_by_local">
+<area shape="rect" id="node1" title="RTEMS Associate Pointer by Local." alt="" coords="757,71,909,112"/>
+<area shape="rect" id="node2" href="$group__RTEMSAPIAssociativity.html#gaa7d58d2ac10b45c7dd2fb6f2829a1468" title="RTEMS Associate Name by Local." alt="" coords="521,5,691,47"/>
+<area shape="rect" id="node3" href="$group__RTEMSAPIAssociativity.html#ga6ffe22a2b5a00c33ee1f835bb4dca259" title=" " alt="" coords="527,71,685,112"/>
+<area shape="rect" id="node7" href="$group__ClassicClassInfo.html#gaa3fcf442c9bec4b06ea11721d1001c3d" title="Get API Name." alt="" coords="503,137,709,163"/>
+<area shape="rect" id="node4" href="$group__RTEMSAPIAssociativity.html#ga83c18e1c1a46416f2b32dba802c3ac0a" title="RTEMS Assoc Routines." alt="" coords="288,37,447,79"/>
+<area shape="rect" id="node5" href="$termios__num2baud_8c.html#a602c6ea4fd06e3d85605d3c310880e7f" title="Converts the Integral Baud value baud to the Termios Control Flag Representation." alt="" coords="280,103,455,144"/>
+<area shape="rect" id="node6" href="$termios__setinitialbaud_8c.html#a4a9045d415184c5cfb1c9b762ba920c4" title="Sets the initial baud in the Termios context tty." alt="" coords="5,110,232,137"/>
+</map>

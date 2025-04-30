@@ -1,0 +1,4 @@
+<map id="_Watchdog_Per_CPU_insert" name="_Watchdog_Per_CPU_insert">
+<area shape="rect" id="node1" title="Sets the watchdog&#39;s cpu and inserts it with the given expiration time in the scheduled watchdogs." alt="" coords="216,13,415,39"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreThread.html#ga21916832cf16bf603f348041e2c04859" title="Inserts the cpu&#39;s watchdog realtime into the thread&#39;s timer." alt="" coords="5,5,168,47"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="_Watchdog_Get_CPU" name="_Watchdog_Get_CPU">
+<area shape="rect" id="node1" title="Gets the watchdog&#39;s cpu." alt="" coords="959,309,1116,336"/>
+<area shape="rect" id="node2" href="$posix_2timerimpl_8h.html#aec7705a0a3576d845124c84d59087181" title=" " alt="" coords="720,74,889,115"/>
+<area shape="rect" id="node6" href="$group__ClassicTimerImpl.html#ga2481e0d8ec0197f69ef648b23d742b80" title=" " alt="" coords="717,259,892,285"/>
+<area shape="rect" id="node14" href="$group__ClassicTimerImpl.html#ga52566ddfc6c14e1f233c0dd0e83ed675" title=" " alt="" coords="714,360,895,387"/>
+<area shape="rect" id="node16" href="$group__RTEMSScoreWatchdog.html#ga0d978ece12fb00ebea90c370fcd5c871" title="Removes the watchdog from the cpu and the scheduled watchdogs." alt="" coords="699,433,911,474"/>
+<area shape="rect" id="node3" href="$timersettime_8c.html#a2816027fd58059632a4b01abd03f6767" title=" " alt="" coords="471,5,617,32"/>
+<area shape="rect" id="node4" href="$psxtimerdelete_8c.html#ad114bb350d7d5d12cff3fd19bf533303" title=" " alt="" coords="491,56,597,83"/>
+<area shape="rect" id="node5" href="$timergettime_8c.html#a520e1913c35aa3352259dafa3259d140" title=" " alt="" coords="487,107,601,133"/>
+<area shape="rect" id="node7" href="$group__ClassicTimerImpl.html#ga88df13f9a367637321a0783369bec2cb" title=" " alt="" coords="495,157,593,184"/>
+<area shape="rect" id="node11" href="$group__ClassicTimer.html#ga746671597de779ad02b9ca72facc9e92" title="rtems_timer_cancel" alt="" coords="469,208,619,235"/>
+<area shape="rect" id="node12" href="$group__ClassicTimer.html#ga582cf1f171214dabcc2af8c5bd48898f" title="RTEMS Delete Timer." alt="" coords="469,259,619,285"/>
+<area shape="rect" id="node13" href="$group__ClassicTimer.html#gaadb7cf05626eefda2ed454719ae3b2cc" title="RTEMS Get Timer Information." alt="" coords="437,309,651,336"/>
+<area shape="rect" id="node8" href="$group__ClassicTimerImpl.html#gaa71b85670a35521a0f1267eabcbc3835" title=" " alt="" coords="237,193,372,220"/>
+<area shape="rect" id="node9" href="$group__ClassicTimer.html#gad9785a6bd78ab5a591a134d147b2bdd3" title="RTEMS Timer Fire After." alt="" coords="5,288,172,315"/>
+<area shape="rect" id="node10" href="$group__ClassicTimer.html#ga521234c97e4fbf2d2e759d78447b5a8f" title="RTEMS Timer Server Fire After." alt="" coords="13,186,164,227"/>
+<area shape="rect" id="node15" href="$group__ClassicTimer.html#gabd9f3904baedbd02fb540fdc52d2d067" title="RTEMS Timer Fire When." alt="" coords="458,411,630,437"/>
+<area shape="rect" id="node17" href="$group__ClassicRateMonImpl.html#gab174ae30d1440637fecb41e22258f54f" title=" " alt="" coords="451,461,637,488"/>
+<area shape="rect" id="node18" href="$group__ClassicRateMon.html#ga4313840d58c7a2ccc4b1e6151e712bf7" title="RTEMS Rate Monotonic Cancel." alt="" coords="220,454,389,495"/>
+</map>

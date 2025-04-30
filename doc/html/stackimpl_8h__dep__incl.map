@@ -1,0 +1,13 @@
+<map id="cpukit/include/rtems/score/stackimpl.h" name="cpukit/include/rtems/score/stackimpl.h">
+<area shape="rect" id="node1" title="Inlined Routines from the Stack Handler." alt="" coords="1004,5,1159,47"/>
+<area shape="rect" id="node2" href="$adasupp_8c.html" title=" " alt="" coords="5,95,187,121"/>
+<area shape="rect" id="node3" href="$pthreadcreate_8c.html" title="Function Starts a New Thread in The Calling Process." alt="" coords="211,95,442,121"/>
+<area shape="rect" id="node4" href="$taskcreate_8c.html" title="RTEMS Task Create." alt="" coords="467,95,677,121"/>
+<area shape="rect" id="node5" href="$isr_8c.html" title="Initialize the ISR handler." alt="" coords="701,95,856,121"/>
+<area shape="rect" id="node6" href="$mpci_8c.html" title="Multiprocessing Communications Interface (MPCI) Handler." alt="" coords="880,95,1051,121"/>
+<area shape="rect" id="node7" href="$threadcreateidle_8c.html" title="Create Idle Thread." alt="" coords="1075,95,1322,121"/>
+<area shape="rect" id="node8" href="$threadinitialize_8c.html" title="Initialize Thread." alt="" coords="1345,95,1583,121"/>
+<area shape="rect" id="node9" href="$threadrestart_8c.html" title="Restart Thread." alt="" coords="1607,95,1831,121"/>
+<area shape="rect" id="node10" href="$threadstackallocate_8c.html" title="Stack Allocate Helper." alt="" coords="1855,95,2121,121"/>
+<area shape="rect" id="node11" href="$threadstackfree_8c.html" title="Deallocate Thread Stack." alt="" coords="2145,95,2388,121"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="UsartDma" name="UsartDma">
+<area shape="rect" id="node1" title=" " alt="" coords="173,288,261,315"/>
+<area shape="rect" id="node2" href="$structUsartChannel.html" title="usart Transfer Request prepared by the application upper layer." alt="" coords="48,184,159,211"/>
+<area shape="rect" id="node3" href="$struct__LinkedListDescriporView1.html" title="Structure for storing parameters for DMA view1 that can be performed by the DMA Master transfer." alt="" coords="5,95,201,121"/>
+<area shape="rect" id="node4" href="$structUsart.html" title="Usart hardware registers." alt="" coords="188,184,245,211"/>
+<area shape="rect" id="node5" href="$struct__Xdmad.html" title=" " alt="" coords="279,184,354,211"/>
+<area shape="rect" id="node6" href="$struct__XdmadChannel.html" title=" " alt="" coords="239,95,367,121"/>
+<area shape="rect" id="node7" href="$structXdmac.html" title=" " alt="" coords="403,95,470,121"/>
+<area shape="rect" id="node8" href="$structXdmacChid.html" title="XdmacChid hardware registers." alt="" coords="389,5,485,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="arm_pl011_context" name="arm_pl011_context">
+<area shape="rect" id="node1" title=" " alt="" coords="5,199,152,225"/>
+<area shape="rect" id="node2" href="$structpl011.html" title=" " alt="" coords="17,102,76,129"/>
+<area shape="rect" id="node3" href="$structrtems__termios__device__context.html" title="Termios device context." alt="" coords="101,95,267,136"/>
+<area shape="rect" id="node4" href="$structISR__lock__Control.html" title="ISR lock control." alt="" coords="119,5,249,32"/>
+</map>

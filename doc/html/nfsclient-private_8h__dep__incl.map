@@ -1,0 +1,6 @@
+<map id="cpukit/libfs/src/nfsclient/src/nfsclient&#45;private.h" name="cpukit/libfs/src/nfsclient/src/nfsclient&#45;private.h">
+<area shape="rect" id="node1" title=" " alt="" coords="207,5,384,47"/>
+<area shape="rect" id="node2" href="$rpcio_8c.html" title="RPC Multiplexor for a Multitasking Environment." alt="" coords="5,95,183,136"/>
+<area shape="rect" id="node3" href="$sock__mbuf_8c.html" title="Sock Mbuf." alt="" coords="207,95,384,136"/>
+<area shape="rect" id="node4" href="$xdr__mbuf_8c.html" title="XDR Implementation Using mbuf Buffers." alt="" coords="408,95,585,136"/>
+</map>

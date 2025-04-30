@@ -1,0 +1,4 @@
+<map id="rtems_termios_number_to_baud" name="rtems_termios_number_to_baud">
+<area shape="rect" id="node1" title="Converts the Integral Baud value baud to the Termios Control Flag Representation." alt="" coords="280,5,455,47"/>
+<area shape="rect" id="node2" href="$termios__setinitialbaud_8c.html#a4a9045d415184c5cfb1c9b762ba920c4" title="Sets the initial baud in the Termios context tty." alt="" coords="5,13,232,39"/>
+</map>

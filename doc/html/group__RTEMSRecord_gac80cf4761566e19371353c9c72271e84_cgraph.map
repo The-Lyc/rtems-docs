@@ -1,0 +1,4 @@
+<map id="rtems_record_commit" name="rtems_record_commit">
+<area shape="rect" id="node1" title="Commits a set of record items." alt="" coords="5,13,171,39"/>
+<area shape="rect" id="node2" href="$group__RTEMSRecord.html#ga2a34e1207be9164960fd9fe9bf18bb57" title="Commits a set of record items in a critical section with interrupts disabled." alt="" coords="219,5,384,47"/>
+</map>

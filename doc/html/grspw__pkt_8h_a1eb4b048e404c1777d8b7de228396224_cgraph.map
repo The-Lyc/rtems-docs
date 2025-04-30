@@ -1,0 +1,5 @@
+<map id="grspw_dma_rx_recv" name="grspw_dma_rx_recv">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,157,57"/>
+<area shape="rect" id="node2" href="$grspw__pkt_8c.html#a73ee03f2604714d8c3be6a13a145af31" title=" " alt="" coords="205,5,416,32"/>
+<area shape="rect" id="node3" href="$group__ClassicSem.html#gae8c1795a85f982ceea89e7faf7d68e91" title="RTEMS Obtain Semaphore." alt="" coords="217,56,405,83"/>
+</map>

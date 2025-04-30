@@ -1,0 +1,7 @@
+<map id="_Memory_Get_free_begin" name="_Memory_Get_free_begin">
+<area shape="rect" id="node1" title="Get the begin of the free area of the memory area." alt="" coords="456,71,645,98"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreMemory.html#gae6dced5f60807188ccb5a59ccd3aba55" title="Fill all free memory areas of the memory information with a constant byte." alt="" coords="274,42,383,69"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreWorkspace.html#gac10ac71b406698cb4441aff69a80c847" title="Initilizes the workspace handler." alt="" coords="249,93,408,135"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreMemory.html#gab896c9b04fffb1fddf45c450692ab16f" title="Dirty all free memory areas of the system." alt="" coords="26,5,181,47"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreMemory.html#gad72603fb49eb54511378c9a021d90c5f" title="Zeros all free memory areas of the system." alt="" coords="5,71,201,98"/>
+</map>

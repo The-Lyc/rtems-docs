@@ -1,0 +1,52 @@
+<map id="_Objects_Get_index" name="_Objects_Get_index">
+<area shape="rect" id="node1" title="Returns the index portion of the ID." alt="" coords="989,677,1140,703"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreObject.html#gacbd8e518804904ffb1591e64830cf89f" title="Activate the object." alt="" coords="733,17,941,43"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreObject.html#ga53e22e0d0d91b0f5159aff84a1c40ef3" title="Free the objects block with the specified index." alt="" coords="497,123,663,164"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreObject.html#gae07a394b03c4cb77414045f2fca32e62" title="Free the object." alt="" coords="746,1031,929,1058"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreObject.html#gaccc5682133e4f65b8cb374eab9be2c9d" title="Maps the specified object identifier to the associated local object control block." alt="" coords="783,1285,891,1311"/>
+<area shape="rect" id="node19" href="$group__RTEMSScoreObject.html#gadf825a94fecd0945a4368e503e274bfd" title="Returns the maximum index of the specified object class." alt="" coords="746,384,929,425"/>
+<area shape="rect" id="node24" href="$group__RTEMSScoreObject.html#gaf47a19d228137aa86c75bf67953f332e" title="Gets the next open object after the specified object identifier." alt="" coords="508,677,652,703"/>
+<area shape="rect" id="node27" href="$group__RTEMSScoreObject.html#gabcf4e7e43d740a83abd8651c86fc3260" title="Invalidates an object Id." alt="" coords="255,177,424,203"/>
+<area shape="rect" id="node30" href="$group__RTEMSScoreObject.html#ga09c8a97720f6c6dd41849c5c4101e49d" title="Places the_object control pointer and object name in the Local Pointer and Local Name Tables,..." alt="" coords="280,538,399,565"/>
+<area shape="rect" id="node38" href="$group__RTEMSScoreObject.html#ga2334557148bfafde009591fc066ab9cc" title="Places the_object control pointer and object name in the Local Pointer and Local Name Tables,..." alt="" coords="258,810,421,837"/>
+<area shape="rect" id="node39" href="$group__RTEMSScoreObject.html#gac0dabb8ef5a83fea690b78aa378c621e" title="Places the_object control pointer and object name in the Local Pointer and Local Name Tables,..." alt="" coords="264,861,415,887"/>
+<area shape="rect" id="node43" href="$group__RTEMSScoreObject.html#ga0f21f1287215fd0f82bedfabf5872058" title="Maps object ids to object control blocks." alt="" coords="735,753,939,779"/>
+<area shape="rect" id="node48" href="$group__RTEMSScoreObject.html#ga968b850454008bc4e68ab83c2f033282" title="Initializes the specified objects information." alt="" coords="767,560,908,601"/>
+<area shape="rect" id="node49" href="$rtemsobjectidgetindex_8c.html#a143f3128b50b22e76fcb38b66b28e0e9" title=" " alt="" coords="760,1492,915,1533"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreObject.html#gaa0886867669718ead9e2a6f6616b40a0" title="Allocate an object and extend the objects information on demand." alt="" coords="493,5,667,47"/>
+<area shape="rect" id="node7" href="$group__ClassicBarrierImpl.html#gaddb2ead3ee36662670debcccad61093d" title=" " alt="" coords="529,1437,631,1463"/>
+<area shape="rect" id="node8" href="$group__ClassicDPMEMImpl.html#ga34b3b7bbc775ebd2c5a1c6c87b9e5872" title=" " alt="" coords="480,1487,680,1514"/>
+<area shape="rect" id="node9" href="$group__ClassicMessageQueueImpl.html#ga2ae3fbe2f3c43ea7a991289339222f85" title=" " alt="" coords="498,1538,662,1565"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreObject.html#gabd551c27404cc5db7e78b6ad24a5dda9" title="Gets object name in the form of a C string." alt="" coords="493,1589,667,1631"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreObject.html#ga4ef83167e7503b64f503bd9218332cde" title="Returns the name associated with object id." alt="" coords="499,1031,661,1058"/>
+<area shape="rect" id="node12" href="$group__ClassicPartImpl.html#gaba43c940d51e5578b9cc26f928c72ad9" title=" " alt="" coords="523,1082,637,1109"/>
+<area shape="rect" id="node13" href="$mqueueimpl_8h.html#a151a73b53a46d88c0939c6638f7d4145" title=" " alt="" coords="475,1133,685,1159"/>
+<area shape="rect" id="node14" href="$posix_2timerimpl_8h.html#a1d4676c4320534f2c346154098db1da4" title="POSIX Timer Get." alt="" coords="509,1183,651,1210"/>
+<area shape="rect" id="node15" href="$group__ClassicRateMonImpl.html#gafca768d067ab935fdf8d53ebb425d72b" title=" " alt="" coords="497,1234,663,1261"/>
+<area shape="rect" id="node16" href="$group__ClassicSemImpl.html#gae6c81c48866b311568aeb67633d934ef" title=" " alt="" coords="513,1285,647,1311"/>
+<area shape="rect" id="node17" href="$group__RTEMSScoreThread.html#gadc33b4b428dfc134ae1622441433b1a1" title="Gets a thread by its identifier." alt="" coords="528,1335,632,1362"/>
+<area shape="rect" id="node18" href="$group__ClassicTimerImpl.html#ga40195e79d37f84fa3d6b9ba166f6d384" title=" " alt="" coords="531,1386,629,1413"/>
+<area shape="rect" id="node20" href="$group__RTEMSScoreObject.html#ga4459fd7150f400e3217170758d0426a3" title="Returns the count of active objects." alt="" coords="495,239,665,266"/>
+<area shape="rect" id="node21" href="$group__RTEMSScoreObject.html#ga1cb8229e7d5506b14f284af7f7c5f7f7" title="Gets an object control block identified by its name." alt="" coords="493,290,667,317"/>
+<area shape="rect" id="node22" href="$group__RTEMSScoreObject.html#gaf45a5862e6e8eab0823ef39dfd1e9403" title="Gets object information." alt="" coords="485,341,675,367"/>
+<area shape="rect" id="node23" href="$group__ClassicClassInfo.html#gae8ffdf2a3cfe0e716ebfd4a3eb1bfece" title="Get Class Information." alt="" coords="252,359,427,400"/>
+<area shape="rect" id="node25" href="$group__RTEMSScoreObject.html#ga115dd4137b68639f3dab80aad2f46ced" title="Converts an object name to an Id." alt="" coords="483,509,677,535"/>
+<area shape="rect" id="node26" href="$group__RTEMSScoreObject.html#ga9c697fd8a483c32420ccfff211ec3c14" title="Sets the pointer to the local_table object referenced by the index." alt="" coords="508,443,652,484"/>
+<area shape="rect" id="node41" href="$group__RTEMSScoreThread.html#gacd86ef6b0e5fb19ec14d7fe51e3868e2" title="Initializes the thread information." alt="" coords="511,560,649,601"/>
+<area shape="rect" id="node42" href="$group__RTEMSScoreThread.html#gaccf2d81d16187ed8808e76addc8da0ed" title="Calls the visitor with all threads and the given argument until it is done." alt="" coords="518,189,642,215"/>
+<area shape="rect" id="node28" href="$group__RTEMSScoreObject.html#ga48be735854a391514fdac4881e9ef8fc" title="Closes object." alt="" coords="44,151,165,178"/>
+<area shape="rect" id="node29" href="$semaphoredeletesupp_8c.html#a8c0b883dcb071c429ebc644f50231722" title="POSIX Semaphore Delete." alt="" coords="5,202,204,229"/>
+<area shape="rect" id="node31" href="$group__ClassicBarrier.html#gac0840f8a73784a6c2a97474bcc03cb42" title="RTEMS Create Barrier." alt="" coords="25,639,184,666"/>
+<area shape="rect" id="node32" href="$group__ClassicUserExtensions.html#gafcf5ccf8b70f2967ffbf8b493e278fbf" title="Creates an extension set object." alt="" coords="15,690,194,717"/>
+<area shape="rect" id="node33" href="$group__ClassicMessageQueue.html#gaea76fd325e8a84810f2be119448a307d" title="RTEMS Create Message Queue." alt="" coords="18,371,191,412"/>
+<area shape="rect" id="node34" href="$group__ClassicPart.html#gaae1e45358170b1de610acdae7f4a8148" title="RTEMS Partition Create." alt="" coords="19,437,190,463"/>
+<area shape="rect" id="node35" href="$group__ClassicDPMEM.html#gadca93b2f9de997262d78e9b6c24832a8" title="Creates a port into a dual&#45;ported memory area." alt="" coords="34,487,175,514"/>
+<area shape="rect" id="node36" href="$group__ClassicRegion.html#ga024758f91cbf73e06cbc4c85df83d1ca" title="rtems_region_create" alt="" coords="27,538,183,565"/>
+<area shape="rect" id="node37" href="$group__ClassicTimer.html#ga57cf664e958961aefdb8ef8440f23afa" title="RTEMS Create Timer." alt="" coords="29,589,180,615"/>
+<area shape="rect" id="node40" href="$keycreate_8c.html#af4b7ced8ecff505380fe8216244a3764" title=" " alt="" coords="29,861,180,887"/>
+<area shape="rect" id="node44" href="$group__ClassicUserExtensionsImpl.html#ga6335b2a54ed2bac19920508333f16694" title=" " alt="" coords="519,829,641,855"/>
+<area shape="rect" id="node45" href="$group__POSIX__KEY.html#ga8d47bd5ba7a91092f4df03fc2f22c593" title=" " alt="" coords="512,879,648,906"/>
+<area shape="rect" id="node46" href="$group__ClassicRegionImpl.html#ga6e24cf9c8095bbf5470a5ab6a469415c" title=" " alt="" coords="495,727,665,754"/>
+<area shape="rect" id="node47" href="$group__ClassicClassInfo.html#gacb1a1933caf2556aa7e9b715c684fe5b" title="Set Name of Object." alt="" coords="491,778,669,805"/>
+<area shape="rect" id="node50" href="$mon-config_8c.html#af209a6e58fbfe1653a6eb3ecad1cbf3c" title=" " alt="" coords="480,1655,680,1682"/>
+</map>

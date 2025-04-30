@@ -1,0 +1,7 @@
+<map id="_Scheduler_Schedule" name="_Scheduler_Schedule">
+<area shape="rect" id="node1" title="General scheduling decision." alt="" coords="5,78,164,105"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreScheduler.html#ga9e6cf07526560aa067d7bcb92a7aa964" title="Acquires the scheduler instance inside a critical section (interrupts disabled)." alt="" coords="246,5,395,47"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreScheduler.html#gae4d084e50d4f8a616f394312b66df32b" title="Releases the scheduler instance inside a critical section (interrupts disabled)." alt="" coords="245,71,397,112"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreThread.html#ga0071d4e11d2d68b2e4c43ffe2108e7f5" title="Gets the home scheduler of the thread." alt="" coords="212,137,429,163"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreScheduler.html#ga9c62ef5a388b998fa041a269297be1fe" title="Gets the context of the scheduler." alt="" coords="477,46,656,73"/>
+</map>

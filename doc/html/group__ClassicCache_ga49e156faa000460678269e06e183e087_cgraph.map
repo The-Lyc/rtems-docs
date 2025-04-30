@@ -1,0 +1,9 @@
+<map id="rtems_cache_coherent_add_area" name="rtems_cache_coherent_add_area">
+<area shape="rect" id="node1" title="Adds a cache coherent memory area to the cache coherent allocator." alt="" coords="5,74,175,115"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreAllocatorMutex.html#ga89aa77edce0d5557b1a7e9d9ef7999c8" title=" " alt="" coords="223,31,397,57"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreSysState.html#ga1f0777590280f354ba1a73b0b4ed143e" title="Gets the current system state." alt="" coords="236,81,384,108"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreSysState.html#gaa34964b3212ea72baf5ec0064f5d28df" title="Checks if the state is up." alt="" coords="231,132,389,159"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreAPIMutex.html#ga57829ca494f1d866219c499eadb0ffc9" title="Acquires the specified API mutex." alt="" coords="445,31,580,57"/>
+<area shape="rect" id="node4" href="$mutex_8c.html#a2960aef6016ac8937f24108f9cdeebd0" title=" " alt="" coords="633,5,826,32"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreThread.html#gad5aaea7af4482aebd880403fb9c238af" title="Set the thread to life protected." alt="" coords="628,56,831,83"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="RTC_GetTime" name="RTC_GetTime">
+<area shape="rect" id="node1" title="Retrieves the current time as stored in the RTC in several variables." alt="" coords="205,5,315,32"/>
+<area shape="rect" id="node2" href="$group__RTEMSBSPsARMAtsam.html#gad3552cd987f5aeeb12d868494234407c" title=" " alt="" coords="5,5,157,32"/>
+</map>

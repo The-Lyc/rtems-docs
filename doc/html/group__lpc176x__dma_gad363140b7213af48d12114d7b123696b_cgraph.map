@@ -1,0 +1,4 @@
+<map id="lpc176x_dma_initialize" name="lpc176x_dma_initialize">
+<area shape="rect" id="node1" title="Initializes the general purpose DMA." alt="" coords="5,5,177,32"/>
+<area shape="rect" id="node2" href="$bsps_2arm_2lpc176x_2include_2bsp_2io_8h.html#a143c1df808c2b3d2dcd20cc645694979" title="Enables the module power and clock." alt="" coords="225,5,405,32"/>
+</map>

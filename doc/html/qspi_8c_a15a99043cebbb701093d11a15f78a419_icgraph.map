@@ -1,0 +1,6 @@
+<map id="QSPI_GetInstFrame" name="QSPI_GetInstFrame">
+<area shape="rect" id="node1" title="Reads the Instruction frame of QSPI." alt="" coords="272,56,419,83"/>
+<area shape="rect" id="node2" href="$qspi_8h.html#a399520c124a1931a313645b5011888db" title="Sends an instruction over QSPI and configures other related address like Addr , Frame and synchronise..." alt="" coords="24,5,205,32"/>
+<area shape="rect" id="node3" href="$qspi_8h.html#a8b59ff979a47404bc86c60118ec3d30d" title="Send instruction over QSPI to read data." alt="" coords="35,56,194,83"/>
+<area shape="rect" id="node4" href="$qspi_8h.html#a6d28b23fbb2385d5e3a8479b02c10bb8" title="Send instruction over QSPI with data." alt="" coords="5,107,224,133"/>
+</map>

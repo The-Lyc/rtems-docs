@@ -1,0 +1,5 @@
+<map id="rtems_cache_aligned_malloc" name="rtems_cache_aligned_malloc">
+<area shape="rect" id="node1" title=" " alt="" coords="5,39,165,80"/>
+<area shape="rect" id="node2" href="$group__ClassicCache.html#ga1083d01ae20fb51f2b65b2319c1831d6" title="Returns the maximal cache line size of all cache kinds in bytes." alt="" coords="213,5,412,47"/>
+<area shape="rect" id="node3" href="$malloc_8h.html#addefe365b83b02b5b035ffcfba2a9447" title="Allocates a memory area of size size bytes from the heap." alt="" coords="223,71,403,112"/>
+</map>

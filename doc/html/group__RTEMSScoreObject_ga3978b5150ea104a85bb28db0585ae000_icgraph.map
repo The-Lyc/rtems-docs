@@ -1,0 +1,25 @@
+<map id="_Objects_Allocate" name="_Objects_Allocate">
+<area shape="rect" id="node1" title="Allocates an object." alt="" coords="672,275,811,301"/>
+<area shape="rect" id="node2" href="$group__ClassicBarrierImpl.html#gad929c5e3d1b4a3c1343769a04d9a14ac" title="_Barrier_Allocate" alt="" coords="460,5,593,32"/>
+<area shape="rect" id="node4" href="$group__ClassicDPMEMImpl.html#gad2aa8b47ec76c96c01f44b889756223b" title="Allocates a port control block from the inactive chain of free port control blocks." alt="" coords="441,57,612,98"/>
+<area shape="rect" id="node6" href="$group__ClassicUserExtensionsImpl.html#gaa180c344c3b1a2797be1beda9812a2cc" title=" " alt="" coords="450,123,603,149"/>
+<area shape="rect" id="node8" href="$group__ClassicMessageQueueImpl.html#ga7fecd1a88eefb5ad554e06e265792d1f" title=" " alt="" coords="429,173,624,200"/>
+<area shape="rect" id="node11" href="$group__ClassicPartImpl.html#gaf0cd3ef551cee15f50523308fa63aeed" title="Allocates a partition control block from the inactive chain of free partition control blocks." alt="" coords="455,224,598,251"/>
+<area shape="rect" id="node13" href="$group__POSIX__KEY.html#ga7a110714c13632b85ff13f72031a9f0f" title="Allocate a keys control block." alt="" coords="443,275,610,301"/>
+<area shape="rect" id="node16" href="$posix_2timerimpl_8h.html#ad7b8848202812ff321147886eb5e6fff" title="POSIX Timer Allocate." alt="" coords="440,325,613,352"/>
+<area shape="rect" id="node17" href="$group__ClassicRateMonImpl.html#ga2a5ad9dc60929d941bd4d22c6ee69045" title="Allocates a period control block from the inactive chain of free period control blocks." alt="" coords="429,376,624,403"/>
+<area shape="rect" id="node19" href="$group__ClassicRegionImpl.html#gab5bc70b27378683bf2e2e4cdef8d7417" title="Region_Allocate." alt="" coords="459,427,594,453"/>
+<area shape="rect" id="node21" href="$group__ClassicSemImpl.html#gad485fdb4409216acbb4e339c2fd57889" title="Allocates a semaphore control block from the inactive chain of free semaphore control blocks." alt="" coords="445,477,608,504"/>
+<area shape="rect" id="node22" href="$group__ClassicTimerImpl.html#ga77ef33047cce91fa663a936bafee7eac" title="Timer_Allocate." alt="" coords="463,528,590,555"/>
+<area shape="rect" id="node3" href="$group__ClassicBarrier.html#gac0840f8a73784a6c2a97474bcc03cb42" title="RTEMS Create Barrier." alt="" coords="213,5,371,32"/>
+<area shape="rect" id="node5" href="$group__ClassicDPMEM.html#gadca93b2f9de997262d78e9b6c24832a8" title="Creates a port into a dual&#45;ported memory area." alt="" coords="221,64,363,91"/>
+<area shape="rect" id="node7" href="$group__ClassicUserExtensions.html#gafcf5ccf8b70f2967ffbf8b493e278fbf" title="Creates an extension set object." alt="" coords="203,115,381,141"/>
+<area shape="rect" id="node9" href="$group__ClassicMessageQueue.html#gaea76fd325e8a84810f2be119448a307d" title="RTEMS Create Message Queue." alt="" coords="205,166,379,207"/>
+<area shape="rect" id="node10" href="$grspw__pkt_8c.html#a332e9d8281beb4acd9c2451488def344" title=" " alt="" coords="5,173,155,200"/>
+<area shape="rect" id="node12" href="$group__ClassicPart.html#gaae1e45358170b1de610acdae7f4a8148" title="RTEMS Partition Create." alt="" coords="207,232,377,259"/>
+<area shape="rect" id="node14" href="$keycreate_8c.html#af4b7ced8ecff505380fe8216244a3764" title=" " alt="" coords="217,283,367,309"/>
+<area shape="rect" id="node15" href="$tss_8c.html#a286fe7927e9af276a9cfdbc8b9eb08ad" title=" " alt="" coords="35,283,125,309"/>
+<area shape="rect" id="node18" href="$group__ClassicRateMon.html#gab599ee7e8f65f1d1461a3a5e198491eb" title="Create a Period." alt="" coords="207,365,377,406"/>
+<area shape="rect" id="node20" href="$group__ClassicRegion.html#ga024758f91cbf73e06cbc4c85df83d1ca" title="rtems_region_create" alt="" coords="214,431,370,457"/>
+<area shape="rect" id="node23" href="$group__ClassicTimer.html#ga57cf664e958961aefdb8ef8440f23afa" title="RTEMS Create Timer." alt="" coords="217,528,367,555"/>
+</map>

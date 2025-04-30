@@ -1,0 +1,4 @@
+<map id="benchmark_timer_read" name="benchmark_timer_read">
+<area shape="rect" id="node1" title="Read the Benchmark Timer." alt="" coords="5,13,179,39"/>
+<area shape="rect" id="node2" href="$bsps_2arm_2lpc176x_2include_2bsp_2timer_8h.html#a97dd645d404f7149b78019ecc92f2785" title="Gets the timer value." alt="" coords="227,5,412,47"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="CFLASH_struct_tag" name="CFLASH_struct_tag">
+<area shape="rect" id="node1" title=" " alt="" coords="283,479,429,505"/>
+<area shape="rect" id="node2" href="$unionCFLASH__HBL__32B__tag.html" title=" " alt="" coords="13,5,180,32"/>
+<area shape="rect" id="node3" href="$unionCFLASH__ADR__32B__tag.html" title=" " alt="" coords="12,56,181,83"/>
+<area shape="rect" id="node4" href="$unionCFLASH__SLL__32B__tag.html" title=" " alt="" coords="15,107,178,133"/>
+<area shape="rect" id="node5" href="$unionCFLASH__UM__32B__tag.html" title=" " alt="" coords="15,227,178,253"/>
+<area shape="rect" id="node6" href="$unionCFLASH__HBS__32B__tag.html" title=" " alt="" coords="13,277,181,304"/>
+<area shape="rect" id="node7" href="$unionCFLASH__PFCR__32B__tag.html" title=" " alt="" coords="9,328,184,355"/>
+<area shape="rect" id="node8" href="$unionCFLASH__MCR__32B__tag.html" title=" " alt="" coords="11,379,182,405"/>
+<area shape="rect" id="node9" href="$unionCFLASH__PFAPR__32B__tag.html" title=" " alt="" coords="6,429,187,456"/>
+<area shape="rect" id="node10" href="$unionCFLASH__LML__32B__tag.html" title=" " alt="" coords="13,480,180,507"/>
+<area shape="rect" id="node11" href="$unionCFLASH__UT__32B__tag.html" title=" " alt="" coords="17,531,176,557"/>
+<area shape="rect" id="node12" href="$unionCFLASH__BIU__32B__tag.html" title=" " alt="" coords="15,632,179,659"/>
+<area shape="rect" id="node13" href="$unionCFLASH__UT2__32B__tag.html" title=" " alt="" coords="13,683,180,709"/>
+<area shape="rect" id="node14" href="$unionCFLASH__LMS__32B__tag.html" title=" " alt="" coords="13,733,181,760"/>
+<area shape="rect" id="node15" href="$unionCFLASH__PFCR1__32B__tag.html" title=" " alt="" coords="5,784,188,811"/>
+<area shape="rect" id="node16" href="$unionCFLASH__UT1__32B__tag.html" title=" " alt="" coords="13,835,180,861"/>
+<area shape="rect" id="node17" href="$unionCFLASH__PFCR0__32B__tag.html" title=" " alt="" coords="5,885,188,912"/>
+<area shape="rect" id="node18" href="$unionCFLASH__UT0__32B__tag.html" title=" " alt="" coords="13,936,180,963"/>
+</map>

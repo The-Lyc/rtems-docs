@@ -1,0 +1,52 @@
+<map id="bsps/arm/lpc176x/include/bsp/io.h" name="bsps/arm/lpc176x/include/bsp/io.h">
+<area shape="rect" id="node1" title="Input/output module methods definitions." alt="" coords="3778,5,3966,47"/>
+<area shape="rect" id="node2" href="$assert_8h.html" title="Information for the Assert Handler." alt="" coords="3557,319,3632,345"/>
+<area shape="rect" id="node8" href="$rtems_8h.html" title=" " alt="" coords="1752,95,1824,121"/>
+<area shape="rect" id="node48" href="$io-defs_8h.html" title="Input/output module definitions." alt="" coords="3936,95,4043,121"/>
+<area shape="rect" id="node3" href="$basedefs_8h.html" title="Basic Definitions." alt="" coords="3097,468,3271,495"/>
+<area shape="rect" id="node4" title=" " alt="" coords="3250,543,3417,569"/>
+<area shape="rect" id="node5" title=" " alt="" coords="3044,543,3119,569"/>
+<area shape="rect" id="node6" title=" " alt="" coords="3143,543,3225,569"/>
+<area shape="rect" id="node7" title=" " alt="" coords="1134,543,1205,569"/>
+<area shape="rect" id="node9" href="$system_8h.html" title="Information Included in Every Function in the Executive." alt="" coords="205,319,329,345"/>
+<area shape="rect" id="node11" href="$rtems_2status_8h.html" title=" " alt="" coords="1535,319,1694,345"/>
+<area shape="rect" id="node12" href="$cpukit_2include_2rtems_2rtems_2types_8h.html" title=" " alt="" coords="1060,319,1215,345"/>
+<area shape="rect" id="node20" href="$include_2rtems_2config_8h.html" title="Table of User Defined Configuration Parameters." alt="" coords="3093,169,3208,196"/>
+<area shape="rect" id="node24" href="$cpukit_2include_2rtems_2score_2stack_8h.html" title="Information About the Thread Stack Handler." alt="" coords="3633,244,3783,271"/>
+<area shape="rect" id="node27" href="$extension_8h.html" title="User Extensions API." alt="" coords="2702,244,2842,271"/>
+<area shape="rect" id="node28" href="$init_8h.html" title="Constants and Structures Associated with the Initialization Manager." alt="" coords="1501,169,1598,196"/>
+<area shape="rect" id="node29" href="$intr_8h.html" title=" " alt="" coords="1821,244,1960,271"/>
+<area shape="rect" id="node30" href="$options_8h.html" title=" " alt="" coords="2522,319,2689,345"/>
+<area shape="rect" id="node31" href="$tasks_8h.html" title="Classic Task Manager API." alt="" coords="675,244,829,271"/>
+<area shape="rect" id="node32" href="$barrier_8h.html" title="Classic Barrier Manager API." alt="" coords="1440,244,1600,271"/>
+<area shape="rect" id="node33" href="$cpukit_2include_2rtems_2rtems_2cache_8h.html" title=" " alt="" coords="3699,319,3855,345"/>
+<area shape="rect" id="node34" href="$cpukit_2include_2rtems_2rtems_2clock_8h.html" title=" " alt="" coords="904,244,1056,271"/>
+<area shape="rect" id="node35" href="$cpukit_2include_2rtems_2rtems_2timer_8h.html" title="Classic Timer Manager API." alt="" coords="667,169,819,196"/>
+<area shape="rect" id="node36" href="$sem_8h.html" title="Classic Semaphores Manager API." alt="" coords="859,169,1005,196"/>
+<area shape="rect" id="node37" href="$message_8h.html" title="Classic Message Queue Manager API." alt="" coords="2086,244,2263,271"/>
+<area shape="rect" id="node38" href="$rtems_2rtems_2event_8h.html" title="Classic Event Manager API." alt="" coords="2288,244,2443,271"/>
+<area shape="rect" id="node39" href="$include_2rtems_2rtems_2signal_8h.html" title="Signals API." alt="" coords="5,244,163,271"/>
+<area shape="rect" id="node40" href="$rtems_2object_8h.html" title=" " alt="" coords="289,244,447,271"/>
+<area shape="rect" id="node41" href="$part_8h.html" title="Classic Partition Manager API." alt="" coords="1080,244,1224,271"/>
+<area shape="rect" id="node42" href="$region_8h.html" title="Classic Region Manager API." alt="" coords="2467,244,2626,271"/>
+<area shape="rect" id="node43" href="$dpmem_8h.html" title="Classic Dual Ported Memory Manager API." alt="" coords="1248,244,1416,271"/>
+<area shape="rect" id="node44" href="$cpukit_2include_2rtems_2io_8h.html" title="Classic Input/Output Manager API." alt="" coords="1916,169,2004,196"/>
+<area shape="rect" id="node45" href="$cpukit_2include_2rtems_2fatal_8h.html" title="Fatal API." alt="" coords="2719,169,2825,196"/>
+<area shape="rect" id="node46" href="$ratemon_8h.html" title=" " alt="" coords="1624,244,1797,271"/>
+<area shape="rect" id="node47" href="$support_8h.html" title=" " alt="" coords="455,169,622,196"/>
+<area shape="rect" id="node10" title=" " alt="" coords="891,468,1029,495"/>
+<area shape="rect" id="node13" title=" " alt="" coords="1086,393,1189,420"/>
+<area shape="rect" id="node14" title=" " alt="" coords="1213,393,1339,420"/>
+<area shape="rect" id="node15" title=" " alt="" coords="1364,393,1481,420"/>
+<area shape="rect" id="node16" href="$heapinfo_8h.html" title="Heap Handler Information API." alt="" coords="682,468,854,495"/>
+<area shape="rect" id="node17" href="$score_2object_8h.html" title="Constants and Structures Associated with the Object Handler." alt="" coords="907,393,1061,420"/>
+<area shape="rect" id="node18" href="$watchdogticks_8h.html" title="Constants for the watchdog ticks." alt="" coords="2835,393,3045,420"/>
+<area shape="rect" id="node19" href="$modes_8h.html" title=" " alt="" coords="720,393,883,420"/>
+<area shape="rect" id="node21" href="$isr_8h.html" title="Data Related to the Management of Processor Interrupt Levels." alt="" coords="2067,319,2197,345"/>
+<area shape="rect" id="node22" href="$rtems_2score_2memory_8h.html" title="Memory Handler API." alt="" coords="3440,244,3608,271"/>
+<area shape="rect" id="node23" href="$smp_8h.html" title="SuperCore SMP Support API." alt="" coords="1718,319,1861,345"/>
+<area shape="rect" id="node25" href="$userextdata_8h.html" title="User Extension Handler Data Structures." alt="" coords="3121,244,3314,271"/>
+<area shape="rect" id="node26" href="$threadidledata_8h.html" title="Constants for the idle threads." alt="" coords="3221,393,3432,420"/>
+<area shape="rect" id="node49" href="$lpc176x_8h.html" title="Specific register definitions according to lpc176x family boards." alt="" coords="4093,169,4205,196"/>
+<area shape="rect" id="node50" href="$common-types_8h.html" title="Definitions types used by some devices in common." alt="" coords="3910,169,4069,196"/>
+</map>

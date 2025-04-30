@@ -1,0 +1,4 @@
+<map id="GMACD_SendSG" name="GMACD_SendSG">
+<area shape="rect" id="node1" title="Send a frame split into buffers. If the frame size is larger than transfer buffer size error returned..." alt="" coords="164,5,293,32"/>
+<area shape="rect" id="node2" href="$group__gmacd__functions.html#ga2f3e029556b9627258a2eb1dc4919d95" title="Send a packet with GMAC. If the packet size is larger than transfer buffer size error returned...." alt="" coords="5,5,116,32"/>
+</map>

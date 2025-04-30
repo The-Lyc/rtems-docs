@@ -1,0 +1,14 @@
+<map id="_POSIX_Semaphore_Delete" name="_POSIX_Semaphore_Delete">
+<area shape="rect" id="node1" title="POSIX Semaphore Delete." alt="" coords="5,67,204,93"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreObject.html#gabcf4e7e43d740a83abd8651c86fc3260" title="Invalidates an object Id." alt="" coords="271,16,440,43"/>
+<area shape="rect" id="node6" href="$posix_2semaphoreimpl_8h.html#a16a00928d673f474c68962f130d1f985" title=" " alt="" coords="252,67,459,93"/>
+<area shape="rect" id="node7" href="$posix_2semaphoreimpl_8h.html#acf8d044ff2145f7332b79cc231d8134c" title="POSIX Semaphore Free." alt="" coords="263,117,447,144"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreObject.html#ga22cdf45f285840b7728b06197a7f4627" title="Returns the index portion of the ID." alt="" coords="932,5,1083,32"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreObject.html#ga9c697fd8a483c32420ccfff211ec3c14" title="Sets the pointer to the local_table object referenced by the index." alt="" coords="507,27,651,69"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreObject.html#gadf825a94fecd0945a4368e503e274bfd" title="Returns the maximum index of the specified object class." alt="" coords="699,27,881,69"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreObject.html#ga2215dcf7e3251e6f629b6a3a96fff44e" title="Frees an object." alt="" coords="522,117,635,144"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreObject.html#ga67f9cdae9423a81e46626f0e2cb9f305" title="Checks if the allocator is the owner of the object allocator mutex." alt="" coords="719,110,861,151"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreAllocatorMutex.html#ga8698c4f98051e1c097ed32e38fbf786f" title=" " alt="" coords="929,110,1085,151"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreAPIMutex.html#ga0a01be1d7b28416e738a2b97ca3f611d" title="Checks if the specified API mutex is owned by the executing thread." alt="" coords="1133,117,1296,144"/>
+<area shape="rect" id="node12" href="$group__PerCPU.html#ga294cfaf3cf50de03f1d9821d68b9c1bd" title="Returns the thread control block of the executing thread." alt="" coords="1344,117,1519,144"/>
+</map>

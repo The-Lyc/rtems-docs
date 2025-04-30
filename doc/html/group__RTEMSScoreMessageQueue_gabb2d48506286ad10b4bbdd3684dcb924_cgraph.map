@@ -1,0 +1,4 @@
+<map id="_CORE_message_queue_Release" name="_CORE_message_queue_Release">
+<area shape="rect" id="node1" title="Releases the message queue." alt="" coords="5,5,184,47"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreThreadQueue.html#ga0a8881ef4106a0707b2751cdd3d18bef" title="Releases the thread queue control and enables interrupts." alt="" coords="232,13,412,39"/>
+</map>

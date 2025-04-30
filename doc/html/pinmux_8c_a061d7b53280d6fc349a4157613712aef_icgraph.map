@@ -1,0 +1,6 @@
+<map id="tms570_bsp_pinmmr_config" name="tms570_bsp_pinmmr_config">
+<area shape="rect" id="node1" title="configure block or whole pin multiplexer" alt="" coords="620,5,825,32"/>
+<area shape="rect" id="node2" href="$init__pinmux_8c.html#a42616a5455eebfb4efa9bfc67e4dfdf7" title="setups pin multiplexer according to precomputed registers values (HCG:muxInit)" alt="" coords="417,5,572,32"/>
+<area shape="rect" id="node3" href="$init__system_8c.html#adfc60d117ea095a205722a96aeaf3b65" title="TMS570 system hardware initialization (HCG:systemInit)" alt="" coords="189,5,369,32"/>
+<area shape="rect" id="node4" href="$bspstarthooks-hwinit_8c.html#a21575f8c638d77f9365131e139ff1839" title=" " alt="" coords="5,5,141,32"/>
+</map>

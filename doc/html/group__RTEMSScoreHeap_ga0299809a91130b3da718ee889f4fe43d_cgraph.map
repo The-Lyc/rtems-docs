@@ -1,0 +1,4 @@
+<map id="_Heap_Free_list_first" name="_Heap_Free_list_first">
+<area shape="rect" id="node1" title="Returns the first block of the free list of the heap." alt="" coords="5,5,163,32"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreHeap.html#ga860e7959de03ba830d0ebe1b4cca8273" title="Returns the head of the free list of the heap." alt="" coords="211,5,375,32"/>
+</map>

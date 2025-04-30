@@ -1,0 +1,6 @@
+<map id="_Scheduler_default_Node_initialize" name="_Scheduler_default_Node_initialize">
+<area shape="rect" id="node1" title="Performs the scheduler base node initialization." alt="" coords="5,5,152,47"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreScheduler.html#ga04a65b42652ef556df7f53940d4c1a11" title="Initializes a node." alt="" coords="200,5,357,47"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreChain.html#gab0fa19f01d37f1d510405e6382fd8b67" title="Initializes a chain node." alt="" coords="405,13,573,39"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreChain.html#gadf0e5d55d133694eed8043ec13fe1266" title="Sets off chain." alt="" coords="621,13,781,39"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="bsps/or1k/generic_or1k/include/bsp/generic_or1k.h" name="bsps/or1k/generic_or1k/include/bsp/generic_or1k.h">
+<area shape="rect" id="node1" title="Register definitions." alt="" coords="393,5,593,47"/>
+<area shape="rect" id="node2" href="$or1k_2generic__or1k_2btimer_2btimer_8c.html" title="Benchmark timer support." alt="" coords="5,95,179,136"/>
+<area shape="rect" id="node3" href="$or1k_2generic__or1k_2clock_2clockdrv_8c.html" title="or1k clock support." alt="" coords="203,95,376,136"/>
+<area shape="rect" id="node4" href="$or1k_2generic__or1k_2console_2console-config_8c.html" title="Console Configuration." alt="" coords="401,95,586,136"/>
+<area shape="rect" id="node5" href="$or1k_2generic__or1k_2console_2uart_8c.html" title="UART support." alt="" coords="611,95,784,136"/>
+<area shape="rect" id="node6" href="$bsps_2or1k_2generic__or1k_2include_2bsp_8h.html" title="Global BSP definitions." alt="" coords="808,95,981,136"/>
+</map>

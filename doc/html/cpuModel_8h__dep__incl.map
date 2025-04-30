@@ -1,0 +1,9 @@
+<map id="bsps/i386/include/libcpu/cpuModel.h" name="bsps/i386/include/libcpu/cpuModel.h">
+<area shape="rect" id="node1" title=" " alt="" coords="493,5,671,47"/>
+<area shape="rect" id="node2" href="$i386_2pc386_2btimer_2btimer_8c.html" title=" " alt="" coords="5,95,180,136"/>
+<area shape="rect" id="node3" href="$i386_2pc386_2clock_2ckinit_8c.html" title=" " alt="" coords="205,95,370,136"/>
+<area shape="rect" id="node4" href="$tty__drv_8c.html" title=" " alt="" coords="394,95,575,136"/>
+<area shape="rect" id="node5" href="$bspcmdline_8c.html" title=" " alt="" coords="600,95,761,136"/>
+<area shape="rect" id="node6" href="$i386_2pc386_2start_2bspstart_8c.html" title=" " alt="" coords="785,95,947,136"/>
+<area shape="rect" id="node7" href="$displayCpu_8c.html" title=" " alt="" coords="971,95,1132,136"/>
+</map>

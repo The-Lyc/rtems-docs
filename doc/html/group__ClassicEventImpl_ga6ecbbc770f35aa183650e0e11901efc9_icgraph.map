@@ -1,0 +1,12 @@
+<map id="_Event_Surrender" name="_Event_Surrender">
+<area shape="rect" id="node1" title=" " alt="" coords="505,241,641,268"/>
+<area shape="rect" id="node2" href="$group__ClassicEvent.html#ga2d31674c165127bc530178d06d557b94" title="Sends an Event Set to the Target Task." alt="" coords="287,157,430,184"/>
+<area shape="rect" id="node9" href="$group__ClassicEventSystem.html#ga1119cb4341890e86ffa7cc7fad414f19" title="See rtems_event_send()." alt="" coords="260,267,457,293"/>
+<area shape="rect" id="node3" href="$group__ClassicEventMP.html#ga1874d957f7df000c20e35f8c000842d6" title="Event MP Packet Process." alt="" coords="9,5,209,32"/>
+<area shape="rect" id="node4" href="$mon-monitor_8c.html#a9dce13aebc7d9c0361ecd5490cd39c5e" title=" " alt="" coords="21,56,196,83"/>
+<area shape="rect" id="node5" href="$rtemspppd_8c.html#afc259272991e12d2e8097901976af938" title=" " alt="" coords="30,107,187,133"/>
+<area shape="rect" id="node6" href="$rtemspppd_8c.html#afe8fe9afcf624756f30f5e0c8376024c" title=" " alt="" coords="23,157,194,184"/>
+<area shape="rect" id="node7" href="$termios_8c.html#a9dd97a1b494e296caf2522740f602841" title=" " alt="" coords="31,209,186,250"/>
+<area shape="rect" id="node8" href="$fec_8c.html#aa5d15861b72054e329f3a6cafd74885c" title=" " alt="" coords="40,275,177,301"/>
+<area shape="rect" id="node10" href="$group__ClassicEventTransient.html#gab2d8a49e579d5eb1f71f499230ed9808" title="See rtems_event_system_send()." alt="" coords="5,325,212,352"/>
+</map>

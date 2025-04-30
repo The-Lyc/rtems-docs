@@ -1,0 +1,23 @@
+<map id="cpukit/include/rtems/score/profiling.h" name="cpukit/include/rtems/score/profiling.h">
+<area shape="rect" id="node1" title="Profiling Support API." alt="" coords="555,5,709,47"/>
+<area shape="rect" id="node2" href="$score_2percpu_8h.html" title=" " alt="" coords="494,95,653,121"/>
+<area shape="rect" id="node11" href="$isrlock_8h.html" title="ISR Locks." alt="" coords="842,169,1001,196"/>
+<area shape="rect" id="node3" title=" " alt="" coords="230,169,397,196"/>
+<area shape="rect" id="node4" href="$assert_8h.html" title="Information for the Assert Handler." alt="" coords="621,319,776,345"/>
+<area shape="rect" id="node10" href="$score_2chain_8h.html" title="Chain Handler API." alt="" coords="217,244,367,271"/>
+<area shape="rect" id="node15" href="$smp_8h.html" title="SuperCore SMP Support API." alt="" coords="675,169,818,196"/>
+<area shape="rect" id="node16" href="$timestamp_8h.html" title="Helpers for Manipulating Timestamps." alt="" coords="5,244,192,271"/>
+<area shape="rect" id="node19" href="$cpukit_2include_2rtems_2score_2watchdog_8h.html" title="Constants and Structures Associated with Watchdog Timers." alt="" coords="421,169,600,196"/>
+<area shape="rect" id="node5" href="$basedefs_8h.html" title="Basic Definitions." alt="" coords="497,393,671,420"/>
+<area shape="rect" id="node6" title=" " alt="" coords="701,468,867,495"/>
+<area shape="rect" id="node7" title=" " alt="" coords="576,468,651,495"/>
+<area shape="rect" id="node8" title=" " alt="" coords="373,468,456,495"/>
+<area shape="rect" id="node9" title=" " alt="" coords="481,468,551,495"/>
+<area shape="rect" id="node12" href="$isrlevel_8h.html" title="ISR Level Type." alt="" coords="784,244,947,271"/>
+<area shape="rect" id="node14" href="$smplock_8h.html" title="SMP Lock API." alt="" coords="727,393,897,420"/>
+<area shape="rect" id="node13" title=" " alt="" coords="800,319,939,345"/>
+<area shape="rect" id="node17" href="$score_2timespec_8h.html" title="Contains Helpers for Manipulating Timespecs." alt="" coords="274,393,449,420"/>
+<area shape="rect" id="node18" title=" " alt="" coords="285,468,349,495"/>
+<area shape="rect" id="node20" href="$rtems_2score_2rbtree_8h.html" title="Constants and Structures Associated with the Red&#45;Black Tree Handler." alt="" coords="392,244,547,271"/>
+<area shape="rect" id="node21" title=" " alt="" coords="459,319,546,345"/>
+</map>

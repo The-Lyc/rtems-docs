@@ -1,0 +1,46 @@
+<map id="cpukit/include/rtems/bdbuf.h" name="cpukit/include/rtems/bdbuf.h">
+<area shape="rect" id="node1" title="Block Device Buffer Management." alt="" coords="1312,5,1467,47"/>
+<area shape="rect" id="node2" href="$ata-instance_8c.html" title=" " alt="" coords="5,184,176,225"/>
+<area shape="rect" id="node3" href="$powerpc_2gen5200_2include_2bsp_2ata_8h.html" title=" " alt="" coords="208,95,379,136"/>
+<area shape="rect" id="node6" href="$ide__part__table_8h.html" title="&quot;MS&#45;DOS&#45;style&quot; Partition Tables Support" alt="" coords="403,95,557,136"/>
+<area shape="rect" id="node8" href="$bdbuf_8c.html" title=" " alt="" coords="582,95,722,136"/>
+<area shape="rect" id="node9" href="$bdpart-read_8c.html" title="Block Device Partition Management." alt="" coords="746,95,886,136"/>
+<area shape="rect" id="node10" href="$bdpart-write_8c.html" title="Block Device Partition Management." alt="" coords="910,95,1050,136"/>
+<area shape="rect" id="node11" href="$blkdev-imfs_8c.html" title="Block Device IMFS." alt="" coords="1074,95,1214,136"/>
+<area shape="rect" id="node12" href="$blkdev-ioctl_8c.html" title="Common IO Control Primitive." alt="" coords="1238,95,1378,136"/>
+<area shape="rect" id="node13" href="$blkdev_8c.html" title="Block Device Management." alt="" coords="1402,95,1542,136"/>
+<area shape="rect" id="node14" href="$diskdevs-init_8c.html" title="Block Device Disk Management Initialize." alt="" coords="1566,95,1706,136"/>
+<area shape="rect" id="node15" href="$diskdevs_8c.html" title="Block device disk management implementation." alt="" coords="1730,95,1870,136"/>
+<area shape="rect" id="node16" href="$media_8c.html" title="Media implementation." alt="" coords="1894,95,2034,136"/>
+<area shape="rect" id="node17" href="$show__bdbuf_8c.html" title="Enable the Monitor to Show bdbuf Information." alt="" coords="2058,95,2198,136"/>
+<area shape="rect" id="node18" href="$fat_8h.html" title="Constants/Data Structures/Prototypes on a Volume with FAT Filesystem." alt="" coords="2433,95,2589,136"/>
+<area shape="rect" id="node20" href="$fat__fat__operations_8h.html" title="Constants/Data Structures/Prototypes for Files Allocation Table." alt="" coords="2316,273,2473,315"/>
+<area shape="rect" id="node44" href="$main__blksync_8c.html" title=" " alt="" coords="2613,95,2761,136"/>
+<area shape="rect" id="node4" href="$ata-dma-pio-single_8c.html" title=" " alt="" coords="200,184,387,225"/>
+<area shape="rect" id="node5" href="$mpc5200-ata_8c.html" title=" " alt="" coords="411,184,581,225"/>
+<area shape="rect" id="node7" href="$ide__part__table_8c.html" title="Library supporting &quot;MS&#45;DOS&#45;style&quot; Partition Table." alt="" coords="606,184,746,225"/>
+<area shape="rect" id="node19" href="$fat_8c.html" title="Low&#45;level Operations on a Volume with a DOSFS FAT filesystem." alt="" coords="1250,363,1406,404"/>
+<area shape="rect" id="node21" href="$fat__fat__operations_8c.html" title="General operations on File Allocation Table." alt="" coords="1430,363,1586,404"/>
+<area shape="rect" id="node22" href="$fat__file_8c.html" title="General operations on &quot;fat&#45;file&quot;." alt="" coords="1070,363,1226,404"/>
+<area shape="rect" id="node23" href="$msdos__create_8c.html" title="Create a new MSDOS FileSystem node." alt="" coords="1970,363,2126,404"/>
+<area shape="rect" id="node24" href="$msdos__dir_8c.html" title="MSDOS Directory Handlers Implementation." alt="" coords="2330,363,2486,404"/>
+<area shape="rect" id="node25" href="$msdos__eval_8c.html" title="MSDOS Evaluation Routines." alt="" coords="2690,363,2846,404"/>
+<area shape="rect" id="node26" href="$msdos__file_8c.html" title="MSDOS File Handlers Implementation." alt="" coords="2510,363,2666,404"/>
+<area shape="rect" id="node27" href="$msdos__format_8c.html" title="RTEMS MSDOS Format Functionality." alt="" coords="2150,363,2306,404"/>
+<area shape="rect" id="node28" href="$msdos__free_8c.html" title="Call Fat&#45;File Close Routine." alt="" coords="3053,363,3209,404"/>
+<area shape="rect" id="node29" href="$msdos__fsunmount_8c.html" title="Shut Down MSDOS FileSystem." alt="" coords="2871,363,3028,404"/>
+<area shape="rect" id="node30" href="$msdos__initsupp_8c.html" title="MSDOS Filesystem Initialization." alt="" coords="4699,363,4855,404"/>
+<area shape="rect" id="node31" href="$msdos__misc_8c.html" title="Miscellaneous Routines Implementation for MSDOS FileSystem." alt="" coords="3233,363,3389,404"/>
+<area shape="rect" id="node32" href="$msdos__mknod_8c.html" title="Routine for Node Creation in MSDOS Filesystem." alt="" coords="1610,363,1766,404"/>
+<area shape="rect" id="node33" href="$msdos__rename_8c.html" title="Rename a MSDOS FileSystem Node." alt="" coords="1790,363,1946,404"/>
+<area shape="rect" id="node34" href="$msdos__statvfs_8c.html" title="Obtain MS&#45;DOS filesystem information." alt="" coords="3413,363,3569,404"/>
+<area shape="rect" id="node35" href="$fat__file_8h.html" title="Constants/Data Structures/Prototypes for Operations on &quot;fat&#45;file&quot;." alt="" coords="2599,184,2755,225"/>
+<area shape="rect" id="node36" href="$msdos_8h.html" title="The MSDOS Filesystem Constants/Data Structures/Prototypes." alt="" coords="3055,273,3211,315"/>
+<area shape="rect" id="node38" href="$msdos__conv__default_8c.html" title="Default Converter." alt="" coords="4880,363,5051,404"/>
+<area shape="rect" id="node37" href="$msdos__conv_8c.html" title="MDOS Date Conversion." alt="" coords="3593,363,3749,404"/>
+<area shape="rect" id="node39" href="$msdos__conv__utf8_8c.html" title="UTF&#45;8 Converter." alt="" coords="3773,363,3929,404"/>
+<area shape="rect" id="node40" href="$msdos__handlers__dir_8c.html" title="Directory Handlers Table for MSDOS FileSystem." alt="" coords="3953,363,4119,404"/>
+<area shape="rect" id="node41" href="$msdos__handlers__file_8c.html" title="File Operations Table for MSDOS FileSystem." alt="" coords="4144,363,4315,404"/>
+<area shape="rect" id="node42" href="$msdos__init_8c.html" title="Init Routine for MSDOS." alt="" coords="4339,363,4495,404"/>
+<area shape="rect" id="node43" href="$msdos__rmnod_8c.html" title="Remove Node from MSDOS Directory." alt="" coords="4519,363,4675,404"/>
+</map>

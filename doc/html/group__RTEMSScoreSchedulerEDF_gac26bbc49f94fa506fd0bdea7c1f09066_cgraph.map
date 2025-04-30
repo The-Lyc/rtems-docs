@@ -1,0 +1,20 @@
+<map id="_Scheduler_EDF_Block" name="_Scheduler_EDF_Block">
+<area shape="rect" id="node1" title="Removes the blocking thread from the ready queue and schedules is only again if the thread is executi..." alt="" coords="5,213,175,240"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreSchedulerEDF.html#ga0daebfc9b131bd097db9899942bb0926" title="Extracts the node from the context of the given scheduler." alt="" coords="229,123,447,149"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreSchedulerEDF.html#gacacc0195101c7c177c6bce307de1699a" title="Schedules the next ready thread as the heir." alt="" coords="223,213,453,240"/>
+<area shape="rect" id="node16" href="$group__RTEMSScoreScheduler.html#ga582a9364e4794778595d769e3f4f4693" title="Blocks the thread." alt="" coords="263,307,413,349"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreSchedulerEDF.html#ga3b25999c8ed803d5e2cebce7ad1b2060" title="Extracts the scheduler node from the ready queue of the context." alt="" coords="501,31,680,57"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreSchedulerEDF.html#ga8f7bd3ea1cd129951cf3246eb4c31b1f" title="Gets the context of the scheduler." alt="" coords="513,147,669,189"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreSchedulerEDF.html#gaea9b538d93951ca5e84d203fc274b8db" title="Returns the scheduler EDF node for the scheduler node." alt="" coords="507,82,674,123"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreRBTree.html#ga26bf30d26e521f0599ae0467abdacc85" title="Extracts (removes) the node from the red&#45;black tree." alt="" coords="754,31,881,57"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreRBTree.html#gabbc757c2fd03694b6f9bb5aa2be553ff" title="Initializes a red&#45;black tree node." alt="" coords="955,5,1131,32"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreRBTree.html#ga29242f056330aaabc12dcfcaa6f10a05" title="Returns a pointer to root node of the red&#45;black tree." alt="" coords="987,56,1098,83"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreRBTree.html#ga82d9b6f1aad201e7c8b614a0e970b356" title="Sets a red&#45;black tree node as off&#45;tree." alt="" coords="1179,5,1337,32"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreScheduler.html#ga9c62ef5a388b998fa041a269297be1fe" title="Gets the context of the scheduler." alt="" coords="728,155,907,181"/>
+<area shape="rect" id="node12" href="$group__RTEMSScoreRBTree.html#ga4b74812f06506bb6f19b910bfb011070" title="Returns the minimum node of the red&#45;black tree." alt="" coords="519,213,662,240"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreScheduler.html#ga29bb7f28ab22ddb95869cc527f2f75bf" title="Updates the heir." alt="" coords="501,264,680,291"/>
+<area shape="rect" id="node14" href="$group__RTEMSScoreThread.html#ga04310043b907712ed8693fbbbc6ba0be" title="Gets the cpu of the thread&#39;s scheduler." alt="" coords="748,235,887,261"/>
+<area shape="rect" id="node15" href="$group__RTEMSScoreThread.html#ga02a75f308e726ba3f36a97cd758a8e7e" title="Updates the cpu time used of the thread." alt="" coords="736,286,899,327"/>
+<area shape="rect" id="node17" href="$group__RTEMSScoreThread.html#gad103869e6afbe9aa2516d18ffd7e4190" title="Checks if the thread is the currently executing thread." alt="" coords="509,315,672,341"/>
+<area shape="rect" id="node18" href="$group__RTEMSScoreThread.html#ga1c0c8b33dbdf05215d0656c251045bec" title="Checks if the thread is the heir." alt="" coords="529,365,653,392"/>
+</map>

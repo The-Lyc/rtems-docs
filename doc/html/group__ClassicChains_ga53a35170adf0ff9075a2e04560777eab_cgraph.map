@@ -1,0 +1,4 @@
+<map id="rtems_chain_next" name="rtems_chain_next">
+<area shape="rect" id="node1" title="Return pointer the next node from this node." alt="" coords="5,5,144,32"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreChain.html#ga9502cc5cb6c81ef2bce33698005e1752" title="Returns pointer to the next node from this node." alt="" coords="192,5,296,32"/>
+</map>

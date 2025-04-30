@@ -1,0 +1,4 @@
+<map id="rtems_gpio_pin_conf" name="rtems_gpio_pin_conf">
+<area shape="rect" id="node1" title="Object containing configuration information to request/update a GPIO pin." alt="" coords="6,109,163,136"/>
+<area shape="rect" id="node2" href="$structrtems__gpio__interrupt__configuration.html" title="Object containing configuration information regarding interrupts." alt="" coords="5,5,164,47"/>
+</map>

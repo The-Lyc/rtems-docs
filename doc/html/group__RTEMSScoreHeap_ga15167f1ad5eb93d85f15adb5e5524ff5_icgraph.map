@@ -1,0 +1,23 @@
+<map id="_Heap_Allocate_aligned_with_boundary" name="_Heap_Allocate_aligned_with_boundary">
+<area shape="rect" id="node1" title="Allocates an aligned memory area with boundary constraint." alt="" coords="1225,217,1404,259"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreHeap.html#gad26c02ca60b04b7e5845ec959f6d4330" title="Allocates a memory area." alt="" coords="1021,174,1143,201"/>
+<area shape="rect" id="node16" href="$group__RTEMSScoreHeap.html#ga951f109f2bfe07c7a769714f97b96a35" title="Allocates an aligned memory area." alt="" coords="993,225,1171,251"/>
+<area shape="rect" id="node17" href="$group__RTEMSScoreProtHeap.html#ga76e8188c79871f71f9af86616c6ebc53" title="Allocates an aligned memory area with boundary constraint for the protected heap." alt="" coords="987,289,1177,331"/>
+<area shape="rect" id="node3" href="$group__ClassicRegionImpl.html#ga832ceefdcf5076c6aae60d4d0762a2e2" title="Region_Allocate_segment." alt="" coords="740,62,939,89"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreWorkspace.html#ga8b19b310c0e6194a2750c505367d8539" title="Allocates a memory block of the specified size from the workspace." alt="" coords="759,149,919,175"/>
+<area shape="rect" id="node13" href="$bestcomm__glue_8h.html#aa1aa7300fb261baabcc89e1d3eac0296" title=" " alt="" coords="768,199,911,226"/>
+<area shape="rect" id="node4" href="$group__ClassicRegionImpl.html#ga3cf94767384ce29609efbb70c01f8531" title="Process Region Queue." alt="" coords="496,13,675,39"/>
+<area shape="rect" id="node5" href="$group__ClassicRegion.html#ga1332adb33a1efe03e31a656a3cf5840c" title="RTEMS Return Region Segment." alt="" coords="254,5,409,47"/>
+<area shape="rect" id="node7" href="$group__POSIX__KEY.html#ga790a7a15f816d9c7becce14825a5be6e" title=" " alt="" coords="495,64,675,105"/>
+<area shape="rect" id="node8" href="$group__POSIXShmPrivate.html#ga3c588a0b92cf32b64dca7f15b4caedd4" title="object_create operation for shm objects stored in RTEMS Workspace." alt="" coords="485,129,686,171"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreWorkspace.html#ga8bc0640d72182fd63475e74dd58c298d" title="Duplicates string with memory from the workspace." alt="" coords="479,195,691,222"/>
+<area shape="rect" id="node9" href="$group__POSIXShmPrivate.html#gaa01bbb91f3e013bb50e38c0773fb57e1" title="object_resize operation for shm objects stored in RTEMS Workspace." alt="" coords="232,129,431,171"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreObject.html#gadd5c974f986efd3e78363740eee4b249" title="Sets objects name." alt="" coords="256,195,407,222"/>
+<area shape="rect" id="node12" href="$group__ClassicClassInfo.html#gacb1a1933caf2556aa7e9b715c684fe5b" title="Set Name of Object." alt="" coords="5,195,184,222"/>
+<area shape="rect" id="node14" href="$tasksetup__bdtable_8h.html#a19c38722d5167424ed4076a8232eab82" title=" " alt="" coords="511,246,659,273"/>
+<area shape="rect" id="node15" href="$tasksetup__general_8h.html#af3f889e5e2b058255885cbeca59a7092" title=" " alt="" coords="260,246,403,273"/>
+<area shape="rect" id="node18" href="$group__RTEMSScoreProtHeap.html#gab7cdb2ee3416572258caab80416e312a" title="Allocates a memory area." alt="" coords="744,297,935,323"/>
+<area shape="rect" id="node21" href="$group__RTEMSScoreProtHeap.html#gaf60206138a64a845eea1a2e6519b9ae2" title="Allocates an aligned memory area." alt="" coords="744,348,935,389"/>
+<area shape="rect" id="node19" href="$rtems__heap__extend__via__sbrk_8c.html#aaab427c995cc0c8e362e991a7877b261" title="RTEMS Extend Heap via Sbrk." alt="" coords="479,297,692,323"/>
+<area shape="rect" id="node20" href="$group__ClassicRTEMSWorkspace.html#ga64ef053b5f7b0b526c024b2596a24dfb" title="Allocates Memory from the Workspace." alt="" coords="487,347,683,374"/>
+</map>

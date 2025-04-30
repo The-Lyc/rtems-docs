@@ -1,0 +1,22 @@
+<map id="rtems_fatal_error_occurred" name="rtems_fatal_error_occurred">
+<area shape="rect" id="node1" title="Invokes the internal error handler with a source of INTERNAL_ERROR_RTEMS_API and is internal set to f..." alt="" coords="457,426,656,453"/>
+<area shape="rect" id="node2" href="$ata__util_8c.html#a8277cf2c2bb5aedf88a0347158bd8cce" title=" " alt="" coords="228,5,384,47"/>
+<area shape="rect" id="node4" href="$m68k_2mvme167_2console_2console_8c.html#a21ec6cbad3530d02dcfe5298f37d1663" title=" " alt="" coords="235,71,377,98"/>
+<area shape="rect" id="node6" href="$sh_2shared_2console_2console_8c.html#a4efabb094608f8155b1a679e03f2eafc" title="Console close entry point." alt="" coords="249,122,363,149"/>
+<area shape="rect" id="node7" href="$sh_2shared_2console_2console_8c.html#a3ecfcbb4d683d7d77476039aba0f94db" title="Console IO control entry point." alt="" coords="244,173,368,199"/>
+<area shape="rect" id="node8" href="$group__RTEMSBSPsSPARCERC32.html#ga33017a80c39bdce884e201734ceb023d" title=" " alt="" coords="203,223,409,250"/>
+<area shape="rect" id="node9" href="$sh_2shared_2console_2console_8c.html#a3f4320ff384009c3bdfa6ec4f1b79501" title="Console open entry point." alt="" coords="251,274,361,301"/>
+<area shape="rect" id="node10" href="$sh_2shared_2console_2console_8c.html#affd7cbaa034887f37032640f39c74b0d" title="Console read entry point." alt="" coords="252,325,360,351"/>
+<area shape="rect" id="node11" href="$sh_2shared_2console_2console_8c.html#a211cf468eb7aec89e37bc784a62753ce" title="Console write entry point." alt="" coords="250,375,362,402"/>
+<area shape="rect" id="node12" href="$drvmgr_8c.html#a04dbf24356e9cde06b55d9390351f3cd" title=" " alt="" coords="237,426,375,453"/>
+<area shape="rect" id="node13" href="$drvmgr_8c.html#aadea0031d80deec396921e300874fe5a" title=" " alt="" coords="237,477,375,503"/>
+<area shape="rect" id="node14" href="$nios2_2nios2__iss_2start_2main_8c.html#a6381598f44b7afdb4ccaecc94d16a0d5" title=" " alt="" coords="279,527,333,554"/>
+<area shape="rect" id="node15" href="$au1x00_8h.html#abd991526c499a8be8bfb30d88398d328" title=" " alt="" coords="241,578,371,605"/>
+<area shape="rect" id="node16" href="$ns16550_8c.html#aef1853592fbc04663b030e1fd810c0d8" title=" " alt="" coords="253,629,359,655"/>
+<area shape="rect" id="node17" href="$group__LibIO.html#gad5344541746c6e86ef313e926ac2d7af" title="Base File System Initialization." alt="" coords="207,679,405,706"/>
+<area shape="rect" id="node18" href="$mon-monitor_8c.html#ad56f7b51ba14512ebe41fcd0e16d3ad0" title=" " alt="" coords="211,730,401,757"/>
+<area shape="rect" id="node19" href="$shmdr-getpkt_8c.html#a8495012e5f056e632c1f2a562f534c43" title=" " alt="" coords="241,781,371,807"/>
+<area shape="rect" id="node20" href="$shmdr-send_8c.html#a3677117b4ee8fb82f89338879e754fa5" title=" " alt="" coords="236,831,376,858"/>
+<area shape="rect" id="node3" href="$ata__util_8c.html#a10c98cc88c47ff50f12cca20fe339438" title=" " alt="" coords="5,13,155,39"/>
+<area shape="rect" id="node5" href="$m68k_2mvme167_2console_2console_8c.html#a70752aa0c5e20c8334b8b02a31a06de3" title=" " alt="" coords="14,71,146,98"/>
+</map>

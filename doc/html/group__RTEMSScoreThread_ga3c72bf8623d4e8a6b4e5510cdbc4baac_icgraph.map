@@ -1,0 +1,9 @@
+<map id="_Thread_Priority_changed" name="_Thread_Priority_changed">
+<area shape="rect" id="node1" title="Propagates a thread priority value change in the specified thread priority node to the corresponding ..." alt="" coords="525,68,716,95"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreSchedulerEDF.html#gac0692f99a480bf873298367ffd5ec6a1" title="Releases a EDF job." alt="" coords="265,24,477,51"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreThread.html#ga76a9975ac0b320b0a00678534ab78f10" title="Changes the thread priority value of the specified thread priority node in the corresponding thread p..." alt="" coords="280,93,463,120"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreSchedulerCBS.html#ga26f13ab87c29b1b9abf5e8defae50d47" title="Releases a job." alt="" coords="5,5,217,32"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreMutex.html#gae13f723fc5cdac5a7f9b5f910b284bf6" title="Sets the priority of the ceiling mutex." alt="" coords="29,57,193,98"/>
+<area shape="rect" id="node6" href="$posix_2muteximpl_8h.html#abfafb525a73733f9fdb9d99cfa8b865a" title=" " alt="" coords="12,123,211,149"/>
+<area shape="rect" id="node7" href="$pthreadsetschedprio_8c.html#a7a23cbcfc21a4e3edf531ed65f022370" title=" " alt="" coords="30,173,193,200"/>
+</map>

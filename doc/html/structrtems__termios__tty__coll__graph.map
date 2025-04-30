@@ -1,0 +1,13 @@
+<map id="rtems_termios_tty" name="rtems_termios_tty">
+<area shape="rect" id="node1" title=" " alt="" coords="719,192,862,219"/>
+<area shape="rect" id="node5" href="$structrtems__termios__device__node.html" title="Termios device node for installed devices." alt="" coords="997,269,1204,296"/>
+<area shape="rect" id="node2" href="$structrtems__termios__device__flow.html" title="Termios device flow control handler." alt="" coords="320,5,521,32"/>
+<area shape="rect" id="node3" href="$structrtems__termios__rawbuf.html" title=" " alt="" coords="336,131,505,157"/>
+<area shape="rect" id="node4" href="$structrtems__binary__semaphore.html" title=" " alt="" coords="5,131,193,157"/>
+<area shape="rect" id="node6" href="$structrtems__termios__device__context.html" title="Termios device context." alt="" coords="337,250,504,291"/>
+<area shape="rect" id="node7" href="$structISR__lock__Control.html" title="ISR lock control." alt="" coords="34,257,165,284"/>
+<area shape="rect" id="node8" href="$structrtems__termios__device__handler.html" title="Termios device handler." alt="" coords="337,343,504,385"/>
+<area shape="rect" id="node9" href="$structChain__Node__struct.html" title=" " alt="" coords="719,488,863,515"/>
+<area shape="rect" id="node10" href="$structrtems__termios__callbacks.html" title=" " alt="" coords="328,71,513,97"/>
+<area shape="rect" id="node11" href="$structttywakeup.html" title=" " alt="" coords="375,191,466,217"/>
+</map>

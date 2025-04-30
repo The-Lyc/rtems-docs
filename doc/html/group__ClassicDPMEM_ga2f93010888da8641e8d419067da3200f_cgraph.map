@@ -1,0 +1,8 @@
+<map id="rtems_port_internal_to_external" name="rtems_port_internal_to_external">
+<area shape="rect" id="node1" title="RTEMS Port Internal to External." alt="" coords="5,49,156,90"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreAddress.html#gaa7812bb29c95ed68f2b958d833c79399" title="Adds offset to an address." alt="" coords="218,5,390,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreAddress.html#ga35c4fc0bbdd945fa468c3b8b268005cd" title="Subtracts two addresses." alt="" coords="225,56,383,83"/>
+<area shape="rect" id="node4" href="$group__ClassicDPMEMImpl.html#ga34b3b7bbc775ebd2c5a1c6c87b9e5872" title=" " alt="" coords="204,107,404,133"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreObject.html#gaccc5682133e4f65b8cb374eab9be2c9d" title="Maps the specified object identifier to the associated local object control block." alt="" coords="452,107,560,133"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreObject.html#ga22cdf45f285840b7728b06197a7f4627" title="Returns the index portion of the ID." alt="" coords="608,107,759,133"/>
+</map>

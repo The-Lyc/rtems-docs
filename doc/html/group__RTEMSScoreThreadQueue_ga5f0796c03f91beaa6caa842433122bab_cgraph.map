@@ -1,0 +1,4 @@
+<map id="_Thread_queue_Release_critical" name="_Thread_queue_Release_critical">
+<area shape="rect" id="node1" title="Releases the thread queue control in a critical section." alt="" coords="5,5,185,47"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreThreadQueue.html#ga923d39f206f389ae8a8293e22bae8fbf" title="Checks if the thread queue control is the owner of the lock." alt="" coords="233,5,435,47"/>
+</map>

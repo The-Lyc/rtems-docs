@@ -1,0 +1,7 @@
+<map id="_SMP_Get_online_processors" name="_SMP_Get_online_processors">
+<area shape="rect" id="node1" title="Gets all online processors." alt="" coords="436,64,647,91"/>
+<area shape="rect" id="node2" href="$group__RTEMSDriverClock.html#gafddd4d0e38336d3fbc84b05d0dcd5cbe" title="Initialize the clock driver." alt="" coords="230,5,358,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreScheduler.html#ga2c102abed212353a605a1dd7f483e211" title="Checks if the affinity is a subset of the online processors." alt="" coords="221,57,367,98"/>
+<area shape="rect" id="node5" href="$group__RTEMSBSPsPowerPCQorIQInterrupt.html#ga8925aa2097da48998f8a610686f63180" title=" " alt="" coords="200,123,388,149"/>
+<area shape="rect" id="node4" href="$schedulerdefaultsetaffinity_8c.html#a0df1e0f023b7616ae0939f5327213663" title=" " alt="" coords="5,57,152,98"/>
+</map>

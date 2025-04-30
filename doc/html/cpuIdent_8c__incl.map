@@ -1,0 +1,13 @@
+<map id="bsps/powerpc/shared/cpuIdent.c" name="bsps/powerpc/shared/cpuIdent.c">
+<area shape="rect" id="node1" title=" " alt="" coords="222,5,381,47"/>
+<area shape="rect" id="node2" href="$cpuIdent_8h.html" title=" " alt="" coords="56,95,189,121"/>
+<area shape="rect" id="node4" href="$spr_8h.html" title=" " alt="" coords="412,95,508,121"/>
+<area shape="rect" id="node7" href="$bspIo_8h.html" title="Interface to Kernel Print Methods." alt="" coords="246,95,357,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,244,88,271"/>
+<area shape="rect" id="node5" href="$powerpc_2include_2rtems_2powerpc_2registers_8h.html" title=" " alt="" coords="400,169,592,196"/>
+<area shape="rect" id="node6" title=" " alt="" coords="431,244,502,271"/>
+<area shape="rect" id="node8" href="$basedefs_8h.html" title="Basic Definitions." alt="" coords="102,169,277,196"/>
+<area shape="rect" id="node11" title=" " alt="" coords="301,169,376,196"/>
+<area shape="rect" id="node9" title=" " alt="" coords="113,244,279,271"/>
+<area shape="rect" id="node10" title=" " alt="" coords="304,244,379,271"/>
+</map>

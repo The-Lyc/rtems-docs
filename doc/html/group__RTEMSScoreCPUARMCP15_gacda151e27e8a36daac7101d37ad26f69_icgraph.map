@@ -1,0 +1,5 @@
+<map id="arm_cp15_set_exception_handler" name="arm_cp15_set_exception_handler">
+<area shape="rect" id="node1" title="Sets the exception handler in the vector table." alt="" coords="440,5,624,47"/>
+<area shape="rect" id="node2" href="$group__bsp__interrupt.html#gab114a6e92b17b99bf52cf24d1125a9df" title="BSP specific initialization." alt="" coords="232,5,392,47"/>
+<area shape="rect" id="node3" href="$group__RTEMSBSPsSharedStartup.html#gae847768d4b83b8e3e4bc7313095ef7dd" title="Standard start routine for secondary processors." alt="" coords="5,5,184,47"/>
+</map>

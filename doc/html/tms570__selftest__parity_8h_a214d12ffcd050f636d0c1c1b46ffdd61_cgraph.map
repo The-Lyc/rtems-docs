@@ -1,0 +1,6 @@
+<map id="tms570_selftest_par_check_std" name="tms570_selftest_par_check_std">
+<area shape="rect" id="node1" title="run test to check that parity protection works for modules with common setup structure." alt="" coords="5,57,160,98"/>
+<area shape="rect" id="node2" href="$tms570__selftest_8h.html#a30cfa0cf0faa449eb4b23e4fbff1b998" title=" " alt="" coords="208,5,416,32"/>
+<area shape="rect" id="node3" href="$tms570__selftest_8h.html#ab74fa521293388b990454fa3a164633a" title="Routine to clear specified error channel signalling bit." alt="" coords="230,57,394,98"/>
+<area shape="rect" id="node4" href="$tms570__selftest_8h.html#a0cef2f68ef9c7ae337615fb420b50cb6" title="Routine to test is specified error channel is signalling error." alt="" coords="230,122,394,163"/>
+</map>

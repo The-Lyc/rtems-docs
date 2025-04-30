@@ -1,0 +1,8 @@
+<map id="_Console_simple_Initialize" name="_Console_simple_Initialize">
+<area shape="rect" id="node1" title="Initializes a simple console device." alt="" coords="5,53,200,80"/>
+<area shape="rect" id="node2" href="$group__IMFS.html#ga7a9823043f3d3c052fdd0b01c5b86a67" title="Adds an IMFS node." alt="" coords="248,53,371,80"/>
+<area shape="rect" id="node3" href="$group__LibIOInternal.html#gaa5aa49d164d6bc6f231e793f655e2be2" title=" " alt="" coords="419,46,589,87"/>
+<area shape="rect" id="node4" href="$group__LibIOInternal.html#ga9b379361499c56529d158c30562cf399" title=" " alt="" coords="637,5,808,61"/>
+<area shape="rect" id="node6" href="$lib_8c.html#ace2e8f8b5db1119196eee36974d8b536" title=" " alt="" coords="693,85,752,112"/>
+<area shape="rect" id="node5" href="$bootldr_8h.html#a36d20f7d597c517b964289f6b54ddfa7" title=" " alt="" coords="856,20,932,47"/>
+</map>

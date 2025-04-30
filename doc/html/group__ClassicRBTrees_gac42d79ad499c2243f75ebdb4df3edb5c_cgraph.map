@@ -1,0 +1,7 @@
+<map id="rtems_rbtree_extract" name="rtems_rbtree_extract">
+<area shape="rect" id="node1" title="Extracts (removes) the node from the red&#45;black tree." alt="" coords="5,31,164,57"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreRBTree.html#ga26bf30d26e521f0599ae0467abdacc85" title="Extracts (removes) the node from the red&#45;black tree." alt="" coords="212,31,339,57"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreRBTree.html#gabbc757c2fd03694b6f9bb5aa2be553ff" title="Initializes a red&#45;black tree node." alt="" coords="387,5,563,32"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreRBTree.html#ga29242f056330aaabc12dcfcaa6f10a05" title="Returns a pointer to root node of the red&#45;black tree." alt="" coords="419,56,530,83"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreRBTree.html#ga82d9b6f1aad201e7c8b614a0e970b356" title="Sets a red&#45;black tree node as off&#45;tree." alt="" coords="611,5,769,32"/>
+</map>

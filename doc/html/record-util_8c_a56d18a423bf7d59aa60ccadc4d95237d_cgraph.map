@@ -1,0 +1,9 @@
+<map id="_Record_Caller" name="_Record_Caller">
+<area shape="rect" id="node1" title=" " alt="" coords="5,63,124,89"/>
+<area shape="rect" id="node2" href="$group__RTEMSRecord.html#gaa5332b5d70ad8e147ebe44ca25341944" title="Produces two record items." alt="" coords="172,63,355,89"/>
+<area shape="rect" id="node3" href="$group__RTEMSRecord.html#ga5e164fc0a361be6cac976c3afa8ec732" title="Adds a record item." alt="" coords="416,8,555,35"/>
+<area shape="rect" id="node5" href="$group__RTEMSRecord.html#gac80cf4761566e19371353c9c72271e84" title="Commits a set of record items." alt="" coords="403,63,568,89"/>
+<area shape="rect" id="node7" href="$group__RTEMSRecord.html#gad96c3279a0126090309e78135151168e" title="Prepares to add and commit record items." alt="" coords="403,113,568,140"/>
+<area shape="rect" id="node4" href="$record_8h.html#aa1f6bc150385e3209e68a628887f52ba" title=" " alt="" coords="640,5,757,32"/>
+<area shape="rect" id="node6" href="$group__RTEMSRecord.html#ga2a34e1207be9164960fd9fe9bf18bb57" title="Commits a set of record items in a critical section with interrupts disabled." alt="" coords="616,57,781,98"/>
+</map>

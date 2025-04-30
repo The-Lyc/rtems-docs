@@ -1,0 +1,6 @@
+<map id="lpc176x_pin_select" name="lpc176x_pin_select">
+<area shape="rect" id="node1" title="Sets pin to the selected function." alt="" coords="229,64,376,91"/>
+<area shape="rect" id="node2" href="$lpc-gpio_8h.html#a9565e4ec4013f20eadb825db494a612e" title="Configures the pin as input or output GPIO." alt="" coords="16,5,171,32"/>
+<area shape="rect" id="node3" href="$arm_2lpc176x_2timer_2timer_8c.html#a01936debea7945f7c0595272e37c420c" title="Configures the capture ports." alt="" coords="8,57,179,98"/>
+<area shape="rect" id="node4" href="$arm_2lpc176x_2timer_2timer_8c.html#aa9114b0e608e0ebb87b433a5331a610e" title="Configures the external match ports." alt="" coords="5,122,181,163"/>
+</map>

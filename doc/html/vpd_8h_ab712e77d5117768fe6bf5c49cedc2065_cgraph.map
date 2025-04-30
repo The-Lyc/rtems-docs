@@ -1,0 +1,7 @@
+<map id="BSP_vpdRetrieveFields" name="BSP_vpdRetrieveFields">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,176,108"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreSysState.html#ga1f0777590280f354ba1a73b0b4ed143e" title="Gets the current system state." alt="" coords="229,5,377,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreSysState.html#gaa34964b3212ea72baf5ec0064f5d28df" title="Checks if the state is up." alt="" coords="224,56,383,83"/>
+<area shape="rect" id="node4" href="$if__xxx__rtems_8c.html#a0d44d815bf35b8d64e2c9b7dc79efa76" title=" " alt="" coords="284,107,323,133"/>
+<area shape="rect" id="node5" href="$bootldr_8h.html#a36d20f7d597c517b964289f6b54ddfa7" title=" " alt="" coords="265,157,341,184"/>
+</map>

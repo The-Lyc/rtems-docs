@@ -1,0 +1,9 @@
+<map id="bsps/m68k/mcf5206elite/i2c" name="bsps/m68k/mcf5206elite/i2c">
+<area shape="rect" id="node1" href="dir_5c9b65aa6013eb9a350cbc3da497d8ff.html" title="i2c" alt="" coords="43,52,115,100"/>
+<area shape="rect" id="node2" href="dir_fc88207764d12a67c5d3b8c1ec722f46.html" title="include" alt="" coords="5,148,77,196"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000089_000638.html" title="1" alt="" coords="60,127,70,142"/>
+<area shape="rect" id="node3" href="dir_cd198e36225ba3f41de97552050ac017.html" title="cpukit" alt="" coords="41,244,113,292"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000089_000080.html" title="3" alt="" coords="89,220,98,235"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000638_000080.html" title="3" alt="" coords="65,217,75,231"/>
+<area shape="rect" id="clust1" href="dir_03c491489140d09559c3ea389f8cde94.html" title="mcf5206elite" alt="" coords="25,16,133,111"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="_Scheduler_Generic_block" name="_Scheduler_Generic_block">
+<area shape="rect" id="node1" title="Blocks the thread." alt="" coords="5,23,156,65"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreThread.html#gad103869e6afbe9aa2516d18ffd7e4190" title="Checks if the thread is the currently executing thread." alt="" coords="204,5,367,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreThread.html#ga1c0c8b33dbdf05215d0656c251045bec" title="Checks if the thread is the heir." alt="" coords="223,56,347,83"/>
+</map>

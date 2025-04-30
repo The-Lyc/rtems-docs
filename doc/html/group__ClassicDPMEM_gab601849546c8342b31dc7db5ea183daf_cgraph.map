@@ -1,0 +1,27 @@
+<map id="rtems_port_delete" name="rtems_port_delete">
+<area shape="rect" id="node1" title="RTEMS Delete Port." alt="" coords="5,122,147,149"/>
+<area shape="rect" id="node2" href="$group__ClassicDPMEMImpl.html#ga66c62de25dd210c71cfdf3658738c930" title="Frees a port control block to the inactive chain of free port control blocks." alt="" coords="195,21,400,47"/>
+<area shape="rect" id="node8" href="$group__ClassicDPMEMImpl.html#ga34b3b7bbc775ebd2c5a1c6c87b9e5872" title=" " alt="" coords="197,71,397,98"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreObject.html#ga3059733162454cc71ff73288ba9b4dfd" title="Locks the object allocator mutex." alt="" coords="209,122,386,149"/>
+<area shape="rect" id="node16" href="$group__RTEMSScoreObject.html#ga41a6751fdfbe5adc5f9cb5d12cc8a214" title="Unlocks the object allocator mutex." alt="" coords="226,173,369,215"/>
+<area shape="rect" id="node20" href="$group__RTEMSScoreObject.html#ga48be735854a391514fdac4881e9ef8fc" title="Closes object." alt="" coords="237,303,358,330"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreObject.html#ga2215dcf7e3251e6f629b6a3a96fff44e" title="Frees an object." alt="" coords="486,17,599,43"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreObject.html#ga67f9cdae9423a81e46626f0e2cb9f305" title="Checks if the allocator is the owner of the object allocator mutex." alt="" coords="713,5,856,47"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreAllocatorMutex.html#ga8698c4f98051e1c097ed32e38fbf786f" title=" " alt="" coords="955,5,1111,47"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreAPIMutex.html#ga0a01be1d7b28416e738a2b97ca3f611d" title="Checks if the specified API mutex is owned by the executing thread." alt="" coords="1183,13,1345,39"/>
+<area shape="rect" id="node7" href="$group__PerCPU.html#ga294cfaf3cf50de03f1d9821d68b9c1bd" title="Returns the thread control block of the executing thread." alt="" coords="1393,13,1568,39"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreObject.html#gaccc5682133e4f65b8cb374eab9be2c9d" title="Maps the specified object identifier to the associated local object control block." alt="" coords="731,71,839,98"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreObject.html#ga22cdf45f285840b7728b06197a7f4627" title="Returns the index portion of the ID." alt="" coords="1189,274,1339,301"/>
+<area shape="rect" id="node12" href="$group__RTEMSScoreAllocatorMutex.html#ga89aa77edce0d5557b1a7e9d9ef7999c8" title=" " alt="" coords="455,122,630,149"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreAPIMutex.html#ga57829ca494f1d866219c499eadb0ffc9" title="Acquires the specified API mutex." alt="" coords="717,122,852,149"/>
+<area shape="rect" id="node14" href="$mutex_8c.html#a2960aef6016ac8937f24108f9cdeebd0" title=" " alt="" coords="937,122,1130,149"/>
+<area shape="rect" id="node15" href="$group__RTEMSScoreThread.html#gad5aaea7af4482aebd880403fb9c238af" title="Set the thread to life protected." alt="" coords="932,173,1135,199"/>
+<area shape="rect" id="node17" href="$group__RTEMSScoreAllocatorMutex.html#ga15d657c04537c2ad1841adc28b8dd747" title=" " alt="" coords="448,181,637,207"/>
+<area shape="rect" id="node18" href="$group__RTEMSScoreAPIMutex.html#ga64a430ae861d0ce7f63413e651fbe36d" title="Releases the specified API mutex." alt="" coords="709,181,860,207"/>
+<area shape="rect" id="node19" href="$mutex_8c.html#adecd7211e7a1a5035841212574f45b31" title=" " alt="" coords="935,223,1131,250"/>
+<area shape="rect" id="node21" href="$group__RTEMSScoreObject.html#gabcf4e7e43d740a83abd8651c86fc3260" title="Invalidates an object Id." alt="" coords="458,303,627,330"/>
+<area shape="rect" id="node24" href="$group__RTEMSScoreObject.html#gab8d9bdacd7890b74bd890eda839c0f86" title="Removes object with a 32&#45;bit integer name from its namespace." alt="" coords="461,355,624,396"/>
+<area shape="rect" id="node22" href="$group__RTEMSScoreObject.html#ga9c697fd8a483c32420ccfff211ec3c14" title="Sets the pointer to the local_table object referenced by the index." alt="" coords="713,325,857,367"/>
+<area shape="rect" id="node23" href="$group__RTEMSScoreObject.html#gadf825a94fecd0945a4368e503e274bfd" title="Returns the maximum index of the specified object class." alt="" coords="942,325,1125,367"/>
+<area shape="rect" id="node25" href="$group__RTEMSScoreObject.html#ga0a217bcdc113857e4f370aea14dbe025" title="Returns if the object has a string name." alt="" coords="685,391,884,418"/>
+</map>

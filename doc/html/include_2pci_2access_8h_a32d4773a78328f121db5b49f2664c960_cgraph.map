@@ -1,0 +1,6 @@
+<map id="pci_mem_disable" name="pci_mem_disable">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,141,57"/>
+<area shape="rect" id="node2" href="$include_2pci_2access_8h.html#acb9210674f364f99f7b2bba3996c8faa" title=" " alt="" coords="189,31,336,57"/>
+<area shape="rect" id="node3" href="$pci__access_8c.html#ac26c7f0e892317f08d7796539ce9fe0b" title=" " alt="" coords="387,5,483,32"/>
+<area shape="rect" id="node4" href="$pci__access_8c.html#afa5caf941440be03c512244a43e13a42" title=" " alt="" coords="384,56,487,83"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="mount" name="mount">
+<area shape="rect" id="node1" title="Mounts a file system instance at the specified target path." alt="" coords="273,56,337,83"/>
+<area shape="rect" id="node2" href="$group__FileSystemTypesAndMount.html#ga27af6440b4ef795576c94e870c5d997f" title="Mounts a file system and makes the target path." alt="" coords="5,5,225,32"/>
+<area shape="rect" id="node3" href="$group__LibIO.html#gad5344541746c6e86ef313e926ac2d7af" title="Base File System Initialization." alt="" coords="16,56,215,83"/>
+<area shape="rect" id="node4" href="$group__rtems__fstab.html#gaa1e00bfe1aa6bce349c2c73092a39cc6" title="Mounts the file systems listed in the file system mount table." alt="" coords="55,107,176,133"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="_Scheduler_Get_affinity" name="_Scheduler_Get_affinity">
+<area shape="rect" id="node1" title="Copies the thread&#39;s scheduler&#39;s affinity to the given cpuset." alt="" coords="229,31,405,57"/>
+<area shape="rect" id="node2" href="$pthreadgetattrnp_8c.html#a6bdca4b2c8a436c4651fb5e8d462408b" title=" " alt="" coords="20,5,167,32"/>
+<area shape="rect" id="node3" href="$group__ClassicTasks.html#gaf4a38e236136d5df6e5bef463a7e5506" title="Gets the processor affinity set of a task." alt="" coords="5,56,181,83"/>
+</map>

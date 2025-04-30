@@ -1,0 +1,15 @@
+<map id="_Semaphore_Allocate" name="_Semaphore_Allocate">
+<area shape="rect" id="node1" title="Allocates a semaphore control block from the inactive chain of free semaphore control blocks." alt="" coords="5,122,168,149"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreObject.html#ga3978b5150ea104a85bb28db0585ae000" title="Allocates an object." alt="" coords="216,122,355,149"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreObject.html#gaf72f90dc17914740829466f086c33668" title="Allocates an object without locking the allocator mutex." alt="" coords="403,97,625,123"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreAllocatorMutex.html#ga89aa77edce0d5557b1a7e9d9ef7999c8" title=" " alt="" coords="427,147,601,174"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreObject.html#ga67f9cdae9423a81e46626f0e2cb9f305" title="Checks if the allocator is the owner of the object allocator mutex." alt="" coords="681,5,824,47"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreSysState.html#ga1f0777590280f354ba1a73b0b4ed143e" title="Gets the current system state." alt="" coords="679,71,827,98"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreSysState.html#gaa34964b3212ea72baf5ec0064f5d28df" title="Checks if the state is up." alt="" coords="673,122,832,149"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreAllocatorMutex.html#ga8698c4f98051e1c097ed32e38fbf786f" title=" " alt="" coords="903,5,1059,47"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreAPIMutex.html#ga0a01be1d7b28416e738a2b97ca3f611d" title="Checks if the specified API mutex is owned by the executing thread." alt="" coords="1131,13,1293,39"/>
+<area shape="rect" id="node7" href="$group__PerCPU.html#ga294cfaf3cf50de03f1d9821d68b9c1bd" title="Returns the thread control block of the executing thread." alt="" coords="1341,13,1516,39"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreAPIMutex.html#ga57829ca494f1d866219c499eadb0ffc9" title="Acquires the specified API mutex." alt="" coords="685,173,820,199"/>
+<area shape="rect" id="node12" href="$mutex_8c.html#a2960aef6016ac8937f24108f9cdeebd0" title=" " alt="" coords="885,147,1078,174"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreThread.html#gad5aaea7af4482aebd880403fb9c238af" title="Set the thread to life protected." alt="" coords="880,198,1083,225"/>
+</map>

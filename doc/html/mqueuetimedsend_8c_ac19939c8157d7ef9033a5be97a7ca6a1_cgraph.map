@@ -1,0 +1,5 @@
+<map id="mq_timedsend" name="mq_timedsend">
+<area shape="rect" id="node1" title=" " alt="" coords="5,46,124,73"/>
+<area shape="rect" id="node2" href="$mqueueimpl_8h.html#ae50b57cad91421699d2723e49089f36e" title="POSIX Message Queue Send Support." alt="" coords="187,5,367,47"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreThreadQueue.html#ga14552dcef85b4627e1b2d150f7245f81" title="Adds a monotonic timespec to the thread and sets the watchdog header to realtime." alt="" coords="172,71,383,112"/>
+</map>

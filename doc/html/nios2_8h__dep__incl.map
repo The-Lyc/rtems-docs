@@ -1,0 +1,5 @@
+<map id="cpukit/score/cpu/nios2/include/rtems/score/nios2.h" name="cpukit/score/cpu/nios2/include/rtems/score/nios2.h">
+<area shape="rect" id="node1" title="NIOS II Set up Basic CPU Dependency Settings Based on Compiler Settings." alt="" coords="87,5,293,47"/>
+<area shape="rect" id="node2" href="$cpukit_2score_2cpu_2nios2_2include_2rtems_2asm_8h.html" title="Address the Problems Caused by Incompatible Flavor of Assemblers and Toolsets." alt="" coords="5,95,172,136"/>
+<area shape="rect" id="node3" href="$nios2_2include_2rtems_2score_2cpu_8h.html" title=" " alt="" coords="196,95,389,136"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="_CORE_ceiling_mutex_Set_owner" name="_CORE_ceiling_mutex_Set_owner">
+<area shape="rect" id="node1" title="Sets the owner of the ceiling mutex." alt="" coords="217,5,381,47"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreMutex.html#gae40030a2c780f0da5839deee9387f340" title="Seizes the ceiling mutex." alt="" coords="5,5,169,47"/>
+</map>

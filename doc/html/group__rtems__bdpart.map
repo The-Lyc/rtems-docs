@@ -1,0 +1,4 @@
+<map id="Block Device Partition Management" name="Block Device Partition Management">
+<area shape="rect" id="node1" href="$group__rtems__libblock.html" title="Block device modules." alt="" coords="5,13,161,38"/>
+<area shape="rect" id="node2" title="This module provides functions to manage partitions of a disk device." alt="" coords="209,5,375,45"/>
+</map>

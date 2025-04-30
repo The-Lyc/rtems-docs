@@ -1,0 +1,6 @@
+<map id="_Timespec_From_ticks" name="_Timespec_From_ticks">
+<area shape="rect" id="node1" title="Converts ticks to timespec." alt="" coords="219,71,389,98"/>
+<area shape="rect" id="node2" href="$group__TimespecAPI.html#ga11b9b11579a7677f48cc931100c5e27d" title="Convert ticks to timespec." alt="" coords="5,5,171,47"/>
+<area shape="rect" id="node3" href="$sched__rr__get__interval_8c.html#a484f0eb93529d29a66e24485725c4c7b" title=" " alt="" coords="7,71,169,98"/>
+<area shape="rect" id="node4" href="$timergettime_8c.html#a520e1913c35aa3352259dafa3259d140" title=" " alt="" coords="31,122,145,149"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="_Scheduler_EDF_Node_initialize" name="_Scheduler_EDF_Node_initialize">
+<area shape="rect" id="node1" title="Initializes an EDF specific scheduler node of the_thread." alt="" coords="220,5,387,47"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreSchedulerCBS.html#gabb8137112e3b30c70daa4dc3221093cb" title="Initializes a CBS specific scheduler node of the_thread." alt="" coords="5,5,172,47"/>
+</map>

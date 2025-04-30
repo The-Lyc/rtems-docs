@@ -1,0 +1,5 @@
+<map id="BOARD_ConfigureSdram" name="BOARD_ConfigureSdram">
+<area shape="rect" id="node1" title="Configures the EBI for SDRAM (IS42S16100E&#45;7B) access." alt="" coords="5,31,185,57"/>
+<area shape="rect" id="node2" href="$pio_8c.html#a1bb66b931fa38004c2178936c269fa76" title="Configures a list of Pin instances, each of which can either hold a single pin or a group of pins,..." alt="" coords="261,5,374,32"/>
+<area shape="rect" id="node3" href="$atsam_2contrib_2libraries_2libchip_2source_2pmc_8c.html#a4154148b8d69545bca1b5c868c004d49" title="Enables the clock of a peripheral. The peripheral ID is used to identify which peripheral is targeted..." alt="" coords="233,56,401,83"/>
+</map>

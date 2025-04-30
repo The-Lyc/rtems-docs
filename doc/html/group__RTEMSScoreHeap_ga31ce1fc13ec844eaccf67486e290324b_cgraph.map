@@ -1,0 +1,6 @@
+<map id="_Heap_Get_first_and_last_block" name="_Heap_Get_first_and_last_block">
+<area shape="rect" id="node1" title="Gets the first and last block for the heap area." alt="" coords="5,49,161,90"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreHeap.html#ga2b11e4f1b69d3f6197165e4fb7f2e956" title="Returns the aligned value, truncating." alt="" coords="209,5,355,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreHeap.html#gaa7c54b3d49cb3fbcf12bbf7a7a45e8d5" title="Aligns the value to a given alignment, rounding up." alt="" coords="219,56,345,83"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreHeap.html#ga231bdbf1ec3d6b82583d0cc3198fc00b" title="Returns the block which is offset away from block." alt="" coords="219,107,345,133"/>
+</map>

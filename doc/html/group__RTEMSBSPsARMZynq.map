@@ -1,0 +1,7 @@
+<map id="Xilinx Zynq" name="Xilinx Zynq">
+<area shape="rect" id="node1" href="$group__RTEMSBSPsARM.html" title="ARM Board Support Packages." alt="" coords="5,55,57,80"/>
+<area shape="rect" id="node4" title="Xilinx Zynq Board Support Package." alt="" coords="105,55,201,80"/>
+<area shape="rect" id="node2" href="$group__zynq__interrupt.html" title="Interrupt Support." alt="" coords="255,5,387,31"/>
+<area shape="rect" id="node3" href="$group__zynq__tm27.html" title="Interrupt Mechanisms for tm27 test." alt="" coords="249,55,392,80"/>
+<area shape="rect" id="node5" href="$group__zynq__uart.html" title="UART Support." alt="" coords="265,104,376,129"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="_Scheduler_Get_by_CPU" name="_Scheduler_Get_by_CPU">
+<area shape="rect" id="node1" title="Gets the scheduler for the cpu." alt="" coords="224,35,404,61"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreScheduler.html#ga42c763a880e031610302ce44807c293b" title="Scheduler method invoked at each clock tick." alt="" coords="27,5,154,32"/>
+<area shape="rect" id="node3" href="$group__ClassicTasks.html#gad09bcc5a41e197368ad19c1d795059ca" title="Identifies a scheduler by a processor index." alt="" coords="5,57,176,98"/>
+</map>

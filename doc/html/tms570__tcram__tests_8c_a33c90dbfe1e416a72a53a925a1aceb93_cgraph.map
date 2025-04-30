@@ -1,0 +1,8 @@
+<map id="tms570_check_tcram_ecc" name="tms570_check_tcram_ecc">
+<area shape="rect" id="node1" title="Check TCRAM ECC error detection logic (HCG:checkRAMECC)" alt="" coords="5,107,196,133"/>
+<area shape="rect" id="node2" href="$tms570__hwinit_8h.html#a099bf5e5169755b08ae68126dec3172e" title=" " alt="" coords="265,5,431,32"/>
+<area shape="rect" id="node3" href="$tms570__hwinit_8h.html#a058f0ace94e7ff9afbd9590568a3da99" title=" " alt="" coords="268,56,428,83"/>
+<area shape="rect" id="node4" href="$tms570__selftest_8h.html#a30cfa0cf0faa449eb4b23e4fbff1b998" title=" " alt="" coords="244,107,452,133"/>
+<area shape="rect" id="node5" href="$tms570__selftest_8h.html#ab74fa521293388b990454fa3a164633a" title="Routine to clear specified error channel signalling bit." alt="" coords="266,158,430,199"/>
+<area shape="rect" id="node6" href="$tms570__selftest_8h.html#a0cef2f68ef9c7ae337615fb420b50cb6" title="Routine to test is specified error channel is signalling error." alt="" coords="266,223,430,265"/>
+</map>

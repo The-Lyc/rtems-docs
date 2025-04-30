@@ -1,0 +1,8 @@
+<map id="bsps/sparc/leon3/include/bsp/irq.h" name="bsps/sparc/leon3/include/bsp/irq.h">
+<area shape="rect" id="node1" title="LEON3 generic shared IRQ setup." alt="" coords="47,5,230,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="26,95,89,121"/>
+<area shape="rect" id="node3" href="$processormask_8h.html" title="Processor Mask API." alt="" coords="113,95,327,121"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,169,144,196"/>
+<area shape="rect" id="node5" title=" " alt="" coords="169,169,271,196"/>
+<area shape="rect" id="node6" title=" " alt="" coords="295,169,374,196"/>
+</map>

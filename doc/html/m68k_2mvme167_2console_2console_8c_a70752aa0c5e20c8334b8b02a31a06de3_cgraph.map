@@ -1,0 +1,7 @@
+<map id="cd2401_initialize" name="cd2401_initialize">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,137,57"/>
+<area shape="rect" id="node2" href="$m68k_2mvme167_2console_2console_8c.html#a21ec6cbad3530d02dcfe5298f37d1663" title=" " alt="" coords="185,31,328,57"/>
+<area shape="rect" id="node3" href="$group__ClassicFatal.html#gacadb95082c08823f56d908c248657b45" title="Invokes the internal error handler with a source of INTERNAL_ERROR_RTEMS_API and is internal set to f..." alt="" coords="376,5,575,32"/>
+<area shape="rect" id="node5" href="$wait_8c.html#ab5ac4a5f02da38021d1821012e55d58c" title=" " alt="" coords="450,56,501,83"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreIntErr.html#ga5102f2f0c5939020aa3b11d67afa84eb" title="Initiates system termination." alt="" coords="623,5,717,32"/>
+</map>

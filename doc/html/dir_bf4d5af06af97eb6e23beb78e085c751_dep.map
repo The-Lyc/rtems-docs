@@ -1,0 +1,10 @@
+<map id="bsps/powerpc/include/bsp" name="bsps/powerpc/include/bsp">
+<area shape="rect" id="node1" href="dir_bf4d5af06af97eb6e23beb78e085c751.html" title="bsp" alt="" coords="27,52,99,100"/>
+<area shape="rect" id="node2" href="dir_cd198e36225ba3f41de97552050ac017.html" title="cpukit" alt="" coords="75,148,147,196"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000496_000080.html" title="4" alt="" coords="93,121,103,135"/>
+<area shape="rect" id="node3" href="dir_898dbef73574417805e5357389523088.html" title="libcpu" alt="" coords="123,52,195,100"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000496_000305.html" title="2" alt="" coords="100,60,109,75"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000305_000496.html" title="1" alt="" coords="113,77,122,92"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000305_000080.html" title="8" alt="" coords="134,128,143,143"/>
+<area shape="rect" id="clust1" href="dir_07fdfa386f03ea619f7ea83f2bc2ebad.html" title="include" alt="" coords="16,16,109,111"/>
+</map>

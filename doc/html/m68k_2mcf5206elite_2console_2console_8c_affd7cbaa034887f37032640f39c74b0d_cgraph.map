@@ -1,0 +1,5 @@
+<map id="console_read" name="console_read">
+<area shape="rect" id="node1" title="Console read entry point." alt="" coords="5,31,113,57"/>
+<area shape="rect" id="node2" href="$mcfuart_8h.html#afe97dbf6fc3f68406554ef46a16e0dc4" title=" " alt="" coords="168,5,308,32"/>
+<area shape="rect" id="node3" href="$group__Termios.html#gaed46d58ba006e1f3cea47df1a479d9d9" title=" " alt="" coords="161,56,315,83"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="_Thread_Close" name="_Thread_Close">
+<area shape="rect" id="node1" title="Closes the thread." alt="" coords="5,13,123,39"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreThreadQueue.html#gae3eded5964733b953ab0a461a9d82f5d" title="Sets the enqueue callout in the thread queue context." alt="" coords="171,5,349,47"/>
+</map>

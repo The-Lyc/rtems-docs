@@ -1,0 +1,5 @@
+<map id="Heap Handler" name="Heap Handler">
+<area shape="rect" id="node1" title="The Heap Handler provides a heap." alt="" coords="143,5,253,31"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreProtHeap.html" title="Provides protected heap services." alt="" coords="301,5,479,31"/>
+<area shape="rect" id="node3" href="$group__RTEMSScore.html" title="Provides services for all APIs." alt="" coords="5,5,95,31"/>
+</map>

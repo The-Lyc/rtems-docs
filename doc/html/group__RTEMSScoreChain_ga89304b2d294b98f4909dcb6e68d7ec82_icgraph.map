@@ -1,0 +1,52 @@
+<map id="_Chain_First" name="_Chain_First">
+<area shape="rect" id="node1" title="Returns pointer to chain&#39;s first node." alt="" coords="1012,493,1113,519"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreMessageQueue.html#gabe86da1ead8e6b01ecf69c94e1de29f2" title="Flushes pending messages." alt="" coords="750,81,929,123"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreObject.html#ga53e22e0d0d91b0f5159aff84a1c40ef3" title="Free the objects block with the specified index." alt="" coords="756,223,923,264"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreScheduler.html#gad25705e24ba30f0cb36c0e2999fbfbce" title="Blocks a thread with respect to the scheduler." alt="" coords="491,71,627,98"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreSchedulerDPS.html#ga8d8a162be45d44eb572a6d2a243249cb" title="Returns a pointer to the first node." alt="" coords="765,852,914,893"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreSchedulerSimple.html#gad87c281f617f598c1e175f162224d6fb" title="Scheduling decision logic." alt="" coords="715,801,964,827"/>
+<area shape="rect" id="node14" href="$group__RTEMSScoreScheduler.html#ga8289b090b6cb3c711ba614a047d4a343" title="Unblocks a thread with respect to the scheduler." alt="" coords="483,122,636,149"/>
+<area shape="rect" id="node16" href="$group__RTEMSScoreScheduler.html#ga7fdbd807dbde0152b93a9ebc59f69e5d" title="Propagates a priority change of a thread to the scheduler." alt="" coords="459,223,660,250"/>
+<area shape="rect" id="node20" href="$threadunpin_8c.html#a41453055c2526d738a03eacc3775a624" title=" " alt="" coords="488,623,631,650"/>
+<area shape="rect" id="node22" href="$group__RTEMSScoreThread.html#ga080a177afc4fc254a1081485cd89f75d" title="Gets the scheduler&#39;s home node." alt="" coords="753,441,926,483"/>
+<area shape="rect" id="node29" href="$group__RTEMSScoreThread.html#ga3cfaf5eea12b9810ca64404cec7e3763" title="Restores the default thread wait queue and operations." alt="" coords="758,917,921,959"/>
+<area shape="rect" id="node30" href="$group__ClassicChains.html#ga44b92f7e9e25d9a3a0eadb0b559398cc" title="Return pointer to Chain&#39;s First node after the permanent head." alt="" coords="772,1518,907,1545"/>
+<area shape="rect" id="node50" href="$show__bdbuf_8c.html#a2d008c33e405d12cee7f060dd54f2c87" title=" " alt="" coords="748,1569,931,1611"/>
+<area shape="rect" id="node3" href="$group__ClassicMessageQueue.html#ga8b97ede3b5602d6f5cca6229f96f27ee" title="rtems_message_queue_flush" alt="" coords="473,5,646,47"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreScheduler.html#gafdf8dfa2c90ca2122b995bb6dd42fcda" title="Sets a new scheduler." alt="" coords="252,173,373,199"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreSchedulerDPS.html#ga8b52515687c00a3b3e8a90b0dcd6b749" title="Scheduling decision logic." alt="" coords="486,993,633,1035"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreSchedulerSimple.html#ga34e93fa9cafb272a16320fe540ac86a3" title="Blocks the thread." alt="" coords="466,826,653,853"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreSchedulerSimple.html#gac80488d4e091046dd3fa048c14b84995" title="Schedules threads." alt="" coords="454,877,665,903"/>
+<area shape="rect" id="node12" href="$group__RTEMSScoreSchedulerSimple.html#gacb4b8fc8ec7b055afb904072c38f9fc5" title="Updates the priority of the node." alt="" coords="460,928,659,969"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreSchedulerSimple.html#gacbdfbb5b5fa2df49606df7bda8a69431" title="Performs the yield of a thread." alt="" coords="221,725,404,751"/>
+<area shape="rect" id="node15" href="$group__RTEMSScoreScheduler.html#gafca781d2003ce33abe651436e5910dcb" title="Starts an idle thread." alt="" coords="239,107,386,148"/>
+<area shape="rect" id="node17" href="$group__RTEMSScoreThread.html#ga424ec96c6cbed5a748565333d5fd7d59" title="Updates the priority of all threads in the set." alt="" coords="223,223,403,250"/>
+<area shape="rect" id="node18" href="$group__RTEMSScoreMutex.html#ga3c9beab408f6eaae8af2a29d962b08f3" title="Sets the owner of the ceiling mutex." alt="" coords="7,225,171,267"/>
+<area shape="rect" id="node19" href="$posix_2muteximpl_8h.html#aa099656aca92ad7c919c40cac2b1e226" title=" " alt="" coords="5,300,173,341"/>
+<area shape="rect" id="node21" href="$group__RTEMSScoreThread.html#gafc95fd103c5bcd79927f316370080340" title="Unpins the thread." alt="" coords="253,623,372,650"/>
+<area shape="rect" id="node23" href="$group__RTEMSScoreSchedulerCBS.html#gac2cf154d9842c9449d74735b2b1d0a82" title="Gets the CBS node of the thread." alt="" coords="470,376,649,417"/>
+<area shape="rect" id="node24" href="$group__RTEMSScoreSchedulerEDF.html#gae2e85339fc623dca9d51dd8ae3826f4a" title="Gets the scheduler EDF node of the thread." alt="" coords="470,441,649,483"/>
+<area shape="rect" id="node25" href="$group__RTEMSScoreSchedulerDPS.html#ga491e49f14d38c8dfa87378a63cd36520" title="Gets the scheduler node of the thread." alt="" coords="486,507,633,548"/>
+<area shape="rect" id="node26" href="$group__RTEMSScoreScheduler.html#ga37b1082aa1832c4a73154d5fc92dceaa" title="Scheduler yield with a particular thread." alt="" coords="493,573,625,599"/>
+<area shape="rect" id="node27" href="$group__RTEMSScoreThread.html#ga3107774ee53fe4ac8323ba4a0f48f8bc" title="Returns the priority of the thread." alt="" coords="480,674,639,701"/>
+<area shape="rect" id="node28" href="$group__RTEMSScoreThread.html#ga4f0fe1a67da542aa18a7cbb3d4e2f47a" title="Replaces the victim priority node with the replacement priority node in the corresponding thread prio..." alt="" coords="468,725,651,751"/>
+<area shape="rect" id="node31" href="$aio__misc_8c.html#a0bab6945bcf2a7bae2da226e28f1bed6" title=" " alt="" coords="477,1059,641,1086"/>
+<area shape="rect" id="node32" href="$aio__misc_8c.html#a73d9e03d65082a1c14ef35f92d2938b9" title=" " alt="" coords="473,1110,645,1137"/>
+<area shape="rect" id="node33" href="$aio__misc_8c.html#af4a6927e7d9b3b57ba8cc7c52a23f757" title=" " alt="" coords="481,1161,638,1187"/>
+<area shape="rect" id="node34" href="$rtems-debugger-target_8h.html#a7fb9d245f673cb4fa51c79127dd77f29" title=" " alt="" coords="472,1212,647,1253"/>
+<area shape="rect" id="node35" href="$rtems-debugger-target_8h.html#a836b1b819d723be5700f0c372ac3006a" title=" " alt="" coords="460,1277,659,1319"/>
+<area shape="rect" id="node36" href="$group__FileSystemTypesAndMount.html#ga27b530006418803c3888d8bfd1c3949a" title="Iterates over all file system types." alt="" coords="467,1343,652,1370"/>
+<area shape="rect" id="node37" href="$group__FileSystemTypesAndMount.html#ga4e658123f1059ea0684904df0ddb8d67" title="Unregisters a file system type." alt="" coords="455,1394,663,1421"/>
+<area shape="rect" id="node38" href="$rtems-rfs-file_8c.html#a47bc6c24c1df4ab25e8cb8dec7c5c86a" title=" " alt="" coords="490,1445,629,1487"/>
+<area shape="rect" id="node39" href="$rtl-archive_8c.html#a0c1d8b43e832e9f6c9dd0d583b952384" title=" " alt="" coords="488,1511,631,1552"/>
+<area shape="rect" id="node40" href="$rtl-chain-iterator_8h.html#aa16454dff4035ca37c6a6f68c4b4ce6b" title=" " alt="" coords="473,1577,646,1603"/>
+<area shape="rect" id="node41" href="$rtl_8c.html#a50348930ad74d8fd57efceb9626ef6d9" title=" " alt="" coords="471,1627,648,1654"/>
+<area shape="rect" id="node42" href="$rtl_8c.html#a6ec1130a32f0cb89a58b6269b4ba5e94" title=" " alt="" coords="490,1678,629,1705"/>
+<area shape="rect" id="node43" href="$rtl_8c.html#a765a0a9485cdb4e40a7062aa84e85bde" title=" " alt="" coords="490,1729,629,1771"/>
+<area shape="rect" id="node44" href="$rtl-obj_8c.html#a4c2f2836262a4606efecf94f95ac0cd8" title=" " alt="" coords="452,1795,667,1822"/>
+<area shape="rect" id="node45" href="$rtl-obj_8c.html#aea8861e811c36196e95b439e33707484" title=" " alt="" coords="484,1847,635,1888"/>
+<area shape="rect" id="node46" href="$rtl-obj_8c.html#a35b64d2ab1e6c8fa1a82dfa0a14ea1e0" title=" " alt="" coords="484,1912,635,1953"/>
+<area shape="rect" id="node47" href="$rtl-obj_8c.html#afeed317d7aadd6e3fcb4b86cf31dc270" title=" " alt="" coords="480,1977,639,2019"/>
+<area shape="rect" id="node48" href="$rtl-obj_8c.html#a6191736c9a9c8e4a585f2208838ba277" title=" " alt="" coords="477,2043,642,2084"/>
+<area shape="rect" id="node49" href="$rtl-unresolved_8c.html#a962fc939ba38c1794ff7acdb15cdfa16" title=" " alt="" coords="480,2108,639,2149"/>
+</map>

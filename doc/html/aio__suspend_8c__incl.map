@@ -1,0 +1,13 @@
+<map id="cpukit/posix/src/aio_suspend.c" name="cpukit/posix/src/aio_suspend.c">
+<area shape="rect" id="node1" title="Suspends Process until Asynchronous I/O Operation completes." alt="" coords="216,5,364,47"/>
+<area shape="rect" id="node2" href="$aio_8h.html" title="POSIX Asynchronous Input and Output." alt="" coords="135,95,189,121"/>
+<area shape="rect" id="node5" href="$errno_8h.html" title=" " alt="" coords="224,169,292,196"/>
+<area shape="rect" id="node6" href="$basedefs_8h.html" title="Basic Definitions." alt="" coords="481,95,656,121"/>
+<area shape="rect" id="node11" href="$seterr_8h.html" title="Data which Ease the Burden of Consistently Setting Errno." alt="" coords="281,95,395,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,169,100,196"/>
+<area shape="rect" id="node4" title=" " alt="" coords="125,169,199,196"/>
+<area shape="rect" id="node7" title=" " alt="" coords="340,169,507,196"/>
+<area shape="rect" id="node8" title=" " alt="" coords="531,169,606,196"/>
+<area shape="rect" id="node9" title=" " alt="" coords="630,169,713,196"/>
+<area shape="rect" id="node10" title=" " alt="" coords="737,169,808,196"/>
+</map>

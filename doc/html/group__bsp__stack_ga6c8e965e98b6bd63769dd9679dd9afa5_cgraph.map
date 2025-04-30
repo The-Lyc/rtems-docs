@@ -1,0 +1,14 @@
+<map id="bsp_stack_free" name="bsp_stack_free">
+<area shape="rect" id="node1" title="Task stack free function for CONFIGURE_TASK_STACK_DEALLOCATOR." alt="" coords="5,216,125,243"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreHeap.html#gab9a1cc19751295ceb71d1d495fa56b39" title="Frees the allocated memory area." alt="" coords="173,216,272,243"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreHeap.html#ga231bdbf1ec3d6b82583d0cc3198fc00b" title="Returns the block which is offset away from block." alt="" coords="357,5,483,32"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreHeap.html#gafd70a7d05fc0c46a87ff68d759ab3af3" title="Returns the starting address of the block corresponding to the allocatable area." alt="" coords="320,56,520,83"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreHeap.html#ga161ac37dea0961191b2698abf0e61841" title="Returns the block size." alt="" coords="351,107,489,133"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreHeap.html#ga860e7959de03ba830d0ebe1b4cca8273" title="Returns the head of the free list of the heap." alt="" coords="338,157,502,184"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreHeap.html#ga7dd632ea52e7866d26cd025fb154387b" title="Inserts a block after an existing block in the free list." alt="" coords="335,209,505,250"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreHeap.html#ga73da7f4190c5ae1af555374509a5e302" title="Removes the block from the free list." alt="" coords="329,275,511,301"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreHeap.html#gade52dd12ae2cb6570271313e8bd7fdf7" title="Replaces one block in the free list by another." alt="" coords="330,325,510,352"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreHeap.html#gabc511a89a627aea2d91fbc21b95a4ae7" title="Returns if the block is part of the heap." alt="" coords="329,376,511,403"/>
+<area shape="rect" id="node12" href="$group__RTEMSScoreHeap.html#gad88e4681224e360888f3f4bd020c97a9" title="Returns if the previous heap block is used." alt="" coords="343,427,497,453"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreHeap.html#ga2b11e4f1b69d3f6197165e4fb7f2e956" title="Returns the aligned value, truncating." alt="" coords="568,56,713,83"/>
+</map>

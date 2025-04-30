@@ -1,0 +1,7 @@
+<map id="_TLS_Get_allocation_size" name="_TLS_Get_allocation_size">
+<area shape="rect" id="node1" title="Return the TLS area allocation size." alt="" coords="492,56,679,83"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreStack.html#gaa7306251dbd0baec560422cbfc02b4ab" title="Extend the stack size to account for additional data structures allocated in the stack area of a thre..." alt="" coords="283,5,434,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreStack.html#gaf7041341c804491731396adcbb0506cf" title="Checks if the size is enough for a valid stack area on this processor." alt="" coords="289,56,428,83"/>
+<area shape="rect" id="node4" href="$configstackspacesize_8c.html#a2cc9968ce8a1fe21ede7a65599e66f42" title=" " alt="" coords="273,107,444,149"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreThread.html#ga439268e164b067a866d2901085c8c672" title="Initializes thread handler." alt="" coords="5,115,225,141"/>
+</map>

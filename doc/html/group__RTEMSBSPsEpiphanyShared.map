@@ -1,0 +1,5 @@
+<map id="Shared" name="Shared">
+<area shape="rect" id="node1" href="$group__RTEMSBSPsEpiphany.html" title="Epiphany Board Support Packages." alt="" coords="5,5,88,31"/>
+<area shape="rect" id="node2" title="Shared Support for Epiphany Board Support Packages." alt="" coords="136,5,203,31"/>
+<area shape="rect" id="node3" href="$group__epiphany__linker.html" title="Linker support." alt="" coords="251,5,365,31"/>
+</map>

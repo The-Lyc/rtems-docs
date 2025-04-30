@@ -1,0 +1,27 @@
+<map id="mcPWM_SUBMOD_struct_tag" name="mcPWM_SUBMOD_struct_tag">
+<area shape="rect" id="node1" title=" " alt="" coords="356,595,569,621"/>
+<area shape="rect" id="node2" href="$unionmcPWM__VAL__1__16B__tag.html" title=" " alt="" coords="23,9,205,36"/>
+<area shape="rect" id="node3" href="$unionmcPWM__VAL__0__16B__tag.html" title=" " alt="" coords="23,67,205,93"/>
+<area shape="rect" id="node4" href="$unionmcPWM__DTCNT0__16B__tag.html" title=" " alt="" coords="17,117,211,144"/>
+<area shape="rect" id="node5" href="$unionmcPWM__DISMAP__16B__tag.html" title=" " alt="" coords="17,168,211,195"/>
+<area shape="rect" id="node6" href="$unionmcPWM__DTCNT1__16B__tag.html" title=" " alt="" coords="17,219,211,245"/>
+<area shape="rect" id="node7" href="$unionmcPWM__VAL__2__16B__tag.html" title=" " alt="" coords="23,269,205,296"/>
+<area shape="rect" id="node8" href="$unionmcPWM__INTEN__16B__tag.html" title=" " alt="" coords="23,320,205,347"/>
+<area shape="rect" id="node9" href="$unionmcPWM__VAL__5__16B__tag.html" title=" " alt="" coords="23,371,205,397"/>
+<area shape="rect" id="node10" href="$unionmcPWM__CTRL1__16B__tag.html" title=" " alt="" coords="23,421,205,448"/>
+<area shape="rect" id="node11" href="$unionmcPWM__CNT__16B__tag.html" title=" " alt="" coords="29,472,199,499"/>
+<area shape="rect" id="node12" href="$unionmcPWM__STS__16B__tag.html" title=" " alt="" coords="31,523,197,549"/>
+<area shape="rect" id="node13" href="$unionmcPWM__VAL__4__16B__tag.html" title=" " alt="" coords="23,573,205,600"/>
+<area shape="rect" id="node14" href="$unionmcPWM__CTRL2__16B__tag.html" title=" " alt="" coords="23,624,205,651"/>
+<area shape="rect" id="node15" href="$unionmcPWM__CVAL0CYC__16B__tag.html" title=" " alt="" coords="10,675,218,701"/>
+<area shape="rect" id="node16" href="$unionmcPWM__OCTRL__16B__tag.html" title=" " alt="" coords="21,725,207,752"/>
+<area shape="rect" id="node17" href="$unionmcPWM__INIT__16B__tag.html" title=" " alt="" coords="30,776,198,803"/>
+<area shape="rect" id="node18" href="$unionmcPWM__CVAL1CYC__16B__tag.html" title=" " alt="" coords="10,827,218,853"/>
+<area shape="rect" id="node19" href="$unionmcPWM__CVAL1__16B__tag.html" title=" " alt="" coords="23,877,205,904"/>
+<area shape="rect" id="node20" href="$unionmcPWM__VAL__3__16B__tag.html" title=" " alt="" coords="23,928,205,955"/>
+<area shape="rect" id="node21" href="$unionmcPWM__CVAL0__16B__tag.html" title=" " alt="" coords="23,979,205,1005"/>
+<area shape="rect" id="node22" href="$unionmcPWM__CAPTCMPX__16B__tag.html" title=" " alt="" coords="7,1029,221,1056"/>
+<area shape="rect" id="node23" href="$unionmcPWM__DMAEN__16B__tag.html" title=" " alt="" coords="19,1080,209,1107"/>
+<area shape="rect" id="node24" href="$unionmcPWM__CAPTCTRLX__16B__tag.html" title=" " alt="" coords="5,1131,223,1157"/>
+<area shape="rect" id="node25" href="$unionmcPWM__TCTRL__16B__tag.html" title=" " alt="" coords="23,1181,205,1208"/>
+</map>

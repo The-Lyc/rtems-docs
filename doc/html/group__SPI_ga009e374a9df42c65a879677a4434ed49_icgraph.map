@@ -1,0 +1,7 @@
+<map id="spi_bus_alloc_and_init" name="spi_bus_alloc_and_init">
+<area shape="rect" id="node1" title="Allocates a bus control from the heap and initializes it." alt="" coords="439,56,607,83"/>
+<area shape="rect" id="node2" href="$atsam__spi__bus_8c.html#a988a1224cfb1bb92652506d87029608b" title=" " alt="" coords="215,31,391,57"/>
+<area shape="rect" id="node5" href="$group__RTEMSBSPsARMimx.html#ga76c0c74170b6f591738da72382b35dde" title="Registers an IMX ECSPI bus driver." alt="" coords="223,81,383,108"/>
+<area shape="rect" id="node3" href="$atsam__spi__init_8c.html#a5401a464eeb219135702890452c0d06a" title=" " alt="" coords="5,5,167,32"/>
+<area shape="rect" id="node4" href="$atsam__spi__init_8c.html#a8e99f1e7a6f2d235b5003b89e53c604a" title=" " alt="" coords="5,56,167,83"/>
+</map>

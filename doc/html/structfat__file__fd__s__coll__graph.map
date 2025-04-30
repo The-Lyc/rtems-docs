@@ -1,0 +1,7 @@
+<map id="fat_file_fd_s" name="fat_file_fd_s">
+<area shape="rect" id="node1" title="Descriptor of a fat&#45;file." alt="" coords="151,201,252,228"/>
+<area shape="rect" id="node2" href="$structfat__file__map__s.html" title="The &quot;fat&#45;file&quot; representation." alt="" coords="5,111,123,137"/>
+<area shape="rect" id="node3" href="$structfat__dir__pos__s.html" title=" " alt="" coords="147,111,255,137"/>
+<area shape="rect" id="node4" href="$structfat__pos__s.html" title=" " alt="" coords="159,5,243,32"/>
+<area shape="rect" id="node5" href="$structChain__Node__struct.html" title=" " alt="" coords="280,111,424,137"/>
+</map>

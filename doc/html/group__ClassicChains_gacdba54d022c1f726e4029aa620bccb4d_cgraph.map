@@ -1,0 +1,5 @@
+<map id="rtems_chain_is_head" name="rtems_chain_is_head">
+<area shape="rect" id="node1" title="Is this node the chain head." alt="" coords="5,5,164,32"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreChain.html#ga28bb5512888c4dcc88e472e882ca3c3f" title="Checks if this node is the chain head." alt="" coords="212,5,335,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreChain.html#gac08944db6f0428125d3b0d5a1c65b740" title="Returns pointer to immutable chain head." alt="" coords="383,5,565,32"/>
+</map>

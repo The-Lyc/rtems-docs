@@ -1,0 +1,6 @@
+<map id="_States_Is_suspended" name="_States_Is_suspended">
+<area shape="rect" id="node1" title="Checks if SUSPENDED state is set." alt="" coords="244,56,409,83"/>
+<area shape="rect" id="node2" href="$group__ClassicTasks.html#ga626e860edc5525db9f87de63efe14661" title="rtems_task_is_suspended" alt="" coords="5,5,196,32"/>
+<area shape="rect" id="node3" href="$group__ClassicTasks.html#ga5b5778a2be36d41764e730377ccc58a5" title="RTEMS Resume Task." alt="" coords="25,56,176,83"/>
+<area shape="rect" id="node4" href="$group__ClassicTasks.html#ga16aca2f5aa37d9d2b2a1a54de0f63dbf" title="RTEMS Suspend Task." alt="" coords="23,107,179,133"/>
+</map>

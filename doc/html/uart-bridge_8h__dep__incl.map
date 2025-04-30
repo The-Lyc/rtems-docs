@@ -1,0 +1,6 @@
+<map id="bsps/powerpc/qoriq/include/bsp/uart&#45;bridge.h" name="bsps/powerpc/qoriq/include/bsp/uart&#45;bridge.h">
+<area shape="rect" id="node1" title="UART to Intercom bridge API." alt="" coords="197,5,385,47"/>
+<area shape="rect" id="node2" href="$powerpc_2qoriq_2console_2console-config_8c.html" title="Console configuration." alt="" coords="5,102,191,143"/>
+<area shape="rect" id="node3" href="$uart-bridge-master_8c.html" title="UART bridge master implementation." alt="" coords="215,95,367,151"/>
+<area shape="rect" id="node4" href="$uart-bridge-slave_8c.html" title="UART bridge slave implementation." alt="" coords="391,95,543,151"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="cpukit/include/rtems/score/timecounter.h" name="cpukit/include/rtems/score/timecounter.h">
+<area shape="rect" id="node1" title="Timecounter API." alt="" coords="4271,5,4426,47"/>
+<area shape="rect" id="node2" href="$clockimpl_8h.html" title="Clock Tick Device Driver Shell." alt="" coords="3433,95,3600,136"/>
+<area shape="rect" id="node40" href="$bsd_8h.html" title="BSD Compatibility API." alt="" coords="3625,95,3779,136"/>
+<area shape="rect" id="node41" href="$imfs_8h.html" title="Header File for the In&#45;Memory File System." alt="" coords="3803,95,3958,136"/>
+<area shape="rect" id="node42" href="$timecounterimpl_8h.html" title="Timecounter Implementation." alt="" coords="3983,95,4168,136"/>
+<area shape="rect" id="node43" href="$timecounter_8h.html" title="Timecounter API." alt="" coords="1777,95,1931,136"/>
+<area shape="rect" id="node44" href="$cpukit_2libcsupport_2src_2clock_8c.html" title=" " alt="" coords="4193,95,4331,136"/>
+<area shape="rect" id="node45" href="$record-sysinit_8c.html" title=" " alt="" coords="4355,95,4515,136"/>
+<area shape="rect" id="node46" href="$nanosleep_8c.html" title="Suspends Execution of calling thread until Time elapses." alt="" coords="4540,102,4747,129"/>
+<area shape="rect" id="node47" href="$clockgetuptimeseconds_8c.html" title=" " alt="" coords="4771,102,5067,129"/>
+<area shape="rect" id="node48" href="$clocktick_8c.html" title="Announce a Clock Tick." alt="" coords="5091,102,5291,129"/>
+<area shape="rect" id="node49" href="$exinit_8c.html" title="Initialization Manager." alt="" coords="5315,102,5483,129"/>
+<area shape="rect" id="node50" href="$watchdogtick_8c.html" title=" " alt="" coords="5507,102,5734,129"/>
+<area shape="rect" id="node3" href="$arm_2csb336_2clock_2clockdrv_8c.html" title=" " alt="" coords="4083,184,4254,225"/>
+<area shape="rect" id="node4" href="$bsps_2arm_2csb337_2clock_2clock_8c.html" title=" " alt="" coords="4278,184,4449,225"/>
+<area shape="rect" id="node5" href="$arm_2edb7312_2clock_2clockdrv_8c.html" title=" " alt="" coords="4473,184,4653,225"/>
+<area shape="rect" id="node6" href="$bsps_2arm_2gumstix_2clock_2clock_8c.html" title=" " alt="" coords="4677,184,4855,225"/>
+<area shape="rect" id="node7" href="$arm_2raspberrypi_2clock_2clockdrv_8c.html" title="Raspberry Pi clock support." alt="" coords="1774,184,1934,225"/>
+<area shape="rect" id="node8" href="$arm_2rtl22xx_2clock_2clockdrv_8c.html" title=" " alt="" coords="1958,184,2129,225"/>
+<area shape="rect" id="node9" href="$arm_2smdk2410_2clock_2clockdrv_8c.html" title=" " alt="" coords="4879,184,5071,225"/>
+<area shape="rect" id="node10" href="$bsps_2arm_2tms570_2clock_2clock_8c.html" title="clock functions definitions." alt="" coords="2153,184,2326,225"/>
+<area shape="rect" id="node11" href="$i386_2pc386_2clock_2ckinit_8c.html" title=" " alt="" coords="2350,184,2515,225"/>
+<area shape="rect" id="node12" href="$lm32_2shared_2clock_2ckinit_8c.html" title=" " alt="" coords="5096,184,5271,225"/>
+<area shape="rect" id="node13" href="$lm32_2shared_2milkymist__clock_2ckinit_8c.html" title=" " alt="" coords="5295,184,5501,225"/>
+<area shape="rect" id="node14" href="$bsps_2m68k_2av5282_2clock_2clock_8c.html" title=" " alt="" coords="5525,184,5708,225"/>
+<area shape="rect" id="node15" href="$bsps_2m68k_2gen68360_2clock_2clock_8c.html" title=" " alt="" coords="5732,184,5893,225"/>
+<area shape="rect" id="node16" href="$bsps_2m68k_2genmcf548x_2clock_2clock_8c.html" title=" " alt="" coords="5918,184,6097,225"/>
+<area shape="rect" id="node17" href="$bsps_2m68k_2mcf52235_2clock_2clock_8c.html" title=" " alt="" coords="2539,184,2702,225"/>
+<area shape="rect" id="node18" href="$bsps_2m68k_2mcf5225x_2clock_2clock_8c.html" title=" " alt="" coords="2726,184,2889,225"/>
+<area shape="rect" id="node19" href="$bsps_2m68k_2mcf5235_2clock_2clock_8c.html" title=" " alt="" coords="6121,184,6313,225"/>
+<area shape="rect" id="node20" href="$bsps_2m68k_2mcf5329_2clock_2clock_8c.html" title=" " alt="" coords="2913,184,3105,225"/>
+<area shape="rect" id="node21" href="$bsps_2m68k_2uC5282_2clock_2clock_8c.html" title=" " alt="" coords="3129,184,3313,225"/>
+<area shape="rect" id="node22" href="$mips_2csb350_2clock_2clockdrv_8c.html" title=" " alt="" coords="6337,184,6513,225"/>
+<area shape="rect" id="node23" href="$mips_2jmr3904_2clock_2clockdrv_8c.html" title=" " alt="" coords="6537,184,6721,225"/>
+<area shape="rect" id="node24" href="$mips_2rbtx4925_2clock_2clockdrv_8c.html" title=" " alt="" coords="6745,184,6896,225"/>
+<area shape="rect" id="node25" href="$mips_2rbtx4938_2clock_2clockdrv_8c.html" title=" " alt="" coords="6920,184,7071,225"/>
+<area shape="rect" id="node26" href="$mips_2shared_2clock_2clockdrv_8c.html" title=" " alt="" coords="7095,184,7269,225"/>
+<area shape="rect" id="node27" href="$bsps_2nios2_2nios2__iss_2clock_2clock_8c.html" title=" " alt="" coords="3534,184,3689,225"/>
+<area shape="rect" id="node28" href="$or1k_2generic__or1k_2clock_2clockdrv_8c.html" title="or1k clock support." alt="" coords="3337,184,3510,225"/>
+<area shape="rect" id="node29" href="$mpc55xxevb_2clock_2clock-config_8c.html" title="Clock driver configuration." alt="" coords="5,184,204,225"/>
+<area shape="rect" id="node30" href="$qoriq_2clock_2clock-config_8c.html" title="QorIQ clock configuration." alt="" coords="228,184,381,225"/>
+<area shape="rect" id="node31" href="$t32mppc_2clock_2clock-config_8c.html" title=" " alt="" coords="405,184,577,225"/>
+<area shape="rect" id="node32" href="$riscv_2griscv_2clock_2clockdrv_8c.html" title=" " alt="" coords="602,184,770,225"/>
+<area shape="rect" id="node33" href="$riscv_2riscv_2clock_2clockdrv_8c.html" title="riscv clock support." alt="" coords="794,184,954,225"/>
+<area shape="rect" id="node34" href="$clock-simidle_8c.html" title=" " alt="" coords="3713,184,3880,225"/>
+<area shape="rect" id="node35" href="$sparc_2erc32_2clock_2ckinit_8c.html" title=" " alt="" coords="979,184,1148,225"/>
+<area shape="rect" id="node36" href="$sparc_2leon2_2clock_2ckinit_8c.html" title="Clock Tick Device Driver." alt="" coords="1172,184,1341,225"/>
+<area shape="rect" id="node37" href="$sparc_2leon3_2clock_2ckinit_8c.html" title=" " alt="" coords="1365,184,1535,225"/>
+<area shape="rect" id="node38" href="$sparc64_2shared_2clock_2ckinit_8c.html" title=" " alt="" coords="3905,184,4059,225"/>
+<area shape="rect" id="node39" href="$bsps_2x86__64_2amd64_2clock_2clock_8c.html" title=" " alt="" coords="1559,184,1749,225"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="_Thread_Kill_zombies" name="_Thread_Kill_zombies">
+<area shape="rect" id="node1" title="Kills all zombie threads in the system." alt="" coords="515,56,679,83"/>
+<area shape="rect" id="node2" href="$group__POSIX__PTHREAD.html#ga828496f65e824c5195746460a702d29a" title=" " alt="" coords="261,5,448,32"/>
+<area shape="rect" id="node3" href="$group__ClassicTasksImpl.html#ga2a548ef59576b03d7f143e4cf42b0c40" title=" " alt="" coords="267,56,442,83"/>
+<area shape="rect" id="node4" href="$group__libcsupport.html#ga89d650cbacc4217c00298014c7bfb723" title="Tasks a snapshot of the resource usage of the system." alt="" coords="243,107,467,133"/>
+<area shape="rect" id="node5" href="$group__libcsupport.html#ga3f67474826d25c37ae77d2d129bedf59" title="Takes a new resource snapshot and checks that it is equal to the given resource snapshot." alt="" coords="5,99,195,141"/>
+</map>

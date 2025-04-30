@@ -1,0 +1,4 @@
+<map id="_Dual_ported_memory_Allocate" name="_Dual_ported_memory_Allocate">
+<area shape="rect" id="node1" title="Allocates a port control block from the inactive chain of free port control blocks." alt="" coords="195,5,365,47"/>
+<area shape="rect" id="node2" href="$group__ClassicDPMEM.html#gadca93b2f9de997262d78e9b6c24832a8" title="Creates a port into a dual&#45;ported memory area." alt="" coords="5,13,147,39"/>
+</map>

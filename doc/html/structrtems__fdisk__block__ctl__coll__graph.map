@@ -1,0 +1,6 @@
+<map id="rtems_fdisk_block_ctl" name="rtems_fdisk_block_ctl">
+<area shape="rect" id="node1" title=" " alt="" coords="116,184,280,211"/>
+<area shape="rect" id="node2" href="$structrtems__fdisk__segment__ctl.html" title=" " alt="" coords="105,95,291,121"/>
+<area shape="rect" id="node3" href="$structrtems__fdisk__page__desc.html" title=" " alt="" coords="5,5,180,32"/>
+<area shape="rect" id="node4" href="$structrtems__fdisk__segment__desc.html" title="Flash Segment Descriptor holds, number of continuous segments in the device of this type,..." alt="" coords="205,5,405,32"/>
+</map>

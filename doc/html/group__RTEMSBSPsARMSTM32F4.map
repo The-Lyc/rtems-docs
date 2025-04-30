@@ -1,0 +1,10 @@
+<map id="STM32F4" name="STM32F4">
+<area shape="rect" id="node1" href="$group__stm32f4__exti.html" title="STM32F10XXX EXTI Support." alt="" coords="249,5,355,31"/>
+<area shape="rect" id="node2" title="STM32F4 Board Support Package." alt="" coords="105,129,188,155"/>
+<area shape="rect" id="node3" href="$group__stm32f4__interrupt.html" title="Interrupt Support." alt="" coords="236,55,368,80"/>
+<area shape="rect" id="node4" href="$group__stm32f4__rcc.html" title="RCC Support." alt="" coords="251,104,353,129"/>
+<area shape="rect" id="node5" href="$group__stm32f4__io.html" title="IO Support." alt="" coords="257,153,347,179"/>
+<area shape="rect" id="node7" href="$group__stm32f4__i2c.html" title="I2C Module." alt="" coords="253,203,351,228"/>
+<area shape="rect" id="node8" href="$group__stm32f4__usart.html" title="USART Support." alt="" coords="242,252,362,277"/>
+<area shape="rect" id="node6" href="$group__RTEMSBSPsARM.html" title="ARM Board Support Packages." alt="" coords="5,129,57,155"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="bsp_rtc_initialize" name="bsp_rtc_initialize">
+<area shape="rect" id="node1" title="Initialize the rtc device." alt="" coords="5,5,137,32"/>
+<area shape="rect" id="node2" href="$bsps_2arm_2lpc176x_2include_2bsp_2io_8h.html#a143c1df808c2b3d2dcd20cc645694979" title="Enables the module power and clock." alt="" coords="185,5,365,32"/>
+</map>

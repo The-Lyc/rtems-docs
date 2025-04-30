@@ -1,0 +1,8 @@
+<map id="cpukit/score/cpu/sparc/include/rtems/score/sparc.h" name="cpukit/score/cpu/sparc/include/rtems/score/sparc.h">
+<area shape="rect" id="node1" title="Information Required to Build RTEMS for a Particular Member of the SPARC Family." alt="" coords="201,5,406,47"/>
+<area shape="rect" id="node2" href="$erc32_8h.html" title="Contains information pertaining to the ERC32." alt="" coords="5,95,188,136"/>
+<area shape="rect" id="node4" href="$leon2_2include_2leon_8h.html" title=" " alt="" coords="212,95,395,136"/>
+<area shape="rect" id="node6" href="$sparc_2include_2rtems_2score_2cpu_8h.html" title="SPARC CPU Department Source." alt="" coords="419,95,612,136"/>
+<area shape="rect" id="node3" href="$bsps_2sparc_2erc32_2include_2bsp_8h.html" title="Global BSP definitions." alt="" coords="5,184,188,225"/>
+<area shape="rect" id="node5" href="$bsps_2sparc_2leon2_2include_2bsp_8h.html" title="Global BSP definitions." alt="" coords="212,184,395,225"/>
+</map>

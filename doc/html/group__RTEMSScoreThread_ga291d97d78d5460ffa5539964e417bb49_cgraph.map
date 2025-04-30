@@ -1,0 +1,5 @@
+<map id="_Thread_Get_objects_information" name="_Thread_Get_objects_information">
+<area shape="rect" id="node1" title="Gets object information for the object id." alt="" coords="5,23,164,65"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreObject.html#ga907a0412d7c657fa047641444090fe7b" title="Returns the API portion of the ID." alt="" coords="225,5,361,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreObject.html#ga8014a70deeb6819f7e2ca50efd13e1be" title="Checks if the api is valid." alt="" coords="212,56,375,83"/>
+</map>

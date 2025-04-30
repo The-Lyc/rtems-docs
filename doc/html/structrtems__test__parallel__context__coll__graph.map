@@ -1,0 +1,5 @@
+<map id="rtems_test_parallel_context" name="rtems_test_parallel_context">
+<area shape="rect" id="node1" title="Internal context for parallel job execution." alt="" coords="113,95,261,136"/>
+<area shape="rect" id="node2" href="$structrtems__test__parallel__job.html" title="Basic parallel job description." alt="" coords="5,5,180,32"/>
+<area shape="rect" id="node3" href="$structSMP__barrier__Control.html" title="SMP barrier control." alt="" coords="205,5,359,32"/>
+</map>

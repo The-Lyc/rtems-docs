@@ -1,0 +1,9 @@
+<map id="lan91c11x_read_phy_reg" name="lan91c11x_read_phy_reg">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,189,83"/>
+<area shape="rect" id="node2" href="$lan91c11x_8c.html#a12988e7fb56be1695e796065bdfc21d6" title=" " alt="" coords="247,5,401,32"/>
+<area shape="rect" id="node3" href="$lan91c11x_8c.html#a770a28dfcbcebcb097a4accdfa923c4c" title=" " alt="" coords="245,56,403,83"/>
+<area shape="rect" id="node4" href="$group__ClassicTasks.html#ga69becc1811a7654b0b74836272ac6429" title="RTEMS Task Wake After." alt="" coords="237,107,411,133"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreThread.html#ga044bfb6e9317180d21b05c5338cedd1a" title="Disables thread dispatching." alt="" coords="459,107,651,133"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreThread.html#ga5ffeb81480c63293a317f69efc74dec3" title="Disables thread dispatching inside a critical section (interrupts disabled)." alt="" coords="699,99,891,141"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreThread.html#ga80a71da4ea096f7ea92781a872b955ae" title="Disables thread dispatching inside a critical section (interrupts disabled) with the current processo..." alt="" coords="939,99,1131,141"/>
+</map>

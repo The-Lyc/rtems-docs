@@ -1,0 +1,13 @@
+<map id="_Thread_Initialize_information" name="_Thread_Initialize_information">
+<area shape="rect" id="node1" title="Initializes the thread information." alt="" coords="5,139,143,181"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreFreechain.html#gae257ce6dd277d9bfe7af999b1dd3c274" title="Initializes a freechain." alt="" coords="205,92,359,119"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreObject.html#gadf825a94fecd0945a4368e503e274bfd" title="Returns the maximum index of the specified object class." alt="" coords="191,198,373,239"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreObject.html#ga968b850454008bc4e68ab83c2f033282" title="Initializes the specified objects information." alt="" coords="421,139,563,181"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreChain.html#ga59b0dbda01fc9f0675bef62722627764" title="Initializes a chain header." alt="" coords="427,67,557,93"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreAddress.html#gaa7812bb29c95ed68f2b958d833c79399" title="Adds offset to an address." alt="" coords="611,5,783,32"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreChain.html#ga8b66d3138b9cdacbcb0600c42237ff7d" title="Returns pointer to chain head." alt="" coords="643,56,750,83"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreChain.html#ga06f3e2dd6d64411f0565e3b483e53673" title="Returns pointer to chain tail." alt="" coords="649,107,744,133"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreObject.html#ga22cdf45f285840b7728b06197a7f4627" title="Returns the index portion of the ID." alt="" coords="621,259,772,285"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreObject.html#ga907a0412d7c657fa047641444090fe7b" title="Returns the API portion of the ID." alt="" coords="629,157,765,184"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreObject.html#ga450c379424f26235d60f702638d229fa" title="Returns the class portion of the ID." alt="" coords="623,208,771,235"/>
+</map>

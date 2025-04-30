@@ -1,0 +1,4 @@
+<map id="_Thread_Wait_flags_try_change_release" name="_Thread_Wait_flags_try_change_release">
+<area shape="rect" id="node1" title="Tries to change the thread wait flags with release semantics in case of success." alt="" coords="249,5,405,47"/>
+<area shape="rect" id="node2" href="$group__ClassicRateMonImpl.html#gaf57f665d68876281d6798e972a816665" title=" " alt="" coords="5,13,201,39"/>
+</map>

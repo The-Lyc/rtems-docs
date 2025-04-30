@@ -1,0 +1,52 @@
+<map id="cpukit/libfs/src/rfs/rtems&#45;rfs&#45;rtems.h" name="cpukit/libfs/src/rfs/rtems&#45;rfs&#45;rtems.h">
+<area shape="rect" id="node1" title=" " alt="" coords="452,5,593,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="19,631,101,657"/>
+<area shape="rect" id="node3" title=" " alt="" coords="833,631,903,657"/>
+<area shape="rect" id="node4" href="$errno_8h.html" title=" " alt="" coords="565,549,633,575"/>
+<area shape="rect" id="node5" href="$rtems-rfs-file-system_8h.html" title="RTEMS File System Data." alt="" coords="174,184,319,225"/>
+<area shape="rect" id="node12" href="$rtems-rfs-inode_8h.html" title="RTEMS File System Information Node." alt="" coords="395,95,541,136"/>
+<area shape="rect" id="node15" href="$rtems-rfs-mutex_8h.html" title="RTEMS File System Mutex." alt="" coords="314,452,459,493"/>
+<area shape="rect" id="node16" href="$libio___8h.html" title="LibIO Internal Interface." alt="" coords="1135,102,1246,129"/>
+<area shape="rect" id="node46" href="$include_2rtems_2fs_8h.html" title="Basic Filesystem Types." alt="" coords="1753,281,1841,307"/>
+<area shape="rect" id="node6" href="$rtems-rfs-group_8h.html" title="RTEMS File Systems Group Management." alt="" coords="134,273,279,315"/>
+<area shape="rect" id="node7" href="$rtems-rfs-trace_8h.html" title="Manages the Trace and Debugging Features of the RTEMS RFS File System." alt="" coords="131,541,277,583"/>
+<area shape="rect" id="node10" href="$rtems-rfs-bitmaps_8h.html" title="RTEMS File Systems Bitmap Routines." alt="" coords="94,363,239,404"/>
+<area shape="rect" id="node11" href="$rtems-rfs-buffer_8h.html" title="Maps Blocks to the Media Interface Layers." alt="" coords="145,452,290,493"/>
+<area shape="rect" id="node8" title=" " alt="" coords="140,631,215,657"/>
+<area shape="rect" id="node9" title=" " alt="" coords="239,631,305,657"/>
+<area shape="rect" id="node13" title=" " alt="" coords="687,281,772,307"/>
+<area shape="rect" id="node14" href="$rtems-rfs-data_8h.html" title="RTEMS File System Data." alt="" coords="395,541,541,583"/>
+<area shape="rect" id="node17" title=" " alt="" coords="1393,281,1473,307"/>
+<area shape="rect" id="node18" title=" " alt="" coords="1198,281,1269,307"/>
+<area shape="rect" id="node19" href="$pthread_8h.html" title="POSIX Threads Private Support." alt="" coords="909,191,993,218"/>
+<area shape="rect" id="node22" href="$rtems_8h.html" title=" " alt="" coords="1607,281,1679,307"/>
+<area shape="rect" id="node45" href="$libio_8h.html" title="Basic IO API." alt="" coords="1451,191,1555,218"/>
+<area shape="rect" id="node48" href="$seterr_8h.html" title="Data which Ease the Burden of Consistently Setting Errno." alt="" coords="637,191,750,218"/>
+<area shape="rect" id="node49" href="$assert_8h.html" title="Information for the Assert Handler." alt="" coords="1171,191,1325,218"/>
+<area shape="rect" id="node50" href="$userenv_8h.html" title="User Environment Support." alt="" coords="1579,191,1706,218"/>
+<area shape="rect" id="node20" href="$threadsup_8h.html" title="POSIX Thread API Support." alt="" coords="797,281,977,307"/>
+<area shape="rect" id="node21" href="$score_2thread_8h.html" title="Constants and Structures Related with the Thread Control Block." alt="" coords="687,370,844,397"/>
+<area shape="rect" id="node23" href="$system_8h.html" title="Information Included in Every Function in the Executive." alt="" coords="1706,370,1830,397"/>
+<area shape="rect" id="node24" href="$rtems_2status_8h.html" title=" " alt="" coords="1525,549,1683,575"/>
+<area shape="rect" id="node25" href="$cpukit_2include_2rtems_2rtems_2types_8h.html" title=" " alt="" coords="1919,549,2073,575"/>
+<area shape="rect" id="node26" href="$include_2rtems_2config_8h.html" title="Table of User Defined Configuration Parameters." alt="" coords="1197,370,1312,397"/>
+<area shape="rect" id="node27" href="$extension_8h.html" title="User Extensions API." alt="" coords="971,459,1111,486"/>
+<area shape="rect" id="node28" href="$init_8h.html" title="Constants and Structures Associated with the Initialization Manager." alt="" coords="1431,370,1529,397"/>
+<area shape="rect" id="node29" href="$intr_8h.html" title=" " alt="" coords="1136,459,1275,486"/>
+<area shape="rect" id="node30" href="$options_8h.html" title=" " alt="" coords="3011,549,3178,575"/>
+<area shape="rect" id="node31" href="$tasks_8h.html" title="Classic Task Manager API." alt="" coords="1977,459,2130,486"/>
+<area shape="rect" id="node32" href="$barrier_8h.html" title="Classic Barrier Manager API." alt="" coords="2347,459,2507,486"/>
+<area shape="rect" id="node33" href="$cpukit_2include_2rtems_2rtems_2cache_8h.html" title=" " alt="" coords="2854,370,3010,397"/>
+<area shape="rect" id="node34" href="$cpukit_2include_2rtems_2rtems_2clock_8h.html" title=" " alt="" coords="1299,459,1451,486"/>
+<area shape="rect" id="node35" href="$cpukit_2include_2rtems_2rtems_2timer_8h.html" title="Classic Timer Manager API." alt="" coords="1861,370,2013,397"/>
+<area shape="rect" id="node36" href="$sem_8h.html" title="Classic Semaphores Manager API." alt="" coords="2683,370,2829,397"/>
+<area shape="rect" id="node37" href="$message_8h.html" title="Classic Message Queue Manager API." alt="" coords="2765,459,2942,486"/>
+<area shape="rect" id="node38" href="$rtems_2rtems_2event_8h.html" title="Classic Event Manager API." alt="" coords="3017,459,3172,486"/>
+<area shape="rect" id="node39" href="$include_2rtems_2rtems_2signal_8h.html" title="Signals API." alt="" coords="1525,459,1683,486"/>
+<area shape="rect" id="node40" href="$rtems_2object_8h.html" title=" " alt="" coords="789,459,947,486"/>
+<area shape="rect" id="node41" href="$part_8h.html" title="Classic Partition Manager API." alt="" coords="1707,459,1851,486"/>
+<area shape="rect" id="node42" href="$region_8h.html" title="Classic Region Manager API." alt="" coords="2582,459,2741,486"/>
+<area shape="rect" id="node43" href="$dpmem_8h.html" title="Classic Dual Ported Memory Manager API." alt="" coords="2155,459,2323,486"/>
+<area shape="rect" id="node44" href="$cpukit_2include_2rtems_2io_8h.html" title="Classic Input/Output Manager API." alt="" coords="868,370,956,397"/>
+<area shape="rect" id="node47" href="$chain_8h.html" title="Chain API." alt="" coords="3155,370,3266,397"/>
+</map>

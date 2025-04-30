@@ -1,0 +1,11 @@
+<map id="bsps/sparc/leon2/console/debugputs.c" name="bsps/sparc/leon2/console/debugputs.c">
+<area shape="rect" id="node1" title="TTY driver for the serial ports on the LEON." alt="" coords="212,5,397,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="223,95,280,121"/>
+<area shape="rect" id="node3" href="$bspIo_8h.html" title="Interface to Kernel Print Methods." alt="" coords="304,95,415,121"/>
+<area shape="rect" id="node4" href="$basedefs_8h.html" title="Basic Definitions." alt="" coords="197,169,372,196"/>
+<area shape="rect" id="node9" title=" " alt="" coords="397,169,471,196"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,244,172,271"/>
+<area shape="rect" id="node6" title=" " alt="" coords="197,244,271,271"/>
+<area shape="rect" id="node7" title=" " alt="" coords="295,244,378,271"/>
+<area shape="rect" id="node8" title=" " alt="" coords="403,244,473,271"/>
+</map>

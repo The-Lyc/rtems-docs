@@ -1,0 +1,18 @@
+<map id="DSPI_tag" name="DSPI_tag">
+<area shape="rect" id="node1" title=" " alt="" coords="305,592,385,619"/>
+<area shape="rect" id="node2" href="$unionDSPI__COMPR__32B__tag.html" title=" " alt="" coords="21,5,188,32"/>
+<area shape="rect" id="node3" href="$unionDSPI__DSICR__32B__tag.html" title=" " alt="" coords="25,56,184,83"/>
+<area shape="rect" id="node4" href="$unionDSPI__TXFR__32B__tag.html" title=" " alt="" coords="28,172,181,199"/>
+<area shape="rect" id="node5" href="$unionDSPI__tag_1_1DSPI__MCR__tag.html" title=" " alt="" coords="13,223,196,249"/>
+<area shape="rect" id="node6" href="$unionDSPI__tag_1_1DSPI__CTAR__tag.html" title=" " alt="" coords="11,380,198,407"/>
+<area shape="rect" id="node7" href="$unionDSPI__SDR__32B__tag.html" title=" " alt="" coords="31,431,178,457"/>
+<area shape="rect" id="node8" href="$unionDSPI__RXFR__32B__tag.html" title=" " alt="" coords="27,533,182,560"/>
+<area shape="rect" id="node9" href="$unionDSPI__tag_1_1DSPI__POPR__tag.html" title=" " alt="" coords="11,584,199,611"/>
+<area shape="rect" id="node10" href="$unionDSPI__DDR__32B__tag.html" title=" " alt="" coords="31,635,179,661"/>
+<area shape="rect" id="node11" href="$unionDSPI__tag_1_1DSPI__SR__tag.html" title=" " alt="" coords="19,685,190,712"/>
+<area shape="rect" id="node12" href="$unionDSPI__tag_1_1DSPI__RSER__tag.html" title=" " alt="" coords="11,736,198,763"/>
+<area shape="rect" id="node13" href="$unionDSPI__tag_1_1DSPI__PUSHR__tag.html" title=" " alt="" coords="5,787,204,813"/>
+<area shape="rect" id="node14" href="$unionDSPI__TCR__32B__tag.html" title=" " alt="" coords="33,837,177,864"/>
+<area shape="rect" id="node15" href="$unionDSPI__ASDR__32B__tag.html" title=" " alt="" coords="27,888,182,915"/>
+<area shape="rect" id="node16" href="$unionDSPI__DSICR1__32B__tag.html" title=" " alt="" coords="21,939,188,965"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="m8xx_spi_desc_t" name="m8xx_spi_desc_t">
+<area shape="rect" id="node1" title=" " alt="" coords="113,199,248,225"/>
+<area shape="rect" id="node2" href="$structm8xx__spi__softc.html" title=" " alt="" coords="39,109,162,136"/>
+<area shape="rect" id="node3" href="$structm8xxBufferDescriptor__.html" title=" " alt="" coords="5,5,177,32"/>
+<area shape="rect" id="node4" href="$structrtems__libi2c__bus__t__.html" title=" " alt="" coords="203,109,353,136"/>
+<area shape="rect" id="node5" href="$structrtems__libi2c__bus__ops__.html" title=" " alt="" coords="201,5,371,32"/>
+</map>

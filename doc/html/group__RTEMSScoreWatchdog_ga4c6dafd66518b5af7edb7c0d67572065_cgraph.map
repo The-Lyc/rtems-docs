@@ -1,0 +1,12 @@
+<map id="_Watchdog_Remove" name="_Watchdog_Remove">
+<area shape="rect" id="node1" title="In the case the watchdog is scheduled, then it is removed from the set of scheduled watchdogs." alt="" coords="5,132,160,159"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreRBTree.html#ga26bf30d26e521f0599ae0467abdacc85" title="Extracts (removes) the node from the red&#45;black tree." alt="" coords="237,56,363,83"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreWatchdog.html#gaa77ec8a34fd2830fab0a5bb639c4ab06" title="Checks if the watchdog is scheduled." alt="" coords="208,107,392,133"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreWatchdog.html#gaa3f2959cd64e5f27cf67d1b89c45303a" title="Sets the first node of the header." alt="" coords="219,157,381,184"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreWatchdog.html#ga08d63637741832757cddfc443e9cf473" title="Sets the state of the watchdog." alt="" coords="219,208,381,235"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreRBTree.html#gabbc757c2fd03694b6f9bb5aa2be553ff" title="Initializes a red&#45;black tree node." alt="" coords="440,5,616,32"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreRBTree.html#ga29242f056330aaabc12dcfcaa6f10a05" title="Returns a pointer to root node of the red&#45;black tree." alt="" coords="473,56,583,83"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreRBTree.html#ga82d9b6f1aad201e7c8b614a0e970b356" title="Sets a red&#45;black tree node as off&#45;tree." alt="" coords="664,5,823,32"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreWatchdog.html#gace59e3b987e52e536a15534fa1f91ec5" title="Gets the state of the watchdog." alt="" coords="447,107,609,133"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreRBTree.html#gadb8aa819c64641ff7a2342a7ef20b950" title="Returns pointer to the right of this node." alt="" coords="471,157,585,184"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="bsps/powerpc/qoriq/include/bsp/qoriq.h" name="bsps/powerpc/qoriq/include/bsp/qoriq.h">
+<area shape="rect" id="node1" title="QorIQ Configuration, Control and Status Registers." alt="" coords="61,5,210,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,95,63,121"/>
+<area shape="rect" id="node3" href="$tsec_8h.html" title=" " alt="" coords="209,95,297,121"/>
+<area shape="rect" id="node7" href="$include_2bsp_2utility_8h.html" title="Utility macros." alt="" coords="87,95,184,121"/>
+<area shape="rect" id="node4" title=" " alt="" coords="109,169,180,196"/>
+<area shape="rect" id="node5" title=" " alt="" coords="208,169,287,196"/>
+<area shape="rect" id="node6" title=" " alt="" coords="311,169,443,196"/>
+</map>

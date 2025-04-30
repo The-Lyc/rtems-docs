@@ -1,0 +1,6 @@
+<map id="rtems_dosfs_initialize" name="rtems_dosfs_initialize">
+<area shape="rect" id="node1" title=" " alt="" coords="5,35,171,61"/>
+<area shape="rect" id="node2" href="$group__libfs__msdos.html#gab03ef344fdc3a391eea940b6fdd9da24" title="MSDOS filesystem initialization routine." alt="" coords="219,5,403,32"/>
+<area shape="rect" id="node4" href="$group__DOSFS.html#ga9dc28ad698d4946c7bf691fa0b0a6c78" title="Allocates and initializes a default converter." alt="" coords="235,57,386,98"/>
+<area shape="rect" id="node3" href="$group__libfs__dosfs.html#ga31e2a90dd7fbc52e7de6b74ec8df762c" title=" " alt="" coords="451,5,607,32"/>
+</map>

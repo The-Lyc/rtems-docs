@@ -1,0 +1,52 @@
+<map id="aio_read" name="aio_read">
+<area shape="rect" id="node1" title=" " alt="" coords="5,627,84,653"/>
+<area shape="rect" id="node2" href="$fcntl_8c.html#ad39ebe4c4767eaa9a680777400cfaafe" title=" " alt="" coords="182,601,233,628"/>
+<area shape="rect" id="node3" href="$aio__misc_8h.html#a8477bc52bcf6620a6f253b06075d1554" title=" " alt="" coords="132,652,283,679"/>
+<area shape="rect" id="node4" href="$condinit_8c.html#ad5b6c558bcd5260289981207b9ca9687" title=" " alt="" coords="351,244,490,271"/>
+<area shape="rect" id="node5" href="$pthreadcreate_8c.html#ae5d18438d4d20c8a2e42cd2500578d79" title=" " alt="" coords="361,295,481,321"/>
+<area shape="rect" id="node7" href="$pthreadgetschedparam_8c.html#aae9850b3759769c748727e171c4c6e61" title=" " alt="" coords="331,345,511,372"/>
+<area shape="rect" id="node27" href="$mutexinit_8c.html#a7454d249ed94ad5d5e57ba1529d7a7f2" title=" " alt="" coords="346,587,495,613"/>
+<area shape="rect" id="node29" href="$mutexlock_8c.html#a12809c44718c21544ceb280dc1a53573" title=" " alt="" coords="343,652,498,679"/>
+<area shape="rect" id="node32" href="$pthreadself_8c.html#a4c4f5f3b4f8f45d9d897847d53b11aaa" title=" " alt="" coords="369,721,472,748"/>
+<area shape="rect" id="node34" href="$aio__misc_8c.html#af4a6927e7d9b3b57ba8cc7c52a23f757" title=" " alt="" coords="342,965,499,992"/>
+<area shape="rect" id="node40" href="$group__ClassicChains.html#ga8e0356d0c5f3efe5c26ddabfffe9f101" title="Initializes a chain node." alt="" coords="565,776,769,803"/>
+<area shape="rect" id="node48" href="$group__ClassicChains.html#ga361b3475492fb0bd0a56ee80440367c7" title="Prepend a node." alt="" coords="586,1197,749,1224"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreThread.html#gaac2283a605738e5b3fd2e1710ea8b73a" title="Calls the start kinds pointer entry of the thread." alt="" coords="581,23,753,65"/>
+<area shape="rect" id="node8" href="$group__POSIX__PRIORITY.html#gad0693fb0599992826c0948cd9bda4d69" title="Converts the SuperCore priority to the corresponding POSIX API priority." alt="" coords="824,199,1021,225"/>
+<area shape="rect" id="node10" href="$group__POSIX__PTHREAD.html#ga7a95fb7611d723582f053efef4cad33f" title=" " alt="" coords="574,491,761,533"/>
+<area shape="rect" id="node11" href="$group__POSIX__PTHREAD.html#gae1ea059cc5dcc2ab7b9e5467a4d546c0" title=" " alt="" coords="578,141,757,182"/>
+<area shape="rect" id="node12" href="$group__RTEMSScoreThread.html#gadc33b4b428dfc134ae1622441433b1a1" title="Gets a thread by its identifier." alt="" coords="615,89,719,116"/>
+<area shape="rect" id="node19" href="$group__RTEMSScoreThreadQueue.html#gae18ee06777084a67d286d743355d47ac" title="Initializes a thread queue context." alt="" coords="578,426,757,467"/>
+<area shape="rect" id="node23" href="$group__RTEMSScoreThread.html#ga0071d4e11d2d68b2e4c43ffe2108e7f5" title="Gets the home scheduler of the thread." alt="" coords="559,257,776,284"/>
+<area shape="rect" id="node24" href="$group__RTEMSScoreThread.html#ga31d2b044df5bb8998e4c935fededc17c" title="Acquires the thread wait lock inside a critical section (interrupts disabled)." alt="" coords="585,309,750,350"/>
+<area shape="rect" id="node25" href="$group__RTEMSScoreThread.html#gacb857fbbdbd059ae8e1f6fca8768da96" title="Releases the thread wait lock and restores the previous interrupt status." alt="" coords="585,375,750,401"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreScheduler.html#gaa2f56f77ed86e3d02527742f917fcd0c" title="Unmaps a thread priority from the scheduler domain to the user domain." alt="" coords="1069,199,1271,225"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreObject.html#gaba59419fd15c39c93eedbaba5788de05" title="Checks if two object IDs are equal." alt="" coords="835,89,1011,116"/>
+<area shape="rect" id="node14" href="$group__RTEMSScoreObject.html#gaccc5682133e4f65b8cb374eab9be2c9d" title="Maps the specified object identifier to the associated local object control block." alt="" coords="869,140,977,167"/>
+<area shape="rect" id="node16" href="$group__RTEMSScoreThread.html#ga291d97d78d5460ffa5539964e417bb49" title="Gets object information for the object id." alt="" coords="843,23,1002,65"/>
+<area shape="rect" id="node15" href="$group__RTEMSScoreObject.html#ga22cdf45f285840b7728b06197a7f4627" title="Returns the index portion of the ID." alt="" coords="1095,140,1245,167"/>
+<area shape="rect" id="node17" href="$group__RTEMSScoreObject.html#ga907a0412d7c657fa047641444090fe7b" title="Returns the API portion of the ID." alt="" coords="1102,5,1238,32"/>
+<area shape="rect" id="node18" href="$group__RTEMSScoreObject.html#ga8014a70deeb6819f7e2ca50efd13e1be" title="Checks if the api is valid." alt="" coords="1089,56,1251,83"/>
+<area shape="rect" id="node20" href="$group__RTEMSScoreChain.html#gab0fa19f01d37f1d510405e6382fd8b67" title="Initializes a chain node." alt="" coords="839,629,1007,656"/>
+<area shape="rect" id="node22" href="$bootldr_8h.html#a36d20f7d597c517b964289f6b54ddfa7" title=" " alt="" coords="885,433,961,460"/>
+<area shape="rect" id="node21" href="$group__RTEMSScoreChain.html#gadf0e5d55d133694eed8043ec13fe1266" title="Sets off chain." alt="" coords="1090,629,1250,656"/>
+<area shape="rect" id="node26" href="$group__RTEMSScoreThread.html#gae077609cfcf4bf7a741a5fd36020dcb4" title="Releases the thread wait lock inside a critical section (interrupts disabled)." alt="" coords="840,367,1005,409"/>
+<area shape="rect" id="node28" href="$group__POSIXAPI.html#gad05fb937466662bdf76ca576d1e3dc2b" title=" " alt="" coords="575,557,759,584"/>
+<area shape="rect" id="node30" href="$posix_2muteximpl_8h.html#a80ec56e99a95d286fea326d74c8fb679" title=" " alt="" coords="563,608,772,635"/>
+<area shape="rect" id="node31" href="$group__RTEMSScoreThreadQueue.html#ga6a087492df4bba9c56d8e8018339a84e" title="Does nothing." alt="" coords="575,659,759,701"/>
+<area shape="rect" id="node33" href="$group__PerCPU.html#ga294cfaf3cf50de03f1d9821d68b9c1bd" title="Returns the thread control block of the executing thread." alt="" coords="580,725,755,752"/>
+<area shape="rect" id="node35" href="$group__ClassicChains.html#ga44b92f7e9e25d9a3a0eadb0b559398cc" title="Return pointer to Chain&#39;s First node after the permanent head." alt="" coords="600,877,735,904"/>
+<area shape="rect" id="node38" href="$group__ClassicChains.html#gabcf5131393d65f667c67e88cf646ff99" title="Initialize this chain as empty." alt="" coords="585,929,750,970"/>
+<area shape="rect" id="node41" href="$group__ClassicChains.html#ga2d55d75271c59d4eeb4ba0d61192b643" title="Insert a node on a chain." alt="" coords="594,995,741,1021"/>
+<area shape="rect" id="node42" href="$group__ClassicChains.html#ga82c37408681422fcdf19b0cdf4d96332" title="Is the chain empty." alt="" coords="583,1045,752,1072"/>
+<area shape="rect" id="node44" href="$group__ClassicChains.html#ga0131faa875818fc0cddb4c960e599396" title="Is this node the chain tail." alt="" coords="593,1096,741,1123"/>
+<area shape="rect" id="node46" href="$group__ClassicChains.html#ga53a35170adf0ff9075a2e04560777eab" title="Return pointer the next node from this node." alt="" coords="598,1147,737,1173"/>
+<area shape="rect" id="node49" href="$group__ClassicChains.html#gaafcbf989d0d2e360aadd0d304a0f30e3" title="Return pointer the previous node from this node." alt="" coords="585,827,750,853"/>
+<area shape="rect" id="node36" href="$group__RTEMSScoreChain.html#ga89304b2d294b98f4909dcb6e68d7ec82" title="Returns pointer to chain&#39;s first node." alt="" coords="872,877,973,904"/>
+<area shape="rect" id="node37" href="$group__RTEMSScoreChain.html#gac08944db6f0428125d3b0d5a1c65b740" title="Returns pointer to immutable chain head." alt="" coords="1079,877,1261,904"/>
+<area shape="rect" id="node39" href="$group__RTEMSScoreChain.html#ga322cf50ff1974dab1ce8d60ec94ef5f8" title="Initializes this chain as empty." alt="" coords="833,936,1012,963"/>
+<area shape="rect" id="node43" href="$group__RTEMSScoreChain.html#ga67ffad0c14d402473760ec6bb8e93bcc" title="Checks if the chain is empty." alt="" coords="856,1045,989,1072"/>
+<area shape="rect" id="node45" href="$group__RTEMSScoreChain.html#gacc6f9947e62bf5bb5fe1cb050b57289b" title="Checks if this node is the chain tail." alt="" coords="867,1096,979,1123"/>
+<area shape="rect" id="node47" href="$group__RTEMSScoreChain.html#ga9502cc5cb6c81ef2bce33698005e1752" title="Returns pointer to the next node from this node." alt="" coords="871,1147,975,1173"/>
+<area shape="rect" id="node50" href="$group__RTEMSScoreChain.html#ga78b26f26fab1b3831f449e7a94a51692" title="Returns pointer to the previous node from this node." alt="" coords="858,827,987,853"/>
+</map>

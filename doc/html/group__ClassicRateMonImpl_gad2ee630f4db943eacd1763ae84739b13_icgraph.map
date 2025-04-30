@@ -1,0 +1,6 @@
+<map id="_Rate_monotonic_Reset_min_time" name="_Rate_monotonic_Reset_min_time">
+<area shape="rect" id="node1" title=" " alt="" coords="667,5,845,47"/>
+<area shape="rect" id="node2" href="$group__ClassicRateMonImpl.html#gaca5bc85e1ebdb42e97eea716854143eb" title=" " alt="" coords="440,5,619,47"/>
+<area shape="rect" id="node3" href="$group__ClassicRateMon.html#gafc3dfca5d5f9edc1d931da6d7c309386" title="RTEMS Rate Monotonic Reset Statistics." alt="" coords="223,5,392,47"/>
+<area shape="rect" id="node4" href="$group__ClassicRateMon.html#gacd99140676caf91d1fd3c6fd95e6a9c8" title="rtems_rate_monotonic_reset_all_statistics" alt="" coords="5,5,175,47"/>
+</map>

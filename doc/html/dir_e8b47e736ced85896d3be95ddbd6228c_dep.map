@@ -1,0 +1,20 @@
+<map id="cpukit/include/rtems/score" name="cpukit/include/rtems/score">
+<area shape="rect" id="node1" href="dir_e8b47e736ced85896d3be95ddbd6228c.html" title="score" alt="" coords="63,76,135,124"/>
+<area shape="rect" id="node2" href="dir_bc0a222ade9e8961559b81d52645482b.html" title="machine" alt="" coords="5,172,84,220"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000650_001034.html" title="1" alt="" coords="70,153,79,168"/>
+<area shape="rect" id="node3" href="dir_8c02ade8afce3eac690e731f5f9c9c6b.html" title="libfs" alt="" coords="159,172,231,220"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000650_000480.html" title="4" alt="" coords="160,146,169,161"/>
+<area shape="rect" id="node4" href="dir_36220f753a01d83bf99815414e2a7c87.html" title="rtems" alt="" coords="159,76,231,124"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000650_000656.html" title="2" alt="" coords="136,85,146,99"/>
+<area shape="rect" id="node5" href="dir_7209be54361c048600d200e3112e11d6.html" title="posix" alt="" coords="255,76,327,124"/>
+<area shape="rect" id="edge10-headlabel" href="dir_000650_000655.html" title="1" alt="" coords="276,49,286,64"/>
+<area shape="rect" id="node6" href="dir_88df0727a4fb964c0e82f656e4349cb8.html" title="sys" alt="" coords="86,268,158,316"/>
+<area shape="rect" id="edge11-headlabel" href="dir_000650_001032.html" title="2" alt="" coords="121,242,130,256"/>
+<area shape="rect" id="edge1-headlabel" href="dir_001034_001032.html" title="1" alt="" coords="93,241,103,256"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000480_001032.html" title="3" alt="" coords="153,252,162,266"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000656_000650.html" title="65" alt="" coords="145,101,163,116"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000656_000480.html" title="2" alt="" coords="199,147,208,161"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000655_000650.html" title="49" alt="" coords="116,57,133,71"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000655_000480.html" title="6" alt="" coords="233,158,242,173"/>
+<area shape="rect" id="clust1" href="dir_be382d098cd1aaaaf11a7ebea3d850c0.html" title="rtems" alt="" coords="53,40,146,135"/>
+</map>

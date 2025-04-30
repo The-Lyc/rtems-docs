@@ -1,0 +1,4 @@
+<map id="_Scheduler_Tick" name="_Scheduler_Tick">
+<area shape="rect" id="node1" title="Scheduler method invoked at each clock tick." alt="" coords="5,5,132,32"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreScheduler.html#ga59bbedb236474f01c1030408c129b1bb" title="Gets the scheduler for the cpu." alt="" coords="180,5,360,32"/>
+</map>

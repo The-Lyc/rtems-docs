@@ -1,0 +1,7 @@
+<map id="cpukit/include/rtems/ramdisk.h" name="cpukit/include/rtems/ramdisk.h">
+<area shape="rect" id="node1" title="RAM Disk Block Device API." alt="" coords="243,5,398,47"/>
+<area shape="rect" id="node2" href="$ramdisk-config_8c.html" title="RAM disk block device implementation." alt="" coords="5,95,145,136"/>
+<area shape="rect" id="node3" href="$ramdisk-driver_8c.html" title="RAM disk block device implementation." alt="" coords="169,95,309,136"/>
+<area shape="rect" id="node4" href="$ramdisk-init_8c.html" title="RAM disk block device implementation." alt="" coords="333,95,473,136"/>
+<area shape="rect" id="node5" href="$ramdisk-register_8c.html" title="RAM disk block device implementation." alt="" coords="498,95,642,136"/>
+</map>

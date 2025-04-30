@@ -1,0 +1,4 @@
+<map id="rtems_resource_snapshot_equal" name="rtems_resource_snapshot_equal">
+<area shape="rect" id="node1" title="Compares two resource snapshots for equality." alt="" coords="243,5,432,47"/>
+<area shape="rect" id="node2" href="$group__libcsupport.html#ga3f67474826d25c37ae77d2d129bedf59" title="Takes a new resource snapshot and checks that it is equal to the given resource snapshot." alt="" coords="5,5,195,47"/>
+</map>

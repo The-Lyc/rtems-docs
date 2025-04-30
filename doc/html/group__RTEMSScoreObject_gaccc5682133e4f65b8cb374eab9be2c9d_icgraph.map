@@ -1,0 +1,52 @@
+<map id="_Objects_Get" name="_Objects_Get">
+<area shape="rect" id="node1" title="Maps the specified object identifier to the associated local object control block." alt="" coords="509,647,617,673"/>
+<area shape="rect" id="node2" href="$group__ClassicBarrierImpl.html#gaddb2ead3ee36662670debcccad61093d" title=" " alt="" coords="305,56,407,83"/>
+<area shape="rect" id="node5" href="$group__ClassicDPMEMImpl.html#ga34b3b7bbc775ebd2c5a1c6c87b9e5872" title=" " alt="" coords="256,199,456,225"/>
+<area shape="rect" id="node9" href="$group__ClassicMessageQueueImpl.html#ga2ae3fbe2f3c43ea7a991289339222f85" title=" " alt="" coords="274,416,438,443"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreObject.html#gabd551c27404cc5db7e78b6ad24a5dda9" title="Gets object name in the form of a C string." alt="" coords="269,489,443,530"/>
+<area shape="rect" id="node15" href="$group__RTEMSScoreObject.html#ga4ef83167e7503b64f503bd9218332cde" title="Returns the name associated with object id." alt="" coords="275,571,437,597"/>
+<area shape="rect" id="node16" href="$group__ClassicPartImpl.html#gaba43c940d51e5578b9cc26f928c72ad9" title=" " alt="" coords="299,621,413,648"/>
+<area shape="rect" id="node18" href="$mqueueimpl_8h.html#a151a73b53a46d88c0939c6638f7d4145" title=" " alt="" coords="251,672,461,699"/>
+<area shape="rect" id="node23" href="$posix_2timerimpl_8h.html#a1d4676c4320534f2c346154098db1da4" title="POSIX Timer Get." alt="" coords="285,815,427,841"/>
+<area shape="rect" id="node27" href="$group__ClassicRateMonImpl.html#gafca768d067ab935fdf8d53ebb425d72b" title=" " alt="" coords="273,983,439,1009"/>
+<area shape="rect" id="node31" href="$group__ClassicSemImpl.html#gae6c81c48866b311568aeb67633d934ef" title=" " alt="" coords="289,1139,423,1165"/>
+<area shape="rect" id="node34" href="$group__RTEMSScoreThread.html#gadc33b4b428dfc134ae1622441433b1a1" title="Gets a thread by its identifier." alt="" coords="304,1560,408,1587"/>
+<area shape="rect" id="node50" href="$group__ClassicTimerImpl.html#ga40195e79d37f84fa3d6b9ba166f6d384" title=" " alt="" coords="307,1611,405,1637"/>
+<area shape="rect" id="node3" href="$group__ClassicBarrier.html#ga942ec086e0fa6aa0939629fb617a763b" title="RTEMS Delete Barrier." alt="" coords="25,5,183,32"/>
+<area shape="rect" id="node4" href="$group__ClassicBarrier.html#gaca341b3ac7701013f5e94cfff7b659d7" title="RTEMS Barrier Release." alt="" coords="21,56,187,83"/>
+<area shape="rect" id="node6" href="$group__ClassicDPMEM.html#gab601849546c8342b31dc7db5ea183daf" title="RTEMS Delete Port." alt="" coords="33,107,175,133"/>
+<area shape="rect" id="node7" href="$group__ClassicDPMEM.html#gadd2893966bef2ba45246f76630583948" title="RTEMS Port External to Internal." alt="" coords="27,158,181,199"/>
+<area shape="rect" id="node8" href="$group__ClassicDPMEM.html#ga2f93010888da8641e8d419067da3200f" title="RTEMS Port Internal to External." alt="" coords="29,223,179,265"/>
+<area shape="rect" id="node10" href="$group__ClassicMessageQueue.html#ga4cf66620ef43543885708a1185b386ab" title="RTEMS Delete Message Queue." alt="" coords="17,289,191,330"/>
+<area shape="rect" id="node11" href="$group__ClassicMessageQueue.html#ga8b97ede3b5602d6f5cca6229f96f27ee" title="rtems_message_queue_flush" alt="" coords="17,354,191,395"/>
+<area shape="rect" id="node12" href="$group__ClassicMessageQueue.html#gacee875342933dcff59f9ed66232cdce8" title="RTEMS Message Queue Get Number Pending." alt="" coords="17,419,191,461"/>
+<area shape="rect" id="node14" href="$group__ClassicClassInfo.html#ga85242d8af75f936826239cf37493fe0b" title="Obtain Object Name as String." alt="" coords="15,485,193,512"/>
+<area shape="rect" id="node17" href="$group__ClassicPart.html#ga9cb3af79cb02585887caa1f4a2a62deb" title="RTEMS Delete Partition." alt="" coords="19,536,189,563"/>
+<area shape="rect" id="node19" href="$mqueueclose_8c.html#a3fbd3906296be63451c64d69be2bc371" title=" " alt="" coords="62,587,146,613"/>
+<area shape="rect" id="node20" href="$mqueuegetattr_8c.html#a5a55ce03d8466a53a36601aaca9ee328" title=" " alt="" coords="57,637,151,664"/>
+<area shape="rect" id="node21" href="$mqueuenotify_8c.html#a5eadbb82e0b9702d77f384a27827b334" title=" " alt="" coords="61,688,147,715"/>
+<area shape="rect" id="node22" href="$mqueuesetattr_8c.html#a661cf3bf4e767eeef2893eb05754010e" title=" " alt="" coords="57,739,151,765"/>
+<area shape="rect" id="node24" href="$psxtimerdelete_8c.html#ad114bb350d7d5d12cff3fd19bf533303" title=" " alt="" coords="51,789,157,816"/>
+<area shape="rect" id="node25" href="$timergetoverrun_8c.html#ad779f0bc22f64bd3bd977221b0ce1b8f" title=" " alt="" coords="37,840,171,867"/>
+<area shape="rect" id="node26" href="$timergettime_8c.html#a520e1913c35aa3352259dafa3259d140" title=" " alt="" coords="47,891,161,917"/>
+<area shape="rect" id="node28" href="$group__ClassicRateMon.html#ga4313840d58c7a2ccc4b1e6151e712bf7" title="RTEMS Rate Monotonic Cancel." alt="" coords="19,942,189,983"/>
+<area shape="rect" id="node29" href="$group__ClassicRateMon.html#ga56f6fb057c562aaf77959bbb3b9d0762" title="RTEMS Rate Monotonic Get Statistics." alt="" coords="19,1007,189,1049"/>
+<area shape="rect" id="node30" href="$group__ClassicRateMon.html#gafc3dfca5d5f9edc1d931da6d7c309386" title="RTEMS Rate Monotonic Reset Statistics." alt="" coords="19,1073,189,1114"/>
+<area shape="rect" id="node32" href="$group__ClassicSem.html#ga1d9a04c45e2e1c68fd3e19ee675e6150" title="RTEMS Semaphore Flush." alt="" coords="15,1139,193,1165"/>
+<area shape="rect" id="node33" href="$group__ClassicSem.html#gad9bd7dcfb6e233a152f02f47bbf73f50" title="Sets the priority value with respect to the specified scheduler of a semaphore." alt="" coords="21,1190,187,1231"/>
+<area shape="rect" id="node35" href="$group__RTEMSScoreMPCI.html#gae2df57913a498a0305315a2fb6cf12fb" title="Passes a packet to the thread." alt="" coords="11,1256,197,1283"/>
+<area shape="rect" id="node36" href="$cancel_8c.html#a9e77a80c073787bf9a593e9c619dce27" title=" " alt="" coords="43,1307,165,1333"/>
+<area shape="rect" id="node37" href="$pthreaddetach_8c.html#a7c275c509c26566b6dd95a2de1668a2f" title=" " alt="" coords="43,1357,165,1384"/>
+<area shape="rect" id="node38" href="$pthreadequal_8c.html#a98ec817164a6641eda2341de473b659d" title=" " alt="" coords="47,1408,161,1435"/>
+<area shape="rect" id="node39" href="$pthreadgetattrnp_8c.html#a6bdca4b2c8a436c4651fb5e8d462408b" title=" " alt="" coords="31,1459,177,1485"/>
+<area shape="rect" id="node40" href="$pthreadgetnamenp_8c.html#a8d55a60492c979991dc1a361b5453813" title=" " alt="" coords="24,1509,184,1536"/>
+<area shape="rect" id="node41" href="$pthreadgetschedparam_8c.html#aae9850b3759769c748727e171c4c6e61" title=" " alt="" coords="14,1560,194,1587"/>
+<area shape="rect" id="node42" href="$pthreadsetschedparam_8c.html#a5863ca5ea1eaf973c408e2c3bbaff3a7" title=" " alt="" coords="15,1611,193,1637"/>
+<area shape="rect" id="node43" href="$pthreadsetschedprio_8c.html#a7a23cbcfc21a4e3edf531ed65f022370" title=" " alt="" coords="23,1661,185,1688"/>
+<area shape="rect" id="node44" href="$group__ClassicEvent.html#ga2d31674c165127bc530178d06d557b94" title="Sends an Event Set to the Target Task." alt="" coords="33,1712,175,1739"/>
+<area shape="rect" id="node45" href="$group__ClassicEventSystem.html#ga1119cb4341890e86ffa7cc7fad414f19" title="See rtems_event_send()." alt="" coords="5,1763,203,1789"/>
+<area shape="rect" id="node46" href="$group__ClassicSignal.html#ga9b10bae66f1a80b2bc7151eb1ce90e23" title="RTEMS Send Signal." alt="" coords="32,1813,176,1840"/>
+<area shape="rect" id="node47" href="$group__ClassicTasks.html#gaf7c82a7fa13338a65583dc3d760ad9cc" title="RTEMS Delete Task." alt="" coords="33,1864,175,1891"/>
+<area shape="rect" id="node48" href="$group__ClassicTasks.html#gaf4a38e236136d5df6e5bef463a7e5506" title="Gets the processor affinity set of a task." alt="" coords="16,1915,192,1941"/>
+<area shape="rect" id="node49" href="$group__ClassicTasks.html#gad06646a724fbaf16f1a4d117d1c667dc" title="Gets the current priority of the specified task with respect to the specified scheduler instance." alt="" coords="15,1965,193,1992"/>
+</map>

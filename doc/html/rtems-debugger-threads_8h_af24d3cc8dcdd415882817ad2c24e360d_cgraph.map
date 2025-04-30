@@ -1,0 +1,4 @@
+<map id="rtems_debugger_thread_real_priority" name="rtems_debugger_thread_real_priority">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,183,47"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreThread.html#ga3e830e160eb3f7511ae2cab7b11023a8" title="Returns the unmapped real priority of the thread." alt="" coords="231,5,411,47"/>
+</map>

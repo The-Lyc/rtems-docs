@@ -1,0 +1,52 @@
+<map id="_Thread_Set_life_protection" name="_Thread_Set_life_protection">
+<area shape="rect" id="node1" title="Set the thread to life protected." alt="" coords="947,1077,1149,1104"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreAPIMutex.html#ga57829ca494f1d866219c499eadb0ffc9" title="Acquires the specified API mutex." alt="" coords="730,343,865,369"/>
+<area shape="rect" id="node37" href="$group__RTEMSScoreAPIMutex.html#ga64a430ae861d0ce7f63413e651fbe36d" title="Releases the specified API mutex." alt="" coords="722,1052,873,1079"/>
+<area shape="rect" id="node47" href="$group__RTEMSScoreOnce.html#ga0af2868af507faa6429f26441dbea13c" title="Locks the Once_Information_Mutex and returns the thread life state." alt="" coords="748,1103,847,1129"/>
+<area shape="rect" id="node50" href="$group__LibIOEnv.html#ga549907ac3a4bf0a2434bc55dda57b5ef" title="Use the global environment." alt="" coords="696,1153,899,1180"/>
+<area shape="rect" id="node3" href="$drvmgr__lock_8c.html#acb148c15ea3e99a24be59a259de82d1d" title=" " alt="" coords="474,208,633,235"/>
+<area shape="rect" id="node4" href="$libatomic_8c.html#af064ccaa71863202907127fe44e76c43" title=" " alt="" coords="481,259,626,285"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreAllocatorMutex.html#ga89aa77edce0d5557b1a7e9d9ef7999c8" title=" " alt="" coords="466,1001,641,1028"/>
+<area shape="rect" id="node25" href="$group__RTEMSScoreTOD.html#gaa2df91a104bbb9f17074543979bf0e1c" title="Locks the time of day mutex." alt="" coords="506,452,601,479"/>
+<area shape="rect" id="node29" href="$group__LibIOInternal.html#ga12b4b45fb45758475cfbfa8606c7ae9d" title=" " alt="" coords="489,157,618,184"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreObject.html#ga3978b5150ea104a85bb28db0585ae000" title="Allocates an object." alt="" coords="229,863,368,889"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreObject.html#ga3059733162454cc71ff73288ba9b4dfd" title="Locks the object allocator mutex." alt="" coords="210,913,387,940"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreProtHeap.html#ga76e8188c79871f71f9af86616c6ebc53" title="Allocates an aligned memory area with boundary constraint for the protected heap." alt="" coords="203,1082,394,1123"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreProtHeap.html#gaeafd4fefda9100f0b9484f97f19d1093" title="Extends the protected heap." alt="" coords="207,1148,390,1175"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreProtHeap.html#ga54aae0cfc83e761f71d9219228f614d4" title="Returns information about free blocks for the heap." alt="" coords="219,1199,379,1241"/>
+<area shape="rect" id="node12" href="$group__RTEMSScoreProtHeap.html#ga327ad8c35910aeef2bad64e4ba05bbbf" title="Returns information about used and free blocks for the heap." alt="" coords="219,1265,379,1306"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreProtHeap.html#ga8bdc01fbd6baf99d53c193ebd965b7ad" title="Iterates over all blocks of the heap." alt="" coords="209,1331,389,1357"/>
+<area shape="rect" id="node14" href="$group__ClassicRegionImpl.html#ga6e24cf9c8095bbf5470a5ab6a469415c" title=" " alt="" coords="214,1381,383,1408"/>
+<area shape="rect" id="node15" href="$irq-lock_8c.html#ab75d8a53e54d74ff856b3575fd9b31b3" title=" " alt="" coords="227,579,370,605"/>
+<area shape="rect" id="node16" href="$group__ClassicCache.html#ga49e156faa000460678269e06e183e087" title="Adds a cache coherent memory area to the cache coherent allocator." alt="" coords="214,630,383,671"/>
+<area shape="rect" id="node17" href="$group__ClassicCache.html#ga026115893a08faf480fec18555ce6c26" title="Allocates a memory area of size size bytes from cache coherent memory." alt="" coords="214,695,383,737"/>
+<area shape="rect" id="node18" href="$group__ClassicCache.html#gac7d03457fcfb79a8c7ffe530c91118c9" title="Frees memory allocated by rtems_cache_coherent_allocate()." alt="" coords="197,761,400,788"/>
+<area shape="rect" id="node19" href="$rtems__heap__greedy_8c.html#aba5ba5020cadde776ad76aff68db5563" title="Greedy allocate all blocks except the largest free block." alt="" coords="193,1433,404,1474"/>
+<area shape="rect" id="node20" href="$rtems__heap__greedy_8c.html#abcd363b410e8f0c2f8fce2e220079f8a" title="Frees space of a greedy allocation." alt="" coords="207,1499,391,1525"/>
+<area shape="rect" id="node21" href="$group__libcsupport.html#ga89d650cbacc4217c00298014c7bfb723" title="Tasks a snapshot of the resource usage of the system." alt="" coords="187,812,411,839"/>
+<area shape="rect" id="node22" href="$rtl-alloc-heap_8h.html#a5725b252e21bd77ce9fe5a026c1b886f" title=" " alt="" coords="219,1549,378,1576"/>
+<area shape="rect" id="node23" href="$group__ClassicRTEMSWorkspace.html#ga631bbb4b9c5dab3b7da64412e1a19c16" title="Greedy allocate all blocks except the largest free block." alt="" coords="195,965,402,1006"/>
+<area shape="rect" id="node24" href="$group__ClassicRTEMSWorkspace.html#gaaf063f7071bd9b97fca4fabfe7cd1166" title="Frees space of a greedy allocation." alt="" coords="187,1031,410,1057"/>
+<area shape="rect" id="node7" href="$group__ClassicBarrierImpl.html#gad929c5e3d1b4a3c1343769a04d9a14ac" title="_Barrier_Allocate" alt="" coords="5,863,139,889"/>
+<area shape="rect" id="node26" href="$group__RTEMSScoreTOD.html#ga672f574f652f79e2c365869a8c7b7895" title="Adjusts the Time of Time." alt="" coords="246,427,351,453"/>
+<area shape="rect" id="node27" href="$group__RTEMSScoreTODHooks.html#ga9db96e52b259d049f468578e081605ff" title="Add a TOD Action Hook." alt="" coords="219,528,378,555"/>
+<area shape="rect" id="node28" href="$group__RTEMSScoreTODHooks.html#ga1d70eadc6cc3f1c7766d9fb6b8709e65" title="Remove a TOD Action Hook." alt="" coords="212,477,385,504"/>
+<area shape="rect" id="node30" href="$group__LibIOFSOps.html#ga22adb86bb962a91df5c36619925c3a7b" title="Obtains the IO library mutex." alt="" coords="187,5,410,32"/>
+<area shape="rect" id="node31" href="$group__FileSystemTypesAndMount.html#ga27b530006418803c3888d8bfd1c3949a" title="Iterates over all file system types." alt="" coords="206,309,391,336"/>
+<area shape="rect" id="node32" href="$group__FileSystemTypesAndMount.html#gaac7f1c7fe78f3acc145272809cef62a2" title="Registers a file system type." alt="" coords="203,107,395,133"/>
+<area shape="rect" id="node33" href="$group__FileSystemTypesAndMount.html#ga4e658123f1059ea0684904df0ddb8d67" title="Unregisters a file system type." alt="" coords="195,157,403,184"/>
+<area shape="rect" id="node34" href="$group__LibIOInternal.html#ga2021231771d73c426958cf0bb7400666" title=" " alt="" coords="221,208,376,235"/>
+<area shape="rect" id="node35" href="$group__LibIOInternal.html#gac127d757d9117617d438a18f83eafac8" title=" " alt="" coords="235,56,363,83"/>
+<area shape="rect" id="node36" href="$umask_8c.html#a29eb55ccd23d386835c640026954ac93" title=" " alt="" coords="265,259,332,285"/>
+<area shape="rect" id="node38" href="$drvmgr__lock_8c.html#a3f243d10af31939359ad38243f1e8915" title=" " alt="" coords="467,1052,640,1079"/>
+<area shape="rect" id="node39" href="$libatomic_8c.html#aac939baee314be988479d021544414ca" title=" " alt="" coords="473,1103,633,1129"/>
+<area shape="rect" id="node40" href="$group__RTEMSScoreAllocatorMutex.html#ga15d657c04537c2ad1841adc28b8dd747" title=" " alt="" coords="459,1331,648,1357"/>
+<area shape="rect" id="node44" href="$group__RTEMSScoreTOD.html#ga5fc2b439addee0c1c8372dc4db417c1f" title="Unlocks the time of day mutex." alt="" coords="499,528,608,555"/>
+<area shape="rect" id="node45" href="$group__LibIOInternal.html#gac22d5afbe375148eef15304958bc4cec" title=" " alt="" coords="481,309,626,336"/>
+<area shape="rect" id="node41" href="$group__RTEMSScoreObject.html#ga41a6751fdfbe5adc5f9cb5d12cc8a214" title="Unlocks the object allocator mutex." alt="" coords="227,1601,370,1642"/>
+<area shape="rect" id="node42" href="$group__ClassicRegionImpl.html#gad444e14f7e98c6e3bad390d9a5a91e6b" title=" " alt="" coords="235,1667,362,1693"/>
+<area shape="rect" id="node43" href="$irq-lock_8c.html#ac03ee575b40103f0977a23845fca158b" title=" " alt="" coords="219,1717,378,1744"/>
+<area shape="rect" id="node46" href="$group__LibIOFSOps.html#ga574786e949fa2835878995fe9c16db6c" title="Releases the IO library mutex." alt="" coords="205,361,393,402"/>
+<area shape="rect" id="node48" href="$group__RTEMSScoreOnce.html#ga2db8aad33d5d118be8a81b4b32caea85" title="Reacts according to the state of once_state." alt="" coords="522,1575,585,1601"/>
+<area shape="rect" id="node49" href="$pthreadonce_8c.html#a196103ac97710dad7a93fd6c188cc999" title=" " alt="" coords="243,1768,354,1795"/>
+</map>

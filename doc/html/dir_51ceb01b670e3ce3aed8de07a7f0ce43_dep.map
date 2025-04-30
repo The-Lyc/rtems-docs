@@ -1,0 +1,16 @@
+<map id="bsps/powerpc/beatnik/net/if_gfe" name="bsps/powerpc/beatnik/net/if_gfe">
+<area shape="rect" id="node1" href="dir_51ceb01b670e3ce3aed8de07a7f0ce43.html" title="if_gfe" alt="" coords="81,52,153,100"/>
+<area shape="rect" id="node2" href="dir_e9b83549a1cc11d5fbe2868d2a2947ea.html" title="include" alt="" coords="33,148,105,196"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000848_000185.html" title="2" alt="" coords="92,128,102,143"/>
+<area shape="rect" id="node3" href="dir_07fdfa386f03ea619f7ea83f2bc2ebad.html" title="include" alt="" coords="5,244,77,292"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000848_000304.html" title="1" alt="" coords="26,216,35,231"/>
+<area shape="rect" id="node4" href="dir_47e098d7946b19c20a21dd94d5e2bc77.html" title="porting" alt="" coords="129,148,201,196"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000848_000850.html" title="2" alt="" coords="148,121,157,135"/>
+<area shape="rect" id="node5" href="dir_cd198e36225ba3f41de97552050ac017.html" title="cpukit" alt="" coords="104,340,176,388"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000848_000080.html" title="1" alt="" coords="172,323,182,338"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000185_000304.html" title="4" alt="" coords="57,222,66,236"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000185_000080.html" title="9" alt="" coords="128,312,138,327"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000304_000080.html" title="23" alt="" coords="100,314,117,329"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000850_000080.html" title="6" alt="" coords="149,316,159,330"/>
+<area shape="rect" id="clust1" href="dir_1878bf9be4890b768183101bace9614d.html" title="net" alt="" coords="71,16,164,111"/>
+</map>

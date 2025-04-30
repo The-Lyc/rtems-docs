@@ -1,0 +1,4 @@
+<map id="MemManage_Handler" name="MemManage_Handler">
+<area shape="rect" id="node1" title="Default MemManage interrupt handler." alt="" coords="5,5,171,32"/>
+<area shape="rect" id="node2" href="$exceptions_8c.html#ac7cc3ff2a1e09366983fd1054d86ff67" title="This function back trace the stack to give exact address where fault happened." alt="" coords="219,5,325,32"/>
+</map>

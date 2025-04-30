@@ -1,0 +1,10 @@
+<map id="rtems_record_dump_base64_zlib_context" name="rtems_record_dump_base64_zlib_context">
+<area shape="rect" id="node1" title="The context for record dumps with zlib compression and base64 encoding." alt="" coords="5,303,212,344"/>
+<area shape="rect" id="node2" href="$structz__stream__s.html" title=" " alt="" coords="142,184,238,211"/>
+<area shape="rect" id="node3" href="$structinternal__state.html" title=" " alt="" coords="267,310,379,337"/>
+<area shape="rect" id="node4" href="$structgz__header__s.html" title=" " alt="" coords="267,184,369,211"/>
+<area shape="rect" id="node5" href="$structtree__desc__s.html" title=" " alt="" coords="394,184,493,211"/>
+<area shape="rect" id="node6" href="$structstatic__tree__desc__s.html" title=" " alt="" coords="479,95,621,121"/>
+<area shape="rect" id="node7" href="$structct__data.html" title=" " alt="" coords="379,5,449,32"/>
+<area shape="rect" id="node8" href="$structct__data__s.html" title=" " alt="" coords="517,184,601,211"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="bsps/i386/include/bsp/realmode_int.h" name="bsps/i386/include/bsp/realmode_int.h">
+<area shape="rect" id="node1" title="Definitioins supporting real mode interrupt calls." alt="" coords="112,5,275,47"/>
+<area shape="rect" id="node2" href="$fb__vesa__rm_8c.html" title="FB driver for graphic hardware compatible with VESA Bios Extension Real mode interface utilized Teste..." alt="" coords="5,95,187,136"/>
+<area shape="rect" id="node3" href="$realmode__int_8c.html" title="Real mode interrupt call implementation." alt="" coords="211,95,373,136"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="rtems_counter_nanoseconds_to_ticks" name="rtems_counter_nanoseconds_to_ticks">
+<area shape="rect" id="node1" title="Converts nanoseconds into counter ticks." alt="" coords="348,5,556,47"/>
+<area shape="rect" id="node2" href="$group__ClassicCounter.html#gaa8fddf3e4ad1abb10170e61db04525ae" title="Busy wait for some nanoseconds." alt="" coords="141,5,300,47"/>
+<area shape="rect" id="node3" href="$no__cpu_2no__bsp_2mpci_2lock_8c.html#a87efd7432a8230eafbdb22158edb5471" title=" " alt="" coords="5,13,93,39"/>
+</map>

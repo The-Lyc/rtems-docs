@@ -1,0 +1,5 @@
+<map id="bsps/i386/pc386/include/edid.h" name="bsps/i386/pc386/include/edid.h">
+<area shape="rect" id="node1" title="VESA EDID definitions." alt="" coords="7,5,185,47"/>
+<area shape="rect" id="node2" href="$fb__vesa_8h.html" title="Headers specific for framebuffer drivers utilizing VESA VBE." alt="" coords="7,95,185,136"/>
+<area shape="rect" id="node3" href="$fb__vesa__rm_8c.html" title="FB driver for graphic hardware compatible with VESA Bios Extension Real mode interface utilized Teste..." alt="" coords="5,184,187,225"/>
+</map>

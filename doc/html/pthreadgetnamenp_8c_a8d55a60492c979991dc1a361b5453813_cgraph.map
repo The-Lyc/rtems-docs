@@ -1,0 +1,21 @@
+<map id="pthread_getname_np" name="pthread_getname_np">
+<area shape="rect" id="node1" title=" " alt="" coords="5,145,165,172"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreObject.html#ga3059733162454cc71ff73288ba9b4dfd" title="Locks the object allocator mutex." alt="" coords="213,28,391,55"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreObject.html#ga41a6751fdfbe5adc5f9cb5d12cc8a214" title="Unlocks the object allocator mutex." alt="" coords="231,79,373,121"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreThread.html#gadc33b4b428dfc134ae1622441433b1a1" title="Gets a thread by its identifier." alt="" coords="250,145,354,172"/>
+<area shape="rect" id="node18" href="$group__RTEMSScoreThread.html#ga590ea63fba22ecee184711c5d2a98227" title="Gets the name of the thread." alt="" coords="228,196,376,223"/>
+<area shape="rect" id="node19" href="$pppd_8h.html#a64bc119cf084d1ecfd95098994597f12" title=" " alt="" coords="269,247,335,273"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreAllocatorMutex.html#ga89aa77edce0d5557b1a7e9d9ef7999c8" title=" " alt="" coords="446,28,621,55"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreAPIMutex.html#ga57829ca494f1d866219c499eadb0ffc9" title="Acquires the specified API mutex." alt="" coords="690,28,825,55"/>
+<area shape="rect" id="node5" href="$mutex_8c.html#a2960aef6016ac8937f24108f9cdeebd0" title=" " alt="" coords="891,5,1085,32"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreThread.html#gad5aaea7af4482aebd880403fb9c238af" title="Set the thread to life protected." alt="" coords="887,56,1089,83"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreAllocatorMutex.html#ga15d657c04537c2ad1841adc28b8dd747" title=" " alt="" coords="439,83,628,109"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreAPIMutex.html#ga64a430ae861d0ce7f63413e651fbe36d" title="Releases the specified API mutex." alt="" coords="682,83,833,109"/>
+<area shape="rect" id="node10" href="$mutex_8c.html#adecd7211e7a1a5035841212574f45b31" title=" " alt="" coords="890,107,1086,133"/>
+<area shape="rect" id="node12" href="$group__RTEMSScoreObject.html#gaba59419fd15c39c93eedbaba5788de05" title="Checks if two object IDs are equal." alt="" coords="445,133,621,160"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreObject.html#gaccc5682133e4f65b8cb374eab9be2c9d" title="Maps the specified object identifier to the associated local object control block." alt="" coords="479,184,587,211"/>
+<area shape="rect" id="node15" href="$group__RTEMSScoreThread.html#ga291d97d78d5460ffa5539964e417bb49" title="Gets object information for the object id." alt="" coords="454,235,613,277"/>
+<area shape="rect" id="node14" href="$group__RTEMSScoreObject.html#ga22cdf45f285840b7728b06197a7f4627" title="Returns the index portion of the ID." alt="" coords="682,184,833,211"/>
+<area shape="rect" id="node16" href="$group__RTEMSScoreObject.html#ga907a0412d7c657fa047641444090fe7b" title="Returns the API portion of the ID." alt="" coords="689,239,825,265"/>
+<area shape="rect" id="node17" href="$group__RTEMSScoreObject.html#ga8014a70deeb6819f7e2ca50efd13e1be" title="Checks if the api is valid." alt="" coords="676,289,839,316"/>
+</map>

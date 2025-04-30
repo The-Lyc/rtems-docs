@@ -1,0 +1,52 @@
+<map id="rtems_interrupt_disable" name="rtems_interrupt_disable">
+<area shape="rect" id="node1" title=" " alt="" coords="892,791,1069,817"/>
+<area shape="rect" id="node2" href="$m68k_2mvme167_2console_2console_8c.html#a4babd07f78f3f1a5bf1ea099e2d770fb" title=" " alt="" coords="670,5,813,32"/>
+<area shape="rect" id="node4" href="$shared_2interrupt_8c.html#aadaa1740ca07de95cb1cf5ec45f53cbd" title=" " alt="" coords="661,56,821,83"/>
+<area shape="rect" id="node5" href="$shared_2interrupt_8c.html#ad54f83f4ae2b5f293957658cde71f955" title=" " alt="" coords="650,107,833,133"/>
+<area shape="rect" id="node6" href="$group__RTEMSBSPsPowerPCMVME3100.html#ga667c898eef41dd6746bed636447fecc2" title=" " alt="" coords="682,157,801,184"/>
+<area shape="rect" id="node10" href="$group__Virtex4MMU.html#ga3594738f1db908303d69ffceae99177a" title=" " alt="" coords="683,259,800,285"/>
+<area shape="rect" id="node12" href="$group__Virtex5MMU.html#gab175218f979b05888e9058db2dabbbf5" title=" " alt="" coords="667,309,816,336"/>
+<area shape="rect" id="node13" href="$group__RTEMSBSPsPowerPCMVME3100.html#gac132ddeabd0ae81d0507b853c86a5450" title=" " alt="" coords="680,208,803,235"/>
+<area shape="rect" id="node16" href="$mvme3100_2net_2tsec_8c.html#a647c9d72607366419264c2f057f156b9" title=" " alt="" coords="652,360,831,387"/>
+<area shape="rect" id="node18" href="$mvme3100_2net_2tsec_8c.html#a39a191b65894f5b8e107659d79b91b0a" title=" " alt="" coords="640,411,843,437"/>
+<area shape="rect" id="node19" href="$mvme3100_2net_2tsec_8c.html#aabd86a8d2779961c162b3d5dc558cb9d" title=" " alt="" coords="658,461,825,488"/>
+<area shape="rect" id="node20" href="$mvme3100_2net_2tsec_8c.html#afe8b82525f9d9f33bef29e55042cfaf3" title=" " alt="" coords="642,512,841,539"/>
+<area shape="rect" id="node22" href="$powerpc_2shared_2console_2uart_8c.html#afb6277196b1bc1ec095ba621d8a694ec" title=" " alt="" coords="654,563,829,589"/>
+<area shape="rect" id="node24" href="$powerpc_2shared_2console_2uart_8c.html#a9d924be1cf40a6d6aeda7a2ea7b1b0f2" title=" " alt="" coords="655,613,828,640"/>
+<area shape="rect" id="node25" href="$gt__timer_8c.html#aa2ff8948866bc07b42e47baa11d08fc5" title=" " alt="" coords="656,664,827,691"/>
+<area shape="rect" id="node26" href="$gt__timer_8c.html#a49d6dc7ec527704269b9d6cbf831bd21" title=" " alt="" coords="657,715,825,741"/>
+<area shape="rect" id="node27" href="$clock-ppc-dec_8c.html#a88512111a13aad624235a2ef72cce740" title=" " alt="" coords="705,765,777,792"/>
+<area shape="rect" id="node28" href="$tqm8xx_2clock_2p__clock_8c.html#abf3ecafa5130885ea4ff413ab9028ede" title=" " alt="" coords="704,816,779,843"/>
+<area shape="rect" id="node29" href="$mpc8260ads_2start_2cp_8c.html#a15de87c44fce7ffe0208a516cd292c3f" title=" " alt="" coords="654,867,829,893"/>
+<area shape="rect" id="node30" href="$mc68681__p_8h.html#ac7c61689f8684889b921b7ccb4c23e82" title=" " alt="" coords="652,917,831,944"/>
+<area shape="rect" id="node31" href="$mc68681__p_8h.html#a08fa7e6cc8a76bf06f1c756188f014d3" title=" " alt="" coords="640,968,843,995"/>
+<area shape="rect" id="node32" href="$openpic_8c.html#a9dd0dace36b5224144074dcee5425032" title=" " alt="" coords="667,1019,815,1045"/>
+<area shape="rect" id="node34" href="$openpic_8c.html#ac219167859bc048b90746f63f5cb47d6" title=" " alt="" coords="666,1070,817,1111"/>
+<area shape="rect" id="node35" href="$e500-mmu_8c.html#a4e0516ae81c53cd9e85d06260d42d1c9" title=" " alt="" coords="678,1136,805,1163"/>
+<area shape="rect" id="node36" href="$m68k_2mvme147s_2mpci_2lock_8c.html#a87efd7432a8230eafbdb22158edb5471" title=" " alt="" coords="697,1187,785,1213"/>
+<area shape="rect" id="node37" href="$pinmux_8c.html#a3f1fcae6177e90127dd1af7e9c93efe4" title="configure one pin according to its function specification" alt="" coords="639,1237,844,1264"/>
+<area shape="rect" id="node38" href="$vmeTsi148_8c.html#a9861ae02ca750b10a9c00f5fd1f1a66f" title=" " alt="" coords="656,1288,827,1315"/>
+<area shape="rect" id="node40" href="$z85c30__p_8h.html#a9d85a709c1455bde9d234dad500dd3c6" title=" " alt="" coords="667,1339,816,1365"/>
+<area shape="rect" id="node42" href="$z85c30__p_8h.html#a1afdcb5a1b958bab6e0bee2031f0ac0f" title=" " alt="" coords="668,1440,815,1467"/>
+<area shape="rect" id="node43" href="$z85c30__p_8h.html#a354a9ce80bcb1f55d407eb8c34a3cb8b" title=" " alt="" coords="398,1415,586,1441"/>
+<area shape="rect" id="node44" href="$z85c30__p_8h.html#a9b0e23526c02c7c45ef0ee7174e364e9" title=" " alt="" coords="664,1491,819,1517"/>
+<area shape="rect" id="node46" href="$z85c30__p_8h.html#a9b960cb99f987d26f85e4339212d906a" title=" " alt="" coords="666,1541,817,1568"/>
+<area shape="rect" id="node50" href="$z85c30__p_8h.html#af363420d920e0ed18f53833f626730d1" title=" " alt="" coords="659,1592,824,1619"/>
+<area shape="rect" id="node3" href="$m68k_2mvme167_2console_2console_8c.html#a3f4320ff384009c3bdfa6ec4f1b79501" title="Console open entry point." alt="" coords="437,5,547,32"/>
+<area shape="rect" id="node7" href="$group__RTEMSBSPsPowerPCMVME3100.html#gada286eb2772a89356c2653b57c9c21c2" title=" " alt="" coords="441,56,543,83"/>
+<area shape="rect" id="node8" href="$group__RTEMSBSPsPowerPCMVME3100.html#gae95f4b41cc85c5acb18cbfa5813756d1" title=" " alt="" coords="395,107,589,133"/>
+<area shape="rect" id="node9" href="$mvme3100_2flash_2flashcfg_8c.html#a888e4b94906af97d7dfb2545d5bd2e5a" title=" " alt="" coords="453,157,531,184"/>
+<area shape="rect" id="node11" href="$group__Virtex5MMU.html#gaf6c21bfb5788dfa37945e0101eb2e382" title=" " alt="" coords="413,309,571,336"/>
+<area shape="rect" id="node14" href="$group__RTEMSBSPsPowerPCMVME3100.html#ga7d573836287a4f93b2947af0e6ee1022" title=" " alt="" coords="393,208,591,235"/>
+<area shape="rect" id="node15" href="$group__RTEMSBSPsPowerPCMVME3100.html#ga0cf0fc8a087b9a012f11a511365eaa24" title=" " alt="" coords="439,259,545,285"/>
+<area shape="rect" id="node17" href="$mvme3100_2net_2tsec_8c.html#aa587ca6da02f701fae82682257dca49f" title=" " alt="" coords="421,360,563,387"/>
+<area shape="rect" id="node21" href="$mvme3100_2net_2tsec_8c.html#ad826937c5273feb4dbebd4a0c9765e4b" title=" " alt="" coords="411,512,573,539"/>
+<area shape="rect" id="node23" href="$powerpc_2shared_2console_2console_8c.html#a3ecfcbb4d683d7d77476039aba0f94db" title="Console IO control entry point." alt="" coords="430,588,554,615"/>
+<area shape="rect" id="node33" href="$openpic__i8259__irq_8c.html#a9429b7dcac694a31f9bf8c617a1d2f10" title=" " alt="" coords="408,1019,576,1045"/>
+<area shape="rect" id="node39" href="$vmeTsi148_8c.html#a0c8fca436c89e0d998b14f64790ab042" title=" " alt="" coords="415,1288,569,1315"/>
+<area shape="rect" id="node41" href="$z85c30__p_8h.html#a0c8e79328371145c49d5f657b55213cc" title=" " alt="" coords="439,1339,545,1365"/>
+<area shape="rect" id="node45" href="$z85c30__p_8h.html#a14741899057be98419053e43d6902c26" title=" " alt="" coords="437,1491,547,1517"/>
+<area shape="rect" id="node47" href="$z85c30__p_8h.html#a13bae38e32df4c283d7752d04d35abf0" title=" " alt="" coords="5,1567,207,1593"/>
+<area shape="rect" id="node48" href="$z85c30__p_8h.html#a38e763c0d749dc6c5a598a5e19e8d63c" title=" " alt="" coords="429,1592,555,1619"/>
+<area shape="rect" id="node49" href="$z85c30__p_8h.html#aedf7b4ff4661ad2b3c2752b3f306a06b" title=" " alt="" coords="255,1592,345,1619"/>
+</map>

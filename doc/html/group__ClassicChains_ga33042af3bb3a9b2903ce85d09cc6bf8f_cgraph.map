@@ -1,0 +1,8 @@
+<map id="rtems_chain_node_count_unprotected" name="rtems_chain_node_count_unprotected">
+<area shape="rect" id="node1" title="Returns the node count of the chain." alt="" coords="5,49,189,90"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreChain.html#ga4daa9900dfef1496e71d41a5377ed645" title="Returns the node count of the chain." alt="" coords="237,56,472,83"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreChain.html#ga8b2c850d4d09d8db80d11e3199bce386" title="Returns pointer to immutable chain&#39;s first node." alt="" coords="522,5,698,32"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreChain.html#ga669010f14af06c71f06bcd0750e9c13b" title="Returns pointer to the immutable next node from this node." alt="" coords="520,56,700,83"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreChain.html#gaa2f09e6d639b1bc5a27451eb119b6e33" title="Returns pointer to immutable chain tail." alt="" coords="524,107,696,133"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreChain.html#gac08944db6f0428125d3b0d5a1c65b740" title="Returns pointer to immutable chain head." alt="" coords="748,5,931,32"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="ns16550_enable_interrupts" name="ns16550_enable_interrupts">
+<area shape="rect" id="node1" title=" " alt="" coords="464,81,663,108"/>
+<area shape="rect" id="node2" href="$ns16550_8c.html#a8420b5b67271bdeebb1d2221e586d0b1" title=" " alt="" coords="258,5,377,32"/>
+<area shape="rect" id="node3" href="$ns16550_8c.html#aef1853592fbc04663b030e1fd810c0d8" title=" " alt="" coords="265,56,370,83"/>
+<area shape="rect" id="node4" href="$ns16550-context_8c.html#a399e94659149b71bbcd51b54b2e2a8a1" title=" " alt="" coords="257,107,378,133"/>
+<area shape="rect" id="node8" href="$ns16550_8c.html#a65b538bd6105f1257bf250d34f245b73" title="Transmits up to len characters from buf." alt="" coords="219,157,416,184"/>
+<area shape="rect" id="node5" href="$group__RTEMSBSPsARMLPC24XX.html#gab2205a0ac20f2d085f05f7d53ec2f754" title=" " alt="" coords="5,56,171,83"/>
+<area shape="rect" id="node6" href="$group__RTEMSBSPsARMLPC24XX.html#ga699dc0b86c047ef05292bb159d36ab63" title=" " alt="" coords="5,107,171,133"/>
+<area shape="rect" id="node7" href="$group__RTEMSBSPsARMLPC24XX.html#ga12a3ab98c362a1fcdf0bc1e95d077f76" title=" " alt="" coords="5,157,171,184"/>
+</map>

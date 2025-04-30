@@ -1,0 +1,10 @@
+<map id="bsps/i386/pc386/include/rtems/kd.h" name="bsps/i386/pc386/include/rtems/kd.h">
+<area shape="rect" id="node1" title="KD definitions." alt="" coords="269,5,448,47"/>
+<area shape="rect" id="node2" href="$defkeymap_8c.html" title=" " alt="" coords="5,184,187,225"/>
+<area shape="rect" id="node3" href="$keyboard_8c.html" title=" " alt="" coords="211,184,392,225"/>
+<area shape="rect" id="node4" href="$vt_8c.html" title=" " alt="" coords="417,191,626,218"/>
+<area shape="rect" id="node5" href="$i386_2pc386_2include_2rtems_2keyboard_8h.html" title="Keyboard definitions." alt="" coords="432,95,611,136"/>
+<area shape="rect" id="node6" href="$kbd__parser_8c.html" title=" " alt="" coords="651,184,832,225"/>
+<area shape="rect" id="node7" href="$pc__keyb_8c.html" title=" " alt="" coords="856,184,1037,225"/>
+<area shape="rect" id="node8" href="$vgacons_8c.html" title=" " alt="" coords="1061,184,1243,225"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="LatticeMicro32 (lm32)" name="LatticeMicro32 (lm32)">
+<area shape="rect" id="node1" title="LatticeMicro32 Board Support Packages." alt="" coords="232,55,397,80"/>
+<area shape="rect" id="node2" href="$group__RTEMSBSPsLM32Milkymist.html" title="Milkymist Board Support Package." alt="" coords="445,5,532,31"/>
+<area shape="rect" id="node3" href="$group__RTEMSBSPsLM32Shared.html" title="Shared Support for LatticeMicro32 Board Support Packages." alt="" coords="455,55,522,80"/>
+<area shape="rect" id="node5" href="$group__RTEMSBSPsLM32EVR.html" title="LM32 EVR Board Support Package." alt="" coords="445,104,532,129"/>
+<area shape="rect" id="node4" href="$group__RTEMSBSPs.html" title="Board Support Packages and Support Modules (BSPs)." alt="" coords="5,55,184,80"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="PowerPC" name="PowerPC">
+<area shape="rect" id="node1" href="$group__RTEMSBSPsPowerPCVirtex.html" title="Xilinx Virtex Board Support Package." alt="" coords="413,5,515,31"/>
+<area shape="rect" id="node2" href="$group__RTEMSBSPsPowerPCMPC8260ADS.html" title="NXP MPC8260ADS Board Support Package." alt="" coords="393,55,535,80"/>
+<area shape="rect" id="node3" href="$group__RTEMSBSPsPowerPCMPC55XX.html" title="NXP MPC55XX and MPC56XX Board Support Package." alt="" coords="359,104,569,129"/>
+<area shape="rect" id="node4" href="$group__RTEMSBSPsPowerPCSS555.html" title="SS555 Board Support Package." alt="" coords="433,153,495,179"/>
+<area shape="rect" id="node5" href="$group__RTEMSBSPsPowerPCTQM8XX.html" title="TQM8XX Board Support Package." alt="" coords="425,203,503,228"/>
+<area shape="rect" id="node6" href="$group__RTEMSBSPsPowerPCMotorola.html" title="Motorola Board Support Package." alt="" coords="424,252,504,277"/>
+<area shape="rect" id="node7" href="$group__RTEMSBSPsPowerPCBeatnik.html" title="Beatnik (MVME5500 and MVME6100) Board Support Package." alt="" coords="373,302,555,342"/>
+<area shape="rect" id="node8" href="$group__RTEMSBSPsPowerPCMVME5500.html" title="MVME5500 Board Support Package." alt="" coords="417,367,511,392"/>
+<area shape="rect" id="node9" href="$group__RTEMSBSPsPowerPCVirtex4.html" title="Xilinx Virtex&#45;4 Board Support Package." alt="" coords="407,416,521,441"/>
+<area shape="rect" id="node10" href="$group__RTEMSBSPsPowerPCVirtex5.html" title="Xilinx Virtex&#45;5 Board Support Package." alt="" coords="407,465,521,491"/>
+<area shape="rect" id="node11" href="$group__RTEMSBSPsPowerPCGen5200.html" title="NXP MPC5200 Board Support Package." alt="" coords="407,515,521,540"/>
+<area shape="rect" id="node12" href="$group__RTEMSBSPsPowerPCT32MPPC.html" title="Lauterbach Trace32 Board Support Package." alt="" coords="425,564,503,589"/>
+<area shape="rect" id="node13" href="$group__RTEMSBSPsPowerPCMVME3100.html" title="MVME3100 Board Support Package." alt="" coords="417,613,511,639"/>
+<area shape="rect" id="node14" title="PowerPC Board Support Packages." alt="" coords="232,465,311,491"/>
+<area shape="rect" id="node15" href="$group__RTEMSBSPsPowerPCPSIM.html" title="PSIM Board Support Package." alt="" coords="437,663,491,688"/>
+<area shape="rect" id="node16" href="$group__RTEMSBSPsPowerPCHaleakala.html" title="Haleakala Board Support Package." alt="" coords="421,712,507,737"/>
+<area shape="rect" id="node17" href="$group__RTEMSBSPsPowerPCGen83XX.html" title="NXP MPC83XX Board Support Package." alt="" coords="406,761,522,787"/>
+<area shape="rect" id="node18" href="$group__RTEMSBSPsPowerPCQorIQ.html" title="NXP QorIQ Board Support Package." alt="" coords="419,811,509,836"/>
+<area shape="rect" id="node20" href="$group__RTEMSBSPsPowerPCShared.html" title="Shared Support for PowerPC Board Support Packages." alt="" coords="431,860,497,885"/>
+<area shape="rect" id="node21" href="$group__RTEMSBSPsPowerPCQemu.html" title="Qemu Board Support Package." alt="" coords="433,909,495,935"/>
+<area shape="rect" id="node19" href="$group__RTEMSBSPs.html" title="Board Support Packages and Support Modules (BSPs)." alt="" coords="5,465,184,491"/>
+</map>

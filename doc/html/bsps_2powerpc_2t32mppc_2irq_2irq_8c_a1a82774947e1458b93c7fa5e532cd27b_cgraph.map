@@ -1,0 +1,6 @@
+<map id="bsp_interrupt_dispatch" name="bsp_interrupt_dispatch">
+<area shape="rect" id="node1" title=" " alt="" coords="5,46,176,73"/>
+<area shape="rect" id="node2" href="$group__bsp__interrupt.html#ga3f1754ddeb359b41b89f90ad7fd81d58" title="Default interrupt handler." alt="" coords="227,5,391,47"/>
+<area shape="rect" id="node3" href="$group__RTEMSBSPsPowerPCT32MPPC.html#ga8d9e291a8903d70da33b33150d5025e0" title=" " alt="" coords="224,71,393,112"/>
+<area shape="rect" id="node4" href="$mpc55xxevb_2clock_2clock-config_8c.html#ac430ca6732bedd57d4bd97f10a57702f" title=" " alt="" coords="441,78,523,105"/>
+</map>

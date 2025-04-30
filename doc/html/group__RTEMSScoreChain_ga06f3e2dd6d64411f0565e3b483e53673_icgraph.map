@@ -1,0 +1,52 @@
+<map id="_Chain_Tail" name="_Chain_Tail">
+<area shape="rect" id="node1" title="Returns pointer to chain tail." alt="" coords="1023,1500,1117,1527"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreChain.html#gaa7011c6fe160c457a0d100e41ec3fffe" title="Appends a node (unprotected)." alt="" coords="768,395,975,421"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreChain.html#gafab713cc67440572b20e0d853163d626" title="Initializes the chain iterator." alt="" coords="525,5,709,32"/>
+<area shape="rect" id="node19" href="$group__RTEMSScoreChain.html#gaa0d69418a78fee86b718cd78a8566a91" title="Gets the first node and checks if the chain is empty afterwards (unprotected)." alt="" coords="781,1434,961,1475"/>
+<area shape="rect" id="node20" href="$group__RTEMSScoreChain.html#ga59b0dbda01fc9f0675bef62722627764" title="Initializes a chain header." alt="" coords="807,1500,936,1527"/>
+<area shape="rect" id="node31" href="$group__RTEMSScoreChain.html#ga322cf50ff1974dab1ce8d60ec94ef5f8" title="Initializes this chain as empty." alt="" coords="782,1125,961,1152"/>
+<area shape="rect" id="node42" href="$group__RTEMSScoreChain.html#ga0517456a542eb18908e2aab467e358fb" title="Initializes this chain to contain exactly the specified node." alt="" coords="791,1617,951,1644"/>
+<area shape="rect" id="node44" href="$group__RTEMSScoreChain.html#gab41311aebb8f4e50ff8e75516d5245e6" title="Updates all iterators present in the chain iterator registry in case of a node extraction." alt="" coords="782,1669,961,1710"/>
+<area shape="rect" id="node45" href="$group__RTEMSScoreObject.html#ga968b850454008bc4e68ab83c2f033282" title="Initializes the specified objects information." alt="" coords="801,1551,942,1593"/>
+<area shape="rect" id="node46" href="$group__RTEMSScoreSchedulerDPS.html#ga8d8a162be45d44eb572a6d2a243249cb" title="Returns a pointer to the first node." alt="" coords="797,931,946,973"/>
+<area shape="rect" id="node48" href="$group__ClassicChains.html#gabf61205eb68029cabb6e06322454af34" title="Return pointer to Chain Tail." alt="" coords="806,1735,937,1761"/>
+<area shape="rect" id="node49" href="$show__bdbuf_8c.html#a2d008c33e405d12cee7f060dd54f2c87" title=" " alt="" coords="780,1799,963,1841"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreChain.html#ga43e0c764eb41b45042846bb8b1ffbdc4" title="Appends a node on the end of a chain if the node is in the off chain state (unprotected)." alt="" coords="530,57,703,98"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreChain.html#ga4cc284fe01b5b460db37b23f230599af" title="Appends a node and checks if the chain was empty before (unprotected)." alt="" coords="516,122,717,163"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreMessageQueue.html#ga72417493b43560bd9513c4aaba4fbe45" title="Frees a message buffer to inactive message buffer chain." alt="" coords="527,187,706,229"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreMessageQueue.html#ga04e5a29d51194c8151bdaf94d2694a63" title="Inserts a message into the message queue." alt="" coords="527,253,706,294"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreObject.html#ga080ce791a8c319fbad853973fa53cf58" title="Free the object." alt="" coords="539,319,695,345"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreObject.html#gae07a394b03c4cb77414045f2fca32e62" title="Free the object." alt="" coords="525,369,708,396"/>
+<area shape="rect" id="node10" href="$group__ClassicPartImpl.html#gad98ad79ca7f14ebf7fb884590494964c" title="Frees the_buffer to the_partition." alt="" coords="535,420,698,447"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreSchedulerDPS.html#ga6f9c3b0a25b20c2986d5936486e027fd" title="Enqueues a node on the specified ready queue." alt="" coords="527,706,707,747"/>
+<area shape="rect" id="node14" href="$group__RTEMSScoreSchedulerDPS.html#ga5a3959d17cc9aa59b20ef5622e5de88f" title="Performs the yield of a thread." alt="" coords="296,585,443,626"/>
+<area shape="rect" id="node15" href="$schedulersmp_8c.html#acb5d40d69712797b4c28e6c6a96a8679" title=" " alt="" coords="540,589,693,630"/>
+<area shape="rect" id="node16" href="$group__RTEMSScoreTODHooks.html#ga9db96e52b259d049f468578e081605ff" title="Add a TOD Action Hook." alt="" coords="537,655,696,681"/>
+<area shape="rect" id="node17" href="$group__ClassicChains.html#ga8f97f792051585d8bd91d0ca0d302f96" title="Append a node on the end of a chain (unprotected)." alt="" coords="538,471,695,513"/>
+<area shape="rect" id="node12" href="$group__RTEMSScoreSchedulerDPS.html#ga2a24da77012650161d32bed57eb5c128" title="Unblocks the thread." alt="" coords="296,706,443,747"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreSchedulerDPS.html#gaa9250624cb136b5fd42bdfe060a2eb5e" title="Updates the priority of the node." alt="" coords="296,771,443,813"/>
+<area shape="rect" id="node18" href="$group__FileSystemTypesAndMount.html#gaac7f1c7fe78f3acc145272809cef62a2" title="Registers a file system type." alt="" coords="273,479,465,505"/>
+<area shape="rect" id="node21" href="$group__RTEMSScoreFreechain.html#ga6d2f5e4f088a9c17928f2fa925a1d4f6" title="Extend the freechain with new nodes." alt="" coords="545,1617,689,1644"/>
+<area shape="rect" id="node23" href="$group__RTEMSScoreFreechain.html#gae257ce6dd277d9bfe7af999b1dd3c274" title="Initializes a freechain." alt="" coords="539,1668,694,1695"/>
+<area shape="rect" id="node26" href="$group__RTEMSScoreObjectMP.html#ga1d2257e8720ed52a8f851d768a0facfd" title="Intializes the inactive global object chain based on the maximum number of global objects configured." alt="" coords="535,1551,698,1593"/>
+<area shape="rect" id="node27" href="$group__ClassicPartImpl.html#ga42fbb5cec48fe5747f314e97adfa36de" title=" " alt="" coords="543,1449,690,1476"/>
+<area shape="rect" id="node29" href="$group__RTEMSScoreThreadMP.html#ga96f0434ad7036721909abeedd0322bba" title="Initialize MP thread handler." alt="" coords="290,1526,449,1567"/>
+<area shape="rect" id="node30" href="$group__ClassicChains.html#ga4867b0d305def0e61d7c8d72216c638a" title="Initialize a chain Header." alt="" coords="534,1399,699,1425"/>
+<area shape="rect" id="node22" href="$group__RTEMSScoreFreechain.html#ga2a213d3f834d14e4dae74f7ff7b9f73d" title="Gets a node from the freechain." alt="" coords="308,1613,431,1640"/>
+<area shape="rect" id="node24" href="$group__RTEMSScoreThread.html#gacd86ef6b0e5fb19ec14d7fe51e3868e2" title="Initializes the thread information." alt="" coords="301,1665,438,1706"/>
+<area shape="rect" id="node25" href="$group__RTEMSScoreThread.html#ga439268e164b067a866d2901085c8c672" title="Initializes thread handler." alt="" coords="5,1588,225,1615"/>
+<area shape="rect" id="node28" href="$group__ClassicPart.html#gaae1e45358170b1de610acdae7f4a8148" title="RTEMS Partition Create." alt="" coords="284,1449,455,1476"/>
+<area shape="rect" id="node32" href="$group__RTEMSScoreChain.html#gacb051f41518e411667b7551aa7b2d1b7" title="Initializes a chain iterator registry." alt="" coords="527,1019,706,1061"/>
+<area shape="rect" id="node33" href="$group__RTEMSScoreMessageQueue.html#gabe86da1ead8e6b01ecf69c94e1de29f2" title="Flushes pending messages." alt="" coords="527,1085,706,1126"/>
+<area shape="rect" id="node35" href="$group__RTEMSScoreSchedulerDPS.html#ga50249c9f6e86f80647058f85f4df62cb" title="Extracts a node from the specified ready queue." alt="" coords="531,837,702,878"/>
+<area shape="rect" id="node36" href="$group__RTEMSScoreSchedulerDPS.html#ga7a379ad8779fd574bbf2644248ba0db9" title="Ready queue initialization." alt="" coords="527,902,707,943"/>
+<area shape="rect" id="node37" href="$group__RTEMSScoreSchedulerSimple.html#ga036369fb427f35c229253a33f82c2939" title="Initializes simple scheduler." alt="" coords="513,968,720,995"/>
+<area shape="rect" id="node38" href="$group__RTEMSScoreThread.html#ga6c6a5ea33a2380faf75952592f7ff8f0" title="Initializes the control chain of the action control." alt="" coords="529,1150,704,1191"/>
+<area shape="rect" id="node39" href="$group__RTEMSScoreThreadQueue.html#gaed8b973ae28379dbf863c01f10c993f3" title="Initializes the thread queue heads." alt="" coords="532,1215,701,1257"/>
+<area shape="rect" id="node40" href="$keycreate_8c.html#af4b7ced8ecff505380fe8216244a3764" title=" " alt="" coords="541,1281,692,1308"/>
+<area shape="rect" id="node41" href="$group__ClassicChains.html#gabcf5131393d65f667c67e88cf646ff99" title="Initialize this chain as empty." alt="" coords="534,1333,699,1374"/>
+<area shape="rect" id="node34" href="$group__ClassicMessageQueue.html#ga8b97ede3b5602d6f5cca6229f96f27ee" title="rtems_message_queue_flush" alt="" coords="283,1085,456,1126"/>
+<area shape="rect" id="node43" href="$group__RTEMSScoreScheduler.html#gafdf8dfa2c90ca2122b995bb6dd42fcda" title="Sets a new scheduler." alt="" coords="556,1769,677,1796"/>
+<area shape="rect" id="node47" href="$group__RTEMSScoreSchedulerDPS.html#ga8b52515687c00a3b3e8a90b0dcd6b749" title="Scheduling decision logic." alt="" coords="543,771,690,813"/>
+<area shape="rect" id="node50" href="$show__bdbuf_8c.html#a50e58e2bdc3d1e361b5cc079227418e2" title=" " alt="" coords="531,1820,703,1847"/>
+</map>

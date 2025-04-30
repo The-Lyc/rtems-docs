@@ -1,0 +1,8 @@
+<map id="cpukit/score/cpu/i386/include/rtems/score/idtr.h" name="cpukit/score/cpu/i386/include/rtems/score/idtr.h">
+<area shape="rect" id="node1" title="Intel I386 Data Structures." alt="" coords="119,5,279,61"/>
+<area shape="rect" id="node2" href="$cpukit_2score_2cpu_2i386_2cpu_8c.html" title="Intel i386 Dependent Source." alt="" coords="27,117,187,158"/>
+<area shape="rect" id="node3" href="$i386_8h.html" title="Intel I386 CPU Dependent Source." alt="" coords="211,109,371,165"/>
+<area shape="rect" id="node4" href="$rtd316_8c.html" title="Driver for RTD316 ISA SCC Board." alt="" coords="5,213,187,255"/>
+<area shape="rect" id="node5" href="$cpukit_2score_2cpu_2i386_2include_2rtems_2asm_8h.html" title="Address the Problems Caused by Incompatible Flavor of Assemblers and Toolsets." alt="" coords="211,213,371,255"/>
+<area shape="rect" id="node6" href="$i386_2include_2rtems_2score_2cpu_8h.html" title="Intel I386 CPU Dependent Source." alt="" coords="395,213,589,255"/>
+</map>

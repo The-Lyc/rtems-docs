@@ -1,0 +1,5 @@
+<map id="_POSIX_Timer_Get" name="_POSIX_Timer_Get">
+<area shape="rect" id="node1" title="POSIX Timer Get." alt="" coords="5,5,148,32"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreObject.html#gaccc5682133e4f65b8cb374eab9be2c9d" title="Maps the specified object identifier to the associated local object control block." alt="" coords="196,5,304,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreObject.html#ga22cdf45f285840b7728b06197a7f4627" title="Returns the index portion of the ID." alt="" coords="352,5,503,32"/>
+</map>

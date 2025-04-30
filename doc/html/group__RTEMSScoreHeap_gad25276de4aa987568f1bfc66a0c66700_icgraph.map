@@ -1,0 +1,37 @@
+<map id="_Heap_Free_list_tail" name="_Heap_Free_list_tail">
+<area shape="rect" id="node1" title="Returns the tail of the free list of the heap." alt="" coords="1497,490,1651,517"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreHeap.html#ga15167f1ad5eb93d85f15adb5e5524ff5" title="Allocates an aligned memory area with boundary constraint." alt="" coords="1255,289,1434,331"/>
+<area shape="rect" id="node23" href="$group__RTEMSScoreHeap.html#ga26aaa1feb8cf3773e5e38a13afcc4efe" title="Returns the last block of the free list of the heap." alt="" coords="1267,465,1423,491"/>
+<area shape="rect" id="node24" href="$group__RTEMSScoreHeap.html#gaf7bc4e8658d953f8b178f4ff6453ec6e" title="Returns information about free blocks for the heap." alt="" coords="1240,515,1449,542"/>
+<area shape="rect" id="node31" href="$group__RTEMSScoreHeap.html#gac5974c7ccf84c152ba6c8e17bea3ca5f" title="Initializes the heap control block." alt="" coords="1281,698,1408,725"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreHeap.html#gad26c02ca60b04b7e5845ec959f6d4330" title="Allocates a memory area." alt="" coords="1034,191,1157,218"/>
+<area shape="rect" id="node17" href="$group__RTEMSScoreHeap.html#ga951f109f2bfe07c7a769714f97b96a35" title="Allocates an aligned memory area." alt="" coords="1006,267,1185,294"/>
+<area shape="rect" id="node18" href="$group__RTEMSScoreProtHeap.html#ga76e8188c79871f71f9af86616c6ebc53" title="Allocates an aligned memory area with boundary constraint for the protected heap." alt="" coords="1000,319,1191,360"/>
+<area shape="rect" id="node4" href="$group__ClassicRegionImpl.html#ga832ceefdcf5076c6aae60d4d0762a2e2" title="Region_Allocate_segment." alt="" coords="746,49,945,75"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreWorkspace.html#ga8b19b310c0e6194a2750c505367d8539" title="Allocates a memory block of the specified size from the workspace." alt="" coords="765,151,925,178"/>
+<area shape="rect" id="node14" href="$bestcomm__glue_8h.html#aa1aa7300fb261baabcc89e1d3eac0296" title=" " alt="" coords="774,231,917,258"/>
+<area shape="rect" id="node5" href="$group__ClassicRegionImpl.html#ga3cf94767384ce29609efbb70c01f8531" title="Process Region Queue." alt="" coords="496,13,675,39"/>
+<area shape="rect" id="node6" href="$group__ClassicRegion.html#ga1332adb33a1efe03e31a656a3cf5840c" title="RTEMS Return Region Segment." alt="" coords="254,5,409,47"/>
+<area shape="rect" id="node8" href="$group__POSIX__KEY.html#ga790a7a15f816d9c7becce14825a5be6e" title=" " alt="" coords="495,64,675,105"/>
+<area shape="rect" id="node9" href="$group__POSIXShmPrivate.html#ga3c588a0b92cf32b64dca7f15b4caedd4" title="object_create operation for shm objects stored in RTEMS Workspace." alt="" coords="485,129,686,171"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreWorkspace.html#ga8bc0640d72182fd63475e74dd58c298d" title="Duplicates string with memory from the workspace." alt="" coords="479,195,691,222"/>
+<area shape="rect" id="node10" href="$group__POSIXShmPrivate.html#gaa01bbb91f3e013bb50e38c0773fb57e1" title="object_resize operation for shm objects stored in RTEMS Workspace." alt="" coords="232,129,431,171"/>
+<area shape="rect" id="node12" href="$group__RTEMSScoreObject.html#gadd5c974f986efd3e78363740eee4b249" title="Sets objects name." alt="" coords="256,195,407,222"/>
+<area shape="rect" id="node13" href="$group__ClassicClassInfo.html#gacb1a1933caf2556aa7e9b715c684fe5b" title="Set Name of Object." alt="" coords="5,195,184,222"/>
+<area shape="rect" id="node15" href="$tasksetup__bdtable_8h.html#a19c38722d5167424ed4076a8232eab82" title=" " alt="" coords="511,246,659,273"/>
+<area shape="rect" id="node16" href="$tasksetup__general_8h.html#af3f889e5e2b058255885cbeca59a7092" title=" " alt="" coords="260,246,403,273"/>
+<area shape="rect" id="node19" href="$group__RTEMSScoreProtHeap.html#gab7cdb2ee3416572258caab80416e312a" title="Allocates a memory area." alt="" coords="750,297,941,323"/>
+<area shape="rect" id="node22" href="$group__RTEMSScoreProtHeap.html#gaf60206138a64a845eea1a2e6519b9ae2" title="Allocates an aligned memory area." alt="" coords="750,348,941,389"/>
+<area shape="rect" id="node20" href="$rtems__heap__extend__via__sbrk_8c.html#aaab427c995cc0c8e362e991a7877b261" title="RTEMS Extend Heap via Sbrk." alt="" coords="479,297,692,323"/>
+<area shape="rect" id="node21" href="$group__ClassicRTEMSWorkspace.html#ga64ef053b5f7b0b526c024b2596a24dfb" title="Allocates Memory from the Workspace." alt="" coords="487,347,683,374"/>
+<area shape="rect" id="node25" href="$group__RTEMSScoreHeap.html#ga7822352d7403927196f2403ec48fc882" title="Greedily allocates all blocks except the largest free block." alt="" coords="1007,443,1183,484"/>
+<area shape="rect" id="node28" href="$group__RTEMSScoreProtHeap.html#ga54aae0cfc83e761f71d9219228f614d4" title="Returns information about free blocks for the heap." alt="" coords="1015,508,1175,549"/>
+<area shape="rect" id="node30" href="$group__ClassicRegion.html#ga30893b36778c4b55d2e38ecd36a8a5a2" title="RTEMS Get Region Free Information." alt="" coords="1011,573,1180,615"/>
+<area shape="rect" id="node26" href="$rtems__heap__greedy_8c.html#aba5ba5020cadde776ad76aff68db5563" title="Greedy allocate all blocks except the largest free block." alt="" coords="740,413,951,455"/>
+<area shape="rect" id="node27" href="$group__ClassicRTEMSWorkspace.html#ga631bbb4b9c5dab3b7da64412e1a19c16" title="Greedy allocate all blocks except the largest free block." alt="" coords="742,479,949,520"/>
+<area shape="rect" id="node29" href="$group__libcsupport.html#ga94bb8ab9f51bf5f8228de8068c1b5e86" title="Get free malloc information." alt="" coords="773,545,917,571"/>
+<area shape="rect" id="node32" href="$group__RTEMSScoreProtHeap.html#ga0f09fcdd50fcb5de78cdb10c0cb3b7e5" title="Initializes the protected heap." alt="" coords="999,639,1192,666"/>
+<area shape="rect" id="node33" href="$group__RTEMSScoreWorkspace.html#gac10ac71b406698cb4441aff69a80c847" title="Initilizes the workspace handler." alt="" coords="1016,691,1175,732"/>
+<area shape="rect" id="node34" href="$group__bsp__stack.html#ga5525bfd94b2a806da939383fe0c2fde1" title="Task stack allocator initialization for CONFIGURE_TASK_STACK_ALLOCATOR_INIT." alt="" coords="1008,757,1183,783"/>
+<area shape="rect" id="node35" href="$group__ClassicRegion.html#ga024758f91cbf73e06cbc4c85df83d1ca" title="rtems_region_create" alt="" coords="1017,807,1173,834"/>
+</map>

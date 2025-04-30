@@ -1,0 +1,9 @@
+<map id="_Scheduler_Node_get_priority" name="_Scheduler_Node_get_priority">
+<area shape="rect" id="node1" title="Gets the priority of the node." alt="" coords="487,126,649,168"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreSchedulerCBS.html#gae0d9c2720ee46efdfe87ebf87cd45cae" title="Unblocks a thread." alt="" coords="5,16,192,43"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreSchedulerEDF.html#ga1c6a885d1cbf890d31be7c539db7c12e" title="Performs an unblocking of the thread." alt="" coords="246,42,433,68"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreSchedulerEDF.html#gaf8da2ab5519218b6509eeecb90f4f1d7" title="Updates the priority of the scheduler node." alt="" coords="249,93,429,134"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreSchedulerDPS.html#ga2a24da77012650161d32bed57eb5c128" title="Unblocks the thread." alt="" coords="266,158,413,200"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreSchedulerDPS.html#gaa9250624cb136b5fd42bdfe060a2eb5e" title="Updates the priority of the node." alt="" coords="266,224,413,265"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreSchedulerSimple.html#gacb4b8fc8ec7b055afb904072c38f9fc5" title="Updates the priority of the node." alt="" coords="240,289,439,330"/>
+</map>

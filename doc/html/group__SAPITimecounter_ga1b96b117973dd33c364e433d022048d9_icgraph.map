@@ -1,0 +1,7 @@
+<map id="rtems_timecounter_simple_scale" name="rtems_timecounter_simple_scale">
+<area shape="rect" id="node1" title="Maps a simple timecounter value into its binary frequency domain." alt="" coords="251,104,448,145"/>
+<area shape="rect" id="node2" href="$group__SAPITimecounter.html#ga73145202e921ffdda990060007022c56" title="Gets the simple timecounter value mapped to its binary frequency domain for downcounters." alt="" coords="5,5,203,47"/>
+<area shape="rect" id="node3" href="$group__SAPITimecounter.html#gaaf2269728a8f160afddd1c097cee60d9" title="Performs a simple timecounter tick for downcounters." alt="" coords="5,71,203,112"/>
+<area shape="rect" id="node4" href="$group__SAPITimecounter.html#ga0f1dc14b096be72170ec9d854c8bb79d" title="Gets the simple timecounter value mapped to its binary frequency domain for upcounters." alt="" coords="5,136,203,177"/>
+<area shape="rect" id="node5" href="$group__SAPITimecounter.html#ga1de2d1f9f303848bdf2642895035670c" title="Performs a simple timecounter tick for upcounters." alt="" coords="5,201,203,243"/>
+</map>

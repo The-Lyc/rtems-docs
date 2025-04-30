@@ -1,0 +1,11 @@
+<map id="geteuid" name="geteuid">
+<area shape="rect" id="node1" title=" " alt="" coords="613,56,684,83"/>
+<area shape="rect" id="node2" href="$auth__unix_8c.html#a2468c95cd581164561c33508856bd0c7" title=" " alt="" coords="385,5,565,32"/>
+<area shape="rect" id="node4" href="$netname_8c.html#adcc8c288e6b6886c899d26498a5caffc" title=" " alt="" coords="425,56,526,83"/>
+<area shape="rect" id="node5" href="$group__IMFS.html#gaf9dd420f1a8b9f68504f5c8e0238cc94" title=" " alt="" coords="398,107,553,133"/>
+<area shape="rect" id="node3" href="$pmap__rmt_8c.html#a7209b078487e832933d2d879948840c3" title=" " alt="" coords="193,5,310,32"/>
+<area shape="rect" id="node6" href="$group__IMFS.html#ga2f5483a637716c1d4f0e10ad01e99d05" title="Create an IMFS node." alt="" coords="181,81,321,108"/>
+<area shape="rect" id="node9" href="$group__IMFS.html#gacd7d80288171eaa85b9b7413c2fa959d" title=" " alt="" coords="165,132,337,159"/>
+<area shape="rect" id="node7" href="$group__IMFS.html#ga201e8fee9c1188bd9ded438a4a649a4e" title="Create a new IMFS link node." alt="" coords="19,56,103,83"/>
+<area shape="rect" id="node8" href="$group__IMFS.html#ga7a51f947488c9d574dfb8da0a9e295bd" title="Create a new IMFS symbolic link node." alt="" coords="5,107,117,133"/>
+</map>

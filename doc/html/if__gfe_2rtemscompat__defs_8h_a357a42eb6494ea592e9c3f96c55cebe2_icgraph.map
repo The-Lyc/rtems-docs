@@ -1,0 +1,17 @@
+<map id="snprintf" name="snprintf">
+<area shape="rect" id="node1" title=" " alt="" coords="481,304,553,331"/>
+<area shape="rect" id="node2" href="$alt__clock__manager_8c.html#a28c0cc56f51b857a3549dc8d1583472b" title=" " alt="" coords="246,5,394,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSBSPsM68kUC5282.html#gae0cf906ba5367cb9d212715705f4956f" title=" " alt="" coords="255,56,385,83"/>
+<area shape="rect" id="node4" href="$pwcache_8c.html#ac3ad2efd252bab34297fbb074a664137" title=" " alt="" coords="258,107,382,133"/>
+<area shape="rect" id="node5" href="$arm_2lpc176x_2timer_2timer_8c.html#abb815062c9b3c17b6c2bd40bb970e7e8" title="Initializes timer in timer mode and resets counter but without starting it, and without any capture o..." alt="" coords="249,158,391,199"/>
+<area shape="rect" id="node6" href="$mongoose_8c.html#a6359478d914de9fb51267e87dbc971b1" title=" " alt="" coords="221,224,419,251"/>
+<area shape="rect" id="node7" href="$group__rtems__bdpart.html#gabd436124677aaeaaf2ae4c9f2bb031d2" title="Prints the partition table partitions with count partitions to standard output." alt="" coords="243,275,397,301"/>
+<area shape="rect" id="node8" href="$group__RTEMSIOMedia.html#gaa27ae6204e7202e9bfcb82f606ceeb43" title="Appends the minor number to the path resulting in &quot;path&#45;minor&quot;." alt="" coords="239,326,401,367"/>
+<area shape="rect" id="node9" href="$group__RTEMSIOMedia.html#ga2c85c46ea44481e17888733b40de22f5" title="Creates a new path as &quot;prefix/name&#45;major&quot;." alt="" coords="224,392,416,419"/>
+<area shape="rect" id="node10" href="$mon-editor_8c.html#a4737077a440da29c94a33971882bffca" title=" " alt="" coords="207,443,433,469"/>
+<area shape="rect" id="node12" href="$extern-dd_8h.html#a54574fab9b3a79c0972773e25514d6e3" title=" " alt="" coords="278,493,362,520"/>
+<area shape="rect" id="node14" href="$group__UTSNAME.html#ga1ad7a68f28b58669758da1b12061a81f" title="Get system name." alt="" coords="287,544,353,571"/>
+<area shape="rect" id="node15" href="$pwcache_8c.html#af6cdc7d13239d3568c4e4aef5c69cd02" title=" " alt="" coords="263,595,377,621"/>
+<area shape="rect" id="node11" href="$mon-editor_8c.html#ad8acb032203e41815aa2894e82875e54" title=" " alt="" coords="5,443,159,469"/>
+<area shape="rect" id="node13" href="$extern-dd_8h.html#a74e8fa670d31366350ab343b9c2615f6" title=" " alt="" coords="36,493,128,520"/>
+</map>

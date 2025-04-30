@@ -1,0 +1,6 @@
+<map id="MPU_UpdateRegions" name="MPU_UpdateRegions">
+<area shape="rect" id="node1" title="Update MPU regions." alt="" coords="5,56,164,83"/>
+<area shape="rect" id="node2" href="$mpu_8c.html#adce5d5bd104ef885cfc8692921b6fdc2" title="Disable the current active region." alt="" coords="213,5,367,32"/>
+<area shape="rect" id="node3" href="$mpu_8c.html#a5b599da2790baa9affb17efe20e758a1" title="Setup a memory region." alt="" coords="227,56,353,83"/>
+<area shape="rect" id="node4" href="$mpu_8c.html#a7962790150d8399f91306ea1551d8783" title="Set active memory region." alt="" coords="212,107,368,133"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="_Thread_Handler_initialization" name="_Thread_Handler_initialization">
+<area shape="rect" id="node1" title="Initializes thread handler." alt="" coords="5,197,225,224"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreIntErr.html#ga092fa4be4bda2528754b494e901d3d2a" title="Terminates the system with an INTERNAL_ERROR_CORE fatal source and the specified core error code." alt="" coords="300,49,417,76"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreThread.html#gacd86ef6b0e5fb19ec14d7fe51e3868e2" title="Initializes the thread information." alt="" coords="290,139,427,181"/>
+<area shape="rect" id="node15" href="$group__RTEMSScoreThreadMP.html#ga96f0434ad7036721909abeedd0322bba" title="Initialize MP thread handler." alt="" coords="279,222,438,263"/>
+<area shape="rect" id="node20" href="$include_2rtems_2config_8h.html#a2cc9968ce8a1fe21ede7a65599e66f42" title=" " alt="" coords="273,305,444,346"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreIntErr.html#ga5102f2f0c5939020aa3b11d67afa84eb" title="Initiates system termination." alt="" coords="538,11,633,37"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreFreechain.html#gae257ce6dd277d9bfe7af999b1dd3c274" title="Initializes a freechain." alt="" coords="508,179,663,205"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreObject.html#gadf825a94fecd0945a4368e503e274bfd" title="Returns the maximum index of the specified object class." alt="" coords="494,62,677,103"/>
+<area shape="rect" id="node12" href="$group__RTEMSScoreObject.html#ga968b850454008bc4e68ab83c2f033282" title="Initializes the specified objects information." alt="" coords="745,121,886,162"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreChain.html#ga59b0dbda01fc9f0675bef62722627764" title="Initializes a chain header." alt="" coords="751,208,880,235"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreAddress.html#gaa7812bb29c95ed68f2b958d833c79399" title="Adds offset to an address." alt="" coords="952,157,1124,184"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreChain.html#ga8b66d3138b9cdacbcb0600c42237ff7d" title="Returns pointer to chain head." alt="" coords="985,208,1091,235"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreChain.html#ga06f3e2dd6d64411f0565e3b483e53673" title="Returns pointer to chain tail." alt="" coords="991,259,1085,285"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreObject.html#ga22cdf45f285840b7728b06197a7f4627" title="Returns the index portion of the ID." alt="" coords="963,5,1113,32"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreObject.html#ga907a0412d7c657fa047641444090fe7b" title="Returns the API portion of the ID." alt="" coords="970,107,1106,133"/>
+<area shape="rect" id="node14" href="$group__RTEMSScoreObject.html#ga450c379424f26235d60f702638d229fa" title="Returns the class portion of the ID." alt="" coords="964,56,1112,83"/>
+<area shape="rect" id="node16" href="$group__RTEMSScoreThread.html#gacb988363d243a9c060fdeb9a2cf3d401" title="Initializes the thread timer." alt="" coords="494,280,677,307"/>
+<area shape="rect" id="node17" href="$group__RTEMSScoreWatchdog.html#gad98da837d665c764654ed6bcc25131dc" title="Pre&#45;initializes a watchdog." alt="" coords="727,309,904,336"/>
+<area shape="rect" id="node18" href="$group__RTEMSScoreWatchdog.html#ga3de62172597bf475ce849c935c51ed05" title="Sets the cpu for the watchdog." alt="" coords="961,309,1115,336"/>
+<area shape="rect" id="node19" href="$group__RTEMSScoreWatchdog.html#ga08d63637741832757cddfc443e9cf473" title="Sets the state of the watchdog." alt="" coords="957,360,1119,387"/>
+<area shape="rect" id="node21" href="$group__RTEMSScoreTLS.html#ga895642c73096b9995106694f3b0832d5" title="Return the TLS area allocation size." alt="" coords="492,331,679,357"/>
+</map>

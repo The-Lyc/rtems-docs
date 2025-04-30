@@ -1,0 +1,9 @@
+<map id="rtems_interrupt_server_entry_destroy" name="rtems_interrupt_server_entry_destroy">
+<area shape="rect" id="node1" title="Destroys the specified interrupt server entry." alt="" coords="5,64,176,105"/>
+<area shape="rect" id="node2" href="$group__ClassicChains.html#gaa8062d288572dd93db348803a5229c12" title="Extract the specified node from a chain (unprotected)." alt="" coords="224,64,379,105"/>
+<area shape="rect" id="node6" href="$group__ClassicChains.html#gaea61e38fc8c358c07bde67ccfb95d207" title="Is the node off chain." alt="" coords="449,5,608,47"/>
+<area shape="rect" id="node7" href="$group__ClassicChains.html#gac98e310c0368fcc3555d8df13b36e31d" title="Set off chain." alt="" coords="225,129,378,171"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreChain.html#ga51ca91740b37b6101d1aa80167ddcfe0" title="Extracts this node (unprotected)." alt="" coords="427,71,631,98"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreChain.html#gad7a790f247b3ace45f039c60c18f999f" title="Checks if the node is off chain." alt="" coords="685,25,832,67"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreChain.html#gadf0e5d55d133694eed8043ec13fe1266" title="Sets off chain." alt="" coords="679,103,839,130"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="rtems_filesystem_global_location_assign" name="rtems_filesystem_global_location_assign">
+<area shape="rect" id="node1" title="Assigns a global file system location." alt="" coords="5,5,188,47"/>
+<area shape="rect" id="node2" href="$group__LibIOInternal.html#ga66aa5e6d0bbf4c03b533deac66fb328f" title="Releases a global file system location." alt="" coords="236,5,419,47"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="mpc55xx_edma_copy" name="mpc55xx_edma_copy">
+<area shape="rect" id="node1" title="Copies a source TCD to an eDMA TCD." alt="" coords="257,42,421,69"/>
+<area shape="rect" id="node2" href="$edma_8c.html#ab9eeb49b67d1472989c580a9716528df" title="Copies a source TCD to an eDMA TCD and enables hardware requests." alt="" coords="5,5,209,47"/>
+<area shape="rect" id="node3" href="$edma_8c.html#a5e8f86e284989fabaa22a9957e9f985a" title=" " alt="" coords="18,71,197,98"/>
+</map>

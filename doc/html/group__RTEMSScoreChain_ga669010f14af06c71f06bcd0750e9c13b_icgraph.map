@@ -1,0 +1,8 @@
+<map id="_Chain_Immutable_next" name="_Chain_Immutable_next">
+<area shape="rect" id="node1" title="Returns pointer to the immutable next node from this node." alt="" coords="711,60,891,87"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreChain.html#ga4daa9900dfef1496e71d41a5377ed645" title="Returns the node count of the chain." alt="" coords="428,35,663,61"/>
+<area shape="rect" id="node6" href="$group__ClassicChains.html#gafed49afccd0a3db0b592e0f80b2e28ea" title="Return pointer the immutable next node from this node." alt="" coords="437,85,653,112"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreObject.html#ga4459fd7150f400e3217170758d0426a3" title="Returns the count of active objects." alt="" coords="203,5,373,32"/>
+<area shape="rect" id="node4" href="$group__ClassicChains.html#ga33042af3bb3a9b2903ce85d09cc6bf8f" title="Returns the node count of the chain." alt="" coords="196,57,380,98"/>
+<area shape="rect" id="node5" href="$rtl-archive_8c.html#a0c1d8b43e832e9f6c9dd0d583b952384" title=" " alt="" coords="5,57,148,98"/>
+</map>

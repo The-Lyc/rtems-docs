@@ -1,0 +1,15 @@
+<map id="bsp_interrupt_facility_initialize" name="bsp_interrupt_facility_initialize">
+<area shape="rect" id="node1" title="BSP specific initialization." alt="" coords="5,195,165,237"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreCPUARM.html#gaa3480454768ad843ce97909111a48a1f" title="SPARC specific RTEMS ISR installer." alt="" coords="228,5,407,32"/>
+<area shape="rect" id="node3" href="$x86__64_2amd64_2interrupts_2idt_8c.html#a652c02c49159c54baf3420e0ef3aaa6d" title=" " alt="" coords="213,56,421,83"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreCPUARMCP15.html#gacda151e27e8a36daac7101d37ad26f69" title="Sets the exception handler in the vector table." alt="" coords="225,107,409,149"/>
+<area shape="rect" id="node7" href="$bsps_2include_2bsp_2fdt_8h.html#a9776dbcc7859ccab679bad2d2ad41ca9" title="Returns the FDT of the BSP." alt="" coords="268,173,367,200"/>
+<area shape="rect" id="node8" href="$group__bsp__interrupt.html#ga5428b914d0cb037e9b3f7cb2b758cabd" title="Disables the interrupt vector with number vector." alt="" coords="239,225,395,266"/>
+<area shape="rect" id="node9" href="$bsps_2powerpc_2haleakala_2irq_2irq_8c.html#af82e883f63c8163810f26cb693c7b79c" title=" " alt="" coords="231,291,404,317"/>
+<area shape="rect" id="node10" href="$isr__entries_8h.html#ad20a0957d6092c76e8a7a9d88175a486" title=" " alt="" coords="229,341,405,368"/>
+<area shape="rect" id="node13" href="$group__ppc__exc.html#gaa2c5ca507568e64cb4c94ccc98e9f635" title="Set high&#45;level exception handler." alt="" coords="238,392,397,419"/>
+<area shape="rect" id="node4" href="$x86__64_2amd64_2interrupts_2idt_8c.html#a5250cf096558a89fe7ae1f8bfcd57697" title=" " alt="" coords="492,19,671,61"/>
+<area shape="rect" id="node5" href="$x86__64_2amd64_2interrupts_2idt_8c.html#ad7265ca29f964e2c743b8ca1cf0bd0c4" title=" " alt="" coords="475,85,688,112"/>
+<area shape="rect" id="node11" href="$lib_8c.html#afee04a2bd3690b426c5ead287a32a1a8" title=" " alt="" coords="542,316,621,343"/>
+<area shape="rect" id="node12" href="$group__ClassicCache.html#gad3e610ea873a79c5fa28cc5d945dc2a7" title="Flushes the entire data cache." alt="" coords="469,367,693,393"/>
+</map>

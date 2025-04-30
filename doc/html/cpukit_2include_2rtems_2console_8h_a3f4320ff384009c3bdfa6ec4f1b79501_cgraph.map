@@ -1,0 +1,21 @@
+<map id="console_open" name="console_open">
+<area shape="rect" id="node1" title="Console open entry point." alt="" coords="5,309,116,336"/>
+<area shape="rect" id="node2" href="$m68k_2mvme167_2console_2console_8c.html#a4babd07f78f3f1a5bf1ea099e2d770fb" title=" " alt="" coords="196,56,339,83"/>
+<area shape="rect" id="node6" href="$m68k_2mvme167_2console_2console_8c.html#a9c5f31e520e76443e82b9a97fb5700e3" title=" " alt="" coords="195,5,339,32"/>
+<area shape="rect" id="node7" href="$bfin_2include_2libcpu_2uart_8h.html#ae8a5f240ec0a8e0705ccf282221ac5ee" title=" " alt="" coords="208,107,327,133"/>
+<area shape="rect" id="node8" href="$m68k_2mvme167_2console_2console_8c.html#ad5046a71f0796a581296b4270a02000b" title=" " alt="" coords="200,157,335,184"/>
+<area shape="rect" id="node9" href="$m68k_2mvme167_2console_2console_8c.html#ab97786e00a5ca417d7a267d84e6eda65" title=" " alt="" coords="199,208,335,235"/>
+<area shape="rect" id="node10" href="$m68k_2mvme167_2console_2console_8c.html#ac06af96e725c05b9fdfa8e0127f0389e" title=" " alt="" coords="187,259,347,285"/>
+<area shape="rect" id="node11" href="$m68k_2mvme167_2console_2console_8c.html#a0e5439f641fab0955ffa2d57c32bb37d" title=" " alt="" coords="181,309,354,336"/>
+<area shape="rect" id="node12" href="$m68k_2mvme167_2console_2console_8c.html#a50f50775dbee6548c7f5389fa40c25e5" title=" " alt="" coords="182,360,353,387"/>
+<area shape="rect" id="node13" href="$m68k_2mvme167_2console_2console_8c.html#ab03ae2f5f8457ef76749aab30cc33985" title=" " alt="" coords="213,411,322,437"/>
+<area shape="rect" id="node14" href="$group__RTEMSBSPsSPARCERC32.html#ga33017a80c39bdce884e201734ceb023d" title=" " alt="" coords="164,461,371,488"/>
+<area shape="rect" id="node15" href="$shared_2dev_2serial_2console-polled_8c.html#a5421dc15d47189d0fe842e197d4a4605" title=" " alt="" coords="183,512,351,539"/>
+<area shape="rect" id="node17" href="$group__ClassicFatal.html#gacadb95082c08823f56d908c248657b45" title="Invokes the internal error handler with a source of INTERNAL_ERROR_RTEMS_API and is internal set to f..." alt="" coords="168,563,367,589"/>
+<area shape="rect" id="node19" href="$group__Termios.html#ga2f6eb2e1e2aee82f5030c1002d597785" title=" " alt="" coords="189,613,345,640"/>
+<area shape="rect" id="node3" href="$i386-stub-glue_8c.html#a1e0a236f3682681ac79ede3a128bffd5" title=" " alt="" coords="468,5,547,32"/>
+<area shape="rect" id="node4" href="$intrbody_8c.html#a382fc4b29e2c3c681a14c6f306b2a2ad" title=" " alt="" coords="419,56,596,83"/>
+<area shape="rect" id="node5" href="$intrbody_8c.html#a33b26f833e238ecdeddb2f4b8fda18d6" title=" " alt="" coords="420,107,595,133"/>
+<area shape="rect" id="node16" href="$epiphany_2epiphany__sim_2console_2console-io_8c.html#ac9a2a930ad64626626190f49c68bc312" title=" " alt="" coords="419,512,595,539"/>
+<area shape="rect" id="node18" href="$group__RTEMSScoreIntErr.html#ga5102f2f0c5939020aa3b11d67afa84eb" title="Initiates system termination." alt="" coords="460,563,555,589"/>
+</map>

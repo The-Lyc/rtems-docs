@@ -1,0 +1,11 @@
+<map id="rtems_monitor_object_canonical_next" name="rtems_monitor_object_canonical_next">
+<area shape="rect" id="node1" title=" " alt="" coords="5,53,171,94"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreObject.html#ga41a6751fdfbe5adc5f9cb5d12cc8a214" title="Unlocks the object allocator mutex." alt="" coords="224,23,367,65"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreObject.html#gac7e6cf1ee2d115abb4d53efc9ba2bca0" title="Checks if the id is of a local object." alt="" coords="219,89,372,116"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreAllocatorMutex.html#ga15d657c04537c2ad1841adc28b8dd747" title=" " alt="" coords="420,31,609,57"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreAPIMutex.html#ga64a430ae861d0ce7f63413e651fbe36d" title="Releases the specified API mutex." alt="" coords="657,31,808,57"/>
+<area shape="rect" id="node5" href="$mutex_8c.html#adecd7211e7a1a5035841212574f45b31" title=" " alt="" coords="859,5,1055,32"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreThread.html#gad5aaea7af4482aebd880403fb9c238af" title="Set the thread to life protected." alt="" coords="856,56,1059,83"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreObject.html#ga2a5fbd3f068704dab10f651f6aa12d6d" title="Returns the node portion of the ID." alt="" coords="441,85,588,112"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreObject.html#ga808f79623f447af88d2f84f211fd9139" title="Checks if the node is of the local object." alt="" coords="428,136,601,163"/>
+</map>

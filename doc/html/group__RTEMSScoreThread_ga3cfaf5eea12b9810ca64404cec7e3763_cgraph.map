@@ -1,0 +1,9 @@
+<map id="_Thread_Wait_restore_default" name="_Thread_Wait_restore_default">
+<area shape="rect" id="node1" title="Restores the default thread wait queue and operations." alt="" coords="5,99,168,141"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreChain.html#ga89304b2d294b98f4909dcb6e68d7ec82" title="Returns pointer to chain&#39;s first node." alt="" coords="251,5,353,32"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreChain.html#gaa2f09e6d639b1bc5a27451eb119b6e33" title="Returns pointer to immutable chain tail." alt="" coords="216,56,388,83"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreChain.html#ga9502cc5cb6c81ef2bce33698005e1752" title="Returns pointer to the next node from this node." alt="" coords="250,107,354,133"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreThread.html#gafbc47e5ce486029f2311242f2303c66d" title="Acquires the thread wait default lock inside a critical section (interrupts disabled)." alt="" coords="219,158,385,199"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreThread.html#ga1379d753ea2866e64eed15cd7ea7fb38" title="Releases the thread wait default lock inside a critical section (interrupts disabled)." alt="" coords="219,223,385,265"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreChain.html#gac08944db6f0428125d3b0d5a1c65b740" title="Returns pointer to immutable chain head." alt="" coords="436,5,619,32"/>
+</map>

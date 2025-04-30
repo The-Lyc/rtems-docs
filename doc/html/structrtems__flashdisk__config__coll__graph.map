@@ -1,0 +1,6 @@
+<map id="rtems_flashdisk_config" name="rtems_flashdisk_config">
+<area shape="rect" id="node1" title="RTEMS Flash Disk configuration table used to initialise the driver." alt="" coords="117,199,288,225"/>
+<area shape="rect" id="node2" href="$structrtems__fdisk__device__desc.html" title="Flash Device Descriptor holds the segments in a device." alt="" coords="109,109,296,136"/>
+<area shape="rect" id="node3" href="$structrtems__fdisk__segment__desc.html" title="Flash Segment Descriptor holds, number of continuous segments in the device of this type,..." alt="" coords="5,13,205,39"/>
+<area shape="rect" id="node4" href="$structrtems__fdisk__driver__handlers.html" title="Flash Low Level driver handlers." alt="" coords="229,5,373,47"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="rtems_aio_init" name="rtems_aio_init">
+<area shape="rect" id="node1" title=" " alt="" coords="5,157,120,184"/>
+<area shape="rect" id="node2" href="$pthreadattrdestroy_8c.html#a4bcdbf47c17c7dcc51e9f05f5cb56d81" title=" " alt="" coords="192,5,351,32"/>
+<area shape="rect" id="node3" href="$pthreadattrinit_8c.html#a0b85ebb1e3aac081a4c0a5e85ae3cbe9" title=" " alt="" coords="206,56,337,83"/>
+<area shape="rect" id="node6" href="$pthreadattrsetdetachstate_8c.html#ae6ee78c307d8467b34a9b0c330993a54" title=" " alt="" coords="168,107,375,133"/>
+<area shape="rect" id="node7" href="$condinit_8c.html#ad5b6c558bcd5260289981207b9ca9687" title=" " alt="" coords="202,157,341,184"/>
+<area shape="rect" id="node8" href="$mutexdestroy_8c.html#a3cf620ff3a40af11d79cf28901dc55e2" title=" " alt="" coords="183,208,360,235"/>
+<area shape="rect" id="node9" href="$mutexinit_8c.html#a7454d249ed94ad5d5e57ba1529d7a7f2" title=" " alt="" coords="197,259,346,285"/>
+<area shape="rect" id="node11" href="$group__ClassicChains.html#gabcf5131393d65f667c67e88cf646ff99" title="Initialize this chain as empty." alt="" coords="189,310,354,351"/>
+<area shape="rect" id="node4" href="$group__POSIX__PTHREAD.html#gad911da6e53e7d3cf5271ac937b78e0f1" title=" " alt="" coords="423,49,613,90"/>
+<area shape="rect" id="node5" href="$group__POSIX__PTHREAD.html#gadaec26ab44812ab08ddaddcb31eccc6d" title=" " alt="" coords="661,49,828,90"/>
+<area shape="rect" id="node10" href="$group__POSIXAPI.html#gad05fb937466662bdf76ca576d1e3dc2b" title=" " alt="" coords="426,259,610,285"/>
+<area shape="rect" id="node12" href="$group__RTEMSScoreChain.html#ga322cf50ff1974dab1ce8d60ec94ef5f8" title="Initializes this chain as empty." alt="" coords="429,317,607,344"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreChain.html#ga8b66d3138b9cdacbcb0600c42237ff7d" title="Returns pointer to chain head." alt="" coords="691,292,798,319"/>
+<area shape="rect" id="node14" href="$group__RTEMSScoreChain.html#ga06f3e2dd6d64411f0565e3b483e53673" title="Returns pointer to chain tail." alt="" coords="697,343,792,369"/>
+</map>

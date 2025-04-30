@@ -1,0 +1,5 @@
+<map id="bsps/arm/lpc32xx/include/bsp/hsu.h" name="bsps/arm/lpc32xx/include/bsp/hsu.h">
+<area shape="rect" id="node1" title="HSU support API." alt="" coords="113,5,301,47"/>
+<area shape="rect" id="node2" href="$arm_2lpc32xx_2console_2console-config_8c.html" title="Console configuration." alt="" coords="5,95,196,136"/>
+<area shape="rect" id="node3" href="$hsu_8c.html" title="High speed UART driver (14&#45;clock)." alt="" coords="220,95,411,136"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="_Watchdog_Next_first" name="_Watchdog_Next_first">
+<area shape="rect" id="node1" title="Sets the first node of the header." alt="" coords="1180,161,1343,188"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreWatchdog.html#ga4c6dafd66518b5af7edb7c0d67572065" title="In the case the watchdog is scheduled, then it is removed from the set of scheduled watchdogs." alt="" coords="977,161,1132,188"/>
+<area shape="rect" id="node3" href="$group__ClassicTimerImpl.html#gad3cc9c58e403f6c6e7e53ab678d665f7" title=" " alt="" coords="764,85,883,112"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreWatchdog.html#gac3404e106d8637114b5205d4eba1f7c6" title="In the case the watchdog is scheduled, then it is removed from the set of scheduled watchdogs." alt="" coords="751,136,895,163"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreWatchdog.html#ga5634267a330e8974e3035399224cf029" title="Removes the watchdog from the cpu and the scheduled watchdogs." alt="" coords="717,187,929,213"/>
+<area shape="rect" id="node17" href="$psxtimerdelete_8c.html#ad114bb350d7d5d12cff3fd19bf533303" title=" " alt="" coords="771,237,876,264"/>
+<area shape="rect" id="node4" href="$group__ClassicTimerImpl.html#ga88df13f9a367637321a0783369bec2cb" title=" " alt="" coords="514,35,613,61"/>
+<area shape="rect" id="node8" href="$group__ClassicTimer.html#ga746671597de779ad02b9ca72facc9e92" title="rtems_timer_cancel" alt="" coords="488,85,639,112"/>
+<area shape="rect" id="node9" href="$group__ClassicTimer.html#ga582cf1f171214dabcc2af8c5bd48898f" title="RTEMS Delete Timer." alt="" coords="488,136,639,163"/>
+<area shape="rect" id="node5" href="$group__ClassicTimerImpl.html#gaa71b85670a35521a0f1267eabcbc3835" title=" " alt="" coords="249,35,383,61"/>
+<area shape="rect" id="node6" href="$group__ClassicTimer.html#gad9785a6bd78ab5a591a134d147b2bdd3" title="RTEMS Timer Fire After." alt="" coords="7,5,173,32"/>
+<area shape="rect" id="node7" href="$group__ClassicTimer.html#ga521234c97e4fbf2d2e759d78447b5a8f" title="RTEMS Timer Server Fire After." alt="" coords="15,57,165,98"/>
+<area shape="rect" id="node12" href="$group__RTEMSScoreThread.html#ga8483d8009fe0047a5a48de4a5f6f2ad7" title="Remove the watchdog timer from the thread." alt="" coords="475,187,651,213"/>
+<area shape="rect" id="node14" href="$group__RTEMSScoreWatchdog.html#ga0d978ece12fb00ebea90c370fcd5c871" title="Removes the watchdog from the cpu and the scheduled watchdogs." alt="" coords="457,238,669,279"/>
+<area shape="rect" id="node13" href="$group__ClassicEventImpl.html#ga63d82e0e70a4acc2784bb7bc1bba01fb" title=" " alt="" coords="262,187,370,213"/>
+<area shape="rect" id="node15" href="$group__ClassicRateMonImpl.html#gab174ae30d1440637fecb41e22258f54f" title=" " alt="" coords="223,245,409,272"/>
+<area shape="rect" id="node16" href="$group__ClassicRateMon.html#ga4313840d58c7a2ccc4b1e6151e712bf7" title="RTEMS Rate Monotonic Cancel." alt="" coords="5,238,175,279"/>
+</map>

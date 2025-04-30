@@ -1,0 +1,10 @@
+<map id="rtd316_initialize" name="rtd316_initialize">
+<area shape="rect" id="node1" title="RTD316 Initialization Entry Point." alt="" coords="5,56,132,83"/>
+<area shape="rect" id="node2" href="$legacy-console_8c.html#ab7b7632a5db0bff08d69845c22ec1d56" title="console_register_devices" alt="" coords="180,5,367,32"/>
+<area shape="rect" id="node4" href="$rtd316_8c.html#ad57822a6f7fe2c1dfeedd53eca02f006" title="RTD316 Obtain Register Helper." alt="" coords="181,56,365,83"/>
+<area shape="rect" id="node8" href="$rtd316_8c.html#aadf9462809af18b83b8ab6fabcc1bebf" title="RTD316 Set Register Helper." alt="" coords="182,107,365,133"/>
+<area shape="rect" id="node3" href="$legacy-console_8c.html#a876e108a27082ad7b2a68f26dd37b673" title="console_initialize_data" alt="" coords="415,5,585,32"/>
+<area shape="rect" id="node5" href="$x86__64_2include_2rtems_2score_2cpu__asm_8h.html#a48b003277fe4b9afadf2366083f9a518" title=" " alt="" coords="452,56,548,83"/>
+<area shape="rect" id="node7" href="$x86__64_2include_2rtems_2score_2cpu__asm_8h.html#aa60b5dd7317f02b9cc6557f3f383afe2" title=" " alt="" coords="447,107,553,133"/>
+<area shape="rect" id="node6" href="$i386-stub-glue_8c.html#a1e0a236f3682681ac79ede3a128bffd5" title=" " alt="" coords="633,81,712,108"/>
+</map>

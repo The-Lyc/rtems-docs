@@ -1,0 +1,4 @@
+<map id="UART_GetChar" name="UART_GetChar">
+<area shape="rect" id="node1" title="Reads and returns a character from the UART." alt="" coords="208,5,325,32"/>
+<area shape="rect" id="node2" href="$arm_2atsam_2include_2libchip_2include_2uart_8h.html#aca2278de164451574247f8289130d442" title=" " alt="" coords="5,5,160,32"/>
+</map>

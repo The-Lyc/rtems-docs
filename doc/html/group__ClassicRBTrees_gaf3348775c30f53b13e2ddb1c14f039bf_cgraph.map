@@ -1,0 +1,4 @@
+<map id="rtems_rbtree_right" name="rtems_rbtree_right">
+<area shape="rect" id="node1" title="Return pointer to the right child node from this node." alt="" coords="5,5,148,32"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreRBTree.html#gadb8aa819c64641ff7a2342a7ef20b950" title="Returns pointer to the right of this node." alt="" coords="196,5,311,32"/>
+</map>

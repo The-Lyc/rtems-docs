@@ -1,0 +1,5 @@
+<map id="rtems_termios_enqueue_raw_characters" name="rtems_termios_enqueue_raw_characters">
+<area shape="rect" id="node1" title=" " alt="" coords="5,39,185,80"/>
+<area shape="rect" id="node2" href="$termiostypes_8h.html#a1ebc146d0aeeb60c14d75e16f902aae0" title="Acquires the device lock." alt="" coords="233,5,400,47"/>
+<area shape="rect" id="node3" href="$termiostypes_8h.html#a0d928bfa5fb62de3c9e66caa5a07dfc9" title="Releases the device lock." alt="" coords="233,71,400,112"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="rtems_resource_snapshot_take" name="rtems_resource_snapshot_take">
+<area shape="rect" id="node1" title="Tasks a snapshot of the resource usage of the system." alt="" coords="5,81,229,108"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreAllocatorMutex.html#ga89aa77edce0d5557b1a7e9d9ef7999c8" title=" " alt="" coords="277,31,452,57"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreThread.html#ga986b5354464f933956a6ea28ba9b74a2" title="Kills all zombie threads in the system." alt="" coords="283,81,447,108"/>
+<area shape="rect" id="node7" href="$bootldr_8h.html#a36d20f7d597c517b964289f6b54ddfa7" title=" " alt="" coords="327,132,403,159"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreAPIMutex.html#ga57829ca494f1d866219c499eadb0ffc9" title="Acquires the specified API mutex." alt="" coords="500,31,635,57"/>
+<area shape="rect" id="node4" href="$mutex_8c.html#a2960aef6016ac8937f24108f9cdeebd0" title=" " alt="" coords="687,5,881,32"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreThread.html#gad5aaea7af4482aebd880403fb9c238af" title="Set the thread to life protected." alt="" coords="683,56,885,83"/>
+</map>

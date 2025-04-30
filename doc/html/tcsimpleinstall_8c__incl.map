@@ -1,0 +1,18 @@
+<map id="cpukit/sapi/src/tcsimpleinstall.c" name="cpukit/sapi/src/tcsimpleinstall.c">
+<area shape="rect" id="node1" title=" " alt="" coords="418,5,645,32"/>
+<area shape="rect" id="node2" href="$timecounter_8h.html" title="Timecounter API." alt="" coords="454,80,609,107"/>
+<area shape="rect" id="node3" href="$score_2timecounter_8h.html" title="Timecounter API." alt="" coords="319,155,512,181"/>
+<area shape="rect" id="node11" href="$basedefs_8h.html" title="Basic Definitions." alt="" coords="465,453,640,480"/>
+<area shape="rect" id="node4" title=" " alt="" coords="519,229,610,256"/>
+<area shape="rect" id="node5" href="$timetc_8h.html" title=" " alt="" coords="5,229,108,256"/>
+<area shape="rect" id="node6" href="$__timecounter_8h.html" title=" " alt="" coords="133,229,311,256"/>
+<area shape="rect" id="node7" href="$isrlock_8h.html" title="ISR Locks." alt="" coords="336,229,495,256"/>
+<area shape="rect" id="node8" href="$isrlevel_8h.html" title="ISR Level Type." alt="" coords="334,304,497,331"/>
+<area shape="rect" id="node16" href="$smplock_8h.html" title="SMP Lock API." alt="" coords="197,453,367,480"/>
+<area shape="rect" id="node9" title=" " alt="" coords="313,379,451,405"/>
+<area shape="rect" id="node10" href="$assert_8h.html" title="Information for the Assert Handler." alt="" coords="475,379,630,405"/>
+<area shape="rect" id="node12" title=" " alt="" coords="212,528,379,555"/>
+<area shape="rect" id="node13" title=" " alt="" coords="613,528,687,555"/>
+<area shape="rect" id="node14" title=" " alt="" coords="410,528,493,555"/>
+<area shape="rect" id="node15" title=" " alt="" coords="517,528,588,555"/>
+</map>

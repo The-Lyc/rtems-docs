@@ -1,0 +1,4 @@
+<map id="rtems_termios_device_install" name="rtems_termios_device_install">
+<area shape="rect" id="node1" title="Installs a Termios device." alt="" coords="188,5,355,47"/>
+<area shape="rect" id="node2" href="$riscv_2riscv_2console_2console-config_8c.html#a4bdc321ef3ab62a261d77b5dbe075566" title="Console initialization entry point." alt="" coords="5,13,140,39"/>
+</map>

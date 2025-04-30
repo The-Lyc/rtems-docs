@@ -1,0 +1,4 @@
+<map id="rtems_configuration_get_stack_space_size" name="rtems_configuration_get_stack_space_size">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,176,47"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreTLS.html#ga895642c73096b9995106694f3b0832d5" title="Return the TLS area allocation size." alt="" coords="224,13,411,39"/>
+</map>

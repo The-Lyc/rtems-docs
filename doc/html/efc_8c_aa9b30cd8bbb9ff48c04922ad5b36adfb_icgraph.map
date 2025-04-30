@@ -1,0 +1,9 @@
+<map id="EFC_PerformCommand" name="EFC_PerformCommand">
+<area shape="rect" id="node1" title="Performs the given command and wait until its completion (or an error)." alt="" coords="429,114,603,140"/>
+<area shape="rect" id="node2" href="$flashd_8h.html#acf9b33bbe1445c612908f2d42e494d56" title="Clears the selected GPNVM bit." alt="" coords="5,164,171,191"/>
+<area shape="rect" id="node3" href="$flashd_8h.html#a009778fe212a220f68e923e18ef14103" title="Erases the entire flash." alt="" coords="241,38,359,64"/>
+<area shape="rect" id="node4" href="$flashd_8h.html#a454beb98ffe72e55aa69670313c4fd6c" title="Erases flash by pages." alt="" coords="222,88,378,115"/>
+<area shape="rect" id="node5" href="$flashd_8h.html#a7263e451f8b2b08eacdf89e46192c96b" title="Erases flash by sector." alt="" coords="221,139,379,166"/>
+<area shape="rect" id="node6" href="$flashd_8h.html#a46c2aea775411f461647edd941286cf9" title="Check if the given GPNVM bit is set or not." alt="" coords="219,190,381,216"/>
+<area shape="rect" id="node7" href="$flashd_8h.html#afd3662ad92b776be125acdd3c053875d" title="Sets the selected GPNVM bit." alt="" coords="12,227,164,254"/>
+</map>

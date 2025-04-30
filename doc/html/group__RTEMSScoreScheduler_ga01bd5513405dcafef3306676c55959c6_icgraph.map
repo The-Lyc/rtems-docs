@@ -1,0 +1,6 @@
+<map id="_Scheduler_Map_priority" name="_Scheduler_Map_priority">
+<area shape="rect" id="node1" title="Maps a thread priority from the user domain to the scheduler domain." alt="" coords="447,31,629,57"/>
+<area shape="rect" id="node2" href="$group__POSIX__PRIORITY.html#ga8d4f57e689b0cfaf1f4f2615cb7f08d0" title="Converts the POSIX API priority to the corresponding SuperCore priority and validates it." alt="" coords="218,5,397,32"/>
+<area shape="rect" id="node4" href="$group__ClassicTasksImpl.html#ga2247dd50918001f83fd1d6850649c75c" title="Converts the RTEMS API priority to the corresponding SuperCore priority and validates it." alt="" coords="216,56,399,83"/>
+<area shape="rect" id="node3" href="$pthreadsetschedprio_8c.html#a7a23cbcfc21a4e3edf531ed65f022370" title=" " alt="" coords="5,5,168,32"/>
+</map>

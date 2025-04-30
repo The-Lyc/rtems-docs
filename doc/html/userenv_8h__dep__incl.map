@@ -1,0 +1,52 @@
+<map id="cpukit/include/rtems/userenv.h" name="cpukit/include/rtems/userenv.h">
+<area shape="rect" id="node1" title="User Environment Support." alt="" coords="3780,5,3935,47"/>
+<area shape="rect" id="node2" href="$ftpd_8c.html" title=" " alt="" coords="2723,102,2853,129"/>
+<area shape="rect" id="node3" href="$libio___8h.html" title="LibIO Internal Interface." alt="" coords="2877,95,3032,136"/>
+<area shape="rect" id="node39" href="$getegid_8c.html" title="Get Real User, Effective User, Ral Group, and Effective Group IDs." alt="" coords="3056,95,3195,136"/>
+<area shape="rect" id="node40" href="$geteuid_8c.html" title="Get Real User, Effective User, Ral Group, and Effective Group IDs." alt="" coords="3219,95,3357,136"/>
+<area shape="rect" id="node41" href="$getgid_8c.html" title="Get Real User, Effective User, Ral Group, and Effective Group IDs." alt="" coords="3381,95,3520,136"/>
+<area shape="rect" id="node42" href="$getlogin_8c.html" title="Get User Name." alt="" coords="3544,95,3683,136"/>
+<area shape="rect" id="node43" href="$getuid_8c.html" title="Get Real User, Effective User, Ral Group, and Effective Group IDs." alt="" coords="3707,95,3845,136"/>
+<area shape="rect" id="node44" href="$setegid_8c.html" title="Get Real User, Effective User, Ral Group, and Effective Group IDs." alt="" coords="3869,95,4008,136"/>
+<area shape="rect" id="node45" href="$seteuid_8c.html" title="Set Effective User Id." alt="" coords="4032,95,4171,136"/>
+<area shape="rect" id="node46" href="$setgid_8c.html" title=" " alt="" coords="4195,95,4333,136"/>
+<area shape="rect" id="node47" href="$setuid_8c.html" title=" " alt="" coords="4357,95,4496,136"/>
+<area shape="rect" id="node48" href="$uenvgetgroups_8c.html" title=" " alt="" coords="4520,95,4677,136"/>
+<area shape="rect" id="node49" href="$login__check_8c.html" title="Shell login check function." alt="" coords="4702,95,4850,136"/>
+<area shape="rect" id="node50" href="$telnetd_8c.html" title=" " alt="" coords="4875,102,5048,129"/>
+<area shape="rect" id="node4" href="$tfsDriver_8c.html" title=" " alt="" coords="5,184,179,225"/>
+<area shape="rect" id="node5" href="$ide__part__table_8h.html" title="&quot;MS&#45;DOS&#45;style&quot; Partition Tables Support" alt="" coords="203,184,357,225"/>
+<area shape="rect" id="node6" href="$imfs_8h.html" title="Header File for the In&#45;Memory File System." alt="" coords="381,184,536,225"/>
+<area shape="rect" id="node7" href="$mmanimpl_8h.html" title="Internal Support for POSIX 1003.1b 6.3.1 &#45; map pages of memory." alt="" coords="560,184,715,225"/>
+<area shape="rect" id="node8" href="$rtems-rfs-dir_8h.html" title="RTEMS File System Directory Support." alt="" coords="739,184,893,225"/>
+<area shape="rect" id="node9" href="$rtems-rfs-file_8h.html" title="RTEMS File System File Support." alt="" coords="917,184,1072,225"/>
+<area shape="rect" id="node10" href="$____usrenv_8c.html" title="RTEMS File System Location Support." alt="" coords="1096,184,1235,225"/>
+<area shape="rect" id="node11" href="$base__fs_8c.html" title="Base File System Initialization." alt="" coords="1259,184,1397,225"/>
+<area shape="rect" id="node12" href="$chdir_8c.html" title="POSIX 1003.1b &#45; 5.2.1 &#45; Change Current Working Directory." alt="" coords="1421,184,1560,225"/>
+<area shape="rect" id="node13" href="$chmod_8c.html" title="Change File Modes." alt="" coords="1584,184,1723,225"/>
+<area shape="rect" id="node14" href="$chown_8c.html" title="Change Owner and Group of a File." alt="" coords="1747,184,1885,225"/>
+<area shape="rect" id="node15" href="$chroot_8c.html" title="Change Root Directory." alt="" coords="1909,184,2048,225"/>
+<area shape="rect" id="node16" href="$clonenode_8c.html" title="Clones a Node." alt="" coords="2072,184,2211,225"/>
+<area shape="rect" id="node17" href="$close_8c.html" title="POSIX 1003.1b 6.3.1 &#45; Close a File." alt="" coords="2235,184,2373,225"/>
+<area shape="rect" id="node18" href="$dup2_8c.html" title="Duplicate an Open File Descriptor." alt="" coords="2397,184,2536,225"/>
+<area shape="rect" id="node19" href="$fchdir_8c.html" title="Change Directory." alt="" coords="2560,184,2699,225"/>
+<area shape="rect" id="node20" href="$fchmod_8c.html" title="Change File Modes." alt="" coords="2723,184,2861,225"/>
+<area shape="rect" id="node21" href="$fchown_8c.html" title="Change Owner and Group of a File." alt="" coords="2885,184,3024,225"/>
+<area shape="rect" id="node22" href="$fcntl_8c.html" title="POSIX 1003.1b 6.5.2 &#45; File Control." alt="" coords="3048,184,3187,225"/>
+<area shape="rect" id="node23" href="$fdatasync_8c.html" title="POSIX 1003.1b 6.6.2 &#45; Synchronize the Data of a File." alt="" coords="3211,184,3349,225"/>
+<area shape="rect" id="node24" href="$fpathconf_8c.html" title="Configurable Pathname Varables." alt="" coords="3373,184,3512,225"/>
+<area shape="rect" id="node25" href="$freenode_8c.html" title="Releases all Resources of a Location." alt="" coords="3536,184,3675,225"/>
+<area shape="rect" id="node26" href="$fstat_8c.html" title=" " alt="" coords="3699,184,3837,225"/>
+<area shape="rect" id="node27" href="$fsync_8c.html" title="Synchronize the State of a File." alt="" coords="3861,184,4000,225"/>
+<area shape="rect" id="node28" href="$ftruncate_8c.html" title="Truncate a File to the Specified Length." alt="" coords="4024,184,4163,225"/>
+<area shape="rect" id="node29" href="$getdents_8c.html" title="Get Directory Entries." alt="" coords="4187,184,4325,225"/>
+<area shape="rect" id="node30" href="$ioctl_8c.html" title="ioctl() system call" alt="" coords="4349,184,4488,225"/>
+<area shape="rect" id="node31" href="$lchown_8c.html" title=" " alt="" coords="4512,184,4651,225"/>
+<area shape="rect" id="node32" href="$libio_8c.html" title="File Descriptor Routines." alt="" coords="4675,184,4813,225"/>
+<area shape="rect" id="node33" href="$libio__init_8c.html" title="RTEMS LibIO Initialization." alt="" coords="4837,184,4976,225"/>
+<area shape="rect" id="node34" href="$link_8c.html" title="Create a new link." alt="" coords="5000,184,5139,225"/>
+<area shape="rect" id="node35" href="$lseek_8c.html" title=" " alt="" coords="5163,184,5301,225"/>
+<area shape="rect" id="node36" href="$stat_8c.html" title="Get File Status." alt="" coords="5325,184,5464,225"/>
+<area shape="rect" id="node37" href="$mknod_8c.html" title="Create a Special or Ordinary File." alt="" coords="5488,184,5627,225"/>
+<area shape="rect" id="node38" href="$mount-mgr_8c.html" title=" " alt="" coords="5651,184,5789,225"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="_CPU_Instruction_illegal" name="_CPU_Instruction_illegal">
+<area shape="rect" id="node1" title="Emits an illegal instruction." alt="" coords="5,5,184,32"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreCPUSPARC.html#ga82257d4fc068f4b21b029dd69d276839" title="The pointer to the current per&#45;CPU control is available via register g6." alt="" coords="232,5,311,32"/>
+</map>

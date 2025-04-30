@@ -1,0 +1,15 @@
+<map id="gr1553_device_feature" name="gr1553_device_feature">
+<area shape="rect" id="node1" title=" " alt="" coords="231,484,402,511"/>
+<area shape="rect" id="node2" href="$structgr1553__device.html" title=" " alt="" coords="258,395,375,421"/>
+<area shape="rect" id="node3" href="$structdrvmgr__dev.html" title=" " alt="" coords="183,282,283,309"/>
+<area shape="rect" id="node4" href="$structdrvmgr__bus.html" title=" " alt="" coords="521,395,619,421"/>
+<area shape="rect" id="node12" href="$structdrvmgr__drv.html" title=" " alt="" coords="79,395,176,421"/>
+<area shape="rect" id="node5" href="$structdrvmgr__func.html" title=" " alt="" coords="413,282,517,309"/>
+<area shape="rect" id="node6" href="$structdrvmgr__map__entry.html" title=" " alt="" coords="695,282,842,309"/>
+<area shape="rect" id="node7" href="$structdrvmgr__bus__res.html" title=" " alt="" coords="867,282,993,309"/>
+<area shape="rect" id="node8" href="$structdrvmgr__drv__res.html" title=" " alt="" coords="868,184,992,211"/>
+<area shape="rect" id="node9" href="$structdrvmgr__key.html" title=" " alt="" coords="881,95,979,121"/>
+<area shape="rect" id="node10" href="$uniondrvmgr__key__value.html" title=" " alt="" coords="859,5,1001,32"/>
+<area shape="rect" id="node11" href="$structdrvmgr__bus__ops.html" title=" " alt="" coords="541,282,671,309"/>
+<area shape="rect" id="node13" href="$structdrvmgr__drv__ops.html" title=" " alt="" coords="5,282,132,309"/>
+</map>

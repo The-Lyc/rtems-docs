@@ -1,0 +1,5 @@
+<map id="_Objects_Is_local_id" name="_Objects_Is_local_id">
+<area shape="rect" id="node1" title="Checks if the id is of a local object." alt="" coords="5,31,159,57"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreObject.html#ga2a5fbd3f068704dab10f651f6aa12d6d" title="Returns the node portion of the ID." alt="" coords="220,5,367,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreObject.html#ga808f79623f447af88d2f84f211fd9139" title="Checks if the node is of the local object." alt="" coords="207,56,380,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="rtems_heap_allocate_aligned_with_boundary" name="rtems_heap_allocate_aligned_with_boundary">
+<area shape="rect" id="node1" title="Allocates a memory area of size size bytes from the heap." alt="" coords="213,27,393,69"/>
+<area shape="rect" id="node2" href="$alignedalloc_8c.html#af7c32811d7d24557ba92cd3d9dae7ddd" title=" " alt="" coords="31,5,139,32"/>
+<area shape="rect" id="node3" href="$group__ClassicCache.html#ga29c16023024c824dbf76a11539c921d1" title=" " alt="" coords="5,57,165,98"/>
+</map>

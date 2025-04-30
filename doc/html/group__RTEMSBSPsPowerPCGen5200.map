@@ -1,0 +1,6 @@
+<map id="NXP MPC5200" name="NXP MPC5200">
+<area shape="rect" id="node1" href="$group__RTEMSBSPsPowerPCGen5200MSCAN.html" title=" " alt="" coords="333,5,404,31"/>
+<area shape="rect" id="node2" title="NXP MPC5200 Board Support Package." alt="" coords="132,31,247,56"/>
+<area shape="rect" id="node4" href="$group__BestComm.html" title="BestComm support." alt="" coords="295,55,443,80"/>
+<area shape="rect" id="node3" href="$group__RTEMSBSPsPowerPC.html" title="PowerPC Board Support Packages." alt="" coords="5,31,84,56"/>
+</map>

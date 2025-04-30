@@ -1,0 +1,8 @@
+<map id="rtems_filesystem_location_free" name="rtems_filesystem_location_free">
+<area shape="rect" id="node1" title="Releases all resources of a location." alt="" coords="484,78,711,105"/>
+<area shape="rect" id="node2" href="$group__LibIOInternal.html#gab08185b203032392628c233f2de28be1" title=" " alt="" coords="241,5,436,47"/>
+<area shape="rect" id="node4" href="$group__LibIOInternal.html#ga8adeacddc833cb61040dbfd9d1de7dd6" title=" " alt="" coords="241,71,436,112"/>
+<area shape="rect" id="node6" href="$group__LibIOInternal.html#gac127d757d9117617d438a18f83eafac8" title=" " alt="" coords="275,137,403,163"/>
+<area shape="rect" id="node3" href="$group__LibIOFSOps.html#gaa070ca99adbec30122412347ccc634e7" title="Terminates the path evaluation and replaces the current location with the null location." alt="" coords="5,5,193,47"/>
+<area shape="rect" id="node5" href="$group__LibIOInternal.html#ga6584c557ffbfc6b6069414b8f306663d" title=" " alt="" coords="12,78,187,105"/>
+</map>

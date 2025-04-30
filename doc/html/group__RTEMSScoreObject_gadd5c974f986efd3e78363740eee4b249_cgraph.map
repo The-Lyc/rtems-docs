@@ -1,0 +1,17 @@
+<map id="_Objects_Set_name" name="_Objects_Set_name">
+<area shape="rect" id="node1" title="Sets objects name." alt="" coords="5,173,156,199"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreObject.html#ga0a217bcdc113857e4f370aea14dbe025" title="Returns if the object has a string name." alt="" coords="211,97,409,123"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreWorkspace.html#ga8bc0640d72182fd63475e74dd58c298d" title="Duplicates string with memory from the workspace." alt="" coords="204,147,416,174"/>
+<area shape="rect" id="node12" href="$dup_8c.html#a6363aa4e42f01c8c657effa91abfa421" title=" " alt="" coords="521,198,567,225"/>
+<area shape="rect" id="node15" href="$bootldr_8h.html#a36d20f7d597c517b964289f6b54ddfa7" title=" " alt="" coords="272,249,348,275"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreWorkspace.html#ga8b19b310c0e6194a2750c505367d8539" title="Allocates a memory block of the specified size from the workspace." alt="" coords="464,97,624,123"/>
+<area shape="rect" id="node14" href="$lib_8c.html#afee04a2bd3690b426c5ead287a32a1a8" title=" " alt="" coords="505,147,583,174"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreHeap.html#gad26c02ca60b04b7e5845ec959f6d4330" title="Allocates a memory area." alt="" coords="672,97,795,123"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreHeap.html#ga15167f1ad5eb93d85f15adb5e5524ff5" title="Allocates an aligned memory area with boundary constraint." alt="" coords="843,89,1021,131"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreHeap.html#ga2563e03746d89148a8782b02f6159821" title="Returns the first address in the block without the heap header." alt="" coords="1069,5,1228,47"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreHeap.html#ga0299809a91130b3da718ee889f4fe43d" title="Returns the first block of the free list of the heap." alt="" coords="1070,71,1227,98"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreHeap.html#gad25276de4aa987568f1bfc66a0c66700" title="Returns the tail of the free list of the heap." alt="" coords="1072,122,1225,149"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreHeap.html#gad88e4681224e360888f3f4bd020c97a9" title="Returns if the previous heap block is used." alt="" coords="1071,173,1226,199"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreHeap.html#ga860e7959de03ba830d0ebe1b4cca8273" title="Returns the head of the free list of the heap." alt="" coords="1276,71,1440,98"/>
+<area shape="rect" id="node13" href="$fcntl_8c.html#ad39ebe4c4767eaa9a680777400cfaafe" title=" " alt="" coords="708,198,759,225"/>
+</map>

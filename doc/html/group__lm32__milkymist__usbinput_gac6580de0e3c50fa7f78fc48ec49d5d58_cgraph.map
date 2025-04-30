@@ -1,0 +1,26 @@
+<map id="usbinput_open" name="usbinput_open">
+<area shape="rect" id="node1" title=" " alt="" coords="5,369,123,396"/>
+<area shape="rect" id="node2" href="$group__ClassicMessageQueue.html#ga8b97ede3b5602d6f5cca6229f96f27ee" title="rtems_message_queue_flush" alt="" coords="171,362,344,403"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreMessageQueue.html#gabe86da1ead8e6b01ecf69c94e1de29f2" title="Flushes pending messages." alt="" coords="404,150,583,191"/>
+<area shape="rect" id="node16" href="$group__ClassicMessageQueueImpl.html#ga2ae3fbe2f3c43ea7a991289339222f85" title=" " alt="" coords="411,369,575,396"/>
+<area shape="rect" id="node23" href="$msgmp_8h.html#a9bac7845e0fec9614833a8efb9e2eee8" title="Issues a remote rtems_message_queue_flush() request." alt="" coords="392,424,595,451"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreChain.html#ga89304b2d294b98f4909dcb6e68d7ec82" title="Returns pointer to chain&#39;s first node." alt="" coords="681,5,783,32"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreChain.html#ga8b66d3138b9cdacbcb0600c42237ff7d" title="Returns pointer to chain head." alt="" coords="907,56,1014,83"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreChain.html#ga322cf50ff1974dab1ce8d60ec94ef5f8" title="Initializes this chain as empty." alt="" coords="643,107,821,133"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreChain.html#gaf31036dacdeac30f4890d3b21fe7cad7" title="Returns pointer to chain&#39;s last node." alt="" coords="682,157,782,184"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreMessageQueue.html#ga589be0ab807a01d3d55e6be17a1f708f" title="Acquires the message queue critical." alt="" coords="643,209,821,250"/>
+<area shape="rect" id="node14" href="$group__RTEMSScoreMessageQueue.html#gabb2d48506286ad10b4bbdd3684dcb924" title="Releases the message queue." alt="" coords="643,274,821,315"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreChain.html#gac08944db6f0428125d3b0d5a1c65b740" title="Returns pointer to immutable chain head." alt="" coords="869,5,1052,32"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreChain.html#ga06f3e2dd6d64411f0565e3b483e53673" title="Returns pointer to chain tail." alt="" coords="913,107,1008,133"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreChain.html#gaa2f09e6d639b1bc5a27451eb119b6e33" title="Returns pointer to immutable chain tail." alt="" coords="875,157,1047,184"/>
+<area shape="rect" id="node12" href="$group__RTEMSScoreThreadQueue.html#ga2bb5c604a28a636950cca7aa43a47869" title="Acquires the thread queue control in a critical section." alt="" coords="872,209,1049,250"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreThreadQueue.html#gaf1488e09cc925566233f2f1fc76c4d81" title="Acquires the thread queue control in a critical section." alt="" coords="1100,209,1301,250"/>
+<area shape="rect" id="node15" href="$group__RTEMSScoreThreadQueue.html#ga0a8881ef4106a0707b2751cdd3d18bef" title="Releases the thread queue control and enables interrupts." alt="" coords="871,281,1051,308"/>
+<area shape="rect" id="node17" href="$group__RTEMSScoreObject.html#gaccc5682133e4f65b8cb374eab9be2c9d" title="Maps the specified object identifier to the associated local object control block." alt="" coords="678,340,786,367"/>
+<area shape="rect" id="node19" href="$group__RTEMSScoreThreadQueue.html#gae18ee06777084a67d286d743355d47ac" title="Initializes a thread queue context." alt="" coords="643,391,821,433"/>
+<area shape="rect" id="node18" href="$group__RTEMSScoreObject.html#ga22cdf45f285840b7728b06197a7f4627" title="Returns the index portion of the ID." alt="" coords="885,340,1036,367"/>
+<area shape="rect" id="node20" href="$group__RTEMSScoreChain.html#gab0fa19f01d37f1d510405e6382fd8b67" title="Initializes a chain node." alt="" coords="877,395,1045,421"/>
+<area shape="rect" id="node22" href="$bootldr_8h.html#a36d20f7d597c517b964289f6b54ddfa7" title=" " alt="" coords="923,445,999,472"/>
+<area shape="rect" id="node21" href="$group__RTEMSScoreChain.html#gadf0e5d55d133694eed8043ec13fe1266" title="Sets off chain." alt="" coords="1121,395,1281,421"/>
+<area shape="rect" id="node24" href="$group__PerCPU.html#ga294cfaf3cf50de03f1d9821d68b9c1bd" title="Returns the thread control block of the executing thread." alt="" coords="645,457,819,484"/>
+</map>

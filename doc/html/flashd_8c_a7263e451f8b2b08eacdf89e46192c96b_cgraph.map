@@ -1,0 +1,5 @@
+<map id="FLASHD_EraseSector" name="FLASHD_EraseSector">
+<area shape="rect" id="node1" title="Erases flash by sector." alt="" coords="5,31,164,57"/>
+<area shape="rect" id="node2" href="$efc_8c.html#aa9b30cd8bbb9ff48c04922ad5b36adfb" title="Performs the given command and wait until its completion (or an error)." alt="" coords="212,5,385,32"/>
+<area shape="rect" id="node3" href="$efc_8c.html#a577ae5d408db32f16d8e2ce7000e73e9" title="Translates the given address page and offset values." alt="" coords="216,56,381,83"/>
+</map>

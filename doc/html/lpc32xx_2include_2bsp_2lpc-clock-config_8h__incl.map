@@ -1,0 +1,13 @@
+<map id="bsps/arm/lpc32xx/include/bsp/lpc&#45;clock&#45;config.h" name="bsps/arm/lpc32xx/include/bsp/lpc&#45;clock&#45;config.h">
+<area shape="rect" id="node1" title="Clock driver configuration." alt="" coords="32,5,220,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,95,63,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="87,95,165,121"/>
+<area shape="rect" id="node4" href="$lpc32xx_8h.html" title="Register base addresses." alt="" coords="190,95,302,121"/>
+<area shape="rect" id="node5" title=" " alt="" coords="143,319,213,345"/>
+<area shape="rect" id="node6" href="$include_2bsp_2utility_8h.html" title="Utility macros." alt="" coords="261,244,359,271"/>
+<area shape="rect" id="node7" href="$lpc-timer_8h.html" title="Timer API." alt="" coords="119,244,237,271"/>
+<area shape="rect" id="node8" href="$lpc-dma_8h.html" title="DMA support API." alt="" coords="505,169,619,196"/>
+<area shape="rect" id="node10" href="$lpc-i2s_8h.html" title="I2S API." alt="" coords="238,169,342,196"/>
+<area shape="rect" id="node11" href="$lpc-emc_8h.html" title="EMC support API." alt="" coords="367,169,480,196"/>
+<area shape="rect" id="node9" title=" " alt="" coords="519,244,605,271"/>
+</map>

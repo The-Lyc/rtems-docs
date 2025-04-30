@@ -1,0 +1,4 @@
+<map id="spi_bus_register_atsam" name="spi_bus_register_atsam">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,181,32"/>
+<area shape="rect" id="node2" href="$group__SPI.html#ga009e374a9df42c65a879677a4434ed49" title="Allocates a bus control from the heap and initializes it." alt="" coords="229,5,397,32"/>
+</map>

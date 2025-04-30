@@ -1,0 +1,5 @@
+<map id="_Scheduler_EDF_Cancel_job" name="_Scheduler_EDF_Cancel_job">
+<area shape="rect" id="node1" title="Cancels a job and removes the thread from the queue context." alt="" coords="492,5,696,32"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreSchedulerCBS.html#gaa7df4531e6a166ebebde6355dba251a6" title="Cancels a job." alt="" coords="240,5,444,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreSchedulerCBS.html#gae0d9c2720ee46efdfe87ebf87cd45cae" title="Unblocks a thread." alt="" coords="5,5,192,32"/>
+</map>

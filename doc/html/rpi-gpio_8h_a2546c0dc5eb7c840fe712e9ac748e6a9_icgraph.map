@@ -1,0 +1,4 @@
+<map id="rpi_gpio_select_spi" name="rpi_gpio_select_spi">
+<area shape="rect" id="node1" title="Setups a SPI interface." alt="" coords="147,5,293,32"/>
+<area shape="rect" id="node2" href="$arm_2raspberrypi_2spi_2spi_8c.html#abaa5b02fa144b553c3dd5241a4c712d9" title="Setups the Raspberry Pi SPI bus (located on the GPIO header) on the &quot;/dev/spi&quot; device file,..." alt="" coords="5,5,99,32"/>
+</map>

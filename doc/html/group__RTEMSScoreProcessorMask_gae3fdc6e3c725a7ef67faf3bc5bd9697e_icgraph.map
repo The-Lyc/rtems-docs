@@ -1,0 +1,7 @@
+<map id="_Processor_mask_Count" name="_Processor_mask_Count">
+<area shape="rect" id="node1" title="Gets the number of set bits in the processor mask." alt="" coords="476,64,656,91"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreScheduler.html#gabc8aeee22cfaf3f6bf7d69b67d26635a" title="Gets the number of processors of the scheduler." alt="" coords="235,23,428,65"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreSchedulerPriorityAffinitySMP.html#gab61693a5ce8950f216338a502a68b7ac" title="Sets affinity for the priority affinity SMP scheduler." alt="" coords="236,89,427,130"/>
+<area shape="rect" id="node3" href="$sched_8c.html#af76cf1a8afb380ce5637641e60c6fcff" title=" " alt="" coords="5,5,187,32"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreScheduler.html#gafdf8dfa2c90ca2122b995bb6dd42fcda" title="Sets a new scheduler." alt="" coords="35,56,157,83"/>
+</map>

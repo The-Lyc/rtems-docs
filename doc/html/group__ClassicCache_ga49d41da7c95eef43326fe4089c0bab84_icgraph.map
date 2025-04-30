@@ -1,0 +1,4 @@
+<map id="rtems_cache_invalidate_multiple_instruction_lines" name="rtems_cache_invalidate_multiple_instruction_lines">
+<area shape="rect" id="node1" title="Invalidates multiple instruction cache lines." alt="" coords="241,5,439,47"/>
+<area shape="rect" id="node2" href="$group__ClassicCache.html#ga5e231667c6314e520fe3d77d64f260ee" title="Ensure necessary synchronization required after code changes." alt="" coords="5,5,193,47"/>
+</map>

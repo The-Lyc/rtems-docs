@@ -1,0 +1,11 @@
+<map id="bsps/arm/lpc176x/include/bsp/can&#45;defs.h" name="bsps/arm/lpc176x/include/bsp/can&#45;defs.h">
+<area shape="rect" id="node1" title="CAN controller for the lpc176x controller." alt="" coords="63,5,251,47"/>
+<area shape="rect" id="node2" href="$common-types_8h.html" title="Definitions types used by some devices in common." alt="" coords="5,95,164,121"/>
+<area shape="rect" id="node3" href="$can_8h.html" title="CAN controller for the mbed lpc1768 board." alt="" coords="188,95,272,121"/>
+<area shape="rect" id="node4" title=" " alt="" coords="112,169,169,196"/>
+<area shape="rect" id="node5" title=" " alt="" coords="193,169,267,196"/>
+<area shape="rect" id="node6" href="$lpc176x_8h.html" title="Specific register definitions according to lpc176x family boards." alt="" coords="291,169,403,196"/>
+<area shape="rect" id="node7" href="$lpc-i2s_8h.html" title="I2S API." alt="" coords="295,244,399,271"/>
+<area shape="rect" id="node8" href="$include_2bsp_2utility_8h.html" title="Utility macros." alt="" coords="299,319,396,345"/>
+<area shape="rect" id="node9" title=" " alt="" coords="312,393,383,420"/>
+</map>

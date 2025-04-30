@@ -1,0 +1,4 @@
+<map id="i2c_rdwr_ioctl_data" name="i2c_rdwr_ioctl_data">
+<area shape="rect" id="node1" title="Argument type for I2C_RDWR IO control call." alt="" coords="5,95,153,121"/>
+<area shape="rect" id="node2" href="$structi2c__msg.html" title="I2C transfer message." alt="" coords="41,5,117,32"/>
+</map>

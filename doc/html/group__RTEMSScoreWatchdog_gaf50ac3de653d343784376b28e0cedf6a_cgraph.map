@@ -1,0 +1,4 @@
+<map id="_Watchdog_Is_valid_interval_timespec" name="_Watchdog_Is_valid_interval_timespec">
+<area shape="rect" id="node1" title="Checks if the timespec is a valid interval timespec for a watchdog." alt="" coords="5,5,156,47"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreWatchdog.html#gacc1967581868e41a96cd0a3181b3e755" title="Checks if the timespec is a valid timespec for a watchdog." alt="" coords="204,5,355,47"/>
+</map>

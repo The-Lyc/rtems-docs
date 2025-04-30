@@ -1,0 +1,9 @@
+<map id="_pci_private" name="_pci_private">
+<area shape="rect" id="node1" title=" " alt="" coords="116,543,217,569"/>
+<area shape="rect" id="node2" href="$struct__pci__resource.html" title=" " alt="" coords="27,299,138,325"/>
+<area shape="rect" id="node3" href="$structpci__dev.html" title=" " alt="" coords="71,96,143,123"/>
+<area shape="rect" id="node5" href="$structpci__bus.html" title=" " alt="" coords="183,239,254,266"/>
+<area shape="rect" id="node4" href="$structpci__res.html" title=" " alt="" coords="73,5,141,32"/>
+<area shape="rect" id="node7" href="$struct__pci__area.html" title=" " alt="" coords="259,349,343,376"/>
+<area shape="rect" id="node6" href="$struct__pci__area__head.html" title=" " alt="" coords="253,439,376,465"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="_Objects_Id_to_name" name="_Objects_Id_to_name">
+<area shape="rect" id="node1" title="Returns the name associated with object id." alt="" coords="5,92,167,119"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreObject.html#gaccc5682133e4f65b8cb374eab9be2c9d" title="Maps the specified object identifier to the associated local object control block." alt="" coords="749,5,857,32"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreObject.html#ga73bb4fe5d6c1200fba89863b6d5fe6db" title="Gets information of an object from an ID." alt="" coords="215,67,425,93"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreObject.html#ga0a217bcdc113857e4f370aea14dbe025" title="Returns if the object has a string name." alt="" coords="221,117,419,144"/>
+<area shape="rect" id="node11" href="$group__PerCPU.html#ga294cfaf3cf50de03f1d9821d68b9c1bd" title="Returns the thread control block of the executing thread." alt="" coords="233,168,407,195"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreObject.html#ga22cdf45f285840b7728b06197a7f4627" title="Returns the index portion of the ID." alt="" coords="943,81,1093,108"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreObject.html#ga907a0412d7c657fa047641444090fe7b" title="Returns the API portion of the ID." alt="" coords="501,41,637,68"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreObject.html#ga450c379424f26235d60f702638d229fa" title="Returns the class portion of the ID." alt="" coords="495,92,643,119"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreObject.html#gaf45a5862e6e8eab0823ef39dfd1e9403" title="Gets object information." alt="" coords="473,143,664,169"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreObject.html#ga160a712acafe6e9c4a8b9ea6dcc2597b" title="Returns highest numeric value of a valid API for the specified API." alt="" coords="713,70,893,111"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreObject.html#gadf825a94fecd0945a4368e503e274bfd" title="Returns the maximum index of the specified object class." alt="" coords="712,135,895,177"/>
+</map>

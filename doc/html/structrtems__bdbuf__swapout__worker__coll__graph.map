@@ -1,0 +1,11 @@
+<map id="rtems_bdbuf_swapout_worker" name="rtems_bdbuf_swapout_worker">
+<area shape="rect" id="node1" title=" " alt="" coords="42,409,209,451"/>
+<area shape="rect" id="node2" href="$structrtems__bdbuf__swapout__transfer.html" title=" " alt="" coords="301,305,467,347"/>
+<area shape="rect" id="node3" href="$structrtems__blkdev__request.html" title="The block device transfer request is used to read or write a number of blocks from or to the device." alt="" coords="498,215,665,241"/>
+<area shape="rect" id="node4" href="$structrtems__blkdev__sg__buffer.html" title="Block device scatter or gather buffer structure." alt="" coords="492,112,671,139"/>
+<area shape="rect" id="node5" href="$structrtems__disk__device.html" title="Description of a disk device (logical and physical disks)." alt="" coords="167,215,311,241"/>
+<area shape="rect" id="node6" href="$structrtems__blkdev__read__ahead.html" title="Block device read&#45;ahead control." alt="" coords="219,112,413,139"/>
+<area shape="rect" id="node7" href="$structChain__Node__struct.html" title=" " alt="" coords="244,7,388,33"/>
+<area shape="rect" id="node9" href="$unionChain__Control.html" title=" " alt="" coords="391,163,505,189"/>
+<area shape="rect" id="node8" href="$structrtems__blkdev__stats.html" title="Block device statistics." alt="" coords="43,112,194,139"/>
+</map>

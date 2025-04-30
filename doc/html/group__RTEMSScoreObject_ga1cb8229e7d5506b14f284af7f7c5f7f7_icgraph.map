@@ -1,0 +1,10 @@
+<map id="_Objects_Get_by_name" name="_Objects_Get_by_name">
+<area shape="rect" id="node1" title="Gets an object control block identified by its name." alt="" coords="400,82,575,109"/>
+<area shape="rect" id="node2" href="$mqueueimpl_8h.html#a4c23b900f5ea4ad1121cdaa61736d54c" title=" " alt="" coords="161,5,341,47"/>
+<area shape="rect" id="node4" href="$posix_2semaphoreimpl_8h.html#a5bd03287a652f0e924442facd8d6682c" title=" " alt="" coords="162,75,341,116"/>
+<area shape="rect" id="node7" href="$group__POSIXShmPrivate.html#ga266d01a864eefc0b09ab15154cba7cff" title=" " alt="" coords="151,147,352,174"/>
+<area shape="rect" id="node3" href="$mqueueunlink_8c.html#accd8c5ee36e60d990963e1d544ef4140" title=" " alt="" coords="9,9,99,35"/>
+<area shape="rect" id="node5" href="$semopen_8c.html#a6efb777ffb2b3641875a813a1b22912d" title=" " alt="" coords="9,59,99,86"/>
+<area shape="rect" id="node6" href="$semunlink_8c.html#a776256d1a473906f8b7490689bfcb75c" title=" " alt="" coords="5,110,103,137"/>
+<area shape="rect" id="node8" href="$shmunlink_8c.html#a4037e49e9537e24edd610bd1acf090da" title=" " alt="" coords="5,161,103,187"/>
+</map>

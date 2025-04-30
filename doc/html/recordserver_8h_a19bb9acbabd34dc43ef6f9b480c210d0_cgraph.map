@@ -1,0 +1,4 @@
+<map id="rtems_record_writev" name="rtems_record_writev">
+<area shape="rect" id="node1" title="Drains the record items on all processors an writes them to the file descriptor." alt="" coords="5,5,161,32"/>
+<area shape="rect" id="node2" href="$group__RTEMSRecord.html#ga99ed015930e0cc3e9c1a802b80dacb69" title="Drains the record items on all processors." alt="" coords="209,5,357,32"/>
+</map>

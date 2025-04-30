@@ -1,0 +1,4 @@
+<map id="SUPC_SelectExtCrystal32K" name="SUPC_SelectExtCrystal32K">
+<area shape="rect" id="node1" title="Select external 32K Crystal." alt="" coords="5,5,201,32"/>
+<area shape="rect" id="node2" href="$atsam_2contrib_2libraries_2libchip_2source_2pmc_8c.html#aec705190fa14349d93b3810961b40cc1" title="Configure PLLA as clock input for MCK." alt="" coords="249,5,421,32"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="_Heap_Get_first_and_last_block" name="_Heap_Get_first_and_last_block">
+<area shape="rect" id="node1" title="Gets the first and last block for the heap area." alt="" coords="683,82,839,123"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreHeap.html#ga7484f40d81ae26a7f5b3773a2dd006be" title="Extends the memory available for the heap." alt="" coords="514,35,629,61"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreHeap.html#gac5974c7ccf84c152ba6c8e17bea3ca5f" title="Initializes the heap control block." alt="" coords="508,115,635,141"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreProtHeap.html#gaeafd4fefda9100f0b9484f97f19d1093" title="Extends the protected heap." alt="" coords="272,5,455,32"/>
+<area shape="rect" id="node4" href="$rtems__heap__extend__via__sbrk_8c.html#aaab427c995cc0c8e362e991a7877b261" title="RTEMS Extend Heap via Sbrk." alt="" coords="5,5,219,32"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreProtHeap.html#ga0f09fcdd50fcb5de78cdb10c0cb3b7e5" title="Initializes the protected heap." alt="" coords="267,56,460,83"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreWorkspace.html#gac10ac71b406698cb4441aff69a80c847" title="Initilizes the workspace handler." alt="" coords="284,107,443,149"/>
+<area shape="rect" id="node8" href="$group__bsp__stack.html#ga5525bfd94b2a806da939383fe0c2fde1" title="Task stack allocator initialization for CONFIGURE_TASK_STACK_ALLOCATOR_INIT." alt="" coords="276,173,451,200"/>
+<area shape="rect" id="node9" href="$group__ClassicRegion.html#ga024758f91cbf73e06cbc4c85df83d1ca" title="rtems_region_create" alt="" coords="285,224,441,251"/>
+</map>

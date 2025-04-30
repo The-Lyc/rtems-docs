@@ -1,0 +1,6 @@
+<map id="cpu_init" name="cpu_init">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,79,83"/>
+<area shape="rect" id="node2" href="$i386-stub-glue_8c.html#a1e0a236f3682681ac79ede3a128bffd5" title=" " alt="" coords="165,5,244,32"/>
+<area shape="rect" id="node3" href="$arm_2include_2libcpu_2mmu_8h.html#a81440c858b5734b0ca56c35c79d45013" title=" " alt="" coords="163,56,247,83"/>
+<area shape="rect" id="node4" href="$group__ClassicCache.html#gaf8c11725044ff1612a412984fa9ed599" title=" " alt="" coords="127,107,283,149"/>
+</map>

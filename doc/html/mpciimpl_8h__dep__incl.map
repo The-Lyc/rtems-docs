@@ -1,0 +1,12 @@
+<map id="cpukit/include/rtems/score/mpciimpl.h" name="cpukit/include/rtems/score/mpciimpl.h">
+<area shape="rect" id="node1" title="MPCI Layer Implementation." alt="" coords="720,5,875,47"/>
+<area shape="rect" id="node2" href="$eventmp_8h.html" title=" " alt="" coords="5,95,160,136"/>
+<area shape="rect" id="node3" href="$msgmp_8h.html" title="Message Manager MP Support." alt="" coords="184,95,339,136"/>
+<area shape="rect" id="node4" href="$partmp_8h.html" title="MP Support in Partition Manager." alt="" coords="363,95,517,136"/>
+<area shape="rect" id="node5" href="$signalmp_8h.html" title="Signal MP Support." alt="" coords="541,95,696,136"/>
+<area shape="rect" id="node6" href="$taskmp_8h.html" title=" " alt="" coords="720,95,875,136"/>
+<area shape="rect" id="node7" href="$threadmp_8h.html" title="Multiprocessing Portion of the Thread Package." alt="" coords="899,95,1053,136"/>
+<area shape="rect" id="node8" href="$barriermp_8h.html" title="MP Support in the Barrier Manager." alt="" coords="1077,95,1264,136"/>
+<area shape="rect" id="node9" href="$mp_8c.html" title="MP Support." alt="" coords="1288,102,1451,129"/>
+<area shape="rect" id="node10" href="$mpci_8c.html" title="Multiprocessing Communications Interface (MPCI) Handler." alt="" coords="1475,102,1645,129"/>
+</map>

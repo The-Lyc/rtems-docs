@@ -1,0 +1,52 @@
+<map id="grspw_work_spawn" name="grspw_work_spawn">
+<area shape="rect" id="node1" title=" " alt="" coords="5,653,155,680"/>
+<area shape="rect" id="node2" href="$grspw__pkt_8c.html#abe4e23629008fbd55a6f28806300375a" title=" " alt="" coords="222,256,357,283"/>
+<area shape="rect" id="node3" href="$rtemsbuildname_8c.html#ad25f5ed0c4beb0750db5c0aab39f4bd1" title=" " alt="" coords="218,307,361,333"/>
+<area shape="rect" id="node4" href="$group__ClassicMessageQueue.html#gaea76fd325e8a84810f2be119448a307d" title="RTEMS Create Message Queue." alt="" coords="203,358,376,399"/>
+<area shape="rect" id="node26" href="$group__ClassicMessageQueue.html#ga4cf66620ef43543885708a1185b386ab" title="RTEMS Delete Message Queue." alt="" coords="203,646,376,687"/>
+<area shape="rect" id="node40" href="$group__ClassicTasks.html#gabffda1c2301962f0ae5af042ac0bba62" title="RTEMS Task Create." alt="" coords="218,712,361,739"/>
+<area shape="rect" id="node41" href="$group__ClassicTasks.html#gaf7c82a7fa13338a65583dc3d760ad9cc" title="RTEMS Delete Task." alt="" coords="218,1180,361,1207"/>
+<area shape="rect" id="node48" href="$group__ClassicTasks.html#gac7fe1362154946d78978ceb4f116f13e" title="RTEMS Start Task." alt="" coords="223,1361,355,1388"/>
+<area shape="rect" id="node5" href="$group__ClassicAttributesImpl.html#gae96795baaff6c74b42a9dafd286b93f7" title="Clears the requested new_attributes in the attribute_set passed in." alt="" coords="457,289,591,316"/>
+<area shape="rect" id="node6" href="$group__ClassicAttributesImpl.html#ga54cc0d8f84115e7e29a83d3400398833" title="Checks if the priority attribute is enabled in the attribute_set." alt="" coords="441,5,607,32"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreMessageQueue.html#ga5358dca7fe0334940c9bfed58b4e520a" title="Initializes a message queue." alt="" coords="435,57,613,98"/>
+<area shape="rect" id="node8" href="$group__ClassicMessageQueueImpl.html#ga7fecd1a88eefb5ad554e06e265792d1f" title=" " alt="" coords="427,188,621,215"/>
+<area shape="rect" id="node11" href="$group__ClassicMessageQueueImpl.html#gabfd337c2b1bf986059d7bfea27b50a7d" title="Deallocates a message queue control block into the inactive chain of free message queue control block..." alt="" coords="439,391,609,417"/>
+<area shape="rect" id="node13" href="$msgmp_8h.html#a4985f5bb2bf91feb98d7755aa270535e" title="_Message_queue_MP_Send_process_packet" alt="" coords="424,558,624,599"/>
+<area shape="rect" id="node14" href="$group__RTEMSScoreObject.html#ga41a6751fdfbe5adc5f9cb5d12cc8a214" title="Unlocks the object allocator mutex." alt="" coords="453,493,595,534"/>
+<area shape="rect" id="node16" href="$group__RTEMSScoreObjectMP.html#gaee5f1bac6bea600e8f437c6cb0458f97" title="Allocates a global object control block and places it in the specified information table." alt="" coords="441,122,607,163"/>
+<area shape="rect" id="node21" href="$group__RTEMSScoreObjectMP.html#gaddafb4298b03f748102e804b89aaea15" title="Removes a global object from the specified information table." alt="" coords="450,441,598,468"/>
+<area shape="rect" id="node22" href="$group__RTEMSScoreObject.html#ga09c8a97720f6c6dd41849c5c4101e49d" title="Places the_object control pointer and object name in the Local Pointer and Local Name Tables,..." alt="" coords="707,369,826,396"/>
+<area shape="rect" id="node25" href="$group__ClassicTasks.html#ga18cea13f764d37604f3cf92183d2106b" title="Returns true if the name is valid, and false otherwise." alt="" coords="443,239,605,265"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreObject.html#ga3978b5150ea104a85bb28db0585ae000" title="Allocates an object." alt="" coords="697,275,836,301"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreAllocatorMutex.html#ga89aa77edce0d5557b1a7e9d9ef7999c8" title=" " alt="" coords="909,428,1084,455"/>
+<area shape="rect" id="node12" href="$group__RTEMSScoreObject.html#ga2215dcf7e3251e6f629b6a3a96fff44e" title="Frees an object." alt="" coords="710,420,823,447"/>
+<area shape="rect" id="node15" href="$group__RTEMSScoreAllocatorMutex.html#ga15d657c04537c2ad1841adc28b8dd747" title=" " alt="" coords="672,500,861,527"/>
+<area shape="rect" id="node17" href="$group__RTEMSScoreIntErr.html#ga092fa4be4bda2528754b494e901d3d2a" title="Terminates the system with an INTERNAL_ERROR_CORE fatal source and the specified core error code." alt="" coords="708,209,825,236"/>
+<area shape="rect" id="node18" href="$group__RTEMSScoreObjectMP.html#gaac123fca33d27617283f1d6ec4a4f1bd" title="This function allocates a Global Object control block." alt="" coords="684,27,849,69"/>
+<area shape="rect" id="node19" href="$group__RTEMSScoreObjectMP.html#ga56fbd183d677d4aa85be7b6ce66de13b" title="Checks if the global object is NULL or not." alt="" coords="689,93,844,134"/>
+<area shape="rect" id="node20" href="$group__RTEMSScoreObjectMP.html#gaa5c13d3459c22165867d079319392ee6" title="Place the specified global object in the specified information table." alt="" coords="693,159,840,185"/>
+<area shape="rect" id="node23" href="$group__RTEMSScoreObject.html#ga22cdf45f285840b7728b06197a7f4627" title="Returns the index portion of the ID." alt="" coords="921,771,1072,797"/>
+<area shape="rect" id="node24" href="$group__RTEMSScoreObject.html#ga9c697fd8a483c32420ccfff211ec3c14" title="Sets the pointer to the local_table object referenced by the index." alt="" coords="925,494,1069,535"/>
+<area shape="rect" id="node27" href="$group__RTEMSScoreMessageQueue.html#ga589be0ab807a01d3d55e6be17a1f708f" title="Acquires the message queue critical." alt="" coords="435,858,613,899"/>
+<area shape="rect" id="node29" href="$group__RTEMSScoreMessageQueue.html#ga98d64cbe51135fb2e313644c1158a1f7" title="Closes a message queue." alt="" coords="435,675,613,717"/>
+<area shape="rect" id="node31" href="$group__ClassicMessageQueueImpl.html#ga2ae3fbe2f3c43ea7a991289339222f85" title=" " alt="" coords="442,924,606,951"/>
+<area shape="rect" id="node34" href="$msgmp_8h.html#aef58d6737535c5f859ac47274926ccc7" title=" " alt="" coords="435,975,613,1017"/>
+<area shape="rect" id="node36" href="$msgmp_8h.html#a05f61e0f9029e612b490d480bc68b68b" title="_Message_queue_MP_Send_object_was_deleted" alt="" coords="424,741,624,782"/>
+<area shape="rect" id="node37" href="$group__RTEMSScoreObject.html#ga3059733162454cc71ff73288ba9b4dfd" title="Locks the object allocator mutex." alt="" coords="678,588,855,615"/>
+<area shape="rect" id="node38" href="$group__RTEMSScoreObject.html#ga48be735854a391514fdac4881e9ef8fc" title="Closes object." alt="" coords="463,807,585,833"/>
+<area shape="rect" id="node28" href="$group__RTEMSScoreThreadQueue.html#ga2bb5c604a28a636950cca7aa43a47869" title="Acquires the thread queue control in a critical section." alt="" coords="678,854,855,895"/>
+<area shape="rect" id="node30" href="$group__RTEMSScoreThreadQueue.html#gac979e73bbbb59a3157ebd782ff70df0c" title="Unblocks all threads enqueued on the thread queue." alt="" coords="685,675,848,717"/>
+<area shape="rect" id="node32" href="$group__RTEMSScoreObject.html#gaccc5682133e4f65b8cb374eab9be2c9d" title="Maps the specified object identifier to the associated local object control block." alt="" coords="713,985,821,1012"/>
+<area shape="rect" id="node33" href="$group__RTEMSScoreThreadQueue.html#gae18ee06777084a67d286d743355d47ac" title="Initializes a thread queue context." alt="" coords="677,919,856,961"/>
+<area shape="rect" id="node35" href="$group__RTEMSScoreObjectMP.html#gae1144d0c54b95368022bd861539e9694" title="Checks if the object identifier is in the global object identifier cache of the specified object info..." alt="" coords="678,1200,855,1227"/>
+<area shape="rect" id="node39" href="$group__RTEMSScoreObject.html#gabcf4e7e43d740a83abd8651c86fc3260" title="Invalidates an object Id." alt="" coords="682,771,851,797"/>
+<area shape="rect" id="node42" href="$group__RTEMSScoreThread.html#gaf42a844061758d4a5bda639ffc21b8f5" title="Closes the thread." alt="" coords="465,1209,583,1236"/>
+<area shape="rect" id="node43" href="$group__RTEMSScoreThread.html#gab0c773b97624be1dc304a2d3d038f19a" title="Enables thread dispatching." alt="" coords="429,1260,619,1287"/>
+<area shape="rect" id="node44" href="$group__RTEMSScoreThread.html#ga99bebb00c256fb08bd5c1bdf546c5e1f" title="Exits the currently executing thread." alt="" coords="471,1092,577,1119"/>
+<area shape="rect" id="node45" href="$group__RTEMSScoreThread.html#gadc33b4b428dfc134ae1622441433b1a1" title="Gets a thread by its identifier." alt="" coords="472,1311,576,1337"/>
+<area shape="rect" id="node46" href="$group__RTEMSScoreThreadMP.html#ga8c8c9e4dadd94632600e764d4e85ee89" title="Checks if the thread MP with this object id is remote." alt="" coords="437,1361,611,1388"/>
+<area shape="rect" id="node47" href="$group__RTEMSScoreThreadQueue.html#ga8dcef3658d8266b9f66015474e2c88bd" title="Disables dispatching in a critical section." alt="" coords="431,1143,617,1185"/>
+<area shape="rect" id="node49" href="$group__RTEMSScoreThread.html#ga9223b77920482b86fba30d4113be119f" title="Calls the start kinds numeric entry of the thread." alt="" coords="438,1463,610,1505"/>
+<area shape="rect" id="node50" href="$group__RTEMSScoreThread.html#ga03378c6b7617ec1b5fcc541423e662e5" title="Initializes thread and executes it." alt="" coords="468,1412,580,1439"/>
+</map>

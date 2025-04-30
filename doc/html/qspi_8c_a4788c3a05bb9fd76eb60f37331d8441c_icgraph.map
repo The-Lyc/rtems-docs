@@ -1,0 +1,5 @@
+<map id="QSPI_ReadSPI" name="QSPI_ReadSPI">
+<area shape="rect" id="node1" title="Read QSPI RDR register for SPI mode." alt="" coords="205,31,317,57"/>
+<area shape="rect" id="node2" href="$qspi_8h.html#aa8e703416d8faf7e6ca68d18c1da6115" title="Reads multiple data received by a SPI peripheral. This method must be called after a successful SPI_W..." alt="" coords="9,5,154,32"/>
+<area shape="rect" id="node3" href="$qspi_8h.html#aaa891e040401e77f8f68068c6751a558" title="Reads the data received by a SPI peripheral. This method must be called after a successful SPI_Write ..." alt="" coords="5,56,157,83"/>
+</map>

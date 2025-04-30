@@ -1,0 +1,15 @@
+<map id="rtems_printf" name="rtems_printf">
+<area shape="rect" id="node1" title="Print to the kernel plugin handler. This has to be a macro because there is no vprint version of the ..." alt="" coords="480,225,583,251"/>
+<area shape="rect" id="node2" href="$irq-info_8c.html#a168f97599eb189fe05bd02878c26109b" title="Prints interrupt information via the printk plugin print with the context context." alt="" coords="257,5,411,47"/>
+<area shape="rect" id="node4" href="$group__rtems__blkdev.html#gab318e4ab409ba1adb81fd6ad21314656" title="Prints the block device statistics." alt="" coords="260,71,408,112"/>
+<area shape="rect" id="node5" href="$group__libmisc__cpuuse.html#gaf6abf25be4a36f4f36e44b9b5bedb6d5" title="Reports per&#45;processor information." alt="" coords="250,137,418,163"/>
+<area shape="rect" id="node6" href="$group__libmisc__cpuuse.html#ga848ef3a820832a30320d3fe4ab710e3d" title=" " alt="" coords="243,188,425,229"/>
+<area shape="rect" id="node8" href="$rtl-shell_8c.html#ab9ed5fe1cd6d728c22f423a566b3ec1e" title=" " alt="" coords="251,254,417,281"/>
+<area shape="rect" id="node9" href="$group__libmisc__stackchk.html#ga25ea63d8178d6eb26d2a1148bb03117d" title="Print the stack usage report using caller&#39;s routine." alt="" coords="236,305,432,347"/>
+<area shape="rect" id="node11" href="$group__RTEMSTest.html#gafeae3b6d6cf174a0e91d6347be9cd211" title="Prints an end of test message using printf()." alt="" coords="273,371,395,398"/>
+<area shape="rect" id="node12" href="$group__libmisc__untar__img.html#gaa1f6ef47bd896c6caa14161c594cc4e0" title=" " alt="" coords="239,422,429,449"/>
+<area shape="rect" id="node3" href="$irq-info_8c.html#aedadad85f99e06e3101e9da39b343985" title="Prints interrupt information via the default printk plugin." alt="" coords="19,13,174,39"/>
+<area shape="rect" id="node7" href="$group__libmisc__cpuuse.html#gadb8847280947582f897b8b544dee213f" title="Report CPU usage." alt="" coords="5,195,188,222"/>
+<area shape="rect" id="node10" href="$group__libmisc__stackchk.html#ga8df4c8fbe9071233068782c83dc83fd0" title="Print the stack usage report using printk." alt="" coords="17,305,176,347"/>
+<area shape="rect" id="node13" href="$group__libmisc__untar__img.html#gaf0495981700b3d5dbb2b00b6183bbf94" title=" " alt="" coords="21,422,173,449"/>
+</map>

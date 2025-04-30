@@ -1,0 +1,4 @@
+<map id="_Chain_Last" name="_Chain_Last">
+<area shape="rect" id="node1" title="Returns pointer to chain&#39;s last node." alt="" coords="5,5,105,32"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreChain.html#gaa2f09e6d639b1bc5a27451eb119b6e33" title="Returns pointer to immutable chain tail." alt="" coords="153,5,325,32"/>
+</map>

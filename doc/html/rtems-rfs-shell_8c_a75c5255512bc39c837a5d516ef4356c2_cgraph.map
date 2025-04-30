@@ -1,0 +1,21 @@
+<map id="rtems_shell_rfs_format" name="rtems_shell_rfs_format">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,179,32"/>
+<area shape="rect" id="node2" href="$bootldr_8h.html#a36d20f7d597c517b964289f6b54ddfa7" title=" " alt="" coords="891,5,967,32"/>
+<area shape="rect" id="node3" href="$rtems-rfs-format_8h.html#a56f021e1569663ecb2f46921a35e1a17" title=" " alt="" coords="227,31,361,57"/>
+<area shape="rect" id="node4" href="$group__ClassicChains.html#gabcf5131393d65f667c67e88cf646ff99" title="Initialize this chain as empty." alt="" coords="411,177,576,218"/>
+<area shape="rect" id="node8" href="$rtems-rfs-buffer_8h.html#af8b9acf77d20824a7121b89ab7b29bf9" title=" " alt="" coords="409,79,577,105"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreChain.html#ga322cf50ff1974dab1ce8d60ec94ef5f8" title="Initializes this chain as empty." alt="" coords="625,208,804,235"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreChain.html#ga8b66d3138b9cdacbcb0600c42237ff7d" title="Returns pointer to chain head." alt="" coords="876,259,983,285"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreChain.html#ga06f3e2dd6d64411f0565e3b483e53673" title="Returns pointer to chain tail." alt="" coords="882,208,977,235"/>
+<area shape="rect" id="node9" href="$fstat_8c.html#a23e97e216411694f310e15d36b34ef9c" title=" " alt="" coords="689,56,741,83"/>
+<area shape="rect" id="node10" href="$open_8c.html#a62e93eb794fed24c0f46c6acda6ea510" title=" " alt="" coords="687,157,742,184"/>
+<area shape="rect" id="node19" href="$rtems-rfs-trace_8h.html#ac3ad3d65a0c8d230ec5b076c78f09fd2" title=" " alt="" coords="653,107,777,133"/>
+<area shape="rect" id="node11" href="$group__LibIOInternal.html#ga2021231771d73c426958cf0bb7400666" title=" " alt="" coords="852,157,1007,184"/>
+<area shape="rect" id="node12" href="$group__LibIOInternal.html#ga12b4b45fb45758475cfbfa8606c7ae9d" title=" " alt="" coords="1063,132,1192,159"/>
+<area shape="rect" id="node16" href="$group__LibIOInternal.html#gac22d5afbe375148eef15304958bc4cec" title=" " alt="" coords="1055,183,1200,209"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreAPIMutex.html#ga57829ca494f1d866219c499eadb0ffc9" title="Acquires the specified API mutex." alt="" coords="1256,132,1391,159"/>
+<area shape="rect" id="node14" href="$mutex_8c.html#a2960aef6016ac8937f24108f9cdeebd0" title=" " alt="" coords="1451,107,1645,133"/>
+<area shape="rect" id="node15" href="$group__RTEMSScoreThread.html#gad5aaea7af4482aebd880403fb9c238af" title="Set the thread to life protected." alt="" coords="1447,157,1649,184"/>
+<area shape="rect" id="node17" href="$group__RTEMSScoreAPIMutex.html#ga64a430ae861d0ce7f63413e651fbe36d" title="Releases the specified API mutex." alt="" coords="1248,183,1399,209"/>
+<area shape="rect" id="node18" href="$mutex_8c.html#adecd7211e7a1a5035841212574f45b31" title=" " alt="" coords="1450,208,1646,235"/>
+</map>

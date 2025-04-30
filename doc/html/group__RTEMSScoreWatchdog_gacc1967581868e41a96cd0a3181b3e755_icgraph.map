@@ -1,0 +1,9 @@
+<map id="_Watchdog_Is_valid_timespec" name="_Watchdog_Is_valid_timespec">
+<area shape="rect" id="node1" title="Checks if the timespec is a valid timespec for a watchdog." alt="" coords="936,39,1087,80"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreWatchdog.html#gaf50ac3de653d343784376b28e0cedf6a" title="Checks if the timespec is a valid interval timespec for a watchdog." alt="" coords="727,5,877,47"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreWatchdog.html#ga04e1294fd46a613921a5323b3dc0b090" title="Converts the timespec in ticks." alt="" coords="716,71,888,112"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreWatchdog.html#ga1bc0554fdaf14c4a01c4a1bc15ddca48" title="Adds the delta timespec to the current time if the delta is a valid interval timespec." alt="" coords="460,13,668,39"/>
+<area shape="rect" id="node4" href="$nanosleep_8c.html#a924d51d78cdcd9d7dee2613fb3a33cd1" title=" " alt="" coords="281,13,412,39"/>
+<area shape="rect" id="node5" href="$nanosleep_8c.html#a9ce6a1ed91a601dee133c8b6cf8b721a" title=" " alt="" coords="144,13,233,39"/>
+<area shape="rect" id="node6" href="$thrd_8c.html#a77f5f79db415e2363470a8570250f785" title=" " alt="" coords="5,13,96,39"/>
+</map>

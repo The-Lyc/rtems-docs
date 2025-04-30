@@ -1,0 +1,12 @@
+<map id="cpukit/score/cpu/lm32/include/rtems/score/cpuatomic.h" name="cpukit/score/cpu/lm32/include/rtems/score/cpuatomic.h">
+<area shape="rect" id="node1" title=" " alt="" coords="122,5,287,61"/>
+<area shape="rect" id="node2" href="$cpustdatomic_8h.html" title="Atomic Operations CPU API." alt="" coords="103,109,306,136"/>
+<area shape="rect" id="node3" href="$basedefs_8h.html" title="Basic Definitions." alt="" coords="197,333,372,360"/>
+<area shape="rect" id="node8" href="$isrlevel_8h.html" title="ISR Level Type." alt="" coords="183,184,346,211"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,408,172,435"/>
+<area shape="rect" id="node5" title=" " alt="" coords="197,408,271,435"/>
+<area shape="rect" id="node6" title=" " alt="" coords="295,408,378,435"/>
+<area shape="rect" id="node7" title=" " alt="" coords="403,408,473,435"/>
+<area shape="rect" id="node9" title=" " alt="" coords="183,259,322,285"/>
+<area shape="rect" id="node10" href="$assert_8h.html" title="Information for the Assert Handler." alt="" coords="346,259,501,285"/>
+</map>

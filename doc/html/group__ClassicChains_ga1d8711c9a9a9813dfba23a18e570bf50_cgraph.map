@@ -1,0 +1,7 @@
+<map id="rtems_chain_prepend_unprotected" name="rtems_chain_prepend_unprotected">
+<area shape="rect" id="node1" title="Prepend a node (unprotected)." alt="" coords="5,23,168,65"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreChain.html#ga8d8497bea6684f4c685056c75f35522c" title="Prepends a node (unprotected)." alt="" coords="216,31,427,57"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreChain.html#ga8b66d3138b9cdacbcb0600c42237ff7d" title="Returns pointer to chain head." alt="" coords="519,5,625,32"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreChain.html#ga0ac64438b8eb6f4dfd182bc3885cea42" title="Inserts a node (unprotected)." alt="" coords="475,56,669,83"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreChain.html#gad7a790f247b3ace45f039c60c18f999f" title="Checks if the node is off chain." alt="" coords="717,49,864,90"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Shm_Lock" name="Shm_Lock">
+<area shape="rect" id="node1" title=" " alt="" coords="5,64,93,91"/>
+<area shape="rect" id="node2" href="$sparc_2leon3_2mpci_2lock_8c.html#a923ad73a48079fd40f477d6a76827c0c" title=" " alt="" coords="191,5,269,32"/>
+<area shape="rect" id="node3" href="$group__ClassicCounter.html#gaa8fddf3e4ad1abb10170e61db04525ae" title="Busy wait for some nanoseconds." alt="" coords="151,57,309,98"/>
+<area shape="rect" id="node6" href="$intrbody_8c.html#a382fc4b29e2c3c681a14c6f306b2a2ad" title=" " alt="" coords="141,123,319,149"/>
+<area shape="rect" id="node4" href="$group__ClassicCounter.html#gae1a4a949021ae54cf5d1c267fe0f9493" title="Busy wait for some counter ticks." alt="" coords="391,23,550,65"/>
+<area shape="rect" id="node5" href="$group__ClassicCounter.html#ga9a475dea5b0d7689a94f0806cf21f396" title="Converts nanoseconds into counter ticks." alt="" coords="367,89,575,130"/>
+</map>

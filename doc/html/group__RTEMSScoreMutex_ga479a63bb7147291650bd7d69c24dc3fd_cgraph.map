@@ -1,0 +1,7 @@
+<map id="_CORE_recursive_mutex_Initialize" name="_CORE_recursive_mutex_Initialize">
+<area shape="rect" id="node1" title="Initializes a recursive mutex." alt="" coords="5,5,187,47"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreMutex.html#ga8bc3af4c8e28f7e9090ca1571a0aead6" title="Initializes the mutex." alt="" coords="235,13,412,39"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreThreadQueue.html#gadff2605d33f07f210c22844f1ae71eaf" title="Initializes a thread queue embedded in an object with identifier." alt="" coords="460,5,631,47"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreThreadQueue.html#gae839c93467db7f3bb1776323a17ac8ad" title="Initializes the thread queue control to the given name." alt="" coords="679,13,863,39"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreThreadQueue.html#ga9bf4b585322581d70c742c7292bc8435" title="Initializes the thread queue queue with the given name." alt="" coords="911,5,1081,47"/>
+</map>

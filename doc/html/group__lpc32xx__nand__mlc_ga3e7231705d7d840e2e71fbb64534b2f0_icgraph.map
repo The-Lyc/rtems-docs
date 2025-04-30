@@ -1,0 +1,4 @@
+<map id="lpc32xx_mlc_write_page_with_ecc" name="lpc32xx_mlc_write_page_with_ecc">
+<area shape="rect" id="node1" title="Writes the page with index page_index." alt="" coords="239,5,421,47"/>
+<area shape="rect" id="node2" href="$group__lpc32xx__nand__mlc.html#gae790b87623d06d4795abd696698e9344" title="Writes zero values to the pages specified by page_begin and page_end." alt="" coords="5,13,191,39"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="bsps/arm/lpc24xx/include/bsp/start&#45;config.h" name="bsps/arm/lpc24xx/include/bsp/start&#45;config.h">
+<area shape="rect" id="node1" title="BSP start configuration." alt="" coords="225,5,413,47"/>
+<area shape="rect" id="node2" href="$armv7m_8h.html" title="ARMV7M Architecture Support." alt="" coords="5,95,176,121"/>
+<area shape="rect" id="node4" title=" " alt="" coords="201,95,258,121"/>
+<area shape="rect" id="node5" title=" " alt="" coords="282,95,355,121"/>
+<area shape="rect" id="node6" title=" " alt="" coords="380,95,471,121"/>
+<area shape="rect" id="node7" href="$lpc-emc_8h.html" title="EMC support API." alt="" coords="495,95,609,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="21,169,160,196"/>
+<area shape="rect" id="node8" href="$include_2bsp_2utility_8h.html" title="Utility macros." alt="" coords="503,169,601,196"/>
+<area shape="rect" id="node9" title=" " alt="" coords="517,244,587,271"/>
+</map>

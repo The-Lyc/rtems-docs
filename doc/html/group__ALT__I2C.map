@@ -1,0 +1,10 @@
+<map id="I2C Controller API" name="I2C Controller API">
+<area shape="rect" id="node1" href="$group__ALT__I2C__RX__FIFO.html" title=" " alt="" coords="395,5,559,31"/>
+<area shape="rect" id="node2" href="$group__ALT__I2C__GEN__CALL.html" title=" " alt="" coords="426,55,529,80"/>
+<area shape="rect" id="node3" href="$group__RTEMSBSPsARMCycVContrib.html" title="Contributed code from Altera." alt="" coords="5,129,140,155"/>
+<area shape="rect" id="node4" title=" " alt="" coords="188,129,324,155"/>
+<area shape="rect" id="node5" href="$group__ALT__I2C__DMA.html" title=" " alt="" coords="420,104,535,129"/>
+<area shape="rect" id="node6" href="$group__ALT__I2C__TX__FIFO.html" title=" " alt="" coords="396,153,559,179"/>
+<area shape="rect" id="node7" href="$group__ALT__I2C__INT.html" title=" " alt="" coords="402,203,553,243"/>
+<area shape="rect" id="node8" href="$group__ALT__I2C__SDA__HOLD.html" title=" " alt="" coords="372,268,583,293"/>
+</map>

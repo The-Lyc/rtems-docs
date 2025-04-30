@@ -1,0 +1,8 @@
+<map id="_Priority_Plain_insert" name="_Priority_Plain_insert">
+<area shape="rect" id="node1" title="Inserts the node with the given priority into the priority aggregation&#39;s contributors." alt="" coords="419,71,577,98"/>
+<area shape="rect" id="node2" href="$group__RTEMSScorePriority.html#ga73b5cce2b5df3b31ab208e64cc0348a9" title="Inserts the node in a nonempty aggregation and handles change if the node is the new minimum." alt="" coords="203,5,361,47"/>
+<area shape="rect" id="node4" href="$group__RTEMSScorePriority.html#ga96c4da0740e220f6f9a130b00a08c336" title="Updates the priority of the node in the aggregation." alt="" coords="193,71,371,98"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreScheduler.html#gafdf8dfa2c90ca2122b995bb6dd42fcda" title="Sets a new scheduler." alt="" coords="221,122,343,149"/>
+<area shape="rect" id="node3" href="$group__RTEMSScorePriority.html#gad7a0e6788cb685ddd6dc8b884f4b797a" title=" " alt="" coords="15,13,135,39"/>
+<area shape="rect" id="node5" href="$group__RTEMSScorePriority.html#gaf09a0d40270cffbc84c45ca0655d2d78" title="Updates the priority of the node in the aggregation." alt="" coords="5,71,145,98"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="rtems_rfs_shell_cmd" name="rtems_rfs_shell_cmd">
+<area shape="rect" id="node1" title=" " alt="" coords="393,336,550,363"/>
+<area shape="rect" id="node2" href="$struct__rtems__rfs__file__system.html" title=" " alt="" coords="385,245,558,272"/>
+<area shape="rect" id="node4" href="$structrtems__rfs__bitmap__control__s.html" title=" " alt="" coords="166,336,369,363"/>
+<area shape="rect" id="node3" href="$struct__rtems__rfs__group.html" title="Creates bit allocator for blocks in the group simpler." alt="" coords="200,441,335,468"/>
+<area shape="rect" id="node5" href="$structrtems__rfs__buffer__handle__t.html" title=" " alt="" coords="169,245,361,272"/>
+<area shape="rect" id="node6" href="$struct__rtems__rfs__buffer.html" title=" " alt="" coords="239,112,375,139"/>
+<area shape="rect" id="node7" href="$structChain__Node__struct.html" title=" " alt="" coords="309,7,453,33"/>
+<area shape="rect" id="node8" href="$unionChain__Control.html" title=" " alt="" coords="407,112,520,139"/>
+</map>

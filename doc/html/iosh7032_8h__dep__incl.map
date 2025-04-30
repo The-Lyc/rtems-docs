@@ -1,0 +1,9 @@
+<map id="bsps/sh/gensh1/include/rtems/score/iosh7032.h" name="bsps/sh/gensh1/include/rtems/score/iosh7032.h">
+<area shape="rect" id="node1" title=" " alt="" coords="481,5,659,47"/>
+<area shape="rect" id="node2" href="$sh_2gensh1_2btimer_2btimer_8c.html" title="Timer for the Hitachi SH 703X." alt="" coords="5,95,175,136"/>
+<area shape="rect" id="node3" href="$sh_2gensh1_2clock_2ckinit_8c.html" title=" " alt="" coords="199,95,359,136"/>
+<area shape="rect" id="node4" href="$sh_2gensh1_2console_2sci_8c.html" title=" " alt="" coords="383,95,559,136"/>
+<area shape="rect" id="node5" href="$gensh1_2include_2sh_2sh7__pfc_8h.html" title=" " alt="" coords="583,95,757,136"/>
+<area shape="rect" id="node6" href="$gensh1_2include_2sh_2sh7__sci_8h.html" title=" " alt="" coords="781,95,954,136"/>
+<area shape="rect" id="node7" href="$bsps_2sh_2gensh1_2start_2cpu__asm_8c.html" title=" " alt="" coords="979,95,1135,136"/>
+</map>

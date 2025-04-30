@@ -1,0 +1,6 @@
+<map id="_CORE_barrier_Surrender" name="_CORE_barrier_Surrender">
+<area shape="rect" id="node1" title="Manually releases the barrier." alt="" coords="5,42,191,69"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreBarrier.html#gaed6c59e37b0d953329d63da8cbdc99ee" title="Flushes the barrier." alt="" coords="239,13,417,39"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreThreadQueue.html#gaf7ba9f035005918f0e5eca4a3cfc92a1" title="Default thread queue flush filter function." alt="" coords="247,64,409,105"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreThreadQueue.html#gac979e73bbbb59a3157ebd782ff70df0c" title="Unblocks all threads enqueued on the thread queue." alt="" coords="465,5,628,47"/>
+</map>

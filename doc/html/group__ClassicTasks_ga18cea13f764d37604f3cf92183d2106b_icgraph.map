@@ -1,0 +1,12 @@
+<map id="rtems_is_name_valid" name="rtems_is_name_valid">
+<area shape="rect" id="node1" title="Returns true if the name is valid, and false otherwise." alt="" coords="429,199,591,225"/>
+<area shape="rect" id="node2" href="$group__ClassicBarrier.html#gac0840f8a73784a6c2a97474bcc03cb42" title="RTEMS Create Barrier." alt="" coords="213,5,371,32"/>
+<area shape="rect" id="node3" href="$group__ClassicUserExtensions.html#gafcf5ccf8b70f2967ffbf8b493e278fbf" title="Creates an extension set object." alt="" coords="203,56,381,83"/>
+<area shape="rect" id="node4" href="$group__ClassicMessageQueue.html#gaea76fd325e8a84810f2be119448a307d" title="RTEMS Create Message Queue." alt="" coords="205,107,379,149"/>
+<area shape="rect" id="node6" href="$group__ClassicPart.html#gaae1e45358170b1de610acdae7f4a8148" title="RTEMS Partition Create." alt="" coords="207,173,377,200"/>
+<area shape="rect" id="node7" href="$group__ClassicDPMEM.html#gadca93b2f9de997262d78e9b6c24832a8" title="Creates a port into a dual&#45;ported memory area." alt="" coords="221,224,363,251"/>
+<area shape="rect" id="node8" href="$group__ClassicRateMon.html#gab599ee7e8f65f1d1461a3a5e198491eb" title="Create a Period." alt="" coords="207,275,377,317"/>
+<area shape="rect" id="node9" href="$group__ClassicRegion.html#ga024758f91cbf73e06cbc4c85df83d1ca" title="rtems_region_create" alt="" coords="214,341,370,368"/>
+<area shape="rect" id="node10" href="$group__ClassicTimer.html#ga57cf664e958961aefdb8ef8440f23afa" title="RTEMS Create Timer." alt="" coords="217,392,367,419"/>
+<area shape="rect" id="node5" href="$grspw__pkt_8c.html#a332e9d8281beb4acd9c2451488def344" title=" " alt="" coords="5,115,155,141"/>
+</map>

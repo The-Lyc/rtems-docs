@@ -1,0 +1,10 @@
+<map id="_POSIX_Priority_From_core" name="_POSIX_Priority_From_core">
+<area shape="rect" id="node1" title="Converts the SuperCore priority to the corresponding POSIX API priority." alt="" coords="791,32,988,59"/>
+<area shape="rect" id="node2" href="$group__POSIX__PTHREAD.html#gae1ea059cc5dcc2ab7b9e5467a4d546c0" title=" " alt="" coords="564,25,743,66"/>
+<area shape="rect" id="node3" href="$pthreadgetattrnp_8c.html#a6bdca4b2c8a436c4651fb5e8d462408b" title=" " alt="" coords="353,5,499,32"/>
+<area shape="rect" id="node4" href="$pthreadgetschedparam_8c.html#aae9850b3759769c748727e171c4c6e61" title=" " alt="" coords="336,60,516,87"/>
+<area shape="rect" id="node5" href="$aio__misc_8c.html#a8477bc52bcf6620a6f253b06075d1554" title=" " alt="" coords="137,60,288,87"/>
+<area shape="rect" id="node6" href="$aio__fsync_8c.html#ab5ae668e7d7ce54ab14e17f6aea2f8bd" title=" " alt="" coords="5,9,89,36"/>
+<area shape="rect" id="node7" href="$aio__read_8c.html#a63dc39cca2b78b2300b012713d58219d" title=" " alt="" coords="8,60,87,87"/>
+<area shape="rect" id="node8" href="$aio__write_8c.html#a07b4c7b4559d3c57f91da4c54398cd76" title=" " alt="" coords="6,111,89,137"/>
+</map>

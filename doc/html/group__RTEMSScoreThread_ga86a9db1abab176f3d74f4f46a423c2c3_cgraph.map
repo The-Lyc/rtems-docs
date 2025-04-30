@@ -1,0 +1,4 @@
+<map id="_Thread_Create_idle" name="_Thread_Create_idle">
+<area shape="rect" id="node1" title="Creates idle thread." alt="" coords="5,5,160,32"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreSysState.html#gae619801bab42e4e750981529d3f41960" title="Sets the current system state to the given state." alt="" coords="208,5,355,32"/>
+</map>

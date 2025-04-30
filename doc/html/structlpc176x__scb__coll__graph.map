@@ -1,0 +1,4 @@
+<map id="lpc176x_scb" name="lpc176x_scb">
+<area shape="rect" id="node1" title="System Control Block representation." alt="" coords="5,109,108,136"/>
+<area shape="rect" id="node2" href="$structlpc176x__pll.html" title="Phase&#45;Locked Loop representation." alt="" coords="9,5,105,32"/>
+</map>

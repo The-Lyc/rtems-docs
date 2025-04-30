@@ -1,0 +1,8 @@
+<map id="rtems_rtl_symbol_obj_erase" name="rtems_rtl_symbol_obj_erase">
+<area shape="rect" id="node1" title=" " alt="" coords="5,86,168,127"/>
+<area shape="rect" id="node2" href="$group__ClassicChains.html#gae1356b67c9bce8d8fbb0b0241afcb3c2" title="Extract the specified node from a chain." alt="" coords="220,5,375,32"/>
+<area shape="rect" id="node3" href="$group__ClassicChains.html#gaea61e38fc8c358c07bde67ccfb95d207" title="Is the node off chain." alt="" coords="218,57,377,98"/>
+<area shape="rect" id="node5" href="$rtl-allocator_8h.html#a53995705cd080120f3755af859d7cc50" title=" " alt="" coords="427,152,573,179"/>
+<area shape="rect" id="node6" href="$rtl-sym_8c.html#a02b3a4ba7169bb4f243a5be15b301391" title=" " alt="" coords="216,174,379,215"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreChain.html#gad7a790f247b3ace45f039c60c18f999f" title="Checks if the node is off chain." alt="" coords="427,57,573,98"/>
+</map>

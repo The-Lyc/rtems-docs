@@ -1,0 +1,5 @@
+<map id="bsps/arm/lpc176x/include/bsp/timer.h" name="bsps/arm/lpc176x/include/bsp/timer.h">
+<area shape="rect" id="node1" title="Timer API for the lpc176x bsp." alt="" coords="5,5,193,47"/>
+<area shape="rect" id="node2" href="$timer-defs_8h.html" title="API definitions of the for the timer of the lpc176x bsp." alt="" coords="35,95,164,121"/>
+<area shape="rect" id="node3" href="$common-types_8h.html" title="Definitions types used by some devices in common." alt="" coords="20,169,179,196"/>
+</map>

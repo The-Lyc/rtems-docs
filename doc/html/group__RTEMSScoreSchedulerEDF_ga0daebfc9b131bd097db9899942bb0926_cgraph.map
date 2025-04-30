@@ -1,0 +1,11 @@
+<map id="_Scheduler_EDF_Extract_body" name="_Scheduler_EDF_Extract_body">
+<area shape="rect" id="node1" title="Extracts the node from the context of the given scheduler." alt="" coords="5,89,224,116"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreSchedulerEDF.html#ga3b25999c8ed803d5e2cebce7ad1b2060" title="Extracts the scheduler node from the ready queue of the context." alt="" coords="272,31,451,57"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreSchedulerEDF.html#ga8f7bd3ea1cd129951cf3246eb4c31b1f" title="Gets the context of the scheduler." alt="" coords="283,82,439,123"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreSchedulerEDF.html#gaea9b538d93951ca5e84d203fc274b8db" title="Returns the scheduler EDF node for the scheduler node." alt="" coords="278,147,445,189"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreRBTree.html#ga26bf30d26e521f0599ae0467abdacc85" title="Extracts (removes) the node from the red&#45;black tree." alt="" coords="525,31,651,57"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreRBTree.html#gabbc757c2fd03694b6f9bb5aa2be553ff" title="Initializes a red&#45;black tree node." alt="" coords="725,5,901,32"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreRBTree.html#ga29242f056330aaabc12dcfcaa6f10a05" title="Returns a pointer to root node of the red&#45;black tree." alt="" coords="758,56,869,83"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreRBTree.html#ga82d9b6f1aad201e7c8b614a0e970b356" title="Sets a red&#45;black tree node as off&#45;tree." alt="" coords="949,5,1108,32"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreScheduler.html#ga9c62ef5a388b998fa041a269297be1fe" title="Gets the context of the scheduler." alt="" coords="499,89,677,116"/>
+</map>

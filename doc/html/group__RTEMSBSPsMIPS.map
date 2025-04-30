@@ -1,0 +1,11 @@
+<map id="MIPS" name="MIPS">
+<area shape="rect" id="node1" href="$group__RTEMSBSPsMIPSMalta.html" title="Malta Board Support Package." alt="" coords="350,5,409,31"/>
+<area shape="rect" id="node2" href="$group__RTEMSBSPsMIPSCSB350.html" title="CSB350 Board Support Package." alt="" coords="343,55,415,80"/>
+<area shape="rect" id="node3" href="$group__RTEMSBSPsMIPSRBTX4925.html" title="RBTX4925 Board Support Package." alt="" coords="335,104,424,129"/>
+<area shape="rect" id="node4" href="$group__RTEMSBSPsMIPSRBTX4938.html" title="RBTX4938 Board Support Package." alt="" coords="335,153,424,179"/>
+<area shape="rect" id="node5" href="$group__RTEMSBSPsMIPSJMR3904.html" title="JMR3904 Board Support Package." alt="" coords="340,203,419,228"/>
+<area shape="rect" id="node6" href="$group__RTEMSBSPsMIPSShared.html" title="Shared Support for MIPS Board Support Packages." alt="" coords="346,252,413,277"/>
+<area shape="rect" id="node7" href="$group__RTEMSBSPsMIPSHurricane.html" title="Hurricane Board Support Package." alt="" coords="337,301,422,327"/>
+<area shape="rect" id="node8" title="MIPS Board Support Packages." alt="" coords="232,153,287,179"/>
+<area shape="rect" id="node9" href="$group__RTEMSBSPs.html" title="Board Support Packages and Support Modules (BSPs)." alt="" coords="5,153,184,179"/>
+</map>

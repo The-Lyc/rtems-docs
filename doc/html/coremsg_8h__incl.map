@@ -1,0 +1,22 @@
+<map id="cpukit/include/rtems/score/coremsg.h" name="cpukit/include/rtems/score/coremsg.h">
+<area shape="rect" id="node1" title="Constants and Structures Associated with the Message Queue Handler." alt="" coords="626,5,781,47"/>
+<area shape="rect" id="node2" href="$score_2chain_8h.html" title="Chain Handler API." alt="" coords="835,244,985,271"/>
+<area shape="rect" id="node3" href="$isrlock_8h.html" title="ISR Locks." alt="" coords="5,169,164,196"/>
+<area shape="rect" id="node13" href="$threadq_8h.html" title="Constants and Structures Needed to Declare a Thread Queue." alt="" coords="441,95,606,121"/>
+<area shape="rect" id="node20" href="$cpukit_2include_2rtems_2score_2watchdog_8h.html" title="Constants and Structures Associated with Watchdog Timers." alt="" coords="750,169,929,196"/>
+<area shape="rect" id="node4" href="$isrlevel_8h.html" title="ISR Level Type." alt="" coords="469,244,631,271"/>
+<area shape="rect" id="node12" href="$smplock_8h.html" title="SMP Lock API." alt="" coords="299,393,470,420"/>
+<area shape="rect" id="node5" title=" " alt="" coords="381,319,519,345"/>
+<area shape="rect" id="node6" href="$assert_8h.html" title="Information for the Assert Handler." alt="" coords="543,319,698,345"/>
+<area shape="rect" id="node7" href="$basedefs_8h.html" title="Basic Definitions." alt="" coords="533,393,708,420"/>
+<area shape="rect" id="node8" title=" " alt="" coords="320,468,487,495"/>
+<area shape="rect" id="node9" title=" " alt="" coords="521,468,595,495"/>
+<area shape="rect" id="node10" title=" " alt="" coords="619,468,702,495"/>
+<area shape="rect" id="node11" title=" " alt="" coords="731,468,801,495"/>
+<area shape="rect" id="node14" href="$score_2object_8h.html" title="Constants and Structures Associated with the Object Handler." alt="" coords="239,244,394,271"/>
+<area shape="rect" id="node15" href="$rtems_2score_2priority_8h.html" title="Priority Handler API." alt="" coords="515,169,675,196"/>
+<area shape="rect" id="node16" href="$rtems_2score_2rbtree_8h.html" title="Constants and Structures Associated with the Red&#45;Black Tree Handler." alt="" coords="655,244,810,271"/>
+<area shape="rect" id="node18" href="$states_8h.html" title="Thread Execution State Information." alt="" coords="863,393,1018,420"/>
+<area shape="rect" id="node19" href="$watchdogticks_8h.html" title="Constants for the watchdog ticks." alt="" coords="96,319,305,345"/>
+<area shape="rect" id="node17" title=" " alt="" coords="773,319,860,345"/>
+</map>

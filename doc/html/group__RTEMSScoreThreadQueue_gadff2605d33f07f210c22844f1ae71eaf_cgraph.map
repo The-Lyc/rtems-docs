@@ -1,0 +1,5 @@
+<map id="_Thread_queue_Object_initialize" name="_Thread_queue_Object_initialize">
+<area shape="rect" id="node1" title="Initializes a thread queue embedded in an object with identifier." alt="" coords="5,5,176,47"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreThreadQueue.html#gae839c93467db7f3bb1776323a17ac8ad" title="Initializes the thread queue control to the given name." alt="" coords="224,13,408,39"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreThreadQueue.html#ga9bf4b585322581d70c742c7292bc8435" title="Initializes the thread queue queue with the given name." alt="" coords="456,5,627,47"/>
+</map>

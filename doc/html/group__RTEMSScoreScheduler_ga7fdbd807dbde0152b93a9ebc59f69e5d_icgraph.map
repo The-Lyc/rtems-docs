@@ -1,0 +1,14 @@
+<map id="_Scheduler_Update_priority" name="_Scheduler_Update_priority">
+<area shape="rect" id="node1" title="Propagates a priority change of a thread to the scheduler." alt="" coords="685,151,887,178"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreScheduler.html#gafdf8dfa2c90ca2122b995bb6dd42fcda" title="Sets a new scheduler." alt="" coords="487,126,608,153"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreThread.html#ga424ec96c6cbed5a748565333d5fd7d59" title="Updates the priority of all threads in the set." alt="" coords="457,177,637,203"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreMutex.html#ga3c9beab408f6eaae8af2a29d962b08f3" title="Sets the owner of the ceiling mutex." alt="" coords="234,5,398,47"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreMutex.html#gac76286dab6594ca0499aa20861f69fb8" title="Surrenders the ceiling mutex." alt="" coords="234,71,398,112"/>
+<area shape="rect" id="node7" href="$posix_2muteximpl_8h.html#aa099656aca92ad7c919c40cac2b1e226" title=" " alt="" coords="232,136,400,177"/>
+<area shape="rect" id="node9" href="$posix_2muteximpl_8h.html#aef2cdaf26c7b8333787140155835917f" title=" " alt="" coords="232,201,400,243"/>
+<area shape="rect" id="node10" href="$group__ClassicRateMonImpl.html#gab174ae30d1440637fecb41e22258f54f" title=" " alt="" coords="223,267,409,294"/>
+<area shape="rect" id="node12" href="$pthreadsetschedprio_8c.html#a7a23cbcfc21a4e3edf531ed65f022370" title=" " alt="" coords="235,318,397,345"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreMutex.html#gae40030a2c780f0da5839deee9387f340" title="Seizes the ceiling mutex." alt="" coords="8,5,172,47"/>
+<area shape="rect" id="node8" href="$posix_2muteximpl_8h.html#a02b950e3dfc08bf48aafac65eeaf58e7" title=" " alt="" coords="6,136,174,177"/>
+<area shape="rect" id="node11" href="$group__ClassicRateMon.html#ga4313840d58c7a2ccc4b1e6151e712bf7" title="RTEMS Rate Monotonic Cancel." alt="" coords="5,260,175,301"/>
+</map>

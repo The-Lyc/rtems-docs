@@ -1,0 +1,19 @@
+<map id="_Thread_Wait_acquire_critical" name="_Thread_Wait_acquire_critical">
+<area shape="rect" id="node1" title="Acquires the thread wait lock inside a critical section (interrupts disabled)." alt="" coords="760,158,925,199"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreSchedulerEDF.html#ga616d8e664dde0dc44953c47fa76aa65f" title="Cancels a job and removes the thread from the queue context." alt="" coords="504,8,708,35"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreSchedulerEDF.html#gac0692f99a480bf873298367ffd5ec6a1" title="Releases a EDF job." alt="" coords="500,60,712,87"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreThread.html#gaa8ad190d2fb384bff871065b7e885c90" title="Acquires the thread wait default lock and disables interrupts." alt="" coords="523,115,689,141"/>
+<area shape="rect" id="node10" href="$pthreadgetschedparam_8c.html#aae9850b3759769c748727e171c4c6e61" title=" " alt="" coords="516,165,696,192"/>
+<area shape="rect" id="node15" href="$pthreadsetschedparam_8c.html#a5863ca5ea1eaf973c408e2c3bbaff3a7" title=" " alt="" coords="517,216,695,243"/>
+<area shape="rect" id="node16" href="$pthreadsetschedprio_8c.html#a7a23cbcfc21a4e3edf531ed65f022370" title=" " alt="" coords="525,267,687,293"/>
+<area shape="rect" id="node17" href="$group__ClassicTasks.html#gad06646a724fbaf16f1a4d117d1c667dc" title="Gets the current priority of the specified task with respect to the specified scheduler instance." alt="" coords="517,317,695,344"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreSchedulerCBS.html#gaa7df4531e6a166ebebde6355dba251a6" title="Cancels a job." alt="" coords="244,5,448,32"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreSchedulerCBS.html#gae0d9c2720ee46efdfe87ebf87cd45cae" title="Unblocks a thread." alt="" coords="5,5,192,32"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreSchedulerCBS.html#ga26f13ab87c29b1b9abf5e8defae50d47" title="Releases a job." alt="" coords="240,56,452,83"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreMutex.html#gae13f723fc5cdac5a7f9b5f910b284bf6" title="Sets the priority of the ceiling mutex." alt="" coords="264,107,428,149"/>
+<area shape="rect" id="node9" href="$posix_2muteximpl_8h.html#abfafb525a73733f9fdb9d99cfa8b865a" title=" " alt="" coords="247,173,445,200"/>
+<area shape="rect" id="node11" href="$aio__misc_8c.html#a8477bc52bcf6620a6f253b06075d1554" title=" " alt="" coords="271,224,421,251"/>
+<area shape="rect" id="node12" href="$aio__fsync_8c.html#ab5ae668e7d7ce54ab14e17f6aea2f8bd" title=" " alt="" coords="57,173,141,200"/>
+<area shape="rect" id="node13" href="$aio__read_8c.html#a63dc39cca2b78b2300b012713d58219d" title=" " alt="" coords="59,224,138,251"/>
+<area shape="rect" id="node14" href="$aio__write_8c.html#a07b4c7b4559d3c57f91da4c54398cd76" title=" " alt="" coords="57,275,140,301"/>
+</map>

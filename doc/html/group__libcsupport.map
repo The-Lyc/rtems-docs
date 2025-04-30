@@ -1,0 +1,8 @@
+<map id="Standard C Library Support" name="Standard C Library Support">
+<area shape="rect" id="node1" title="RTEMS Specific Support for the Standard C Library." alt="" coords="125,85,268,125"/>
+<area shape="rect" id="node2" href="$group__GxxWrappersSupport.html" title="RTEMS Threads Compatibility Routines for Libgcc2." alt="" coords="319,5,487,31"/>
+<area shape="rect" id="node3" href="$group__TermiostypesSupport.html" title="RTEMS Termios Device Support Internal Data Structures." alt="" coords="318,55,489,95"/>
+<area shape="rect" id="node4" href="$group__ErrorPanicSupport.html" title="Defines and externs for rtems error reporting." alt="" coords="316,120,491,145"/>
+<area shape="rect" id="node6" href="$group__MallocSupport.html" title="RTEMS extensions to the Malloc Family." alt="" coords="344,169,463,195"/>
+<area shape="rect" id="node5" href="$group__RTEMSInternal.html" title="RTEMS Implementation." alt="" coords="5,92,77,117"/>
+</map>

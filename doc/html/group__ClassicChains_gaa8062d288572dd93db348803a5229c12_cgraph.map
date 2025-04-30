@@ -1,0 +1,6 @@
+<map id="rtems_chain_extract_unprotected" name="rtems_chain_extract_unprotected">
+<area shape="rect" id="node1" title="Extract the specified node from a chain (unprotected)." alt="" coords="5,35,160,76"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreChain.html#ga51ca91740b37b6101d1aa80167ddcfe0" title="Extracts this node (unprotected)." alt="" coords="208,42,412,69"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreChain.html#gad7a790f247b3ace45f039c60c18f999f" title="Checks if the node is off chain." alt="" coords="467,5,613,47"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreChain.html#gadf0e5d55d133694eed8043ec13fe1266" title="Sets off chain." alt="" coords="460,71,620,98"/>
+</map>

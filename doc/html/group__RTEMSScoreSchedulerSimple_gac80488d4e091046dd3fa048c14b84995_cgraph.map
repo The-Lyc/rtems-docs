@@ -1,0 +1,11 @@
+<map id="_Scheduler_simple_Schedule" name="_Scheduler_simple_Schedule">
+<area shape="rect" id="node1" title="Schedules threads." alt="" coords="5,64,216,91"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreSchedulerSimple.html#gad87c281f617f598c1e175f162224d6fb" title="Scheduling decision logic." alt="" coords="264,64,513,91"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreChain.html#ga89304b2d294b98f4909dcb6e68d7ec82" title="Returns pointer to chain&#39;s first node." alt="" coords="600,5,701,32"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreSchedulerSimple.html#gaa06ad2d8f5cb1a0aa56efa757f40768e" title="Gets context of the scheduler." alt="" coords="563,57,738,98"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreScheduler.html#ga29bb7f28ab22ddb95869cc527f2f75bf" title="Updates the heir." alt="" coords="561,123,740,149"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreChain.html#gac08944db6f0428125d3b0d5a1c65b740" title="Returns pointer to immutable chain head." alt="" coords="788,5,971,32"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreScheduler.html#ga9c62ef5a388b998fa041a269297be1fe" title="Gets the context of the scheduler." alt="" coords="790,64,969,91"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreThread.html#ga04310043b907712ed8693fbbbc6ba0be" title="Gets the cpu of the thread&#39;s scheduler." alt="" coords="810,119,949,145"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreThread.html#ga02a75f308e726ba3f36a97cd758a8e7e" title="Updates the cpu time used of the thread." alt="" coords="798,170,961,211"/>
+</map>

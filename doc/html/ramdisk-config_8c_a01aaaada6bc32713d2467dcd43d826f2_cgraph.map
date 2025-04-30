@@ -1,0 +1,5 @@
+<map id="ramdisk_initialize" name="ramdisk_initialize">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,144,57"/>
+<area shape="rect" id="node2" href="$group__rtems__ramdisk.html#ga7038c2c976bd632ecdb9a0662ab65a4b" title=" " alt="" coords="216,5,327,32"/>
+<area shape="rect" id="node3" href="$group__rtems__blkdev.html#gae2fe7e8c05fa9db0fa7c0ec4e8e4967d" title="Creates a block device." alt="" coords="192,56,351,83"/>
+</map>

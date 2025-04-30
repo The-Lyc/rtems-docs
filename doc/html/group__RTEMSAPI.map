@@ -1,0 +1,14 @@
+<map id="API" name="API">
+<area shape="rect" id="node1" href="$group__RTEMSAPIIO.html" title="IO." alt="" coords="174,5,213,31"/>
+<area shape="rect" id="node2" href="$group__RTEMSAPIBSD.html" title=" " alt="" coords="96,55,291,80"/>
+<area shape="rect" id="node3" href="$group__rtems__rtl.html" title=" " alt="" coords="115,105,271,145"/>
+<area shape="rect" id="node4" href="$group__RTEMSTest.html" title="Test support functions." alt="" coords="142,169,245,195"/>
+<area shape="rect" id="node5" href="$group__RTEMSTestFramework.html" title="The RTEMS Test Framework helps you to write tests." alt="" coords="107,219,280,244"/>
+<area shape="rect" id="node6" href="$group__rtems__status__checks.html" title=" " alt="" coords="136,268,251,293"/>
+<area shape="rect" id="node7" href="$group__rtems__rap.html" title=" " alt="" coords="98,317,289,343"/>
+<area shape="rect" id="node8" href="$group__Profiling.html" title="The profiling support offers functions to report profiling information available in the system." alt="" coords="129,367,258,392"/>
+<area shape="rect" id="node9" href="$group__RTEMSAPITracing.html" title="Tracing." alt="" coords="159,416,227,441"/>
+<area shape="rect" id="node10" href="$group__RTEMSAPIClassic.html" title="RTEMS Classic API definitions and modules." alt="" coords="159,465,227,491"/>
+<area shape="rect" id="node11" href="$group__RTEMSAPIAssociativity.html" title=" " alt="" coords="110,515,277,540"/>
+<area shape="rect" id="node12" title="API." alt="" coords="5,268,48,293"/>
+</map>

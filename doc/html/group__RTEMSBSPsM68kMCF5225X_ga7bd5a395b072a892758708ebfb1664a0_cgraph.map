@@ -1,0 +1,9 @@
+<map id="Init5225x" name="Init5225x">
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,88,98"/>
+<area shape="rect" id="node2" href="$group__RTEMSBSPsSharedStartup.html#gad8a18766fa4f3cf67d8f8ff8938008e0" title="Standard system initialization procedure." alt="" coords="136,71,223,98"/>
+<area shape="rect" id="node3" href="$init_8h.html#aa3339bbf56128f27eba237e6ca846e24" title="Initializes the system and starts multitasking." alt="" coords="271,71,464,98"/>
+<area shape="rect" id="node4" href="$smp_8c.html#a43d82b0c9150747d3c4a50b0055afcfc" title=" " alt="" coords="535,5,690,47"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreSysState.html#gae619801bab42e4e750981529d3f41960" title="Sets the current system state to the given state." alt="" coords="539,71,686,98"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreThread.html#gab27215302814d0aa0ec3306b165ea247" title="Starts thread multitasking." alt="" coords="512,122,713,149"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreThread.html#gacd7c2e371fbc36ba623dffe713e6c427" title="Gets the heir of the processor and makes it executing." alt="" coords="761,115,928,156"/>
+</map>

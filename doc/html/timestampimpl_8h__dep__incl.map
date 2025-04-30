@@ -1,0 +1,52 @@
+<map id="cpukit/include/rtems/score/timestampimpl.h" name="cpukit/include/rtems/score/timestampimpl.h">
+<area shape="rect" id="node1" title="Helpers for Manipulating Timestamps." alt="" coords="3428,5,3605,47"/>
+<area shape="rect" id="node2" href="$threadimpl_8h.html" title="Inlined Routines from the Thread Handler." alt="" coords="3174,95,3329,136"/>
+<area shape="rect" id="node49" href="$clockgetuptimenanoseconds_8c.html" title="Returns the system uptime in seconds." alt="" coords="3353,102,3681,129"/>
+<area shape="rect" id="node50" href="$clockgetuptimetimeval_8c.html" title="Gets the System Uptime in the Struct Timeval Format." alt="" coords="3705,102,3998,129"/>
+<area shape="rect" id="node3" href="$bspfatal-default_8c.html" title=" " alt="" coords="55,184,245,225"/>
+<area shape="rect" id="node4" href="$posix_2muteximpl_8h.html" title="Private Inlined Routines for POSIX Mutex&#39;s." alt="" coords="270,184,425,225"/>
+<area shape="rect" id="node5" href="$posixapi_8h.html" title="POSIX API Implementation." alt="" coords="550,184,705,225"/>
+<area shape="rect" id="node6" href="$nanosleep_8c.html" title="Suspends Execution of calling thread until Time elapses." alt="" coords="5,281,212,307"/>
+<area shape="rect" id="node7" href="$pthreadjoin_8c.html" title="Suspends Execution of Calling Thread until Target Thread Terminates." alt="" coords="237,281,450,307"/>
+<area shape="rect" id="node8" href="$pthreadsetnamenp_8c.html" title=" " alt="" coords="475,281,737,307"/>
+<area shape="rect" id="node9" href="$pthreadimpl_8h.html" title="POSIX Threads Private Support." alt="" coords="1760,184,1916,225"/>
+<area shape="rect" id="node10" href="$psignal_8c.html" title="POSIX Signals Manager Initialization." alt="" coords="762,281,949,307"/>
+<area shape="rect" id="node11" href="$psignalunblockthread_8c.html" title="POSIX Signals Thread Unlock." alt="" coords="973,281,1252,307"/>
+<area shape="rect" id="node12" href="$pthreadcreate_8c.html" title="Function Starts a New Thread in The Calling Process." alt="" coords="1525,281,1756,307"/>
+<area shape="rect" id="node13" href="$pthreadequal_8c.html" title="Compare Thread IDs." alt="" coords="1276,281,1501,307"/>
+<area shape="rect" id="node14" href="$pthreadgetattrnp_8c.html" title="Pthread Get Attribute." alt="" coords="1780,281,2029,307"/>
+<area shape="rect" id="node15" href="$pthreadgetschedparam_8c.html" title="Gets Scheduling Policy and Parameters of Individual Threads." alt="" coords="2054,281,2345,307"/>
+<area shape="rect" id="node16" href="$pthreadsetschedparam_8c.html" title="Function sets scheduling policy and parameters of the thread." alt="" coords="2369,281,2659,307"/>
+<area shape="rect" id="node17" href="$ratemonimpl_8h.html" title="Classic Rate Monotonic Scheduler Implementation." alt="" coords="2913,273,3077,315"/>
+<area shape="rect" id="node18" href="$statusimpl_8h.html" title="Classic Status Implementation." alt="" coords="2482,184,2637,225"/>
+<area shape="rect" id="node19" href="$tasksimpl_8h.html" title="Classic Tasks Manager Implementation." alt="" coords="2734,273,2889,315"/>
+<area shape="rect" id="node20" href="$cpuusagetop_8c.html" title="CPU Usage Top." alt="" coords="2730,363,2893,404"/>
+<area shape="rect" id="node21" href="$coremuteximpl_8h.html" title="CORE Mutex Implementation." alt="" coords="3102,273,3278,315"/>
+<area shape="rect" id="node22" href="$coresemimpl_8h.html" title="Inlined Routines Associated with the SuperCore Semaphore." alt="" coords="2813,184,2975,225"/>
+<area shape="rect" id="node23" href="$schedulerimpl_8h.html" title="Inlined Routines Associated with the Manipulation of the Scheduler." alt="" coords="2288,184,2457,225"/>
+<area shape="rect" id="node24" href="$pthreadsetschedprio_8c.html" title=" " alt="" coords="3302,281,3574,307"/>
+<area shape="rect" id="node25" href="$____times_8c.html" title="Get Process Times." alt="" coords="3101,184,3239,225"/>
+<area shape="rect" id="node26" href="$error_8c.html" title="Error and Panic Report Support." alt="" coords="3263,184,3402,225"/>
+<area shape="rect" id="node27" href="$privateenv_8c.html" title="Instantiate a Private User Environment." alt="" coords="3426,184,3565,225"/>
+<area shape="rect" id="node28" href="$resource__snapshot_8c.html" title=" " alt="" coords="3589,184,3772,225"/>
+<area shape="rect" id="node29" href="$rtems-debugger-arm_8c.html" title=" " alt="" coords="3796,184,3968,225"/>
+<area shape="rect" id="node30" href="$rtems-debugger-i386_8c.html" title=" " alt="" coords="3992,184,4167,225"/>
+<area shape="rect" id="node31" href="$rtems-debugger-target_8c.html" title=" " alt="" coords="4191,184,4376,225"/>
+<area shape="rect" id="node32" href="$rtems-debugger-threads_8c.html" title=" " alt="" coords="4401,184,4595,225"/>
+<area shape="rect" id="node33" href="$cpuusagereport_8c.html" title="CPU Usage Report." alt="" coords="4619,184,4782,225"/>
+<area shape="rect" id="node34" href="$mon-task_8c.html" title=" " alt="" coords="4806,184,4974,225"/>
+<area shape="rect" id="node35" href="$check_8c.html" title="Stack Overflow Check User Extension Set." alt="" coords="4999,184,5173,225"/>
+<area shape="rect" id="node36" href="$t-test-rtems-objs_8c.html" title=" " alt="" coords="5198,184,5345,225"/>
+<area shape="rect" id="node37" href="$testbusy_8c.html" title=" " alt="" coords="5369,191,5545,218"/>
+<area shape="rect" id="node38" href="$record-dump_8c.html" title=" " alt="" coords="5569,184,5729,225"/>
+<area shape="rect" id="node39" href="$record-server_8c.html" title=" " alt="" coords="5753,184,5913,225"/>
+<area shape="rect" id="node40" href="$record-userext_8c.html" title=" " alt="" coords="5937,184,6097,225"/>
+<area shape="rect" id="node41" href="$cancel_8c.html" title="Canceling Execution of a Thread." alt="" coords="6121,191,6302,218"/>
+<area shape="rect" id="node42" href="$pthreaddetach_8c.html" title="Detaching a Thread." alt="" coords="6327,191,6560,218"/>
+<area shape="rect" id="node43" href="$pthreadexit_8c.html" title="POSIX Thread Exit Shared Helper." alt="" coords="6584,191,6799,218"/>
+<area shape="rect" id="node44" href="$pthreadgetnamenp_8c.html" title=" " alt="" coords="6823,191,7085,218"/>
+<area shape="rect" id="node45" href="$pthreadinitthreads_8c.html" title="POSIX Threads Initialize User Threads Body." alt="" coords="7110,191,7369,218"/>
+<area shape="rect" id="node46" href="$pthreadkill_8c.html" title="Sends a signal Asynchronously directed to a thread." alt="" coords="7393,191,7603,218"/>
+<area shape="rect" id="node47" href="$sched__yield_8c.html" title="Yield Processor." alt="" coords="7627,184,7793,225"/>
+<area shape="rect" id="node48" href="$setcancelstate_8c.html" title="Setting Cancelability State." alt="" coords="7818,191,8053,218"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="can_device" name="can_device">
+<area shape="rect" id="node1" title="Represents the CAN controller registers." alt="" coords="45,109,140,136"/>
+<area shape="rect" id="node2" href="$structregisters__can__message.html" title="A CAN message represented for the registers of the device." alt="" coords="5,5,180,32"/>
+</map>

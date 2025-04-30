@@ -1,0 +1,6 @@
+<map id="rtems_profiling_data" name="rtems_profiling_data">
+<area shape="rect" id="node1" title="Collection of profiling data." alt="" coords="90,184,246,211"/>
+<area shape="rect" id="node2" href="$structrtems__profiling__header.html" title="The profiling data header." alt="" coords="82,5,254,32"/>
+<area shape="rect" id="node3" href="$structrtems__profiling__smp__lock.html" title="SMP lock profiling data." alt="" coords="73,95,263,121"/>
+<area shape="rect" id="node4" href="$structrtems__profiling__per__cpu.html" title="Per&#45;CPU profiling data." alt="" coords="287,95,465,121"/>
+</map>

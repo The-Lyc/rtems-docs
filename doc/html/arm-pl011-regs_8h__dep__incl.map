@@ -1,0 +1,10 @@
+<map id="bsps/arm/include/bsp/arm&#45;pl011&#45;regs.h" name="bsps/arm/include/bsp/arm&#45;pl011&#45;regs.h">
+<area shape="rect" id="node1" title="ARM PL011 Register definitions." alt="" coords="330,5,490,47"/>
+<area shape="rect" id="node2" href="$arm-pl011_8h.html" title="ARM PL011 Support Package." alt="" coords="330,95,490,136"/>
+<area shape="rect" id="node3" href="$arm_2raspberrypi_2console_2console-config_8c.html" title="Console Configuration." alt="" coords="5,184,191,225"/>
+<area shape="rect" id="node4" href="$bsps_2arm_2realview-pbx-a9_2include_2bsp_2console_8h.html" title=" " alt="" coords="215,184,402,225"/>
+<area shape="rect" id="node7" href="$arm-pl011_8c.html" title=" " alt="" coords="426,184,597,225"/>
+<area shape="rect" id="node8" href="$arm_2xen_2console_2console_8c.html" title=" " alt="" coords="621,184,783,225"/>
+<area shape="rect" id="node5" href="$arm_2realview-pbx-a9_2console_2console-config_8c.html" title=" " alt="" coords="89,273,296,315"/>
+<area shape="rect" id="node6" href="$arm_2realview-pbx-a9_2console_2console-polled_8c.html" title=" " alt="" coords="320,273,527,315"/>
+</map>

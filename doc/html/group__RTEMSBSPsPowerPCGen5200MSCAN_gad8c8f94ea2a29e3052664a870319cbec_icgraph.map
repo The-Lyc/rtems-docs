@@ -1,0 +1,4 @@
+<map id="mscan_disable" name="mscan_disable">
+<area shape="rect" id="node1" title="Disables the MSCAN module m." alt="" coords="169,5,288,32"/>
+<area shape="rect" id="node2" href="$group__RTEMSBSPsPowerPCGen5200MSCAN.html#ga8b80a3020d69fd2993928c0aae87b068" title="Enables and initializes the MSCAN module m." alt="" coords="5,5,121,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Nios II (nios2)" name="Nios II (nios2)">
+<area shape="rect" id="node1" href="$group__RTEMSScoreCPU.html" title="Provides CPU architecture dependent services." alt="" coords="5,5,192,31"/>
+<area shape="rect" id="node3" title="Nios II (nios2) Architecture Support." alt="" coords="240,5,352,31"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreCPUnios2ASM.html" title="nios2 Assembler Support" alt="" coords="400,5,584,31"/>
+</map>

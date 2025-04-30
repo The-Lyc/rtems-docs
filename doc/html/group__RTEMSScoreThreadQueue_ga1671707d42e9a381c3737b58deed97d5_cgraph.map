@@ -1,0 +1,11 @@
+<map id="_Thread_queue_Do_dequeue" name="_Thread_queue_Do_dequeue">
+<area shape="rect" id="node1" title="Dequeues the first thread waiting on the thread queue and returns it." alt="" coords="5,129,215,156"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreThreadQueue.html#ga40080175681761a842fe6ab4784735b9" title="Acquires the thread queue control in a critical section." alt="" coords="264,5,441,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreThreadQueue.html#gae18ee06777084a67d286d743355d47ac" title="Initializes a thread queue context." alt="" coords="263,57,442,98"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreThreadQueue.html#gaf6ce2524fef09fe93a24196dd392093e" title="Extracts the thread from the thread queue and unblocks it." alt="" coords="265,122,440,163"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreThreadQueue.html#gac07672b4b41838966ddf124973f51451" title="Returns the first thread on the thread queue if it exists, otherwise NULL." alt="" coords="275,187,431,229"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreThreadQueue.html#ga0a8881ef4106a0707b2751cdd3d18bef" title="Releases the thread queue control and enables interrupts." alt="" coords="263,253,443,280"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreChain.html#gab0fa19f01d37f1d510405e6382fd8b67" title="Initializes a chain node." alt="" coords="491,39,659,65"/>
+<area shape="rect" id="node6" href="$bootldr_8h.html#a36d20f7d597c517b964289f6b54ddfa7" title=" " alt="" coords="537,89,613,116"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreChain.html#gadf0e5d55d133694eed8043ec13fe1266" title="Sets off chain." alt="" coords="707,39,867,65"/>
+</map>

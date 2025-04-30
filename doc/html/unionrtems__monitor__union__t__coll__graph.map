@@ -1,0 +1,18 @@
+<map id="rtems_monitor_union_t" name="rtems_monitor_union_t">
+<area shape="rect" id="node1" title=" " alt="" coords="920,437,1093,464"/>
+<area shape="rect" id="node2" href="$structrtems__monitor__task__t.html" title=" " alt="" coords="619,87,785,113"/>
+<area shape="rect" id="node3" href="$structThread__Entry__information.html" title="Thread entry information." alt="" coords="281,56,472,83"/>
+<area shape="rect" id="node4" href="$structThread__Entry__idle.html" title="Data for idle thread entry." alt="" coords="20,5,159,32"/>
+<area shape="rect" id="node5" href="$structThread__Entry__numeric.html" title="Data for thread entry with one numeric argument and no return value." alt="" coords="5,56,173,83"/>
+<area shape="rect" id="node6" href="$structThread__Entry__pointer.html" title="Data for thread entry with one pointer argument and a pointer return value." alt="" coords="9,107,170,133"/>
+<area shape="rect" id="node7" href="$structrtems__monitor__extension__t.html" title=" " alt="" coords="601,217,803,244"/>
+<area shape="rect" id="node8" href="$structrtems__monitor__symbol__t.html" title=" " alt="" coords="284,323,469,349"/>
+<area shape="rect" id="node9" href="$structrtems__monitor__driver__t.html" title=" " alt="" coords="615,295,789,321"/>
+<area shape="rect" id="node16" href="$structrtems__monitor__init__task__t.html" title=" " alt="" coords="629,346,775,387"/>
+<area shape="rect" id="node10" href="$structrtems__monitor__queue__t.html" title=" " alt="" coords="613,412,791,439"/>
+<area shape="rect" id="node11" href="$structrtems__monitor__region__t.html" title=" " alt="" coords="613,463,791,489"/>
+<area shape="rect" id="node12" href="$structrtems__monitor__sema__t.html" title=" " alt="" coords="615,513,789,540"/>
+<area shape="rect" id="node13" href="$structrtems__monitor__part__t.html" title=" " alt="" coords="621,564,783,591"/>
+<area shape="rect" id="node14" href="$structrtems__monitor__generic__t.html" title=" " alt="" coords="609,615,795,641"/>
+<area shape="rect" id="node15" href="$structrtems__monitor__config__t.html" title=" " alt="" coords="614,665,790,692"/>
+</map>

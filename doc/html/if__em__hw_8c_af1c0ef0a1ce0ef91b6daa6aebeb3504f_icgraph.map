@@ -1,0 +1,12 @@
+<map id="em_is_onboard_nvm_eeprom" name="em_is_onboard_nvm_eeprom">
+<area shape="rect" id="node1" title=" " alt="" coords="671,157,885,184"/>
+<area shape="rect" id="node2" href="$if__em__hw_8h.html#aaedfc48c484f9c4963411db8625d2bbc" title=" " alt="" coords="234,5,418,32"/>
+<area shape="rect" id="node3" href="$if__em__hw_8h.html#ae6a7369307e94a8230e780efdf133967" title=" " alt="" coords="487,157,623,184"/>
+<area shape="rect" id="node10" href="$if__em__hw_8h.html#aee6d29c34ac453840cac8f98813be24b" title=" " alt="" coords="5,302,165,343"/>
+<area shape="rect" id="node4" href="$if__em__hw_8h.html#ac19fdf704ffd706573029546b9e9e961" title=" " alt="" coords="267,56,385,83"/>
+<area shape="rect" id="node6" href="$if__em__hw_8h.html#aa3d43be2589808f24f58df2fe6994385" title=" " alt="" coords="251,107,401,133"/>
+<area shape="rect" id="node7" href="$if__em__hw_8h.html#a4eaa856b904e8ff2522a4682d00a2aa0" title=" " alt="" coords="252,157,400,184"/>
+<area shape="rect" id="node8" href="$if__em__hw_8h.html#a9872ec669ef7902753c6e71353433be2" title=" " alt="" coords="267,208,385,235"/>
+<area shape="rect" id="node9" href="$if__em__hw_8h.html#a97d2ded0ca03e93b04c5e0c79293eafb" title=" " alt="" coords="213,259,439,285"/>
+<area shape="rect" id="node5" href="$if__em__hw_8h.html#aa272cc3ec5c754d4d19014f1232f06e6" title=" " alt="" coords="37,132,134,159"/>
+</map>

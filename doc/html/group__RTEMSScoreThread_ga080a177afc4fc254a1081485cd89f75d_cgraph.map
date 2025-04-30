@@ -1,0 +1,8 @@
+<map id="_Thread_Scheduler_get_home_node" name="_Thread_Scheduler_get_home_node">
+<area shape="rect" id="node1" title="Gets the scheduler&#39;s home node." alt="" coords="5,23,179,65"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreChain.html#ga89304b2d294b98f4909dcb6e68d7ec82" title="Returns pointer to chain&#39;s first node." alt="" coords="243,5,344,32"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreChain.html#ga67ffad0c14d402473760ec6bb8e93bcc" title="Checks if the chain is empty." alt="" coords="227,56,360,83"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreChain.html#gac08944db6f0428125d3b0d5a1c65b740" title="Returns pointer to immutable chain head." alt="" coords="632,31,815,57"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreChain.html#ga8b2c850d4d09d8db80d11e3199bce386" title="Returns pointer to immutable chain&#39;s first node." alt="" coords="408,56,584,83"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreChain.html#gaa2f09e6d639b1bc5a27451eb119b6e33" title="Returns pointer to immutable chain tail." alt="" coords="410,107,582,133"/>
+</map>

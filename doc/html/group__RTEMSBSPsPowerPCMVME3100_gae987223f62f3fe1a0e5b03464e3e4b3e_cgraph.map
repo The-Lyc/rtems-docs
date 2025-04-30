@@ -1,0 +1,12 @@
+<map id="BSP_i2c_initialize" name="BSP_i2c_initialize">
+<area shape="rect" id="node1" title=" " alt="" coords="5,104,141,131"/>
+<area shape="rect" id="node2" href="$mknod_8c.html#a8ada37e3927c3e99ea7c1accfdc6576f" title=" " alt="" coords="249,28,316,55"/>
+<area shape="rect" id="node8" href="$group__libi2c.html#ga54050c8f5f11d948e9e9cf006537c998" title=" " alt="" coords="200,79,365,105"/>
+<area shape="rect" id="node9" href="$group__libi2c.html#gac765ccf209d4eab1b79a83cdbac2dadb" title=" " alt="" coords="424,129,613,156"/>
+<area shape="rect" id="node10" href="$group__libi2c.html#gacf604bc12f2a5aae78bac019621d3944" title=" " alt="" coords="189,180,376,207"/>
+<area shape="rect" id="node3" href="$group__LibIOInternal.html#gaa5aa49d164d6bc6f231e793f655e2be2" title=" " alt="" coords="433,13,604,54"/>
+<area shape="rect" id="node7" href="$group__LibIOInternal.html#ga1796d4bcadab6d551343ac7cdc0a38a3" title=" " alt="" coords="425,79,612,105"/>
+<area shape="rect" id="node4" href="$group__LibIOInternal.html#ga9b379361499c56529d158c30562cf399" title=" " alt="" coords="661,5,832,61"/>
+<area shape="rect" id="node6" href="$lib_8c.html#ace2e8f8b5db1119196eee36974d8b536" title=" " alt="" coords="717,107,776,133"/>
+<area shape="rect" id="node5" href="$bootldr_8h.html#a36d20f7d597c517b964289f6b54ddfa7" title=" " alt="" coords="880,20,956,47"/>
+</map>

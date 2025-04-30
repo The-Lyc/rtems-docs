@@ -1,0 +1,8 @@
+<map id="cpukit/posix/src/sigdelset.c" name="cpukit/posix/src/sigdelset.c">
+<area shape="rect" id="node1" title="Deleted Signal from Set." alt="" coords="5,5,204,32"/>
+<area shape="rect" id="node2" href="$errno_8h.html" title=" " alt="" coords="29,155,97,181"/>
+<area shape="rect" id="node3" href="$sigset_8h.html" title="POSIX Signal Sets Management Helper." alt="" coords="186,80,341,107"/>
+<area shape="rect" id="node6" href="$seterr_8h.html" title="Data which Ease the Burden of Consistently Setting Errno." alt="" coords="48,80,161,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="159,155,242,181"/>
+<area shape="rect" id="node5" title=" " alt="" coords="267,155,340,181"/>
+</map>

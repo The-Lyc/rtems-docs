@@ -1,0 +1,5 @@
+<map id="_RTEMS_Allocator_is_owner" name="_RTEMS_Allocator_is_owner">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,161,47"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreAPIMutex.html#ga0a01be1d7b28416e738a2b97ca3f611d" title="Checks if the specified API mutex is owned by the executing thread." alt="" coords="209,13,372,39"/>
+<area shape="rect" id="node3" href="$group__PerCPU.html#ga294cfaf3cf50de03f1d9821d68b9c1bd" title="Returns the thread control block of the executing thread." alt="" coords="420,13,595,39"/>
+</map>

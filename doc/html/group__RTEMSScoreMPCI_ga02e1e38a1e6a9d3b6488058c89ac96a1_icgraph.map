@@ -1,0 +1,4 @@
+<map id="_MPCI_Send_process_packet" name="_MPCI_Send_process_packet">
+<area shape="rect" id="node1" title="Sends a process packet." alt="" coords="229,5,388,47"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreMPCI.html#ga63356f90abac093ad7d8817cedf1da28" title="Performs a process on another node." alt="" coords="5,5,181,47"/>
+</map>

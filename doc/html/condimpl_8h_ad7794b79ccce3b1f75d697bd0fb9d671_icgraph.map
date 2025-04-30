@@ -1,0 +1,5 @@
+<map id="_POSIX_Condition_variables_Signal_support" name="_POSIX_Condition_variables_Signal_support">
+<area shape="rect" id="node1" title="Implements wake up version of the &quot;signal&quot; operation." alt="" coords="235,23,439,65"/>
+<area shape="rect" id="node2" href="$condbroadcast_8c.html#afc4b19aa8ea2dce0956579ce878b4998" title=" " alt="" coords="5,5,187,32"/>
+<area shape="rect" id="node3" href="$condsignal_8c.html#a20f98235b024efb10e5c76a64f0d94e5" title=" " alt="" coords="18,56,174,83"/>
+</map>

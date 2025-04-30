@@ -1,0 +1,8 @@
+<map id="cpukit/score/cpu/bfin/include/rtems/bfin/bfin.h" name="cpukit/score/cpu/bfin/include/rtems/bfin/bfin.h">
+<area shape="rect" id="node1" title="Macros for MMR register common to all Blackfin Processors." alt="" coords="192,5,375,47"/>
+<area shape="rect" id="node2" href="$cpukit_2score_2cpu_2bfin_2cpu_8c.html" title="Blackfin CPU Dependent Source." alt="" coords="5,95,161,136"/>
+<area shape="rect" id="node3" href="$cpukit_2score_2cpu_2bfin_2include_2rtems_2bfin_2bf52x_8h.html" title="Basic MMR for the Blackfin 52x CPU." alt="" coords="185,95,381,136"/>
+<area shape="rect" id="node5" href="$cpukit_2score_2cpu_2bfin_2include_2rtems_2bfin_2bf533_8h.html" title="Basic MMR for the Blackfin 531/532/533 CPU." alt="" coords="405,95,601,136"/>
+<area shape="rect" id="node4" href="$bsps_2bfin_2TLL6527M_2include_2bsp_8h.html" title="Global BSP definitions." alt="" coords="208,184,359,225"/>
+<area shape="rect" id="node6" href="$bsps_2bfin_2eZKit533_2include_2bsp_8h.html" title="Global BSP definitions." alt="" coords="432,184,575,225"/>
+</map>

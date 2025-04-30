@@ -1,0 +1,11 @@
+<map id="fcntl" name="fcntl">
+<area shape="rect" id="node1" title=" " alt="" coords="829,107,880,133"/>
+<area shape="rect" id="node2" href="$aio__cancel_8c.html#af58145bd3d3635ec51be3cb0100eef9c" title=" " alt="" coords="691,5,781,32"/>
+<area shape="rect" id="node3" href="$aio__fsync_8c.html#ab5ae668e7d7ce54ab14e17f6aea2f8bd" title=" " alt="" coords="694,56,778,83"/>
+<area shape="rect" id="node4" href="$aio__read_8c.html#a63dc39cca2b78b2300b012713d58219d" title=" " alt="" coords="697,107,775,133"/>
+<area shape="rect" id="node5" href="$aio__write_8c.html#a07b4c7b4559d3c57f91da4c54398cd76" title=" " alt="" coords="695,157,777,184"/>
+<area shape="rect" id="node6" href="$dup_8c.html#a6363aa4e42f01c8c657effa91abfa421" title=" " alt="" coords="713,208,759,235"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreObject.html#gadd5c974f986efd3e78363740eee4b249" title="Sets objects name." alt="" coords="232,208,383,235"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreWorkspace.html#ga8bc0640d72182fd63475e74dd58c298d" title="Duplicates string with memory from the workspace." alt="" coords="431,233,643,260"/>
+<area shape="rect" id="node8" href="$group__ClassicClassInfo.html#gacb1a1933caf2556aa7e9b715c684fe5b" title="Set Name of Object." alt="" coords="5,208,184,235"/>
+</map>

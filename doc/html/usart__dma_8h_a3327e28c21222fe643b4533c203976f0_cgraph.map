@@ -1,0 +1,8 @@
+<map id="USARTD_Configure" name="USARTD_Configure">
+<area shape="rect" id="node1" title="Initializes the USARTDma structure and the corresponding USART &amp; DMA . hardware select value...." alt="" coords="5,81,151,108"/>
+<area shape="rect" id="node2" href="$group__CMSIS__Core__NVICFunctions.html#ga332e10ef9605dc6eb10b9e14511930f8" title="Clear Pending Interrupt." alt="" coords="199,5,369,32"/>
+<area shape="rect" id="node3" href="$group__CMSIS__Core__NVICFunctions.html#ga47a0f52794068d076c9147aa3cb8d8a6" title="Get Active Interrupt." alt="" coords="221,56,347,83"/>
+<area shape="rect" id="node4" href="$atsam_2contrib_2libraries_2libchip_2source_2pmc_8c.html#a4154148b8d69545bca1b5c868c004d49" title="Enables the clock of a peripheral. The peripheral ID is used to identify which peripheral is targeted..." alt="" coords="200,107,368,133"/>
+<area shape="rect" id="node5" href="$atsam_2contrib_2libraries_2libchip_2source_2usart_8c.html#a6280c3578315c2a06e1857b7dca0c1be" title="Configures an USART peripheral with the specified parameters." alt="" coords="217,157,351,184"/>
+<area shape="rect" id="node6" href="$atsam_2contrib_2libraries_2libchip_2source_2usart_8c.html#a2c462751711f86351d7f6503ff6c2063" title="Configures an USART baudrate." alt="" coords="417,157,571,184"/>
+</map>

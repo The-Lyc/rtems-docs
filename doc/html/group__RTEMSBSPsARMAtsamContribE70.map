@@ -1,0 +1,48 @@
+<map id="SAME70" name="SAME70">
+<area shape="rect" id="node1" href="$group__SAME70Q21__definitions.html" title=" " alt="" coords="335,5,509,31"/>
+<area shape="rect" id="node2" href="$group__SAME70J20__definitions.html" title=" " alt="" coords="338,55,506,80"/>
+<area shape="rect" id="node3" href="$group__SAME70__ISI.html" title=" " alt="" coords="335,104,509,129"/>
+<area shape="rect" id="node4" href="$group__SAME70__RSTC.html" title=" " alt="" coords="359,153,485,179"/>
+<area shape="rect" id="node5" href="$group__SAME70N20__definitions.html" title=" " alt="" coords="335,203,509,228"/>
+<area shape="rect" id="node6" href="$group__SAME70__UTMI.html" title=" " alt="" coords="327,253,517,293"/>
+<area shape="rect" id="node7" href="$group__SAME70__QSPI.html" title=" " alt="" coords="339,317,505,357"/>
+<area shape="rect" id="node8" href="$group__SAME70__RTT.html" title=" " alt="" coords="358,381,486,407"/>
+<area shape="rect" id="node9" href="$group__SAME70J21__definitions.html" title=" " alt="" coords="338,431,506,456"/>
+<area shape="rect" id="node10" href="$group__SAME70__RTC.html" title=" " alt="" coords="359,480,485,505"/>
+<area shape="rect" id="node11" href="$group__SAME70__WDT.html" title=" " alt="" coords="358,529,486,555"/>
+<area shape="rect" id="node12" title=" " alt="" coords="188,1159,264,1184"/>
+<area shape="rect" id="node13" href="$group__SAME70N21__definitions.html" title=" " alt="" coords="335,579,509,604"/>
+<area shape="rect" id="node14" href="$group__SAME70__MATRIX.html" title=" " alt="" coords="360,628,484,653"/>
+<area shape="rect" id="node15" href="$group__SAME70__SMC.html" title=" " alt="" coords="329,677,515,703"/>
+<area shape="rect" id="node16" href="$group__SAME70__SDRAMC.html" title=" " alt="" coords="353,727,491,752"/>
+<area shape="rect" id="node17" href="$group__SAME70Q19__definitions.html" title=" " alt="" coords="335,776,509,801"/>
+<area shape="rect" id="node18" href="$group__SAME70__TWIHS.html" title=" " alt="" coords="351,826,493,866"/>
+<area shape="rect" id="node19" href="$group__SAME70__RSWDT.html" title=" " alt="" coords="319,890,525,930"/>
+<area shape="rect" id="node20" href="$group__SAME70__SPI.html" title=" " alt="" coords="327,955,517,980"/>
+<area shape="rect" id="node21" href="$group__SAME70__SSC.html" title=" " alt="" coords="349,1005,495,1045"/>
+<area shape="rect" id="node22" href="$group__SAME70__SUPC.html" title=" " alt="" coords="355,1069,489,1095"/>
+<area shape="rect" id="node23" href="$group__SAME70__PIO.html" title=" " alt="" coords="345,1119,499,1159"/>
+<area shape="rect" id="node24" href="$group__SAME70__UART.html" title=" " alt="" coords="333,1183,511,1223"/>
+<area shape="rect" id="node25" href="$group__SAME70__PMC.html" title=" " alt="" coords="312,1248,532,1273"/>
+<area shape="rect" id="node26" href="$group__SAME70__USBHS.html" title=" " alt="" coords="327,1297,517,1323"/>
+<area shape="rect" id="node27" href="$group__SAME70__AFEC.html" title=" " alt="" coords="321,1347,523,1372"/>
+<area shape="rect" id="node28" href="$group__SAME70__GMAC.html" title=" " alt="" coords="341,1396,503,1421"/>
+<area shape="rect" id="node29" href="$group__SAME70J19__definitions.html" title=" " alt="" coords="338,1445,506,1471"/>
+<area shape="rect" id="node30" href="$group__SAME70Q20__definitions.html" title=" " alt="" coords="335,1495,509,1520"/>
+<area shape="rect" id="node31" href="$group__SAME70__USART.html" title=" " alt="" coords="333,1544,511,1599"/>
+<area shape="rect" id="node32" href="$group__SAME70__DACC.html" title=" " alt="" coords="321,1623,523,1663"/>
+<area shape="rect" id="node33" href="$group__SAME70__GPBR.html" title=" " alt="" coords="332,1687,512,1727"/>
+<area shape="rect" id="node34" href="$group__SAME70__MCAN.html" title=" " alt="" coords="333,1752,511,1777"/>
+<area shape="rect" id="node35" href="$group__SAME70__ACC.html" title=" " alt="" coords="314,1801,530,1827"/>
+<area shape="rect" id="node36" href="$group__SAME70__PWM.html" title=" " alt="" coords="334,1851,510,1891"/>
+<area shape="rect" id="node37" href="$group__SAME70__HSMCI.html" title=" " alt="" coords="335,1915,509,1955"/>
+<area shape="rect" id="node38" href="$group__SAME70__TRNG.html" title=" " alt="" coords="341,1979,503,2019"/>
+<area shape="rect" id="node39" href="$group__SAME70N19__definitions.html" title=" " alt="" coords="335,2044,509,2069"/>
+<area shape="rect" id="node40" href="$group__SAME70__ICM.html" title=" " alt="" coords="335,2093,509,2119"/>
+<area shape="rect" id="node41" href="$group__SAME70__XDMAC.html" title=" " alt="" coords="325,2143,519,2168"/>
+<area shape="rect" id="node42" href="$group__SAME70__AES.html" title=" " alt="" coords="343,2193,501,2233"/>
+<area shape="rect" id="node43" href="$group__SAME70__TC.html" title=" " alt="" coords="365,2257,479,2283"/>
+<area shape="rect" id="node44" href="$group__SAME70__EFC.html" title=" " alt="" coords="323,2307,521,2332"/>
+<area shape="rect" id="node45" href="$group__SAME70__CHIPID.html" title=" " alt="" coords="365,2356,479,2381"/>
+<area shape="rect" id="node46" href="$group__RTEMSBSPsARMAtsamContrib.html" title="Contributed Code from Atmel." alt="" coords="5,1159,140,1184"/>
+</map>

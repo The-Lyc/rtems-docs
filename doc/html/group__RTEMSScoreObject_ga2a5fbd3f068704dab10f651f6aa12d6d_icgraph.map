@@ -1,0 +1,14 @@
+<map id="_Objects_Get_node" name="_Objects_Get_node">
+<area shape="rect" id="node1" title="Returns the node portion of the ID." alt="" coords="889,143,1036,170"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreObject.html#gac7e6cf1ee2d115abb4d53efc9ba2bca0" title="Checks if the id is of a local object." alt="" coords="668,78,821,105"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreObjectMP.html#gaa5c13d3459c22165867d079319392ee6" title="Place the specified global object in the specified information table." alt="" coords="671,143,818,170"/>
+<area shape="rect" id="node11" href="$rtemsobjectidgetnode_8c.html#a8b4a9549764db96b19340603b1829845" title=" " alt="" coords="648,198,841,225"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreMutex.html#gac76286dab6594ca0499aa20861f69fb8" title="Surrenders the ceiling mutex." alt="" coords="430,5,594,47"/>
+<area shape="rect" id="node4" href="$mon-object_8c.html#a569c4ee5ca16ba96573fe786de0955bc" title=" " alt="" coords="429,71,595,112"/>
+<area shape="rect" id="node5" href="$mon-object_8c.html#a5829e8ea5e1716af2053eb12d17e5b83" title=" " alt="" coords="207,71,372,112"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreObjectMP.html#gaee5f1bac6bea600e8f437c6cb0458f97" title="Allocates a global object control block and places it in the specified information table." alt="" coords="429,136,595,177"/>
+<area shape="rect" id="node8" href="$group__ClassicMessageQueue.html#gaea76fd325e8a84810f2be119448a307d" title="RTEMS Create Message Queue." alt="" coords="203,136,376,177"/>
+<area shape="rect" id="node10" href="$group__ClassicPart.html#gaae1e45358170b1de610acdae7f4a8148" title="RTEMS Partition Create." alt="" coords="204,202,375,229"/>
+<area shape="rect" id="node9" href="$grspw__pkt_8c.html#a332e9d8281beb4acd9c2451488def344" title=" " alt="" coords="5,143,155,170"/>
+<area shape="rect" id="node12" href="$mon-object_8c.html#a119265e9cabc56e624a54c055f8d26d3" title=" " alt="" coords="424,202,600,229"/>
+</map>

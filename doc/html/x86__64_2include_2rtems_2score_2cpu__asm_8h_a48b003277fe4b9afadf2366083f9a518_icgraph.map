@@ -1,0 +1,11 @@
+<map id="inport_byte" name="inport_byte">
+<area shape="rect" id="node1" title=" " alt="" coords="641,81,737,108"/>
+<area shape="rect" id="node2" href="$bsps_2x86__64_2amd64_2include_2clock_8h.html#affdde2e888749707930cfd2cca26fe34" title=" " alt="" coords="424,5,579,32"/>
+<area shape="rect" id="node5" href="$i386_2pc386_2clock_2rtc_8c.html#a88533ad02465ce52d4e6de7b2095ec32" title=" " alt="" coords="468,56,535,83"/>
+<area shape="rect" id="node6" href="$pic_8c.html#a1e8083b0b2dc613e45cdd10c21732555" title=" " alt="" coords="456,107,547,133"/>
+<area shape="rect" id="node8" href="$rtd316_8h.html#ad57822a6f7fe2c1dfeedd53eca02f006" title="RTD316 Obtain Register Helper." alt="" coords="409,157,593,184"/>
+<area shape="rect" id="node3" href="$bsps_2x86__64_2amd64_2include_2clock_8h.html#a84989b05f1f7d1b262923d1bae0a36a3" title=" " alt="" coords="207,19,361,45"/>
+<area shape="rect" id="node4" href="$bsps_2x86__64_2amd64_2include_2clock_8h.html#a2ce3dbcd9abad894735efa572bd10dcd" title=" " alt="" coords="5,43,159,85"/>
+<area shape="rect" id="node7" href="$bsps_2x86__64_2amd64_2include_2clock_8h.html#abf0afda694ebc96f87ee2c0623f60f87" title=" " alt="" coords="228,81,340,108"/>
+<area shape="rect" id="node9" href="$rtd316_8h.html#ab62469a877035fdcbb7db5531b2a4442" title="RTD316 Initialization Entry Point." alt="" coords="221,157,347,184"/>
+</map>

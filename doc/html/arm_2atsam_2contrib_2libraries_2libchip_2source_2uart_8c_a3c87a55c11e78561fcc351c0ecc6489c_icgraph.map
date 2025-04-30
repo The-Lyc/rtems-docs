@@ -1,0 +1,4 @@
+<map id="UART_PutChar" name="UART_PutChar">
+<area shape="rect" id="node1" title="Sends one packet of data through the specified UART peripheral. This function operates synchronously,..." alt="" coords="188,5,303,32"/>
+<area shape="rect" id="node2" href="$arm_2atsam_2include_2libchip_2include_2uart_8h.html#a9b16a8d3558aa9934123f30725a0c5ea" title=" " alt="" coords="5,5,140,32"/>
+</map>

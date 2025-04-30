@@ -1,0 +1,12 @@
+<map id="_Thread_Wait_release" name="_Thread_Wait_release">
+<area shape="rect" id="node1" title="Releases the thread wait lock and restores the previous interrupt status." alt="" coords="583,122,748,149"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreMutex.html#gae13f723fc5cdac5a7f9b5f910b284bf6" title="Sets the priority of the ceiling mutex." alt="" coords="353,5,517,47"/>
+<area shape="rect" id="node3" href="$posix_2muteximpl_8h.html#abfafb525a73733f9fdb9d99cfa8b865a" title=" " alt="" coords="336,71,535,98"/>
+<area shape="rect" id="node4" href="$pthreadgetschedparam_8c.html#aae9850b3759769c748727e171c4c6e61" title=" " alt="" coords="345,122,525,149"/>
+<area shape="rect" id="node9" href="$pthreadsetschedprio_8c.html#a7a23cbcfc21a4e3edf531ed65f022370" title=" " alt="" coords="354,173,517,199"/>
+<area shape="rect" id="node10" href="$group__ClassicTasks.html#gad06646a724fbaf16f1a4d117d1c667dc" title="Gets the current priority of the specified task with respect to the specified scheduler instance." alt="" coords="347,223,524,250"/>
+<area shape="rect" id="node5" href="$aio__misc_8c.html#a8477bc52bcf6620a6f253b06075d1554" title=" " alt="" coords="137,122,288,149"/>
+<area shape="rect" id="node6" href="$aio__fsync_8c.html#ab5ae668e7d7ce54ab14e17f6aea2f8bd" title=" " alt="" coords="5,71,89,98"/>
+<area shape="rect" id="node7" href="$aio__read_8c.html#a63dc39cca2b78b2300b012713d58219d" title=" " alt="" coords="8,122,87,149"/>
+<area shape="rect" id="node8" href="$aio__write_8c.html#a07b4c7b4559d3c57f91da4c54398cd76" title=" " alt="" coords="6,173,89,199"/>
+</map>

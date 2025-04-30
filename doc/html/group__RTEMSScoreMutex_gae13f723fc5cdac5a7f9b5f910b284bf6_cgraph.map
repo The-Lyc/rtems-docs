@@ -1,0 +1,11 @@
+<map id="_CORE_ceiling_mutex_Set_priority" name="_CORE_ceiling_mutex_Set_priority">
+<area shape="rect" id="node1" title="Sets the priority of the ceiling mutex." alt="" coords="5,96,169,137"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreMutex.html#gac97696832bb6ad43d333541536040ec3" title="Gets the owner of the mutex." alt="" coords="217,23,408,50"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreThread.html#ga76a9975ac0b320b0a00678534ab78f10" title="Changes the thread priority value of the specified thread priority node in the corresponding thread p..." alt="" coords="221,74,404,101"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreThread.html#gaa8ad190d2fb384bff871065b7e885c90" title="Acquires the thread wait default lock and disables interrupts." alt="" coords="230,129,395,155"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreThread.html#gacb857fbbdbd059ae8e1f6fca8768da96" title="Releases the thread wait lock and restores the previous interrupt status." alt="" coords="230,186,395,213"/>
+<area shape="rect" id="node4" href="$group__RTEMSScorePriority.html#ga8f7626eed557998923ac78733f8790c9" title="Sets the priority of the priority node to the given priority." alt="" coords="479,5,623,47"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreThread.html#ga3c72bf8623d4e8a6b4e5510cdbc4baac" title="Propagates a thread priority value change in the specified thread priority node to the corresponding ..." alt="" coords="456,71,647,98"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreThread.html#ga31d2b044df5bb8998e4c935fededc17c" title="Acquires the thread wait lock inside a critical section (interrupts disabled)." alt="" coords="469,123,634,164"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreThread.html#gae077609cfcf4bf7a741a5fd36020dcb4" title="Releases the thread wait lock inside a critical section (interrupts disabled)." alt="" coords="469,188,634,229"/>
+</map>

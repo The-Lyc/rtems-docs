@@ -1,0 +1,6 @@
+<map id="cpukit/score/cpu/i386/include/rtems/score/i386.h" name="cpukit/score/cpu/i386/include/rtems/score/i386.h">
+<area shape="rect" id="node1" title="Intel I386 CPU Dependent Source." alt="" coords="215,5,375,61"/>
+<area shape="rect" id="node2" href="$interrupts_8h.html" title="Intel I386 Interrupt Macros." alt="" coords="5,109,184,136"/>
+<area shape="rect" id="node3" href="$i386_2include_2rtems_2score_2registers_8h.html" title="Intel CPU Constants and Definitions." alt="" coords="209,109,381,136"/>
+<area shape="rect" id="node4" href="$idtr_8h.html" title="Intel I386 Data Structures." alt="" coords="405,109,541,136"/>
+</map>

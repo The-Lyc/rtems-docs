@@ -1,0 +1,36 @@
+<map id="cpukit/include/rtems/score/schedulersmp.h" name="cpukit/include/rtems/score/schedulersmp.h">
+<area shape="rect" id="node1" title="SMP Scheduler API." alt="" coords="30,5,198,47"/>
+<area shape="rect" id="node2" href="$score_2chain_8h.html" title="Chain Handler API." alt="" coords="668,393,819,420"/>
+<area shape="rect" id="node3" href="$score_2scheduler_8h.html" title="Constants and Structures Associated with the Scheduler." alt="" coords="531,95,708,121"/>
+<area shape="rect" id="node4" href="$score_2thread_8h.html" title="Constants and Structures Related with the Thread Control Block." alt="" coords="994,169,1151,196"/>
+<area shape="rect" id="node5" href="$include_2rtems_2score_2atomic_8h.html" title="Atomic Operations API." alt="" coords="1663,244,1823,271"/>
+<area shape="rect" id="node7" href="$context_8h.html" title="Information About Each Thread&#39;s Context." alt="" coords="241,393,405,420"/>
+<area shape="rect" id="node9" href="$freechain_8h.html" title="Freechain Handler API." alt="" coords="1239,244,1415,271"/>
+<area shape="rect" id="node17" href="$isrlock_8h.html" title="ISR Locks." alt="" coords="332,319,491,345"/>
+<area shape="rect" id="node20" href="$objectdata_8h.html" title="Object Handler Data Structures." alt="" coords="981,244,1165,271"/>
+<area shape="rect" id="node24" href="$rtems_2score_2priority_8h.html" title="Priority Handler API." alt="" coords="566,319,726,345"/>
+<area shape="rect" id="node25" href="$schedulernode_8h.html" title="Handles Scheduler Nodes." alt="" coords="423,244,634,271"/>
+<area shape="rect" id="node27" href="$cpukit_2include_2rtems_2score_2stack_8h.html" title="Information About the Thread Stack Handler." alt="" coords="1452,468,1603,495"/>
+<area shape="rect" id="node28" href="$states_8h.html" title="Thread Execution State Information." alt="" coords="1561,319,1715,345"/>
+<area shape="rect" id="node29" href="$threadq_8h.html" title="Constants and Structures Needed to Declare a Thread Queue." alt="" coords="771,244,937,271"/>
+<area shape="rect" id="node31" href="$timestamp_8h.html" title="Helpers for Manipulating Timestamps." alt="" coords="1857,244,2043,271"/>
+<area shape="rect" id="node34" href="$cpukit_2include_2rtems_2score_2watchdog_8h.html" title="Constants and Structures Associated with Watchdog Timers." alt="" coords="1257,319,1435,345"/>
+<area shape="rect" id="node6" title=" " alt="" coords="1740,319,1923,345"/>
+<area shape="rect" id="node8" title=" " alt="" coords="501,468,639,495"/>
+<area shape="rect" id="node10" href="$basedefs_8h.html" title="Basic Definitions." alt="" coords="1225,543,1400,569"/>
+<area shape="rect" id="node15" href="$chainimpl_8h.html" title="Chain Handler API." alt="" coords="1003,319,1182,345"/>
+<area shape="rect" id="node11" title=" " alt="" coords="225,617,392,644"/>
+<area shape="rect" id="node12" title=" " alt="" coords="1275,617,1350,644"/>
+<area shape="rect" id="node13" title=" " alt="" coords="1437,617,1519,644"/>
+<area shape="rect" id="node14" title=" " alt="" coords="1605,617,1676,644"/>
+<area shape="rect" id="node16" href="$assert_8h.html" title="Information for the Assert Handler." alt="" coords="1009,468,1163,495"/>
+<area shape="rect" id="node18" href="$isrlevel_8h.html" title="ISR Level Type." alt="" coords="430,393,593,420"/>
+<area shape="rect" id="node19" href="$smplock_8h.html" title="SMP Lock API." alt="" coords="223,543,394,569"/>
+<area shape="rect" id="node21" href="$score_2object_8h.html" title="Constants and Structures Associated with the Object Handler." alt="" coords="894,393,1049,420"/>
+<area shape="rect" id="node22" href="$rtems_2score_2rbtree_8h.html" title="Constants and Structures Associated with the Red&#45;Black Tree Handler." alt="" coords="1142,393,1297,420"/>
+<area shape="rect" id="node23" title=" " alt="" coords="1188,468,1275,495"/>
+<area shape="rect" id="node26" href="$smplockseq_8h.html" title="SMP Lock API." alt="" coords="5,543,199,569"/>
+<area shape="rect" id="node30" href="$watchdogticks_8h.html" title="Constants for the watchdog ticks." alt="" coords="724,468,933,495"/>
+<area shape="rect" id="node32" href="$score_2timespec_8h.html" title="Contains Helpers for Manipulating Timespecs." alt="" coords="1679,543,1853,569"/>
+<area shape="rect" id="node33" title=" " alt="" coords="1734,617,1798,644"/>
+</map>

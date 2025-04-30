@@ -1,0 +1,5 @@
+<map id="rtems_interrupt_handler_remove" name="rtems_interrupt_handler_remove">
+<area shape="rect" id="node1" title="Removes the interrupt handler routine handler with argument arg for the interrupt vector with number ..." alt="" coords="256,23,435,65"/>
+<area shape="rect" id="node2" href="$group__lpc176x__dma.html#ga4c38afe5c86c6d49cc2b2f72faf5a9d5" title=" " alt="" coords="5,5,208,32"/>
+<area shape="rect" id="node3" href="$cpukit_2include_2pci_2irq_8h.html#a442cb4865a4982212c6c2f1373aced72" title=" " alt="" coords="18,56,195,83"/>
+</map>

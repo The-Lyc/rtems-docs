@@ -1,0 +1,9 @@
+<map id="rtems_object_get_class_information" name="rtems_object_get_class_information">
+<area shape="rect" id="node1" title="Get Class Information." alt="" coords="5,96,180,137"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreObject.html#gaf45a5862e6e8eab0823ef39dfd1e9403" title="Gets object information." alt="" coords="231,27,422,54"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreObject.html#gadf825a94fecd0945a4368e503e274bfd" title="Returns the maximum index of the specified object class." alt="" coords="473,71,656,112"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreObject.html#gaaa126abc5988d998acc3b6c9f39c3bee" title="Returns the identifier with the minimum index for the specified identifier." alt="" coords="228,129,425,155"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreObject.html#gaba65e2c96c6fde53bea31b45152fb79d" title="Checks if the automatic object extension (unlimited objects) is enabled." alt="" coords="235,179,419,206"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreObject.html#ga160a712acafe6e9c4a8b9ea6dcc2597b" title="Returns highest numeric value of a valid API for the specified API." alt="" coords="475,5,655,47"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreObject.html#ga22cdf45f285840b7728b06197a7f4627" title="Returns the index portion of the ID." alt="" coords="704,78,855,105"/>
+</map>

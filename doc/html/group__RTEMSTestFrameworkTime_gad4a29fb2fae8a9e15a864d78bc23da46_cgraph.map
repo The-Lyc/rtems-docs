@@ -1,0 +1,7 @@
+<map id="T_now_tick" name="T_now_tick">
+<area shape="rect" id="node1" title=" " alt="" coords="5,35,100,61"/>
+<area shape="rect" id="node2" href="$group__RTEMSTestFrameworkTime.html#ga3b353c07537137de30e02abb293a504f" title=" " alt="" coords="180,8,241,35"/>
+<area shape="rect" id="node4" href="$group__RTEMSTestFrameworkTime.html#ga8f949cd5e8e5c3f0e0838740ba1a037c" title=" " alt="" coords="148,60,273,87"/>
+<area shape="rect" id="node3" href="$group__RTEMSTestFrameworkTime.html#gabb8cf99617c7b98a1637234b6d3c4914" title=" " alt="" coords="367,5,431,32"/>
+<area shape="rect" id="node5" href="$group__ClassicCounter.html#ga57c10408f9570d199408745197f014de" title="Converts counter ticks into signed binary time (sbintime_t)." alt="" coords="321,57,476,98"/>
+</map>

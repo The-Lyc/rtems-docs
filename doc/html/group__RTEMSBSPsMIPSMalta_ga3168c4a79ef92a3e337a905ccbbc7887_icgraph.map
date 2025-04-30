@@ -1,0 +1,6 @@
+<map id="simple_out_8" name="simple_out_8">
+<area shape="rect" id="node1" title=" " alt="" coords="232,56,341,83"/>
+<area shape="rect" id="node2" href="$group__mips__i8259__irq.html#gad212efac7a3ac19484ed637d0fb5420b" title=" " alt="" coords="32,5,157,32"/>
+<area shape="rect" id="node3" href="$group__mips__i8259__irq.html#gabe7c16b42b7d19392ba99b07a24605e3" title=" " alt="" coords="5,56,184,83"/>
+<area shape="rect" id="node4" href="$group__mips__i8259__irq.html#ga71748a7cd08c833484dc27fe32dafeb5" title="function to acknowledge a particular irq at 8259 level." alt="" coords="9,107,180,133"/>
+</map>

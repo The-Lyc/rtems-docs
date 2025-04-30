@@ -1,0 +1,50 @@
+<map id="rtems_rate_monotonic_cancel" name="rtems_rate_monotonic_cancel">
+<area shape="rect" id="node1" title="RTEMS Rate Monotonic Cancel." alt="" coords="5,530,175,571"/>
+<area shape="rect" id="node2" href="$group__ClassicRateMonImpl.html#gab174ae30d1440637fecb41e22258f54f" title=" " alt="" coords="223,449,409,476"/>
+<area shape="rect" id="node46" href="$group__ClassicRateMonImpl.html#gafca768d067ab935fdf8d53ebb425d72b" title=" " alt="" coords="233,563,399,589"/>
+<area shape="rect" id="node3" href="$group__ClassicRateMonImpl.html#gae49c0e00563f58a849944135d5c316cd" title=" " alt="" coords="468,253,659,294"/>
+<area shape="rect" id="node4" href="$group__ClassicRateMonImpl.html#ga95cf6dc5dfb1e993a22066834528aaba" title=" " alt="" coords="466,319,661,345"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreScheduler.html#gaa4fcdf5fd641701ca171698b0ce20032" title="Cancels a job of a thread with respect to the scheduler." alt="" coords="478,369,649,396"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreThread.html#ga5ffeb81480c63293a317f69efc74dec3" title="Disables thread dispatching inside a critical section (interrupts disabled)." alt="" coords="467,471,659,513"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreThread.html#gab0c773b97624be1dc304a2d3d038f19a" title="Enables thread dispatching." alt="" coords="469,537,658,564"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreThread.html#ga424ec96c6cbed5a748565333d5fd7d59" title="Updates the priority of all threads in the set." alt="" coords="473,420,653,447"/>
+<area shape="rect" id="node31" href="$group__RTEMSScoreWatchdog.html#ga0d978ece12fb00ebea90c370fcd5c871" title="Removes the watchdog from the cpu and the scheduled watchdogs." alt="" coords="457,589,669,630"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreThreadQueue.html#gab84f558bc470437d43ce863f8024534e" title="Clears the priority update count of the thread queue context." alt="" coords="734,137,913,178"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreThread.html#ga0071d4e11d2d68b2e4c43ffe2108e7f5" title="Gets the home scheduler of the thread." alt="" coords="977,5,1195,32"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreThread.html#ga80a71da4ea096f7ea92781a872b955ae" title="Disables thread dispatching inside a critical section (interrupts disabled) with the current processo..." alt="" coords="727,522,919,563"/>
+<area shape="rect" id="node12" href="$group__RTEMSScoreScheduler.html#ga7fdbd807dbde0152b93a9ebc59f69e5d" title="Propagates a priority change of a thread to the scheduler." alt="" coords="723,253,924,280"/>
+<area shape="rect" id="node25" href="$group__RTEMSScoreThread.html#ga9a583864cdcbb7eaeda8002d05de6912" title="Disables interrupts and acquires the lock_context." alt="" coords="738,420,909,447"/>
+<area shape="rect" id="node28" href="$group__RTEMSScoreThread.html#ga958218590f858b65855c89802b2cc071" title="Releases the lock context and enables interrupts." alt="" coords="738,471,909,497"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreChain.html#ga89304b2d294b98f4909dcb6e68d7ec82" title="Returns pointer to chain&#39;s first node." alt="" coords="1293,68,1394,95"/>
+<area shape="rect" id="node15" href="$group__RTEMSScoreChain.html#gaa2f09e6d639b1bc5a27451eb119b6e33" title="Returns pointer to immutable chain tail." alt="" coords="1494,172,1666,199"/>
+<area shape="rect" id="node16" href="$group__RTEMSScoreChain.html#ga9502cc5cb6c81ef2bce33698005e1752" title="Returns pointer to the next node from this node." alt="" coords="1034,224,1138,251"/>
+<area shape="rect" id="node17" href="$group__RTEMSScoreScheduler.html#ga9e6cf07526560aa067d7bcb92a7aa964" title="Acquires the scheduler instance inside a critical section (interrupts disabled)." alt="" coords="1011,275,1161,317"/>
+<area shape="rect" id="node19" href="$group__RTEMSScoreScheduler.html#gaac1c9761b448c8de90eaf023a3e3757e" title="Gets the scheduler of the node." alt="" coords="1005,406,1167,447"/>
+<area shape="rect" id="node21" href="$group__RTEMSScoreScheduler.html#gae4d084e50d4f8a616f394312b66df32b" title="Releases the scheduler instance inside a critical section (interrupts disabled)." alt="" coords="1010,341,1162,382"/>
+<area shape="rect" id="node22" href="$group__RTEMSScoreThread.html#ga080a177afc4fc254a1081485cd89f75d" title="Gets the scheduler&#39;s home node." alt="" coords="999,107,1173,149"/>
+<area shape="rect" id="node14" href="$group__RTEMSScoreChain.html#gac08944db6f0428125d3b0d5a1c65b740" title="Returns pointer to immutable chain head." alt="" coords="1716,93,1899,120"/>
+<area shape="rect" id="node18" href="$group__RTEMSScoreScheduler.html#ga9c62ef5a388b998fa041a269297be1fe" title="Gets the context of the scheduler." alt="" coords="1254,315,1433,341"/>
+<area shape="rect" id="node20" href="$group__RTEMSScorePriority.html#ga0aa656f168c0c0ddc98c021fc55d2b40" title="Gets the priority aggregation&#39;s scheduler." alt="" coords="1255,413,1431,440"/>
+<area shape="rect" id="node23" href="$group__RTEMSScoreChain.html#ga67ffad0c14d402473760ec6bb8e93bcc" title="Checks if the chain is empty." alt="" coords="1277,119,1410,145"/>
+<area shape="rect" id="node24" href="$group__RTEMSScoreChain.html#ga8b2c850d4d09d8db80d11e3199bce386" title="Returns pointer to immutable chain&#39;s first node." alt="" coords="1492,119,1668,145"/>
+<area shape="rect" id="node26" href="$group__RTEMSScoreThread.html#gafd7ff215edf64b4611da7b7c1d4e3050" title="Acquires the lock context in a critical section." alt="" coords="1001,471,1171,513"/>
+<area shape="rect" id="node27" href="$group__RTEMSScoreThreadQueue.html#gaf1488e09cc925566233f2f1fc76c4d81" title="Acquires the thread queue control in a critical section." alt="" coords="1243,471,1444,513"/>
+<area shape="rect" id="node29" href="$group__RTEMSScoreThread.html#gab003d620d9c5fc5502cedd90960d59d5" title="Release the lock context in a critical section." alt="" coords="1001,537,1171,578"/>
+<area shape="rect" id="node30" href="$group__RTEMSScoreThreadQueue.html#ga923d39f206f389ae8a8293e22bae8fbf" title="Checks if the thread queue control is the owner of the lock." alt="" coords="1243,537,1444,578"/>
+<area shape="rect" id="node32" href="$group__RTEMSScoreWatchdog.html#gaf1cb44dc5d0789c722e5272370fc20b4" title="Gets the watchdog&#39;s cpu." alt="" coords="745,592,902,619"/>
+<area shape="rect" id="node33" href="$group__RTEMSScoreWatchdog.html#ga5634267a330e8974e3035399224cf029" title="Removes the watchdog from the cpu and the scheduled watchdogs." alt="" coords="717,643,929,669"/>
+<area shape="rect" id="node34" href="$group__RTEMSScoreWatchdog.html#ga2d69aa4531d31a6d4c7784de2e4e91ae" title="Acquires the per cpu watchdog lock in a critical section." alt="" coords="981,602,1191,643"/>
+<area shape="rect" id="node35" href="$group__RTEMSScoreWatchdog.html#ga6b10befdd7d24a03d5b738b62c08a4f3" title="Releases the per cpu watchdog lock in a critical section." alt="" coords="981,667,1191,709"/>
+<area shape="rect" id="node36" href="$group__RTEMSScoreWatchdog.html#ga4c6dafd66518b5af7edb7c0d67572065" title="In the case the watchdog is scheduled, then it is removed from the set of scheduled watchdogs." alt="" coords="1009,733,1163,760"/>
+<area shape="rect" id="node37" href="$group__RTEMSScoreRBTree.html#ga26bf30d26e521f0599ae0467abdacc85" title="Extracts (removes) the node from the red&#45;black tree." alt="" coords="1280,657,1407,684"/>
+<area shape="rect" id="node41" href="$group__RTEMSScoreWatchdog.html#gaa77ec8a34fd2830fab0a5bb639c4ab06" title="Checks if the watchdog is scheduled." alt="" coords="1251,708,1435,735"/>
+<area shape="rect" id="node43" href="$group__RTEMSScoreWatchdog.html#gaa3f2959cd64e5f27cf67d1b89c45303a" title="Sets the first node of the header." alt="" coords="1262,759,1425,785"/>
+<area shape="rect" id="node45" href="$group__RTEMSScoreWatchdog.html#ga08d63637741832757cddfc443e9cf473" title="Sets the state of the watchdog." alt="" coords="1263,809,1424,836"/>
+<area shape="rect" id="node38" href="$group__RTEMSScoreRBTree.html#gabbc757c2fd03694b6f9bb5aa2be553ff" title="Initializes a red&#45;black tree node." alt="" coords="1492,607,1668,633"/>
+<area shape="rect" id="node40" href="$group__RTEMSScoreRBTree.html#ga29242f056330aaabc12dcfcaa6f10a05" title="Returns a pointer to root node of the red&#45;black tree." alt="" coords="1525,657,1635,684"/>
+<area shape="rect" id="node39" href="$group__RTEMSScoreRBTree.html#ga82d9b6f1aad201e7c8b614a0e970b356" title="Sets a red&#45;black tree node as off&#45;tree." alt="" coords="1728,607,1887,633"/>
+<area shape="rect" id="node42" href="$group__RTEMSScoreWatchdog.html#gace59e3b987e52e536a15534fa1f91ec5" title="Gets the state of the watchdog." alt="" coords="1499,708,1661,735"/>
+<area shape="rect" id="node44" href="$group__RTEMSScoreRBTree.html#gadb8aa819c64641ff7a2342a7ef20b950" title="Returns pointer to the right of this node." alt="" coords="1523,759,1637,785"/>
+<area shape="rect" id="node47" href="$group__RTEMSScoreObject.html#gaccc5682133e4f65b8cb374eab9be2c9d" title="Maps the specified object identifier to the associated local object control block." alt="" coords="509,672,617,699"/>
+<area shape="rect" id="node48" href="$group__RTEMSScoreObject.html#ga22cdf45f285840b7728b06197a7f4627" title="Returns the index portion of the ID." alt="" coords="748,693,899,720"/>
+</map>

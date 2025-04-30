@@ -1,0 +1,7 @@
+<map id="UART_IsRxReady" name="UART_IsRxReady">
+<area shape="rect" id="node1" title="Return 1 if a character can be read in UART." alt="" coords="373,31,507,57"/>
+<area shape="rect" id="node2" href="$arm_2atsam_2include_2libchip_2include_2uart_8h.html#a8003de31149ba9e3e57eada21fec5fbc" title="Reads and returns a character from the UART." alt="" coords="208,5,325,32"/>
+<area shape="rect" id="node4" href="$arm_2atsam_2include_2libchip_2include_2uart_8h.html#a3c87a55c11e78561fcc351c0ecc6489c" title="Sends one packet of data through the specified UART peripheral. This function operates synchronously,..." alt="" coords="209,56,324,83"/>
+<area shape="rect" id="node3" href="$arm_2atsam_2include_2libchip_2include_2uart_8h.html#aca2278de164451574247f8289130d442" title=" " alt="" coords="5,5,160,32"/>
+<area shape="rect" id="node5" href="$arm_2atsam_2include_2libchip_2include_2uart_8h.html#a9b16a8d3558aa9934123f30725a0c5ea" title=" " alt="" coords="15,56,150,83"/>
+</map>

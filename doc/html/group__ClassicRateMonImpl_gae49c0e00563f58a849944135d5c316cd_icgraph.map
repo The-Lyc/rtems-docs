@@ -1,0 +1,9 @@
+<map id="_Rate_monotonic_Acquire_critical" name="_Rate_monotonic_Acquire_critical">
+<area shape="rect" id="node1" title=" " alt="" coords="467,85,657,127"/>
+<area shape="rect" id="node2" href="$group__ClassicRateMonImpl.html#gab174ae30d1440637fecb41e22258f54f" title=" " alt="" coords="227,13,414,39"/>
+<area shape="rect" id="node4" href="$group__ClassicRateMonImpl.html#gaf57f665d68876281d6798e972a816665" title=" " alt="" coords="223,63,419,90"/>
+<area shape="rect" id="node5" href="$group__ClassicRateMon.html#ga56f6fb057c562aaf77959bbb3b9d0762" title="RTEMS Rate Monotonic Get Statistics." alt="" coords="236,115,405,156"/>
+<area shape="rect" id="node6" href="$group__ClassicRateMon.html#gafc3dfca5d5f9edc1d931da6d7c309386" title="RTEMS Rate Monotonic Reset Statistics." alt="" coords="236,180,405,221"/>
+<area shape="rect" id="node3" href="$group__ClassicRateMon.html#ga4313840d58c7a2ccc4b1e6151e712bf7" title="RTEMS Rate Monotonic Cancel." alt="" coords="5,5,175,47"/>
+<area shape="rect" id="node7" href="$group__ClassicRateMon.html#gacd99140676caf91d1fd3c6fd95e6a9c8" title="rtems_rate_monotonic_reset_all_statistics" alt="" coords="5,180,175,221"/>
+</map>

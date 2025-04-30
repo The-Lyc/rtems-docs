@@ -1,0 +1,9 @@
+<map id="rtems_current_user_env_get" name="rtems_current_user_env_get">
+<area shape="rect" id="node1" title="Fetch the pointer to the current user environment." alt="" coords="713,39,861,80"/>
+<area shape="rect" id="node2" href="$group__LibIOEnv.html#ga24e63d00d8f74b3bf2a6d86f0b26a826" title="Gets the supplementary group IDs using the current user ID and updates the table of supplementary gro..." alt="" coords="501,5,649,47"/>
+<area shape="rect" id="node4" href="$group__LibIOInternal.html#ga411917db0d9b800480d1055734e81590" title="Checks if access to an object is allowed for the current user." alt="" coords="485,71,665,112"/>
+<area shape="rect" id="node3" href="$login__check_8c.html#aac6cf9e123f3c36a741527ffdf4331f1" title=" " alt="" coords="249,13,432,39"/>
+<area shape="rect" id="node5" href="$group__LibIOInternal.html#gad65ec2b7ee831bdb93222e13abaee695" title=" " alt="" coords="255,67,426,108"/>
+<area shape="rect" id="node6" href="$shell__cmdset_8c.html#a2816029693432c81b3f51b32e0375a32" title=" " alt="" coords="244,133,437,159"/>
+<area shape="rect" id="node7" href="$shell__cmdset_8c.html#a444773a13b26ca96137622467719c00c" title=" " alt="" coords="5,133,196,159"/>
+</map>

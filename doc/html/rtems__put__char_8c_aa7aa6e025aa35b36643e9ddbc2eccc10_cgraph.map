@@ -1,0 +1,4 @@
+<map id="rtems_put_char" name="rtems_put_char">
+<area shape="rect" id="node1" title="Puts the character via rtems_putc()." alt="" coords="5,5,128,32"/>
+<area shape="rect" id="node2" href="$bspIo_8h.html#a6fd11f34260f10035f38a051af872e1e" title="Kernel Put Character." alt="" coords="176,5,271,32"/>
+</map>

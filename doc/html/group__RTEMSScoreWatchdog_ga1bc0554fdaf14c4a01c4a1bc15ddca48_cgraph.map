@@ -1,0 +1,5 @@
+<map id="_Watchdog_Future_timespec" name="_Watchdog_Future_timespec">
+<area shape="rect" id="node1" title="Adds the delta timespec to the current time if the delta is a valid interval timespec." alt="" coords="5,13,213,39"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreWatchdog.html#gaf50ac3de653d343784376b28e0cedf6a" title="Checks if the timespec is a valid interval timespec for a watchdog." alt="" coords="261,5,412,47"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreWatchdog.html#gacc1967581868e41a96cd0a3181b3e755" title="Checks if the timespec is a valid timespec for a watchdog." alt="" coords="460,5,611,47"/>
+</map>

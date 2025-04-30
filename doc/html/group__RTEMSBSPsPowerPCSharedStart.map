@@ -1,0 +1,4 @@
+<map id="PowerPC System Start" name="PowerPC System Start">
+<area shape="rect" id="node1" title="PowerPC low level start." alt="" coords="120,5,287,31"/>
+<area shape="rect" id="node2" href="$group__RTEMSBSPsPowerPCShared.html" title="Shared Support for PowerPC Board Support Packages." alt="" coords="5,5,72,31"/>
+</map>

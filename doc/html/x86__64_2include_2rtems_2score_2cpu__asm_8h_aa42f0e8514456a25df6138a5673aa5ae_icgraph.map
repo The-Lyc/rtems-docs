@@ -1,0 +1,7 @@
+<map id="amd64_disable_interrupts" name="amd64_disable_interrupts">
+<area shape="rect" id="node1" title=" " alt="" coords="612,31,803,57"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreCPUARM.html#ga43820ba3d51d7a699c22fce8cac93ef1" title="Sets the hardware interrupt level by the level value." alt="" coords="411,5,562,32"/>
+<area shape="rect" id="node3" href="$bsps_2x86__64_2amd64_2include_2clock_8h.html#affdde2e888749707930cfd2cca26fe34" title=" " alt="" coords="409,56,564,83"/>
+<area shape="rect" id="node4" href="$bsps_2x86__64_2amd64_2include_2clock_8h.html#a84989b05f1f7d1b262923d1bae0a36a3" title=" " alt="" coords="207,56,361,83"/>
+<area shape="rect" id="node5" href="$bsps_2x86__64_2amd64_2include_2clock_8h.html#a2ce3dbcd9abad894735efa572bd10dcd" title=" " alt="" coords="5,49,159,90"/>
+</map>

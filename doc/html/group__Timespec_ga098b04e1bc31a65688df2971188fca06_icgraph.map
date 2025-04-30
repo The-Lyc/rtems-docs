@@ -1,0 +1,5 @@
+<map id="_Timespec_Divide" name="_Timespec_Divide">
+<area shape="rect" id="node1" title="Divides a timespec by another timespec." alt="" coords="228,31,369,57"/>
+<area shape="rect" id="node2" href="$group__SuperCoreTimeStamp.html#ga27337ee8130d19beb9862360089cce3b" title="Divides a timestamp by another timestamp." alt="" coords="17,5,169,32"/>
+<area shape="rect" id="node3" href="$group__TimespecAPI.html#ga2a855486ab6aca240327847fa409aa19" title="Divide timespec." alt="" coords="5,56,180,83"/>
+</map>

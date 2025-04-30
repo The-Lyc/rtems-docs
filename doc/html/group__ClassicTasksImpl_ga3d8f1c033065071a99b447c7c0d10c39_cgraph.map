@@ -1,0 +1,15 @@
+<map id="_RTEMS_tasks_Free" name="_RTEMS_tasks_Free">
+<area shape="rect" id="node1" title="Frees a task control block." alt="" coords="5,71,156,98"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreObject.html#ga2215dcf7e3251e6f629b6a3a96fff44e" title="Frees an object." alt="" coords="253,30,366,57"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreObject.html#ga73bb4fe5d6c1200fba89863b6d5fe6db" title="Gets information of an object from an ID." alt="" coords="204,97,415,123"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreObject.html#ga67f9cdae9423a81e46626f0e2cb9f305" title="Checks if the allocator is the owner of the object allocator mutex." alt="" coords="487,5,629,47"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreAllocatorMutex.html#ga8698c4f98051e1c097ed32e38fbf786f" title=" " alt="" coords="715,5,871,47"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreAPIMutex.html#ga0a01be1d7b28416e738a2b97ca3f611d" title="Checks if the specified API mutex is owned by the executing thread." alt="" coords="932,13,1095,39"/>
+<area shape="rect" id="node6" href="$group__PerCPU.html#ga294cfaf3cf50de03f1d9821d68b9c1bd" title="Returns the thread control block of the executing thread." alt="" coords="1143,13,1317,39"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreObject.html#ga907a0412d7c657fa047641444090fe7b" title="Returns the API portion of the ID." alt="" coords="490,71,626,98"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreObject.html#ga450c379424f26235d60f702638d229fa" title="Returns the class portion of the ID." alt="" coords="484,122,632,149"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreObject.html#gaf45a5862e6e8eab0823ef39dfd1e9403" title="Gets object information." alt="" coords="463,173,653,199"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreObject.html#ga160a712acafe6e9c4a8b9ea6dcc2597b" title="Returns highest numeric value of a valid API for the specified API." alt="" coords="703,132,883,173"/>
+<area shape="rect" id="node12" href="$group__RTEMSScoreObject.html#gadf825a94fecd0945a4368e503e274bfd" title="Returns the maximum index of the specified object class." alt="" coords="701,197,884,239"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreObject.html#ga22cdf45f285840b7728b06197a7f4627" title="Returns the index portion of the ID." alt="" coords="938,205,1089,231"/>
+</map>

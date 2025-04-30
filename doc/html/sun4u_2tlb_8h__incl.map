@@ -1,0 +1,13 @@
+<map id="bsps/sparc64/include/arch/mm/sun4u/tlb.h" name="bsps/sparc64/include/arch/mm/sun4u/tlb.h">
+<area shape="rect" id="node1" title=" " alt="" coords="429,5,589,47"/>
+<area shape="rect" id="node2" href="$tte_8h.html" title=" " alt="" coords="5,169,120,196"/>
+<area shape="rect" id="node4" href="$sparc64_2include_2arch_2mm_2mmu_8h.html" title=" " alt="" coords="144,169,275,196"/>
+<area shape="rect" id="node5" href="$bsps_2sparc64_2include_2arch_2mm_2page_8h.html" title=" " alt="" coords="247,95,375,121"/>
+<area shape="rect" id="node7" title=" " alt="" coords="399,95,494,121"/>
+<area shape="rect" id="node8" title=" " alt="" coords="518,95,626,121"/>
+<area shape="rect" id="node9" title=" " alt="" coords="650,95,753,121"/>
+<area shape="rect" id="node10" title=" " alt="" coords="777,95,892,121"/>
+<area shape="rect" id="node11" title=" " alt="" coords="917,95,1006,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="167,244,252,271"/>
+<area shape="rect" id="node6" href="$frame_8h.html" title=" " alt="" coords="299,169,434,196"/>
+</map>

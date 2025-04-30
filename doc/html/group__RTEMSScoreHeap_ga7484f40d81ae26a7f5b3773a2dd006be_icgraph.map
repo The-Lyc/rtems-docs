@@ -1,0 +1,5 @@
+<map id="_Heap_Extend" name="_Heap_Extend">
+<area shape="rect" id="node1" title="Extends the memory available for the heap." alt="" coords="497,5,612,32"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreProtHeap.html#gaeafd4fefda9100f0b9484f97f19d1093" title="Extends the protected heap." alt="" coords="267,5,449,32"/>
+<area shape="rect" id="node3" href="$rtems__heap__extend__via__sbrk_8c.html#aaab427c995cc0c8e362e991a7877b261" title="RTEMS Extend Heap via Sbrk." alt="" coords="5,5,219,32"/>
+</map>

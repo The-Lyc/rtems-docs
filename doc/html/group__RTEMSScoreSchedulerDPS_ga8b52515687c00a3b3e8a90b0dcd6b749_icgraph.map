@@ -1,0 +1,7 @@
+<map id="_Scheduler_priority_Schedule_body" name="_Scheduler_priority_Schedule_body">
+<area shape="rect" id="node1" title="Scheduling decision logic." alt="" coords="200,104,347,145"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreSchedulerDPS.html#ga0ef8d30efe3b8106036c277fb1e6967e" title="Blocks the thread." alt="" coords="5,5,152,47"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreSchedulerDPS.html#ga5f88549e443f989b9058f08f46eb4e8f" title="Sets the heir thread to be the next ready thread." alt="" coords="5,71,152,112"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreSchedulerDPS.html#gaa9250624cb136b5fd42bdfe060a2eb5e" title="Updates the priority of the node." alt="" coords="5,136,152,177"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreSchedulerDPS.html#ga5a3959d17cc9aa59b20ef5622e5de88f" title="Performs the yield of a thread." alt="" coords="5,201,152,243"/>
+</map>

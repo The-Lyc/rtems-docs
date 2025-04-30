@@ -1,0 +1,4 @@
+<map id="rtems_timespec_from_ticks" name="rtems_timespec_from_ticks">
+<area shape="rect" id="node1" title="Convert ticks to timespec." alt="" coords="5,5,171,47"/>
+<area shape="rect" id="node2" href="$group__Timespec.html#ga457e50d3d65d2a890754fa88ccccc43e" title="Converts ticks to timespec." alt="" coords="219,13,389,39"/>
+</map>

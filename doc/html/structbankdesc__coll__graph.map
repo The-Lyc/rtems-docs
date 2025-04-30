@@ -1,0 +1,6 @@
+<map id="bankdesc" name="bankdesc">
+<area shape="rect" id="node1" title=" " alt="" coords="56,184,140,211"/>
+<area shape="rect" id="node2" href="$structdevdesc.html" title=" " alt="" coords="5,5,81,32"/>
+<area shape="rect" id="node3" href="$structvendesc.html" title=" " alt="" coords="60,95,136,121"/>
+<area shape="rect" id="node4" href="$structflash__bank__ops.html" title=" " alt="" coords="123,5,246,32"/>
+</map>

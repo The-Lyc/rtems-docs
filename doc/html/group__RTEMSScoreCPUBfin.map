@@ -1,0 +1,7 @@
+<map id="Blackfin" name="Blackfin">
+<area shape="rect" id="node1" href="$group__RTEMSScoreCPU.html" title="Provides CPU architecture dependent services." alt="" coords="5,70,192,95"/>
+<area shape="rect" id="node2" title="Blackfin Architecture Support." alt="" coords="240,70,315,95"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreCPUBfinCPUContext.html" title=" " alt="" coords="365,5,532,45"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreCPUBfinCPUEndian.html" title="CPUEndian." alt="" coords="402,70,495,95"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreCPUBfinCPUInterrupt.html" title=" " alt="" coords="363,120,535,160"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="_Priority_Node_initialize" name="_Priority_Node_initialize">
+<area shape="rect" id="node1" title="Initializes the priority node to the given priority." alt="" coords="5,5,185,32"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreRBTree.html#gabbc757c2fd03694b6f9bb5aa2be553ff" title="Initializes a red&#45;black tree node." alt="" coords="233,5,409,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreRBTree.html#ga82d9b6f1aad201e7c8b614a0e970b356" title="Sets a red&#45;black tree node as off&#45;tree." alt="" coords="457,5,616,32"/>
+</map>

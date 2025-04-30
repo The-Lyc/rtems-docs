@@ -1,0 +1,16 @@
+<map id="cpukit/sapi/src/ioopen.c" name="cpukit/sapi/src/ioopen.c">
+<area shape="rect" id="node1" title="Opening for The IO Manager." alt="" coords="210,5,385,32"/>
+<area shape="rect" id="node2" href="$ioimpl_8h.html" title="Classic Input/Output Manager Implementation API." alt="" coords="239,80,356,107"/>
+<area shape="rect" id="node3" href="$cpukit_2include_2rtems_2io_8h.html" title="Classic Input/Output Manager API." alt="" coords="376,155,464,181"/>
+<area shape="rect" id="node10" href="$isrlock_8h.html" title="ISR Locks." alt="" coords="145,155,303,181"/>
+<area shape="rect" id="node4" href="$rtems_2status_8h.html" title=" " alt="" coords="461,304,619,331"/>
+<area shape="rect" id="node5" href="$basedefs_8h.html" title="Basic Definitions." alt="" coords="271,379,446,405"/>
+<area shape="rect" id="node6" title=" " alt="" coords="26,453,193,480"/>
+<area shape="rect" id="node7" title=" " alt="" coords="321,453,396,480"/>
+<area shape="rect" id="node8" title=" " alt="" coords="420,453,503,480"/>
+<area shape="rect" id="node9" title=" " alt="" coords="226,453,297,480"/>
+<area shape="rect" id="node11" href="$isrlevel_8h.html" title="ISR Level Type." alt="" coords="143,229,305,256"/>
+<area shape="rect" id="node14" href="$smplock_8h.html" title="SMP Lock API." alt="" coords="5,379,176,405"/>
+<area shape="rect" id="node12" title=" " alt="" coords="119,304,257,331"/>
+<area shape="rect" id="node13" href="$assert_8h.html" title="Information for the Assert Handler." alt="" coords="281,304,436,331"/>
+</map>

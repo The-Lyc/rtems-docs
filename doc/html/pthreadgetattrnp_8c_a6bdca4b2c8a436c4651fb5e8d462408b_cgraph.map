@@ -1,0 +1,23 @@
+<map id="pthread_getattr_np" name="pthread_getattr_np">
+<area shape="rect" id="node1" title=" " alt="" coords="5,256,152,282"/>
+<area shape="rect" id="node2" href="$group__POSIX__PRIORITY.html#gad0693fb0599992826c0948cd9bda4d69" title="Converts the SuperCore priority to the corresponding POSIX API priority." alt="" coords="467,60,665,86"/>
+<area shape="rect" id="node4" href="$group__POSIX__PTHREAD.html#ga7a95fb7611d723582f053efef4cad33f" title=" " alt="" coords="215,48,402,90"/>
+<area shape="rect" id="node5" href="$group__POSIX__PTHREAD.html#gae1ea059cc5dcc2ab7b9e5467a4d546c0" title=" " alt="" coords="219,114,398,155"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreScheduler.html#gab6fdb8d5560685f374c7756c9861acbe" title="Copies the thread&#39;s scheduler&#39;s affinity to the given cpuset." alt="" coords="221,180,397,206"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreThread.html#gadc33b4b428dfc134ae1622441433b1a1" title="Gets a thread by its identifier." alt="" coords="257,230,361,257"/>
+<area shape="rect" id="node14" href="$group__RTEMSScoreThread.html#ga7ce2f4e36ca425f2ea12da97046b9c3a" title="Checks if the thread is joinable." alt="" coords="233,281,384,308"/>
+<area shape="rect" id="node15" href="$group__RTEMSScoreThread.html#ga0071d4e11d2d68b2e4c43ffe2108e7f5" title="Gets the home scheduler of the thread." alt="" coords="200,332,417,358"/>
+<area shape="rect" id="node16" href="$group__RTEMSScoreThread.html#gafd7ff215edf64b4611da7b7c1d4e3050" title="Acquires the lock context in a critical section." alt="" coords="223,383,394,424"/>
+<area shape="rect" id="node18" href="$group__RTEMSScoreThread.html#ga958218590f858b65855c89802b2cc071" title="Releases the lock context and enables interrupts." alt="" coords="223,449,394,476"/>
+<area shape="rect" id="node21" href="$bootldr_8h.html#a36d20f7d597c517b964289f6b54ddfa7" title=" " alt="" coords="271,500,347,526"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreScheduler.html#gaa2f56f77ed86e3d02527742f917fcd0c" title="Unmaps a thread priority from the scheduler domain to the user domain." alt="" coords="715,60,916,86"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreObject.html#gaba59419fd15c39c93eedbaba5788de05" title="Checks if two object IDs are equal." alt="" coords="478,180,654,206"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreObject.html#gaccc5682133e4f65b8cb374eab9be2c9d" title="Maps the specified object identifier to the associated local object control block." alt="" coords="512,230,620,257"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreThread.html#ga291d97d78d5460ffa5539964e417bb49" title="Gets object information for the object id." alt="" coords="487,282,645,323"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreObject.html#ga22cdf45f285840b7728b06197a7f4627" title="Returns the index portion of the ID." alt="" coords="740,230,891,257"/>
+<area shape="rect" id="node12" href="$group__RTEMSScoreObject.html#ga907a0412d7c657fa047641444090fe7b" title="Returns the API portion of the ID." alt="" coords="747,285,883,312"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreObject.html#ga8014a70deeb6819f7e2ca50efd13e1be" title="Checks if the api is valid." alt="" coords="734,336,897,362"/>
+<area shape="rect" id="node17" href="$group__RTEMSScoreThreadQueue.html#gaf1488e09cc925566233f2f1fc76c4d81" title="Acquires the thread queue control in a critical section." alt="" coords="465,379,667,420"/>
+<area shape="rect" id="node19" href="$group__RTEMSScoreThread.html#gab003d620d9c5fc5502cedd90960d59d5" title="Release the lock context in a critical section." alt="" coords="481,444,651,486"/>
+<area shape="rect" id="node20" href="$group__RTEMSScoreThreadQueue.html#ga923d39f206f389ae8a8293e22bae8fbf" title="Checks if the thread queue control is the owner of the lock." alt="" coords="715,444,916,486"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="_MPCI_Announce" name="_MPCI_Announce">
+<area shape="rect" id="node1" title="Announces the availability of a packet." alt="" coords="5,5,139,32"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreSemaphore.html#ga77394f444e0a86af7eae34891fe96578" title="Surrenders a unit to the semaphore." alt="" coords="187,5,401,32"/>
+</map>

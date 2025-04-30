@@ -1,0 +1,52 @@
+<map id="bsps/arm/shared/start/arm&#45;a9mpcore&#45;smp.c" name="bsps/arm/shared/start/arm&#45;a9mpcore&#45;smp.c">
+<area shape="rect" id="node1" title=" " alt="" coords="888,5,1055,47"/>
+<area shape="rect" id="node2" href="$assert_8h.html" title="Information for the Assert Handler." alt="" coords="943,543,1018,569"/>
+<area shape="rect" id="node8" href="$smpimpl_8h.html" title="SuperCore SMP Implementation." alt="" coords="708,169,880,196"/>
+<area shape="rect" id="node26" href="$arm-cp15_8h.html" title="ARM co&#45;processor 15 (CP15) API." alt="" coords="955,95,1094,121"/>
+<area shape="rect" id="node50" title=" " alt="" coords="1119,95,1197,121"/>
+<area shape="rect" id="node3" href="$basedefs_8h.html" title="Basic Definitions." alt="" coords="1425,617,1600,644"/>
+<area shape="rect" id="node4" title=" " alt="" coords="1112,692,1279,719"/>
+<area shape="rect" id="node5" title=" " alt="" coords="1527,692,1602,719"/>
+<area shape="rect" id="node6" title=" " alt="" coords="1421,692,1503,719"/>
+<area shape="rect" id="node7" title=" " alt="" coords="2821,692,2892,719"/>
+<area shape="rect" id="node9" href="$smp_8h.html" title="SuperCore SMP Support API." alt="" coords="1236,393,1379,420"/>
+<area shape="rect" id="node11" href="$score_2percpu_8h.html" title=" " alt="" coords="472,319,631,345"/>
+<area shape="rect" id="node19" href="$processormask_8h.html" title="Processor Mask API." alt="" coords="997,393,1212,420"/>
+<area shape="rect" id="node22" href="$cpukit_2include_2rtems_2fatal_8h.html" title="Fatal API." alt="" coords="1006,244,1113,271"/>
+<area shape="rect" id="node10" title=" " alt="" coords="1218,543,1357,569"/>
+<area shape="rect" id="node12" title=" " alt="" coords="5,393,172,420"/>
+<area shape="rect" id="node13" href="$score_2chain_8h.html" title="Chain Handler API." alt="" coords="248,468,399,495"/>
+<area shape="rect" id="node14" href="$isrlock_8h.html" title="ISR Locks." alt="" coords="763,393,921,420"/>
+<area shape="rect" id="node17" href="$timestamp_8h.html" title="Helpers for Manipulating Timestamps." alt="" coords="247,393,434,420"/>
+<area shape="rect" id="node18" href="$cpukit_2include_2rtems_2score_2watchdog_8h.html" title="Constants and Structures Associated with Watchdog Timers." alt="" coords="458,393,637,420"/>
+<area shape="rect" id="node15" href="$isrlevel_8h.html" title="ISR Level Type." alt="" coords="958,468,1121,495"/>
+<area shape="rect" id="node16" href="$smplock_8h.html" title="SMP Lock API." alt="" coords="991,617,1162,644"/>
+<area shape="rect" id="node20" title=" " alt="" coords="2128,468,2231,495"/>
+<area shape="rect" id="node21" title=" " alt="" coords="1145,468,1224,495"/>
+<area shape="rect" id="node23" href="$extension_8h.html" title="User Extensions API." alt="" coords="1283,319,1423,345"/>
+<area shape="rect" id="node24" href="$rtems_2status_8h.html" title=" " alt="" coords="2139,393,2297,420"/>
+<area shape="rect" id="node25" href="$cpukit_2include_2rtems_2rtems_2types_8h.html" title=" " alt="" coords="2779,393,2934,420"/>
+<area shape="rect" id="node27" href="$rtems_8h.html" title=" " alt="" coords="2214,169,2286,196"/>
+<area shape="rect" id="node28" href="$system_8h.html" title="Information Included in Every Function in the Executive." alt="" coords="1351,468,1475,495"/>
+<area shape="rect" id="node29" href="$include_2rtems_2config_8h.html" title="Table of User Defined Configuration Parameters." alt="" coords="1198,244,1313,271"/>
+<area shape="rect" id="node30" href="$cpukit_2include_2rtems_2score_2stack_8h.html" title="Information About the Thread Stack Handler." alt="" coords="1108,319,1259,345"/>
+<area shape="rect" id="node31" href="$init_8h.html" title="Constants and Structures Associated with the Initialization Manager." alt="" coords="1837,244,1935,271"/>
+<area shape="rect" id="node32" href="$intr_8h.html" title=" " alt="" coords="1447,319,1586,345"/>
+<area shape="rect" id="node33" href="$options_8h.html" title=" " alt="" coords="3419,393,3585,420"/>
+<area shape="rect" id="node34" href="$tasks_8h.html" title="Classic Task Manager API." alt="" coords="1712,319,1865,345"/>
+<area shape="rect" id="node35" href="$barrier_8h.html" title="Classic Barrier Manager API." alt="" coords="2138,319,2298,345"/>
+<area shape="rect" id="node36" href="$cpukit_2include_2rtems_2rtems_2cache_8h.html" title=" " alt="" coords="3916,543,4072,569"/>
+<area shape="rect" id="node37" href="$cpukit_2include_2rtems_2rtems_2clock_8h.html" title=" " alt="" coords="2322,319,2474,345"/>
+<area shape="rect" id="node38" href="$cpukit_2include_2rtems_2rtems_2timer_8h.html" title="Classic Timer Manager API." alt="" coords="2010,244,2162,271"/>
+<area shape="rect" id="node39" href="$sem_8h.html" title="Classic Semaphores Manager API." alt="" coords="3387,244,3534,271"/>
+<area shape="rect" id="node40" href="$message_8h.html" title="Classic Message Queue Manager API." alt="" coords="3141,319,3319,345"/>
+<area shape="rect" id="node41" href="$rtems_2rtems_2event_8h.html" title="Classic Event Manager API." alt="" coords="3343,319,3498,345"/>
+<area shape="rect" id="node42" href="$include_2rtems_2rtems_2signal_8h.html" title="Signals API." alt="" coords="2498,319,2655,345"/>
+<area shape="rect" id="node43" href="$rtems_2object_8h.html" title=" " alt="" coords="3808,319,3967,345"/>
+<area shape="rect" id="node44" href="$part_8h.html" title="Classic Partition Manager API." alt="" coords="2730,319,2874,345"/>
+<area shape="rect" id="node45" href="$region_8h.html" title="Classic Region Manager API." alt="" coords="3573,319,3732,345"/>
+<area shape="rect" id="node46" href="$dpmem_8h.html" title="Classic Dual Ported Memory Manager API." alt="" coords="2949,319,3117,345"/>
+<area shape="rect" id="node47" href="$cpukit_2include_2rtems_2io_8h.html" title="Classic Input/Output Manager API." alt="" coords="1554,244,1642,271"/>
+<area shape="rect" id="node48" href="$ratemon_8h.html" title=" " alt="" coords="1941,319,2114,345"/>
+<area shape="rect" id="node49" href="$support_8h.html" title=" " alt="" coords="3891,244,4057,271"/>
+</map>

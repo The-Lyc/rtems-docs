@@ -1,0 +1,8 @@
+<map id="_Objects_Namespace_remove_string" name="_Objects_Namespace_remove_string">
+<area shape="rect" id="node1" title="Removes object with a string name from its namespace." alt="" coords="432,71,595,112"/>
+<area shape="rect" id="node2" href="$mqueueimpl_8h.html#a900ca80a04d42f677e02783ecbec04b5" title="POSIX Message Queue Remove from Namespace." alt="" coords="177,5,357,47"/>
+<area shape="rect" id="node4" href="$posix_2semaphoreimpl_8h.html#a076e453665acee61e02c5427c2bb2e30" title="POSIX Semaphore Namespace Remove." alt="" coords="151,71,384,112"/>
+<area shape="rect" id="node6" href="$shmunlink_8c.html#a4037e49e9537e24edd610bd1acf090da" title=" " alt="" coords="219,137,316,163"/>
+<area shape="rect" id="node3" href="$mqueueunlink_8c.html#accd8c5ee36e60d990963e1d544ef4140" title=" " alt="" coords="9,13,99,39"/>
+<area shape="rect" id="node5" href="$semunlink_8c.html#a776256d1a473906f8b7490689bfcb75c" title=" " alt="" coords="5,78,103,105"/>
+</map>

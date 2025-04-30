@@ -1,0 +1,4 @@
+<map id="lpc176x_timer_capture_config" name="lpc176x_timer_capture_config">
+<area shape="rect" id="node1" title="Configures the capture ports." alt="" coords="5,5,176,47"/>
+<area shape="rect" id="node2" href="$bsps_2arm_2lpc176x_2include_2bsp_2io_8h.html#a738f1daa64828ca59c28a905331c04ad" title="Sets pin to the selected function." alt="" coords="224,13,371,39"/>
+</map>

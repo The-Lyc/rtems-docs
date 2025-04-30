@@ -1,0 +1,4 @@
+<map id="rtems_object_api_maximum_class" name="rtems_object_api_maximum_class">
+<area shape="rect" id="node1" title="Get Highest Valid Class Value." alt="" coords="5,5,213,47"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreObject.html#ga160a712acafe6e9c4a8b9ea6dcc2597b" title="Returns highest numeric value of a valid API for the specified API." alt="" coords="261,5,441,47"/>
+</map>

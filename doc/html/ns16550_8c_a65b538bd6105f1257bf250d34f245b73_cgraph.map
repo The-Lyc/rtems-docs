@@ -1,0 +1,4 @@
+<map id="ns16550_write_support_int" name="ns16550_write_support_int">
+<area shape="rect" id="node1" title="Transmits up to len characters from buf." alt="" coords="5,5,203,32"/>
+<area shape="rect" id="node2" href="$ns16550_8c.html#ac25510ef61e7c8ba6ef08fafd9eac4e6" title=" " alt="" coords="251,5,449,32"/>
+</map>

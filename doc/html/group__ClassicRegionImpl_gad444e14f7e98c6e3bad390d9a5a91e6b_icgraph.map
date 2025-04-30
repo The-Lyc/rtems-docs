@@ -1,0 +1,7 @@
+<map id="_Region_Unlock" name="_Region_Unlock">
+<area shape="rect" id="node1" title=" " alt="" coords="475,85,601,112"/>
+<area shape="rect" id="node2" href="$group__ClassicRegionImpl.html#ga3cf94767384ce29609efbb70c01f8531" title="Process Region Queue." alt="" coords="228,5,407,32"/>
+<area shape="rect" id="node3" href="$group__ClassicRegion.html#ga1332adb33a1efe03e31a656a3cf5840c" title="RTEMS Return Region Segment." alt="" coords="5,23,160,65"/>
+<area shape="rect" id="node4" href="$group__ClassicRegion.html#ga30893b36778c4b55d2e38ecd36a8a5a2" title="RTEMS Get Region Free Information." alt="" coords="233,107,402,149"/>
+<area shape="rect" id="node5" href="$group__ClassicRegion.html#ga21008d667508d701ad822f08f1dab568" title="RTEMS Get Region Information." alt="" coords="208,173,427,200"/>
+</map>

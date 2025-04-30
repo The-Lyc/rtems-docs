@@ -1,0 +1,11 @@
+<map id="GMACD_Init" name="GMACD_Init">
+<area shape="rect" id="node1" title="Initialize the GMAC with the Gmac controller address." alt="" coords="5,183,105,209"/>
+<area shape="rect" id="node2" href="$group__gmac__defines.html#ga409a1719b06569ad5f4efe03d21ab1dd" title=" " alt="" coords="166,5,327,32"/>
+<area shape="rect" id="node3" href="$group__gmac__defines.html#ga9ae76d6d8ceef0dafbe72bb34864bc65" title=" " alt="" coords="165,56,328,83"/>
+<area shape="rect" id="node4" href="$group__gmac__defines.html#ga620df07c4598d12a88be4e3715eafe7e" title=" " alt="" coords="167,107,327,133"/>
+<area shape="rect" id="node5" href="$group__gmac__defines.html#ga6939e2e68cc4b238caeab75414dd62b9" title=" " alt="" coords="181,157,312,184"/>
+<area shape="rect" id="node6" href="$group__gmac__defines.html#gae03425042713a644dbec300e14ea4d6d" title=" " alt="" coords="153,208,340,235"/>
+<area shape="rect" id="node7" href="$group__gmac__defines.html#ga9e845a27fa9a4f30f4f53684ca5934c5" title=" " alt="" coords="175,259,318,285"/>
+<area shape="rect" id="node8" href="$group__gmac__defines.html#ga4dfdc785358f1239d80a46dc2108a15c" title=" " alt="" coords="161,309,332,336"/>
+<area shape="rect" id="node9" href="$atsam_2contrib_2libraries_2libchip_2source_2pmc_8c.html#a4154148b8d69545bca1b5c868c004d49" title="Enables the clock of a peripheral. The peripheral ID is used to identify which peripheral is targeted..." alt="" coords="163,360,331,387"/>
+</map>

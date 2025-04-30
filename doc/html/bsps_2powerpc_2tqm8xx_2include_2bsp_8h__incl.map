@@ -1,0 +1,52 @@
+<map id="bsps/powerpc/tqm8xx/include/bsp.h" name="bsps/powerpc/tqm8xx/include/bsp.h">
+<area shape="rect" id="node1" title="Global BSP definitions." alt="" coords="3481,5,3646,47"/>
+<area shape="rect" id="node2" href="$powerpc-utility_8h.html" title="General purpose assembler macros, linker command file support and some inline functions for direct re..." alt="" coords="3324,177,3497,203"/>
+<area shape="rect" id="node3" href="$rtems_8h.html" title=" " alt="" coords="2066,259,2138,285"/>
+<area shape="rect" id="node37" title=" " alt="" coords="3660,333,3745,360"/>
+<area shape="rect" id="node41" href="$cpukit_2include_2rtems_2irq_8h.html" title=" " alt="" coords="3734,95,3828,121"/>
+<area shape="rect" id="node42" href="$mpc8xx_8h.html" title=" " alt="" coords="3852,95,3939,121"/>
+<area shape="rect" id="node43" href="$mpc8xx_2cpm_8h.html" title=" " alt="" coords="3963,95,4082,121"/>
+<area shape="rect" id="node44" href="$powerpc_2include_2mpc8xx_2mmu_8h.html" title=" " alt="" coords="4106,95,4230,121"/>
+<area shape="rect" id="node45" href="$bsps_2powerpc_2include_2mpc8xx_2console_8h.html" title=" " alt="" coords="3016,95,3156,121"/>
+<area shape="rect" id="node47" href="$bsp_2vectors_8h.html" title="PowerPC Exceptions API." alt="" coords="3601,95,3710,121"/>
+<area shape="rect" id="node49" href="$tqm_8h.html" title=" " alt="" coords="2910,177,2996,203"/>
+<area shape="rect" id="node50" href="$default-initial-extension_8h.html" title="DEFAULT_INITIAL_EXTENSION Support." alt="" coords="3115,169,3252,211"/>
+<area shape="rect" id="node5" title=" " alt="" coords="3084,408,3222,435"/>
+<area shape="rect" id="node34" href="$powerpc_2include_2rtems_2powerpc_2registers_8h.html" title=" " alt="" coords="3098,557,3290,584"/>
+<area shape="rect" id="node35" href="$bsps_2powerpc_2include_2rtems_2powerpc_2powerpc_8h.html" title=" " alt="" coords="3474,259,3664,285"/>
+<area shape="rect" id="node38" href="$bspIo_8h.html" title="Interface to Kernel Print Methods." alt="" coords="3236,259,3347,285"/>
+<area shape="rect" id="node40" href="$cpuIdent_8h.html" title=" " alt="" coords="3401,557,3534,584"/>
+<area shape="rect" id="node4" href="$system_8h.html" title="Information Included in Every Function in the Executive." alt="" coords="3023,333,3147,360"/>
+<area shape="rect" id="node6" href="$rtems_2status_8h.html" title=" " alt="" coords="1766,483,1924,509"/>
+<area shape="rect" id="node10" href="$cpukit_2include_2rtems_2rtems_2types_8h.html" title=" " alt="" coords="1137,483,1292,509"/>
+<area shape="rect" id="node11" href="$include_2rtems_2config_8h.html" title="Table of User Defined Configuration Parameters." alt="" coords="2833,333,2948,360"/>
+<area shape="rect" id="node12" href="$cpukit_2include_2rtems_2score_2stack_8h.html" title="Information About the Thread Stack Handler." alt="" coords="2908,408,3059,435"/>
+<area shape="rect" id="node13" href="$extension_8h.html" title="User Extensions API." alt="" coords="2692,408,2832,435"/>
+<area shape="rect" id="node14" href="$init_8h.html" title="Constants and Structures Associated with the Initialization Manager." alt="" coords="2316,333,2414,360"/>
+<area shape="rect" id="node15" href="$intr_8h.html" title=" " alt="" coords="2428,408,2566,435"/>
+<area shape="rect" id="node16" href="$options_8h.html" title=" " alt="" coords="527,483,694,509"/>
+<area shape="rect" id="node17" href="$tasks_8h.html" title="Classic Task Manager API." alt="" coords="2148,408,2302,435"/>
+<area shape="rect" id="node18" href="$barrier_8h.html" title="Classic Barrier Manager API." alt="" coords="1574,408,1734,435"/>
+<area shape="rect" id="node19" href="$cpukit_2include_2rtems_2rtems_2cache_8h.html" title=" " alt="" coords="339,483,495,509"/>
+<area shape="rect" id="node20" href="$cpukit_2include_2rtems_2rtems_2clock_8h.html" title=" " alt="" coords="1049,408,1201,435"/>
+<area shape="rect" id="node21" href="$cpukit_2include_2rtems_2rtems_2timer_8h.html" title="Classic Timer Manager API." alt="" coords="2140,333,2292,360"/>
+<area shape="rect" id="node22" href="$sem_8h.html" title="Classic Semaphores Manager API." alt="" coords="1424,333,1570,360"/>
+<area shape="rect" id="node23" href="$message_8h.html" title="Classic Message Queue Manager API." alt="" coords="796,408,974,435"/>
+<area shape="rect" id="node24" href="$rtems_2rtems_2event_8h.html" title="Classic Event Manager API." alt="" coords="382,408,537,435"/>
+<area shape="rect" id="node25" href="$include_2rtems_2rtems_2signal_8h.html" title="Signals API." alt="" coords="1225,408,1382,435"/>
+<area shape="rect" id="node26" href="$rtems_2object_8h.html" title=" " alt="" coords="199,408,358,435"/>
+<area shape="rect" id="node27" href="$part_8h.html" title="Classic Partition Manager API." alt="" coords="1406,408,1550,435"/>
+<area shape="rect" id="node28" href="$region_8h.html" title="Classic Region Manager API." alt="" coords="562,408,720,435"/>
+<area shape="rect" id="node29" href="$dpmem_8h.html" title="Classic Dual Ported Memory Manager API." alt="" coords="1956,408,2124,435"/>
+<area shape="rect" id="node30" href="$cpukit_2include_2rtems_2io_8h.html" title="Classic Input/Output Manager API." alt="" coords="2540,333,2628,360"/>
+<area shape="rect" id="node31" href="$cpukit_2include_2rtems_2fatal_8h.html" title="Fatal API." alt="" coords="2702,333,2809,360"/>
+<area shape="rect" id="node32" href="$ratemon_8h.html" title=" " alt="" coords="1758,408,1932,435"/>
+<area shape="rect" id="node33" href="$support_8h.html" title=" " alt="" coords="47,333,214,360"/>
+<area shape="rect" id="node7" href="$basedefs_8h.html" title="Basic Definitions." alt="" coords="2783,557,2958,584"/>
+<area shape="rect" id="node8" title=" " alt="" coords="3128,632,3210,659"/>
+<area shape="rect" id="node9" title=" " alt="" coords="1912,632,1983,659"/>
+<area shape="rect" id="node36" href="$cpukit_2score_2cpu_2powerpc_2include_2rtems_2score_2powerpc_8h.html" title="IBM/Motorola PowerPC Definitions." alt="" coords="3348,483,3518,509"/>
+<area shape="rect" id="node39" title=" " alt="" coords="3273,333,3348,360"/>
+<area shape="rect" id="node46" href="$libio_8h.html" title="Basic IO API." alt="" coords="2592,177,2696,203"/>
+<area shape="rect" id="node48" title=" " alt="" coords="3791,177,3958,203"/>
+</map>

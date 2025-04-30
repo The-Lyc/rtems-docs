@@ -1,0 +1,4 @@
+<map id="_CPU_Instruction_no_operation" name="_CPU_Instruction_no_operation">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,160,47"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreCPUSPARC.html#ga82257d4fc068f4b21b029dd69d276839" title="The pointer to the current per&#45;CPU control is available via register g6." alt="" coords="208,13,287,39"/>
+</map>

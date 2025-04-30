@@ -1,0 +1,10 @@
+<map id="_Thread_queue_Destroy" name="_Thread_queue_Destroy">
+<area shape="rect" id="node1" title="Destroys the thread queue." alt="" coords="667,81,845,108"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreBarrier.html#gac37a2a9dcff37c4735c8be35ba0fbefe" title="Destroys the core barrier." alt="" coords="431,5,604,32"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreMutex.html#ga09492f67618d359ba936a14bbd29b98d" title="Destroys the mutex." alt="" coords="431,56,603,83"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreSemaphore.html#ga8cb7a05fae43763cd179a2c1dcdb873c" title="Destroys the semaphore." alt="" coords="416,107,619,133"/>
+<area shape="rect" id="node7" href="$group__ClassicRegionImpl.html#ga27b8c2e206200f0fc192b8454f046603" title="Region_Free." alt="" coords="463,157,572,184"/>
+<area shape="rect" id="node3" href="$group__ClassicBarrierImpl.html#gae78f26c66aa3821e1afd6ae46b92adc0" title="_Barrier_Free" alt="" coords="236,5,344,32"/>
+<area shape="rect" id="node4" href="$group__ClassicBarrier.html#ga942ec086e0fa6aa0939629fb617a763b" title="RTEMS Delete Barrier." alt="" coords="5,5,164,32"/>
+<area shape="rect" id="node8" href="$group__ClassicRegion.html#ga024758f91cbf73e06cbc4c85df83d1ca" title="rtems_region_create" alt="" coords="212,157,368,184"/>
+</map>

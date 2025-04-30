@@ -1,0 +1,9 @@
+<map id="bsps/sh/gensh1/clock" name="bsps/sh/gensh1/clock">
+<area shape="rect" id="node1" href="dir_9801ca451a22b5dae47064505b6c999d.html" title="clock" alt="" coords="43,52,115,100"/>
+<area shape="rect" id="node2" href="dir_0a00f485e11501359d2a2829428aaf25.html" title="include" alt="" coords="5,148,77,196"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000740_000220.html" title="2" alt="" coords="60,127,70,142"/>
+<area shape="rect" id="node3" href="dir_cd198e36225ba3f41de97552050ac017.html" title="cpukit" alt="" coords="41,244,113,292"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000740_000080.html" title="5" alt="" coords="89,220,98,235"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000220_000080.html" title="3" alt="" coords="65,217,75,231"/>
+<area shape="rect" id="clust1" href="dir_ee13eed26d09610f0835352f2c149bdd.html" title="gensh1" alt="" coords="32,16,125,111"/>
+</map>

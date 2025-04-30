@@ -1,0 +1,9 @@
+<map id="i386" name="i386">
+<area shape="rect" id="node1" href="$group__i386__irq.html" title="Data structure and the functions to write interrupt handlers." alt="" coords="331,5,469,31"/>
+<area shape="rect" id="node2" href="$group__i386__comm.html" title="Comm." alt="" coords="367,55,433,80"/>
+<area shape="rect" id="node3" title="i386 Board Support Package." alt="" coords="232,104,283,129"/>
+<area shape="rect" id="node4" href="$group__i386__pci.html" title="PCI." alt="" coords="379,104,421,129"/>
+<area shape="rect" id="node5" href="$group__i386__smp.html" title="Header file implementing Intel MultiProcessor Specification (MPS) version 1.1 and 1...." alt="" coords="375,153,425,179"/>
+<area shape="rect" id="node6" href="$group__pc386__3c509.html" title="3C509 support." alt="" coords="341,203,459,228"/>
+<area shape="rect" id="node7" href="$group__RTEMSBSPs.html" title="Board Support Packages and Support Modules (BSPs)." alt="" coords="5,104,184,129"/>
+</map>

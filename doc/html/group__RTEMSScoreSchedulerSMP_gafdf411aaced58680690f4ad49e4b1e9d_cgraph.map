@@ -1,0 +1,4 @@
+<map id="_Scheduler_SMP_Start_idle" name="_Scheduler_SMP_Start_idle">
+<area shape="rect" id="node1" title="Starts an idle thread on the specified cpu." alt="" coords="5,5,203,32"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreScheduler.html#ga9c62ef5a388b998fa041a269297be1fe" title="Gets the context of the scheduler." alt="" coords="251,5,429,32"/>
+</map>

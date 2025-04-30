@@ -1,0 +1,6 @@
+<map id="_Objects_Get_minimum_id" name="_Objects_Get_minimum_id">
+<area shape="rect" id="node1" title="Returns the identifier with the minimum index for the specified identifier." alt="" coords="228,64,425,91"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreObject.html#gaf47a19d228137aa86c75bf67953f332e" title="Gets the next open object after the specified object identifier." alt="" coords="21,5,165,32"/>
+<area shape="rect" id="node3" href="$group__ClassicClassInfo.html#gae8ffdf2a3cfe0e716ebfd4a3eb1bfece" title="Get Class Information." alt="" coords="5,57,180,98"/>
+<area shape="rect" id="node4" href="$group__ClassicRateMon.html#gacd99140676caf91d1fd3c6fd95e6a9c8" title="rtems_rate_monotonic_reset_all_statistics" alt="" coords="8,122,177,163"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="rtems_counter_delay_nanoseconds" name="rtems_counter_delay_nanoseconds">
+<area shape="rect" id="node1" title="Busy wait for some nanoseconds." alt="" coords="5,39,164,80"/>
+<area shape="rect" id="node2" href="$group__ClassicCounter.html#gae1a4a949021ae54cf5d1c267fe0f9493" title="Busy wait for some counter ticks." alt="" coords="237,5,395,47"/>
+<area shape="rect" id="node3" href="$group__ClassicCounter.html#ga9a475dea5b0d7689a94f0806cf21f396" title="Converts nanoseconds into counter ticks." alt="" coords="212,71,420,112"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="i386_Real_to_physical" name="i386_Real_to_physical">
+<area shape="rect" id="node1" title="Converts real mode pointer {segment, offset} to physical address." alt="" coords="256,5,423,32"/>
+<area shape="rect" id="node2" href="$fb__vesa__rm_8c.html#a66442b4301c2a23d9f9baef8f4cdab8f" title="Initializes VBE framebuffer during bootup." alt="" coords="5,5,208,32"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="m83xxRegisters_" name="m83xxRegisters_">
+<area shape="rect" id="node1" title=" " alt="" coords="627,595,761,622"/>
+<area shape="rect" id="node2" href="$structm83xxDMARegisters__.html" title=" " alt="" coords="332,13,499,39"/>
+<area shape="rect" id="node3" href="$structm83xxDMARegisters___1_1m83xxDMAChannelRegisters__.html" title=" " alt="" coords="5,5,232,47"/>
+<area shape="rect" id="node4" href="$structm83xxSPIRegisters__.html" title=" " alt="" coords="338,63,493,90"/>
+<area shape="rect" id="node5" href="$structm83xxSysConRegisters__.html" title=" " alt="" coords="324,114,507,141"/>
+<area shape="rect" id="node6" href="$structm83xxDDRRegisters__.html" title=" " alt="" coords="333,165,497,191"/>
+<area shape="rect" id="node7" href="$structm83xxIPICRegisters__.html" title=" " alt="" coords="335,215,495,242"/>
+<area shape="rect" id="node8" href="$structm83xxWDTRegisters__.html" title=" " alt="" coords="332,266,499,293"/>
+<area shape="rect" id="node9" href="$structm83xxDUARTRegisters__.html" title=" " alt="" coords="325,317,505,343"/>
+<area shape="rect" id="node10" href="$structm83xxPMCRegisters__.html" title=" " alt="" coords="333,367,497,394"/>
+<area shape="rect" id="node11" href="$structm83xxLBCRegisters__.html" title=" " alt="" coords="335,418,495,445"/>
+<area shape="rect" id="node12" href="$structm83xxPCICtrlRegisters__.html" title=" " alt="" coords="326,469,505,495"/>
+<area shape="rect" id="node13" href="$structm83xxPCIIosRegisters__.html" title=" " alt="" coords="328,519,503,546"/>
+<area shape="rect" id="node14" href="$structm83xxDLLRegisters__.html" title=" " alt="" coords="336,570,495,597"/>
+<area shape="rect" id="node15" href="$structm83xxI2CRegisters__.html" title=" " alt="" coords="337,621,493,647"/>
+<area shape="rect" id="node16" href="$structm83xxCLKRegisters__.html" title=" " alt="" coords="335,671,495,698"/>
+<area shape="rect" id="node17" href="$structm83xxPITRegisters__.html" title=" " alt="" coords="338,722,493,749"/>
+<area shape="rect" id="node18" href="$structm83xxRTCRegisters__.html" title=" " alt="" coords="336,773,495,799"/>
+<area shape="rect" id="node19" href="$structm83xxUSB__MPHRegisters__.html" title=" " alt="" coords="316,823,515,850"/>
+<area shape="rect" id="node20" href="$structm83xxPCICfgRegisters__.html" title=" " alt="" coords="326,874,505,901"/>
+<area shape="rect" id="node21" href="$structm83xxGPIORegisters__.html" title=" " alt="" coords="332,925,499,951"/>
+<area shape="rect" id="node22" href="$structm83xxRESRegisters__.html" title=" " alt="" coords="335,975,495,1002"/>
+<area shape="rect" id="node23" href="$structm83xxGTMRegisters__.html" title=" " alt="" coords="333,1026,498,1053"/>
+<area shape="rect" id="node24" href="$structtsec__registers.html" title=" " alt="" coords="359,1077,472,1103"/>
+<area shape="rect" id="node25" href="$structm83xxUSB__DRRegisters__.html" title=" " alt="" coords="321,1127,509,1154"/>
+<area shape="rect" id="node26" href="$structm83xxARBRegisters__.html" title=" " alt="" coords="334,1178,497,1205"/>
+</map>

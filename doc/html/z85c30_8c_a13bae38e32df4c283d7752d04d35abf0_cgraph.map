@@ -1,0 +1,16 @@
+<map id="z85c30_initialize_interrupts" name="z85c30_initialize_interrupts">
+<area shape="rect" id="node1" title=" " alt="" coords="5,132,207,159"/>
+<area shape="rect" id="node2" href="$group__RTEMSBSPsBfinBF537Stamp.html#gab3388042c56b34c40be81fd5f028d97e" title="Install an interrupt handler." alt="" coords="291,5,382,32"/>
+<area shape="rect" id="node3" href="$z85c30_8c.html#a276e737bda6f46ccffb2994c748686c1" title=" " alt="" coords="640,65,829,92"/>
+<area shape="rect" id="node4" href="$z85c30_8c.html#a7ee80860776df3295da9c297aee40aca" title=" " alt="" coords="289,107,385,133"/>
+<area shape="rect" id="node5" href="$z85c30_8c.html#aaa76c18a0bc1e0e72e782c40f0e35e13" title=" " alt="" coords="255,157,419,184"/>
+<area shape="rect" id="node6" href="$z85c30_8c.html#aedf7b4ff4661ad2b3c2752b3f306a06b" title=" " alt="" coords="291,208,382,235"/>
+<area shape="rect" id="node12" href="$z85c30_8c.html#a9b960cb99f987d26f85e4339212d906a" title=" " alt="" coords="659,259,810,285"/>
+<area shape="rect" id="node7" href="$z85c30_8c.html#a38e763c0d749dc6c5a598a5e19e8d63c" title=" " alt="" coords="467,200,592,227"/>
+<area shape="rect" id="node8" href="$group__Termios.html#ga9d6c794f4b360479dcce4e61b61880f2" title=" " alt="" coords="645,127,825,169"/>
+<area shape="rect" id="node9" href="$group__Termios.html#ga578fc70ca70d5cf49aebd7b75328e577" title=" " alt="" coords="645,193,825,234"/>
+<area shape="rect" id="node10" href="$termiostypes_8h.html#a1ebc146d0aeeb60c14d75e16f902aae0" title="Acquires the device lock." alt="" coords="883,127,1049,169"/>
+<area shape="rect" id="node11" href="$termiostypes_8h.html#a0d928bfa5fb62de3c9e66caa5a07dfc9" title="Releases the device lock." alt="" coords="883,193,1049,234"/>
+<area shape="rect" id="node13" href="$intrbody_8c.html#a382fc4b29e2c3c681a14c6f306b2a2ad" title=" " alt="" coords="877,259,1055,285"/>
+<area shape="rect" id="node14" href="$intrbody_8c.html#a33b26f833e238ecdeddb2f4b8fda18d6" title=" " alt="" coords="879,309,1053,336"/>
+</map>

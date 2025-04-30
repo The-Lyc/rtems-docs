@@ -1,0 +1,6 @@
+<map id="I2C Support" name="I2C Support">
+<area shape="rect" id="node1" href="$group__I2C.html" title="Inter&#45;Integrated Circuit (I2C) bus and device driver support." alt="" coords="315,5,485,45"/>
+<area shape="rect" id="node2" href="$group__RTEMSBSPsARMSTM32F4.html" title="STM32F4 Board Support Package." alt="" coords="5,42,88,67"/>
+<area shape="rect" id="node3" title="I2C Module." alt="" coords="137,42,235,67"/>
+<area shape="rect" id="node4" href="$group__stm32__i2c.html" title="STM32 I2C Support." alt="" coords="327,70,473,95"/>
+</map>

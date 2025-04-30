@@ -1,0 +1,4 @@
+<map id="rtems_interrupt_server_request_submit" name="rtems_interrupt_server_request_submit">
+<area shape="rect" id="node1" title="Submits the specified interrupt server request so that its interrupt server action can be invoked by ..." alt="" coords="5,5,176,47"/>
+<area shape="rect" id="node2" href="$group__rtems__interrupt__extension.html#ga9fd697f72b1ab860a3ebb548fab5929f" title="Submits the specified interrupt server entry so that its interrupt server actions can be invoked by t..." alt="" coords="224,5,395,47"/>
+</map>

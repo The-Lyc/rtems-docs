@@ -1,0 +1,13 @@
+<map id="_Thread_Get_priority" name="_Thread_Get_priority">
+<area shape="rect" id="node1" title="Returns the priority of the thread." alt="" coords="740,152,899,179"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreSchedulerEDF.html#ga1c6a885d1cbf890d31be7c539db7c12e" title="Performs an unblocking of the thread." alt="" coords="499,5,686,32"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreSchedulerDPS.html#ga2a24da77012650161d32bed57eb5c128" title="Unblocks the thread." alt="" coords="519,57,666,98"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreSchedulerSimple.html#ga7ab1b2107fa8ab8825cb6c3488250296" title="Checks if the priority is less or equal than the priority of the node." alt="" coords="493,174,692,215"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreSchedulerSimple.html#ga5e15d6514580c3184e93d3dc935d0a6f" title="Unblocks the thread." alt="" coords="5,123,209,149"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreSchedulerSimple.html#gacbdfbb5b5fa2df49606df7bda8a69431" title="Performs the yield of a thread." alt="" coords="16,240,199,267"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreThread.html#ga6fe9824bbef3afafec8782dc3d95b6ce" title="Returns the unmapped priority of the thread." alt="" coords="503,291,683,333"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreSchedulerCBS.html#gae0d9c2720ee46efdfe87ebf87cd45cae" title="Unblocks a thread." alt="" coords="258,5,445,32"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreSchedulerSimple.html#gaa5300b25adb782773a0974c4a4419fb2" title="Inserts the thread control with the given priority into the chain." alt="" coords="257,181,445,208"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreSchedulerSimple.html#gacb4b8fc8ec7b055afb904072c38f9fc5" title="Updates the priority of the node." alt="" coords="8,174,207,215"/>
+<area shape="rect" id="node11" href="$rtems-debugger-threads_8h.html#adc6bad2bec0d8ed8cb5efda69ae8c078" title=" " alt="" coords="263,291,440,333"/>
+</map>

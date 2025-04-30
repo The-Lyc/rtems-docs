@@ -1,0 +1,8 @@
+<map id="_Scheduler_simple_Initialize" name="_Scheduler_simple_Initialize">
+<area shape="rect" id="node1" title="Initializes simple scheduler." alt="" coords="5,81,212,108"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreChain.html#ga322cf50ff1974dab1ce8d60ec94ef5f8" title="Initializes this chain as empty." alt="" coords="260,52,439,79"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreSchedulerSimple.html#gaa06ad2d8f5cb1a0aa56efa757f40768e" title="Gets context of the scheduler." alt="" coords="262,103,437,145"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreChain.html#ga8b66d3138b9cdacbcb0600c42237ff7d" title="Returns pointer to chain head." alt="" coords="523,5,629,32"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreChain.html#ga06f3e2dd6d64411f0565e3b483e53673" title="Returns pointer to chain tail." alt="" coords="529,56,623,83"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreScheduler.html#ga9c62ef5a388b998fa041a269297be1fe" title="Gets the context of the scheduler." alt="" coords="487,111,665,137"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="DBG_Configure" name="DBG_Configure">
+<area shape="rect" id="node1" title="Configures an USART peripheral with the specified parameters." alt="" coords="5,31,125,57"/>
+<area shape="rect" id="node2" href="$pio_8c.html#a1bb66b931fa38004c2178936c269fa76" title="Configures a list of Pin instances, each of which can either hold a single pin or a group of pins,..." alt="" coords="201,5,314,32"/>
+<area shape="rect" id="node3" href="$atsam_2contrib_2libraries_2libchip_2source_2pmc_8c.html#a4154148b8d69545bca1b5c868c004d49" title="Enables the clock of a peripheral. The peripheral ID is used to identify which peripheral is targeted..." alt="" coords="173,56,341,83"/>
+</map>

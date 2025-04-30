@@ -1,0 +1,11 @@
+<map id="bsps/arm/raspberrypi/console/outch.c" name="bsps/arm/raspberrypi/console/outch.c">
+<area shape="rect" id="node1" title="displaying characters on the console" alt="" coords="241,5,401,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,95,63,121"/>
+<area shape="rect" id="node3" href="$vc_8h.html" title="video core support." alt="" coords="87,95,163,121"/>
+<area shape="rect" id="node4" href="$rpi-fb_8h.html" title="framebuffer support and setup" alt="" coords="187,95,283,121"/>
+<area shape="rect" id="node5" href="$fb_8h.html" title="Frame Buffer Device Driver." alt="" coords="233,169,323,196"/>
+<area shape="rect" id="node7" title=" " alt="" coords="359,95,429,121"/>
+<area shape="rect" id="node8" href="$string_8h.html" title=" " alt="" coords="453,95,524,121"/>
+<area shape="rect" id="node9" href="$font__data_8h.html" title="graphic text console font file" alt="" coords="573,95,669,121"/>
+<area shape="rect" id="node6" title=" " alt="" coords="243,244,313,271"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="Shared" name="Shared">
+<area shape="rect" id="node1" href="$group__shared__defaultinitialextension.html" title="DEFAULT_INITIAL_EXTENSION Support Package." alt="" coords="347,5,561,45"/>
+<area shape="rect" id="node2" href="$group__bsp__interrupt.html" title="Generic BSP Interrupt Support." alt="" coords="373,70,535,95"/>
+<area shape="rect" id="node3" href="$group__RTEMSBSPsSharedConsole.html" title="Console Driver Support for Board Support Packages." alt="" coords="368,119,540,145"/>
+<area shape="rect" id="node4" href="$group__bsp__clock.html" title="Clock support." alt="" coords="398,169,510,194"/>
+<area shape="rect" id="node5" href="$group__shared__uboot.html" title="U_BOOT Support Package." alt="" coords="389,218,519,243"/>
+<area shape="rect" id="node6" href="$group__shared__umon.html" title="shared_umon MicroMonitor (uMon) Bootloader Support" alt="" coords="400,267,508,293"/>
+<area shape="rect" id="node7" href="$group__bsp__stack.html" title="Task stack initialization, allocation and free functions." alt="" coords="377,317,531,342"/>
+<area shape="rect" id="node8" title="Shared Support for Board Support Packages." alt="" coords="232,243,299,269"/>
+<area shape="rect" id="node9" href="$group__shared__tod.html" title="Set the RTC." alt="" coords="431,366,477,391"/>
+<area shape="rect" id="node10" href="$group__RTEMSBSPsSharedGRLIB.html" title="Driver support for GRLIB IP Library." alt="" coords="423,415,485,441"/>
+<area shape="rect" id="node11" href="$group__RTEMSBSPsSharedStartup.html" title="Standard system startup." alt="" coords="414,465,494,490"/>
+<area shape="rect" id="node12" href="$group__RTEMSBSPs.html" title="Board Support Packages and Support Modules (BSPs)." alt="" coords="5,243,184,269"/>
+</map>

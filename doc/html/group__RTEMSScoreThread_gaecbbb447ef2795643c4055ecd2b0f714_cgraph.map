@@ -1,0 +1,11 @@
+<map id="_Thread_Restart_self" name="_Thread_Restart_self">
+<area shape="rect" id="node1" title="Restarts the currently executing thread." alt="" coords="5,111,164,138"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreThreadQueue.html#gab84f558bc470437d43ce863f8024534e" title="Clears the priority update count of the thread queue context." alt="" coords="212,5,391,47"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreThreadQueue.html#gae18ee06777084a67d286d743355d47ac" title="Initializes a thread queue context." alt="" coords="212,71,391,112"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreThread.html#gafd7ff215edf64b4611da7b7c1d4e3050" title="Acquires the lock context in a critical section." alt="" coords="216,136,387,177"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreWatchdog.html#gace59e3b987e52e536a15534fa1f91ec5" title="Gets the state of the watchdog." alt="" coords="220,202,383,229"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreChain.html#gab0fa19f01d37f1d510405e6382fd8b67" title="Initializes a chain node." alt="" coords="455,31,623,58"/>
+<area shape="rect" id="node6" href="$bootldr_8h.html#a36d20f7d597c517b964289f6b54ddfa7" title=" " alt="" coords="501,82,577,109"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreChain.html#gadf0e5d55d133694eed8043ec13fe1266" title="Sets off chain." alt="" coords="688,31,848,58"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreThreadQueue.html#gaf1488e09cc925566233f2f1fc76c4d81" title="Acquires the thread queue control in a critical section." alt="" coords="439,136,640,177"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="rtems_task_is_suspended" name="rtems_task_is_suspended">
+<area shape="rect" id="node1" title="rtems_task_is_suspended" alt="" coords="5,60,196,87"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreStates.html#ga74a9088ded768a8aab5ba68defcf0c5e" title="Checks if SUSPENDED state is set." alt="" coords="248,9,413,36"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreThread.html#gadc33b4b428dfc134ae1622441433b1a1" title="Gets a thread by its identifier." alt="" coords="279,60,383,87"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreThreadMP.html#ga8c8c9e4dadd94632600e764d4e85ee89" title="Checks if the thread MP with this object id is remote." alt="" coords="244,115,417,141"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreObject.html#gaba59419fd15c39c93eedbaba5788de05" title="Checks if two object IDs are equal." alt="" coords="466,5,642,32"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreObject.html#gaccc5682133e4f65b8cb374eab9be2c9d" title="Maps the specified object identifier to the associated local object control block." alt="" coords="500,56,608,83"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreThread.html#ga291d97d78d5460ffa5539964e417bb49" title="Gets object information for the object id." alt="" coords="475,107,633,149"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreObject.html#ga22cdf45f285840b7728b06197a7f4627" title="Returns the index portion of the ID." alt="" coords="697,56,847,83"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreObject.html#ga907a0412d7c657fa047641444090fe7b" title="Returns the API portion of the ID." alt="" coords="704,111,840,137"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreObject.html#ga8014a70deeb6819f7e2ca50efd13e1be" title="Checks if the api is valid." alt="" coords="691,161,853,188"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreObjectMP.html#gae1144d0c54b95368022bd861539e9694" title="Checks if the object identifier is in the global object identifier cache of the specified object info..." alt="" coords="465,173,643,200"/>
+</map>

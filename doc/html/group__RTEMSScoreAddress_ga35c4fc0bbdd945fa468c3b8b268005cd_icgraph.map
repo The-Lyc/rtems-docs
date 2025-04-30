@@ -1,0 +1,7 @@
+<map id="_Addresses_Subtract" name="_Addresses_Subtract">
+<area shape="rect" id="node1" title="Subtracts two addresses." alt="" coords="403,78,560,105"/>
+<area shape="rect" id="node2" href="$group__ClassicPartImpl.html#gadbd0a0a18e9149e5d8ccf75221fbf2d5" title="Checks whether is on a valid buffer boundary for the_partition." alt="" coords="204,5,351,47"/>
+<area shape="rect" id="node4" href="$group__ClassicDPMEM.html#gadd2893966bef2ba45246f76630583948" title="RTEMS Port External to Internal." alt="" coords="200,71,355,112"/>
+<area shape="rect" id="node5" href="$group__ClassicDPMEM.html#ga2f93010888da8641e8d419067da3200f" title="RTEMS Port Internal to External." alt="" coords="202,136,353,177"/>
+<area shape="rect" id="node3" href="$group__ClassicPartImpl.html#ga9fc3a1c2d40c73f16df3fd6a6be9c43f" title="Checks whether the_buffer is a valid buffer from the_partition." alt="" coords="5,5,152,47"/>
+</map>

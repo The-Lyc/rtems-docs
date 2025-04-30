@@ -1,0 +1,25 @@
+<map id="cpukit/posix/src/shmconfig.c" name="cpukit/posix/src/shmconfig.c">
+<area shape="rect" id="node1" title=" " alt="" coords="476,5,683,32"/>
+<area shape="rect" id="node2" href="$shm_8h.html" title="Internal Support for POSIX Shared Memory." alt="" coords="508,80,651,107"/>
+<area shape="rect" id="node3" href="$objectdata_8h.html" title="Object Handler Data Structures." alt="" coords="278,155,462,181"/>
+<area shape="rect" id="node16" href="$threadq_8h.html" title="Constants and Structures Needed to Declare a Thread Queue." alt="" coords="497,155,662,181"/>
+<area shape="rect" id="node23" title=" " alt="" coords="686,155,782,181"/>
+<area shape="rect" id="node4" href="$score_2object_8h.html" title="Constants and Structures Associated with the Object Handler." alt="" coords="118,304,273,331"/>
+<area shape="rect" id="node11" href="$chainimpl_8h.html" title="Chain Handler API." alt="" coords="258,229,437,256"/>
+<area shape="rect" id="node14" href="$rtems_2score_2rbtree_8h.html" title="Constants and Structures Associated with the Red&#45;Black Tree Handler." alt="" coords="761,304,915,331"/>
+<area shape="rect" id="node5" href="$basedefs_8h.html" title="Basic Definitions." alt="" coords="553,453,728,480"/>
+<area shape="rect" id="node10" title=" " alt="" coords="406,379,545,405"/>
+<area shape="rect" id="node6" title=" " alt="" coords="743,528,909,555"/>
+<area shape="rect" id="node7" title=" " alt="" coords="513,528,587,555"/>
+<area shape="rect" id="node8" title=" " alt="" coords="611,528,694,555"/>
+<area shape="rect" id="node9" title=" " alt="" coords="961,528,1032,555"/>
+<area shape="rect" id="node12" href="$score_2chain_8h.html" title="Chain Handler API." alt="" coords="348,304,499,331"/>
+<area shape="rect" id="node13" href="$assert_8h.html" title="Information for the Assert Handler." alt="" coords="569,379,723,405"/>
+<area shape="rect" id="node15" title=" " alt="" coords="748,379,835,405"/>
+<area shape="rect" id="node17" href="$isrlock_8h.html" title="ISR Locks." alt="" coords="797,229,956,256"/>
+<area shape="rect" id="node20" href="$rtems_2score_2priority_8h.html" title="Priority Handler API." alt="" coords="511,229,671,256"/>
+<area shape="rect" id="node21" href="$states_8h.html" title="Thread Execution State Information." alt="" coords="947,453,1102,480"/>
+<area shape="rect" id="node22" href="$watchdogticks_8h.html" title="Constants for the watchdog ticks." alt="" coords="5,379,215,405"/>
+<area shape="rect" id="node18" href="$isrlevel_8h.html" title="ISR Level Type." alt="" coords="574,304,737,331"/>
+<area shape="rect" id="node19" href="$smplock_8h.html" title="SMP Lock API." alt="" coords="753,453,923,480"/>
+</map>

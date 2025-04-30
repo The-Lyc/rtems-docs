@@ -1,0 +1,5 @@
+<map id="_Chain_Iterator_next" name="_Chain_Iterator_next">
+<area shape="rect" id="node1" title="Returns the next node in the iterator direction." alt="" coords="5,31,163,57"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreChain.html#ga9502cc5cb6c81ef2bce33698005e1752" title="Returns pointer to the next node from this node." alt="" coords="223,5,327,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreChain.html#ga78b26f26fab1b3831f449e7a94a51692" title="Returns pointer to the previous node from this node." alt="" coords="211,56,340,83"/>
+</map>

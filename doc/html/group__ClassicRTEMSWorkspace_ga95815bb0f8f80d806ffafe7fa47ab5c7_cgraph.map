@@ -1,0 +1,17 @@
+<map id="rtems_workspace_get_information" name="rtems_workspace_get_information">
+<area shape="rect" id="node1" title="Gets Workspace Information." alt="" coords="5,150,171,191"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreProtHeap.html#ga327ad8c35910aeef2bad64e4ba05bbbf" title="Returns information about used and free blocks for the heap." alt="" coords="219,150,379,191"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreHeap.html#ga5ee6c8f0dfa456002f117bb202b5c9a6" title="Returns information about used and free blocks for the heap." alt="" coords="433,107,609,133"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreAllocatorMutex.html#ga89aa77edce0d5557b1a7e9d9ef7999c8" title=" " alt="" coords="434,157,609,184"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreAllocatorMutex.html#ga15d657c04537c2ad1841adc28b8dd747" title=" " alt="" coords="427,208,616,235"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreHeap.html#ga568d8a3b62e8b4b060940770bdeee254" title="Iterates over all blocks of the heap." alt="" coords="683,56,796,83"/>
+<area shape="rect" id="node8" href="$bootldr_8h.html#a36d20f7d597c517b964289f6b54ddfa7" title=" " alt="" coords="701,107,777,133"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreHeap.html#ga231bdbf1ec3d6b82583d0cc3198fc00b" title="Returns the block which is offset away from block." alt="" coords="901,5,1027,32"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreHeap.html#ga161ac37dea0961191b2698abf0e61841" title="Returns the block size." alt="" coords="895,56,1033,83"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreHeap.html#gad88e4681224e360888f3f4bd020c97a9" title="Returns if the previous heap block is used." alt="" coords="887,107,1041,133"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreAPIMutex.html#ga57829ca494f1d866219c499eadb0ffc9" title="Acquires the specified API mutex." alt="" coords="672,157,807,184"/>
+<area shape="rect" id="node11" href="$mutex_8c.html#a2960aef6016ac8937f24108f9cdeebd0" title=" " alt="" coords="867,157,1061,184"/>
+<area shape="rect" id="node12" href="$group__RTEMSScoreThread.html#gad5aaea7af4482aebd880403fb9c238af" title="Set the thread to life protected." alt="" coords="863,208,1065,235"/>
+<area shape="rect" id="node14" href="$group__RTEMSScoreAPIMutex.html#ga64a430ae861d0ce7f63413e651fbe36d" title="Releases the specified API mutex." alt="" coords="664,208,815,235"/>
+<area shape="rect" id="node15" href="$mutex_8c.html#adecd7211e7a1a5035841212574f45b31" title=" " alt="" coords="866,259,1062,285"/>
+</map>

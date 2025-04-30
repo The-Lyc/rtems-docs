@@ -1,0 +1,8 @@
+<map id="clntudp_create" name="clntudp_create">
+<area shape="rect" id="node1" title=" " alt="" coords="456,56,575,83"/>
+<area shape="rect" id="node2" href="$clnt__generic_8c.html#afdb74699a02f4905aa56cf843c2f934d" title=" " alt="" coords="305,31,399,57"/>
+<area shape="rect" id="node6" href="$pmap__rmt_8c.html#a8cee415345798118fdbd7e5cade3aac7" title=" " alt="" coords="296,81,408,108"/>
+<area shape="rect" id="node3" href="$pmap__clnt_8c.html#a920cd19a78789d6fb4297056961719ed" title=" " alt="" coords="153,5,240,32"/>
+<area shape="rect" id="node4" href="$pmap__clnt_8c.html#aeabebebb4255527c70fe8dd02347d8d1" title=" " alt="" coords="145,56,248,83"/>
+<area shape="rect" id="node5" href="$svc__simple_8c.html#ae1ed444859be78b541c478b4de819270" title=" " alt="" coords="5,56,97,83"/>
+</map>

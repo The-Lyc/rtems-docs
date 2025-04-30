@@ -1,0 +1,9 @@
+<map id="_Objects_Free_unlimited" name="_Objects_Free_unlimited">
+<area shape="rect" id="node1" title="Free the object." alt="" coords="5,118,188,145"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreChain.html#gaa7011c6fe160c457a0d100e41ec3fffe" title="Appends a node (unprotected)." alt="" coords="237,42,444,69"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreObject.html#ga22cdf45f285840b7728b06197a7f4627" title="Returns the index portion of the ID." alt="" coords="265,93,416,119"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreObject.html#gaba65e2c96c6fde53bea31b45152fb79d" title="Checks if the automatic object extension (unlimited objects) is enabled." alt="" coords="249,143,433,170"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreObject.html#ga1d3e97a3ed2e9d19c544269a7444be21" title="Shrinks an object class information record." alt="" coords="236,194,445,221"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreChain.html#gad7a790f247b3ace45f039c60c18f999f" title="Checks if the node is off chain." alt="" coords="493,5,640,47"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreChain.html#ga06f3e2dd6d64411f0565e3b483e53673" title="Returns pointer to chain tail." alt="" coords="519,71,614,98"/>
+</map>

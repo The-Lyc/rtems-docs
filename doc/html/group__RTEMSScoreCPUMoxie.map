@@ -1,0 +1,5 @@
+<map id="Moxie" name="Moxie">
+<area shape="rect" id="node1" href="$group__RTEMSScoreCPUMoxieASM.html" title="Moxie Assembler Support." alt="" coords="351,5,540,31"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreCPU.html" title="Provides CPU architecture dependent services." alt="" coords="5,5,192,31"/>
+<area shape="rect" id="node3" title="Moxie Architecture Support." alt="" coords="240,5,303,31"/>
+</map>

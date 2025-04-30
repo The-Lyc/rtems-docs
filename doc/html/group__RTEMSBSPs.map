@@ -1,0 +1,22 @@
+<map id="Board Support Packages" name="Board Support Packages">
+<area shape="rect" id="node1" href="$group__RTEMSBSPsNios2.html" title="Nios II Board Support Packages." alt="" coords="259,5,371,31"/>
+<area shape="rect" id="node2" href="$group__RTEMSBSPsM68k.html" title="Motorola 68000 and NXP ColdFire Board Support Packages." alt="" coords="234,55,395,95"/>
+<area shape="rect" id="node3" href="$group__RTEMSBSPsX8664.html" title="x86&#45;64 Board Support Package." alt="" coords="281,120,348,145"/>
+<area shape="rect" id="node4" href="$group__RTEMSBSPsSPARC64.html" title="SPARC64 Board Support Packages." alt="" coords="275,169,355,195"/>
+<area shape="rect" id="node5" href="$group__RTEMSBSPsOR1K.html" title="OpenRISC 1000 Board Support Package." alt="" coords="232,219,397,244"/>
+<area shape="rect" id="node6" href="$group__RTEMSBSPsEpiphany.html" title="Epiphany Board Support Packages." alt="" coords="273,268,356,293"/>
+<area shape="rect" id="node7" href="$group__RTEMSBSPsSH.html" title="SuperH Board Support Packages." alt="" coords="265,317,364,343"/>
+<area shape="rect" id="node8" href="$group__RTEMSBSPsLM32.html" title="LatticeMicro32 Board Support Packages." alt="" coords="232,367,397,392"/>
+<area shape="rect" id="node9" href="$group__RTEMSBSPsNoCPU.html" title="Example Board Support Package." alt="" coords="275,416,354,441"/>
+<area shape="rect" id="node10" href="$group__RTEMSBSPsI386.html" title="i386 Board Support Package." alt="" coords="289,465,340,491"/>
+<area shape="rect" id="node11" href="$group__RTEMSBSPsARM.html" title="ARM Board Support Packages." alt="" coords="289,515,341,540"/>
+<area shape="rect" id="node12" href="$group__RTEMSBSPsShared.html" title="Shared Support for Board Support Packages." alt="" coords="281,564,348,589"/>
+<area shape="rect" id="node13" href="$group__RTEMSBSPsV850.html" title="V850 Board Support Packages." alt="" coords="287,613,342,639"/>
+<area shape="rect" id="node14" href="$group__RTEMSBSPsPowerPC.html" title="PowerPC Board Support Packages." alt="" coords="275,663,354,688"/>
+<area shape="rect" id="node15" href="$group__RTEMSBSPsMoxie.html" title="Moxie Board Support Packages." alt="" coords="283,712,346,737"/>
+<area shape="rect" id="node16" href="$group__RTEMSBSPsRISCV.html" title="RISC&#45;V Board Support Packages." alt="" coords="282,761,347,787"/>
+<area shape="rect" id="node17" href="$group__RTEMSBSPsMIPS.html" title="MIPS Board Support Packages." alt="" coords="287,811,342,836"/>
+<area shape="rect" id="node18" href="$group__RTEMSBSPsSPARC.html" title="SPARC Board Support Packages." alt="" coords="283,860,347,885"/>
+<area shape="rect" id="node19" href="$group__RTEMSBSPsBfin.html" title="Blackfin Board Support Packages." alt="" coords="277,909,352,935"/>
+<area shape="rect" id="node20" title="Board Support Packages and Support Modules (BSPs)." alt="" coords="5,465,184,491"/>
+</map>

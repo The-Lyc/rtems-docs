@@ -1,0 +1,8 @@
+<map id="cpukit/include/rtems/posix/pthreadattrimpl.h" name="cpukit/include/rtems/posix/pthreadattrimpl.h">
+<area shape="rect" id="node1" title="POSIX Threads Private Support." alt="" coords="572,5,751,47"/>
+<area shape="rect" id="node2" href="$pthreadattrdefault_8c.html" title="Private Support Information for POSIX Threads." alt="" coords="5,95,264,121"/>
+<area shape="rect" id="node3" href="$pthreadattrinit_8c.html" title="Thread Attributes Creation." alt="" coords="289,95,522,121"/>
+<area shape="rect" id="node4" href="$pthreadcreate_8c.html" title="Function Starts a New Thread in The Calling Process." alt="" coords="546,95,777,121"/>
+<area shape="rect" id="node5" href="$pthreadgetattrnp_8c.html" title="Pthread Get Attribute." alt="" coords="801,95,1050,121"/>
+<area shape="rect" id="node6" href="$pthreadgetschedparam_8c.html" title="Gets Scheduling Policy and Parameters of Individual Threads." alt="" coords="1075,95,1365,121"/>
+</map>

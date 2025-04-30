@@ -1,0 +1,4 @@
+<map id="_Thread_State_acquire_critical" name="_Thread_State_acquire_critical">
+<area shape="rect" id="node1" title="Acquires the lock context in a critical section." alt="" coords="5,5,176,47"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreThreadQueue.html#gaf1488e09cc925566233f2f1fc76c4d81" title="Acquires the thread queue control in a critical section." alt="" coords="224,5,425,47"/>
+</map>

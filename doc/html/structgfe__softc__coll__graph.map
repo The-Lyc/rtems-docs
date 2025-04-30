@@ -1,0 +1,11 @@
+<map id="gfe_softc" name="gfe_softc">
+<area shape="rect" id="node1" title=" " alt="" coords="269,288,350,315"/>
+<area shape="rect" id="node2" href="$structcallout.html" title=" " alt="" coords="5,199,72,225"/>
+<area shape="rect" id="node3" href="$structdevice.html" title=" " alt="" coords="169,199,234,225"/>
+<area shape="rect" id="node4" href="$structgfe__rxqueue.html" title=" " alt="" coords="258,199,361,225"/>
+<area shape="rect" id="node5" href="$structgfe__rxbuf.html" title=" " alt="" coords="75,95,159,121"/>
+<area shape="rect" id="node6" href="$structgt__eth__desc.html" title=" " alt="" coords="222,95,322,121"/>
+<area shape="rect" id="node9" href="$structgfe__txqueue.html" title=" " alt="" coords="385,199,487,225"/>
+<area shape="rect" id="node7" href="$structgfe__dmamem.html" title=" " alt="" coords="487,95,601,121"/>
+<area shape="rect" id="node8" href="$structbus__dma__segment__t.html" title=" " alt="" coords="465,5,623,32"/>
+</map>

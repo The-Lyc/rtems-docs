@@ -1,0 +1,7 @@
+<map id="_Objects_Open_string" name="_Objects_Open_string">
+<area shape="rect" id="node1" title="Places the_object control pointer and object name in the Local Pointer and Local Name Tables,..." alt="" coords="5,24,168,50"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreObject.html#ga22cdf45f285840b7728b06197a7f4627" title="Returns the index portion of the ID." alt="" coords="693,28,844,54"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreObject.html#ga0a217bcdc113857e4f370aea14dbe025" title="Returns if the object has a string name." alt="" coords="216,24,415,50"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreObject.html#ga9c697fd8a483c32420ccfff211ec3c14" title="Sets the pointer to the local_table object referenced by the index." alt="" coords="243,75,387,116"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreObject.html#gadf825a94fecd0945a4368e503e274bfd" title="Returns the maximum index of the specified object class." alt="" coords="463,50,645,91"/>
+</map>

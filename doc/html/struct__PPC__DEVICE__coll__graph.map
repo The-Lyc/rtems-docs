@@ -1,0 +1,12 @@
+<map id="_PPC_DEVICE" name="_PPC_DEVICE">
+<area shape="rect" id="node1" title=" " alt="" coords="617,185,727,212"/>
+<area shape="rect" id="node2" href="$union__BUS__ACCESS.html" title=" " alt="" coords="381,157,496,184"/>
+<area shape="rect" id="node3" href="$struct__BUS__ACCESS_1_1__MCAAccess.html" title=" " alt="" coords="17,5,221,32"/>
+<area shape="rect" id="node4" href="$struct__BUS__ACCESS_1_1__ProcBusAccess.html" title=" " alt="" coords="5,56,232,83"/>
+<area shape="rect" id="node5" href="$struct__BUS__ACCESS_1_1__PCIAccess.html" title=" " alt="" coords="21,107,216,133"/>
+<area shape="rect" id="node6" href="$struct__BUS__ACCESS_1_1__PnPAccess.html" title=" " alt="" coords="20,157,217,184"/>
+<area shape="rect" id="node7" href="$struct__BUS__ACCESS_1_1__EISAAccess.html" title=" " alt="" coords="17,208,221,235"/>
+<area shape="rect" id="node8" href="$struct__BUS__ACCESS_1_1__PCMCIAAccess.html" title=" " alt="" coords="6,259,231,285"/>
+<area shape="rect" id="node9" href="$struct__BUS__ACCESS_1_1__ISAAccess.html" title=" " alt="" coords="21,309,217,336"/>
+<area shape="rect" id="node10" href="$struct__DEVICE__ID.html" title=" " alt="" coords="389,208,488,235"/>
+</map>

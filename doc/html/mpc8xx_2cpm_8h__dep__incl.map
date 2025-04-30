@@ -1,0 +1,6 @@
+<map id="bsps/powerpc/include/mpc8xx/cpm.h" name="bsps/powerpc/include/mpc8xx/cpm.h">
+<area shape="rect" id="node1" title=" " alt="" coords="196,5,359,47"/>
+<area shape="rect" id="node2" href="$bsps_2powerpc_2tqm8xx_2include_2bsp_8h.html" title="Global BSP definitions." alt="" coords="5,95,171,136"/>
+<area shape="rect" id="node3" href="$tqm8xx_2start_2cp_8c.html" title=" " alt="" coords="195,95,360,136"/>
+<area shape="rect" id="node4" href="$tqm8xx_2start_2dpram_8c.html" title=" " alt="" coords="384,95,549,136"/>
+</map>

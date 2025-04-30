@@ -1,0 +1,39 @@
+<map id="bsps/arm/tms570/include/bsp/ti_herc/reg_emacm.h" name="bsps/arm/tms570/include/bsp/ti_herc/reg_emacm.h">
+<area shape="rect" id="node1" title=" " alt="" coords="1834,5,2025,47"/>
+<area shape="rect" id="node2" href="$tms570_8h.html" title=" " alt="" coords="1836,95,2023,136"/>
+<area shape="rect" id="node3" href="$tms570-pinmux_8h.html" title="I/O Multiplexing Module (IOMM) basic support." alt="" coords="392,191,579,233"/>
+<area shape="rect" id="node4" href="$init__pinmux_8c.html" title="Initialize pin multiplexers." alt="" coords="45,288,214,329"/>
+<area shape="rect" id="node5" href="$init__system_8c.html" title=" " alt="" coords="238,288,407,329"/>
+<area shape="rect" id="node6" href="$pinmux_8c.html" title="I/O Multiplexing Module (IOMM) basic support." alt="" coords="431,288,601,329"/>
+<area shape="rect" id="node7" href="$tms570-pom_8h.html" title="Parameter Overlay Module (POM) header file." alt="" coords="805,191,992,233"/>
+<area shape="rect" id="node10" href="$tms570-rti_8h.html" title="Real Time Interrupt module (RTI) header file." alt="" coords="1016,191,1203,233"/>
+<area shape="rect" id="node21" href="$tms570-sci_8h.html" title="Serial Communication Interface (SCI) header file." alt="" coords="1227,191,1413,233"/>
+<area shape="rect" id="node25" href="$tms570-vim_8h.html" title="Vectored Interrupt Module (VIM) header file." alt="" coords="1437,191,1624,233"/>
+<area shape="rect" id="node27" href="$arm_2tms570_2start_2bspreset_8c.html" title="Reset code." alt="" coords="1649,191,1818,233"/>
+<area shape="rect" id="node28" href="$bspstarthooks-hwinit_8c.html" title=" " alt="" coords="1842,191,2017,233"/>
+<area shape="rect" id="node29" href="$fail__notification_8c.html" title=" " alt="" coords="2041,191,2210,233"/>
+<area shape="rect" id="node30" href="$init__emif__sdram_8c.html" title="Initialization of external memory/SDRAM interface." alt="" coords="2234,191,2403,233"/>
+<area shape="rect" id="node31" href="$init__esm_8c.html" title="Error signaling module initialization." alt="" coords="2427,191,2597,233"/>
+<area shape="rect" id="node32" href="$tms570__selftest_8c.html" title="TMS570 selftest support functions implementation." alt="" coords="2621,191,2790,233"/>
+<area shape="rect" id="node33" href="$tms570__selftest__par__can_8c.html" title="Test CAN module parity based protection logic to work." alt="" coords="2814,191,3013,233"/>
+<area shape="rect" id="node34" href="$tms570__selftest__par__mibspi_8c.html" title="Test MibSPI module parity based protection logic to work." alt="" coords="3037,184,3206,240"/>
+<area shape="rect" id="node35" href="$tms570__selftest__par__std_8c.html" title="Generic parity based protection logic check applicable to HETx, HTUx, ADC, DMA and VIM." alt="" coords="3230,191,3426,233"/>
+<area shape="rect" id="node36" href="$tms570__selftest__parity_8c.html" title="Check of module parity based protection logic to work." alt="" coords="3451,191,3635,233"/>
+<area shape="rect" id="node37" href="$tms570__tcram__tests_8c.html" title="TCRAM selftest function." alt="" coords="3659,191,3829,233"/>
+<area shape="rect" id="node8" href="$arm_2tms570_2start_2bspstart_8c.html" title="Startup code." alt="" coords="818,288,987,329"/>
+<area shape="rect" id="node9" href="$tms570-pom_8c.html" title="TMS570 Parameter Overlay Module functions definitions." alt="" coords="625,288,794,329"/>
+<area shape="rect" id="node11" href="$bsps_2arm_2tms570_2clock_2clock_8c.html" title="clock functions definitions." alt="" coords="1223,288,1396,329"/>
+<area shape="rect" id="node12" href="$tms570_2include_2bsp_2system-clocks_8h.html" title="System clocks." alt="" coords="1012,288,1199,329"/>
+<area shape="rect" id="node13" href="$arm_2lpc176x_2start_2bspstart_8c.html" title="Startup code." alt="" coords="395,377,565,419"/>
+<area shape="rect" id="node14" href="$bsps_2arm_2lpc176x_2start_2io_8c.html" title="Input/output module methods." alt="" coords="590,385,789,411"/>
+<area shape="rect" id="node15" href="$lpc176x_2start_2system-clocks_8c.html" title="System clocks." alt="" coords="813,377,984,419"/>
+<area shape="rect" id="node16" href="$lcd_8c.html" title="LCD support." alt="" coords="1008,377,1163,419"/>
+<area shape="rect" id="node17" href="$arm_2lpc24xx_2start_2bspstart_8c.html" title="Startup code." alt="" coords="1187,377,1357,419"/>
+<area shape="rect" id="node18" href="$bsps_2arm_2lpc24xx_2start_2io_8c.html" title="Input and output module." alt="" coords="1382,385,1581,411"/>
+<area shape="rect" id="node19" href="$lpc24xx_2start_2system-clocks_8c.html" title="System clocks." alt="" coords="5,377,176,419"/>
+<area shape="rect" id="node20" href="$arm_2lpc24xx_2start_2timer_8c.html" title="Benchmark timer support." alt="" coords="200,377,371,419"/>
+<area shape="rect" id="node22" href="$printk-support_8c.html" title="definitions of serial line for debugging." alt="" coords="1819,377,2008,419"/>
+<area shape="rect" id="node23" href="$tms570-sci_8c.html" title="Serial communication interface (SCI) functions definitions." alt="" coords="1605,377,1795,419"/>
+<area shape="rect" id="node24" href="$tms570-sci-driver_8h.html" title="Declaration of serial&#39;s driver inner structure." alt="" coords="1587,288,1773,329"/>
+<area shape="rect" id="node26" href="$bsps_2arm_2tms570_2irq_2irq_8c.html" title="TMS570 interrupt support functions definitions." alt="" coords="1849,288,2005,329"/>
+</map>

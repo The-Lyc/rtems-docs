@@ -1,0 +1,6 @@
+<map id="_User_extensions_Iterate" name="_User_extensions_Iterate">
+<area shape="rect" id="node1" title="Iterates through all user extensions and calls the visitor for each." alt="" coords="5,56,192,83"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreChain.html#gac08944db6f0428125d3b0d5a1c65b740" title="Returns pointer to immutable chain head." alt="" coords="240,5,423,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreChain.html#gaa2f09e6d639b1bc5a27451eb119b6e33" title="Returns pointer to immutable chain tail." alt="" coords="245,56,417,83"/>
+<area shape="rect" id="node4" href="$group__PerCPU.html#ga294cfaf3cf50de03f1d9821d68b9c1bd" title="Returns the thread control block of the executing thread." alt="" coords="244,107,419,133"/>
+</map>

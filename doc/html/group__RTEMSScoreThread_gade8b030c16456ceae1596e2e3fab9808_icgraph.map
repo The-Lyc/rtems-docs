@@ -1,0 +1,11 @@
+<map id="_Thread_Resource_count_increment" name="_Thread_Resource_count_increment">
+<area shape="rect" id="node1" title="Increments the thread&#39;s resource count." alt="" coords="451,169,635,211"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreMutex.html#ga3c9beab408f6eaae8af2a29d962b08f3" title="Sets the owner of the ceiling mutex." alt="" coords="230,5,394,47"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreMutex.html#gac76286dab6594ca0499aa20861f69fb8" title="Surrenders the ceiling mutex." alt="" coords="230,71,394,112"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreMutex.html#gaacb95bc0bdba9fb365d01dfe2623665d" title="Seizes the recursive mutex." alt="" coords="221,136,403,177"/>
+<area shape="rect" id="node6" href="$posix_2muteximpl_8h.html#aa099656aca92ad7c919c40cac2b1e226" title=" " alt="" coords="228,201,396,243"/>
+<area shape="rect" id="node8" href="$posix_2muteximpl_8h.html#aef2cdaf26c7b8333787140155835917f" title=" " alt="" coords="228,267,396,308"/>
+<area shape="rect" id="node9" href="$posix_2muteximpl_8h.html#a1edc3f81cdf62fda42e43874e522f117" title=" " alt="" coords="233,333,391,359"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreMutex.html#gae40030a2c780f0da5839deee9387f340" title="Seizes the ceiling mutex." alt="" coords="7,5,171,47"/>
+<area shape="rect" id="node7" href="$posix_2muteximpl_8h.html#a02b950e3dfc08bf48aafac65eeaf58e7" title=" " alt="" coords="5,201,173,243"/>
+</map>

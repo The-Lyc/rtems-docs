@@ -1,0 +1,11 @@
+<map id="clock_driver_sim_idle_body" name="clock_driver_sim_idle_body">
+<area shape="rect" id="node1" title=" " alt="" coords="5,67,208,94"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreThread.html#ga044bfb6e9317180d21b05c5338cedd1a" title="Disables thread dispatching." alt="" coords="256,15,448,42"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreThread.html#gab0c773b97624be1dc304a2d3d038f19a" title="Enables thread dispatching." alt="" coords="257,67,447,94"/>
+<area shape="rect" id="node6" href="$group__ClassicClock.html#ga4077e5036c6378d557be5c22ba30812d" title="Announce a Clock Tick." alt="" coords="286,122,418,149"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreThread.html#ga5ffeb81480c63293a317f69efc74dec3" title="Disables thread dispatching inside a critical section (interrupts disabled)." alt="" coords="498,5,690,47"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreThread.html#ga80a71da4ea096f7ea92781a872b955ae" title="Disables thread dispatching inside a critical section (interrupts disabled) with the current processo..." alt="" coords="740,5,932,47"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreThread.html#ga14e949c0f400cda43b1e7547e50b088d" title="Performs a thread dispatch if necessary." alt="" coords="525,71,663,98"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreThread.html#gaa847ae7c8e3c4cf3f3f3f082124eac8e" title="Indicates if the executing thread is inside a thread dispatch critical section." alt="" coords="516,123,672,164"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreTimecounter.html#ga4846ddfe4d962ac1cc41c022f7ae0d60" title="Performs a simple timecounter tick." alt="" coords="496,189,692,215"/>
+</map>

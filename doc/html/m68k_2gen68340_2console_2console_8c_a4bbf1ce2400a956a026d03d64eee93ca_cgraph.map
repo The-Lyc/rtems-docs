@@ -1,0 +1,6 @@
+<map id="InterruptHandler" name="InterruptHandler">
+<area shape="rect" id="node1" title=" " alt="" coords="5,46,135,73"/>
+<area shape="rect" id="node2" href="$group__Termios.html#ga578fc70ca70d5cf49aebd7b75328e577" title=" " alt="" coords="183,39,363,80"/>
+<area shape="rect" id="node3" href="$termiostypes_8h.html#a1ebc146d0aeeb60c14d75e16f902aae0" title="Acquires the device lock." alt="" coords="411,5,577,47"/>
+<area shape="rect" id="node4" href="$termiostypes_8h.html#a0d928bfa5fb62de3c9e66caa5a07dfc9" title="Releases the device lock." alt="" coords="411,71,577,112"/>
+</map>

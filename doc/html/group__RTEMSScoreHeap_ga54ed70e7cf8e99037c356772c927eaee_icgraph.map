@@ -1,0 +1,8 @@
+<map id="_Heap_Min_block_size" name="_Heap_Min_block_size">
+<area shape="rect" id="node1" title="Returns the minimal Heap Block size for the given page_size." alt="" coords="421,93,591,120"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreHeap.html#gac5974c7ccf84c152ba6c8e17bea3ca5f" title="Initializes the heap control block." alt="" coords="247,93,373,120"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreProtHeap.html#ga0f09fcdd50fcb5de78cdb10c0cb3b7e5" title="Initializes the protected heap." alt="" coords="5,5,199,32"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreWorkspace.html#gac10ac71b406698cb4441aff69a80c847" title="Initilizes the workspace handler." alt="" coords="23,57,181,98"/>
+<area shape="rect" id="node5" href="$group__bsp__stack.html#ga5525bfd94b2a806da939383fe0c2fde1" title="Task stack allocator initialization for CONFIGURE_TASK_STACK_ALLOCATOR_INIT." alt="" coords="15,123,189,149"/>
+<area shape="rect" id="node6" href="$group__ClassicRegion.html#ga024758f91cbf73e06cbc4c85df83d1ca" title="rtems_region_create" alt="" coords="24,173,180,200"/>
+</map>

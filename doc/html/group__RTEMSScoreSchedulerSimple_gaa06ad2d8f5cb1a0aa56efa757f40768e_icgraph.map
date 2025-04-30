@@ -1,0 +1,10 @@
+<map id="_Scheduler_simple_Get_context" name="_Scheduler_simple_Get_context">
+<area shape="rect" id="node1" title="Gets context of the scheduler." alt="" coords="561,111,736,153"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreSchedulerSimple.html#ga036369fb427f35c229253a33f82c2939" title="Initializes simple scheduler." alt="" coords="285,17,492,44"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreSchedulerSimple.html#gad87c281f617f598c1e175f162224d6fb" title="Scheduling decision logic." alt="" coords="264,68,513,95"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreSchedulerSimple.html#gacb4b8fc8ec7b055afb904072c38f9fc5" title="Updates the priority of the node." alt="" coords="11,107,210,149"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreSchedulerSimple.html#gacbdfbb5b5fa2df49606df7bda8a69431" title="Performs the yield of a thread." alt="" coords="19,173,202,200"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreSchedulerSimple.html#ga5e15d6514580c3184e93d3dc935d0a6f" title="Unblocks the thread." alt="" coords="287,220,491,247"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreSchedulerSimple.html#ga34e93fa9cafb272a16320fe540ac86a3" title="Blocks the thread." alt="" coords="17,5,204,32"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreSchedulerSimple.html#gac80488d4e091046dd3fa048c14b84995" title="Schedules threads." alt="" coords="5,56,216,83"/>
+</map>

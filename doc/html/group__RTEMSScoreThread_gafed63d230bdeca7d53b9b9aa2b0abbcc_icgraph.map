@@ -1,0 +1,4 @@
+<map id="_Thread_Wait_acquire_default" name="_Thread_Wait_acquire_default">
+<area shape="rect" id="node1" title="Acquires the thread wait default lock and disables interrupts." alt="" coords="220,5,385,47"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreThread.html#gad6f75b9158cddc463bad914c2f9f51a1" title="Removes a thread wait lock request." alt="" coords="5,5,172,47"/>
+</map>

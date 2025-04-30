@@ -1,0 +1,9 @@
+<map id="Shared" name="Shared">
+<area shape="rect" id="node1" href="$group__RTEMSBSPsPowerPCSharedLinker.html" title="Linker support." alt="" coords="277,5,391,31"/>
+<area shape="rect" id="node2" href="$group__RTEMSBSPsPowerPCSharedUtility.html" title="PowerPC Utility Module." alt="" coords="247,55,421,80"/>
+<area shape="rect" id="node3" href="$group__shared__vmeuniverse.html" title="VME Universe Modules." alt="" coords="248,104,420,129"/>
+<area shape="rect" id="node4" href="$group__ppc__exc.html" title=" " alt="" coords="257,153,411,179"/>
+<area shape="rect" id="node5" href="$group__RTEMSBSPsPowerPC.html" title="PowerPC Board Support Packages." alt="" coords="5,104,84,129"/>
+<area shape="rect" id="node7" title="Shared Support for PowerPC Board Support Packages." alt="" coords="132,104,199,129"/>
+<area shape="rect" id="node6" href="$group__RTEMSBSPsPowerPCSharedStart.html" title="PowerPC low level start." alt="" coords="251,203,417,228"/>
+</map>

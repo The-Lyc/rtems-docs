@@ -1,0 +1,13 @@
+<map id="fat_fs_info_s" name="fat_fs_info_s">
+<area shape="rect" id="node1" title=" " alt="" coords="475,516,580,543"/>
+<area shape="rect" id="node2" href="$structfat__cache__s.html" title=" " alt="" coords="178,419,277,446"/>
+<area shape="rect" id="node3" href="$structrtems__bdbuf__buffer.html" title=" " alt="" coords="191,307,341,333"/>
+<area shape="rect" id="node4" href="$structrtems__bdbuf__group.html" title=" " alt="" coords="5,419,153,446"/>
+<area shape="rect" id="node6" href="$structrtems__bdbuf__buffer_1_1rtems__bdbuf__avl__node.html" title=" " alt="" coords="301,412,479,453"/>
+<area shape="rect" id="node5" href="$structChain__Node__struct.html" title=" " alt="" coords="227,7,371,33"/>
+<area shape="rect" id="node8" href="$structrtems__blkdev__read__ahead.html" title="Block device read&#45;ahead control." alt="" coords="358,112,553,139"/>
+<area shape="rect" id="node10" href="$unionChain__Control.html" title=" " alt="" coords="533,163,647,189"/>
+<area shape="rect" id="node7" href="$structrtems__disk__device.html" title="Description of a disk device (logical and physical disks)." alt="" coords="289,215,433,241"/>
+<area shape="rect" id="node11" href="$structfat__vol__s.html" title=" " alt="" coords="455,360,536,387"/>
+<area shape="rect" id="node9" href="$structrtems__blkdev__stats.html" title="Block device statistics." alt="" coords="183,112,333,139"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="sigprocmask" name="sigprocmask">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,111,57"/>
+<area shape="rect" id="node2" href="$pthreadsigmask_8c.html#a13e1cc7386e8bf79eab08d33effaad9b" title=" " alt="" coords="159,31,293,57"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreThread.html#ga14e949c0f400cda43b1e7547e50b088d" title="Performs a thread dispatch if necessary." alt="" coords="359,5,498,32"/>
+<area shape="rect" id="node4" href="$group__PerCPU.html#ga294cfaf3cf50de03f1d9821d68b9c1bd" title="Returns the thread control block of the executing thread." alt="" coords="341,56,516,83"/>
+</map>

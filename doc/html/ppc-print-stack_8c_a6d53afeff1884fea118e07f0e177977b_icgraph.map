@@ -1,0 +1,6 @@
+<map id="CPU_stack_take_snapshot" name="CPU_stack_take_snapshot">
+<area shape="rect" id="node1" title=" " alt="" coords="383,31,575,57"/>
+<area shape="rect" id="node2" href="$ppc-print-stack_8c.html#aaefc94d60de8a656eb8b806c63653048" title=" " alt="" coords="207,31,335,57"/>
+<area shape="rect" id="node3" href="$powerpc_2mvme5500_2start_2bspclean_8c.html#af41429877e77754fc4a5311025119db7" title=" " alt="" coords="5,5,159,32"/>
+<area shape="rect" id="node4" href="$group__RTEMSBSPsSharedStartup.html#gaee99733067120706ee7d3395ea225dfb" title=" " alt="" coords="39,56,125,83"/>
+</map>

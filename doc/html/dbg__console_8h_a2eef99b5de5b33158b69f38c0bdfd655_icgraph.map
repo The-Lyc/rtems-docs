@@ -1,0 +1,7 @@
+<map id="DBG_GetChar" name="DBG_GetChar">
+<area shape="rect" id="node1" title="Input a character from the UART line." alt="" coords="411,56,521,83"/>
+<area shape="rect" id="node2" href="$dbg__console_8c.html#af9bb27367f558fe5135b7f59a134f074" title=" " alt="" coords="232,5,363,32"/>
+<area shape="rect" id="node3" href="$dbg__console_8c.html#a807d59a58a4312efa7ef1c445107c256" title=" " alt="" coords="234,56,361,83"/>
+<area shape="rect" id="node5" href="$dbg__console_8c.html#a4c525b3c7f5f90a659cacb562a248c20" title=" " alt="" coords="272,107,323,133"/>
+<area shape="rect" id="node4" href="$dbg__console_8c.html#a96012354201cbb18946e35061140c87d" title=" " alt="" coords="5,56,184,83"/>
+</map>

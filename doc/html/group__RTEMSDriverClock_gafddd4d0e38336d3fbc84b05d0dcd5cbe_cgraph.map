@@ -1,0 +1,7 @@
+<map id="_Clock_Initialize" name="_Clock_Initialize">
+<area shape="rect" id="node1" title="Initialize the clock driver." alt="" coords="5,81,133,108"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreSMP.html#ga49129f922ec8d5f4863575ae74daf310" title="Gets all online processors." alt="" coords="181,5,392,32"/>
+<area shape="rect" id="node3" href="$i386_2pc386_2clock_2ckinit_8c.html#a8e85e57f25eed7b096195295604e69e5" title=" " alt="" coords="246,56,327,83"/>
+<area shape="rect" id="node4" href="$mips_2hurricane_2clock_2ckinit_8c.html#a1a4808d13ca71acb6e0e4339d1f8993b" title=" " alt="" coords="235,107,338,133"/>
+<area shape="rect" id="node5" href="$group__RTEMSBSPsBfinBF537Stamp.html#gab3388042c56b34c40be81fd5f028d97e" title=" " alt="" coords="241,157,332,184"/>
+</map>

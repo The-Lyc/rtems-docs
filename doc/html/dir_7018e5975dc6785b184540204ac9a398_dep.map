@@ -1,0 +1,10 @@
+<map id="bsps/arm/stm32f4/include" name="bsps/arm/stm32f4/include">
+<area shape="rect" id="node2" href="dir_e213fa86c3b38801668f5c856389b89e.html" title="bsp" alt="" coords="43,63,115,111"/>
+<area shape="rect" id="node3" href="dir_5d1ab919b2bc2a88d122acf1f2df3693.html" title="include" alt="" coords="5,159,77,207"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000260_000468.html" title="16" alt="" coords="56,138,74,152"/>
+<area shape="rect" id="node4" href="dir_cd198e36225ba3f41de97552050ac017.html" title="cpukit" alt="" coords="41,255,113,303"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000260_000080.html" title="4" alt="" coords="89,231,98,246"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000468_000080.html" title="58" alt="" coords="61,227,79,242"/>
+<area shape="rect" id="clust2" href="dir_7018e5975dc6785b184540204ac9a398.html" alt="" coords="32,52,221,121"/>
+<area shape="rect" id="clust1" href="dir_b7fa08774e8e0bce648c97d0596cad8a.html" title="stm32f4" alt="" coords="21,16,232,132"/>
+</map>

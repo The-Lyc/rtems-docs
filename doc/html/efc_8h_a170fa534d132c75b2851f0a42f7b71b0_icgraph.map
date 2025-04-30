@@ -1,0 +1,6 @@
+<map id="EFC_TranslateAddress" name="EFC_TranslateAddress">
+<area shape="rect" id="node1" title="Translates the given address page and offset values." alt="" coords="212,56,377,83"/>
+<area shape="rect" id="node2" href="$flashd_8h.html#a009778fe212a220f68e923e18ef14103" title="Erases the entire flash." alt="" coords="25,5,144,32"/>
+<area shape="rect" id="node3" href="$flashd_8h.html#a454beb98ffe72e55aa69670313c4fd6c" title="Erases flash by pages." alt="" coords="7,56,163,83"/>
+<area shape="rect" id="node4" href="$flashd_8h.html#a7263e451f8b2b08eacdf89e46192c96b" title="Erases flash by sector." alt="" coords="5,107,164,133"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="bsps/arm/lpc24xx/include/bsp/dma.h" name="bsps/arm/lpc24xx/include/bsp/dma.h">
+<area shape="rect" id="node1" title="Direct memory access (DMA) support." alt="" coords="483,5,671,47"/>
+<area shape="rect" id="node2" href="$arm_2lpc176x_2start_2bspstart_8c.html" title="Startup code." alt="" coords="5,95,176,136"/>
+<area shape="rect" id="node3" href="$lpc176x_2start_2dma-copy_8c.html" title="Direct memory access (DMA) support." alt="" coords="200,95,371,136"/>
+<area shape="rect" id="node4" href="$lpc176x_2start_2dma_8c.html" title="Direct memory access (DMA) support." alt="" coords="395,95,565,136"/>
+<area shape="rect" id="node5" href="$arm_2lpc24xx_2start_2bspstart_8c.html" title="Startup code." alt="" coords="589,95,760,136"/>
+<area shape="rect" id="node6" href="$lpc24xx_2start_2dma-copy_8c.html" title="Direct memory access (DMA) support." alt="" coords="784,95,955,136"/>
+<area shape="rect" id="node7" href="$lpc24xx_2start_2dma_8c.html" title="Direct memory access (DMA) support." alt="" coords="979,95,1149,136"/>
+</map>

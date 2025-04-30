@@ -1,0 +1,6 @@
+<map id="_CORE_barrier_Acquire_critical" name="_CORE_barrier_Acquire_critical">
+<area shape="rect" id="node1" title="Acquires critical core barrier." alt="" coords="219,49,389,90"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreBarrier.html#ga760e64255cc0635768c65b566c536e3e" title="Waits for the barrier." alt="" coords="9,5,167,32"/>
+<area shape="rect" id="node3" href="$group__ClassicBarrier.html#ga942ec086e0fa6aa0939629fb617a763b" title="RTEMS Delete Barrier." alt="" coords="9,56,167,83"/>
+<area shape="rect" id="node4" href="$group__ClassicBarrier.html#gaca341b3ac7701013f5e94cfff7b659d7" title="RTEMS Barrier Release." alt="" coords="5,107,171,133"/>
+</map>

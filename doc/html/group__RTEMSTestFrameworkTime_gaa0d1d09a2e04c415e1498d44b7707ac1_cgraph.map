@@ -1,0 +1,5 @@
+<map id="T_now_clock" name="T_now_clock">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,111,57"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreTimecounter.html#ga2fa28f3700d306d5ba38343f2c8d1867" title="Returns the uptime in the sbintime_t format." alt="" coords="159,5,351,32"/>
+<area shape="rect" id="node3" href="$clockgettime_8c.html#a10b73e75d375e5c244e32ea46be775bf" title=" " alt="" coords="197,56,312,83"/>
+</map>

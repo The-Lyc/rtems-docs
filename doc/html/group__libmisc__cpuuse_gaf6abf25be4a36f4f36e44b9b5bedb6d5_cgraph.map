@@ -1,0 +1,4 @@
+<map id="rtems_cpu_info_report" name="rtems_cpu_info_report">
+<area shape="rect" id="node1" title="Reports per&#45;processor information." alt="" coords="5,5,173,32"/>
+<area shape="rect" id="node2" href="$print_8h.html#a9d7cd7d1a2242a0d33f403ecec3f9baa" title="Print to the kernel plugin handler. This has to be a macro because there is no vprint version of the ..." alt="" coords="221,5,324,32"/>
+</map>

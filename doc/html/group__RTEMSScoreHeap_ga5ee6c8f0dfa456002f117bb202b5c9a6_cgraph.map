@@ -1,0 +1,8 @@
+<map id="_Heap_Get_information" name="_Heap_Get_information">
+<area shape="rect" id="node1" title="Returns information about used and free blocks for the heap." alt="" coords="5,81,181,108"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreHeap.html#ga568d8a3b62e8b4b060940770bdeee254" title="Iterates over all blocks of the heap." alt="" coords="229,56,343,83"/>
+<area shape="rect" id="node6" href="$bootldr_8h.html#a36d20f7d597c517b964289f6b54ddfa7" title=" " alt="" coords="248,107,324,133"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreHeap.html#ga231bdbf1ec3d6b82583d0cc3198fc00b" title="Returns the block which is offset away from block." alt="" coords="405,5,531,32"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreHeap.html#ga161ac37dea0961191b2698abf0e61841" title="Returns the block size." alt="" coords="399,56,537,83"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreHeap.html#gad88e4681224e360888f3f4bd020c97a9" title="Returns if the previous heap block is used." alt="" coords="391,107,545,133"/>
+</map>

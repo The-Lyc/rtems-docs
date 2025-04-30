@@ -1,0 +1,10 @@
+<map id="_Scheduler_priority_Ready_queue_first" name="_Scheduler_priority_Ready_queue_first">
+<area shape="rect" id="node1" title="Returns a pointer to the first node." alt="" coords="5,49,155,90"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreChain.html#ga89304b2d294b98f4909dcb6e68d7ec82" title="Returns pointer to chain&#39;s first node." alt="" coords="235,5,337,32"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreChain.html#ga06f3e2dd6d64411f0565e3b483e53673" title="Returns pointer to chain tail." alt="" coords="239,56,333,83"/>
+<area shape="rect" id="node5" href="$group__RTEMSScorePriority.html#ga1f62e66dfe278e0aa74677bcb444d4bf" title="Gets highest portion of Priority queue bit map." alt="" coords="203,107,369,149"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreChain.html#gac08944db6f0428125d3b0d5a1c65b740" title="Returns pointer to immutable chain head." alt="" coords="417,5,600,32"/>
+<area shape="rect" id="node6" href="$group__RTEMSScorePriority.html#gacf3f0ba39c90e26e3f821c04a2e48ee5" title="Returns the bit number of the first bit set in the specified value." alt="" coords="426,89,591,116"/>
+<area shape="rect" id="node8" href="$group__RTEMSScorePriority.html#ga7e9cb59c60f7231a454824509f3a1b6a" title="Returns the bit index position for the specified major or minor bit number." alt="" coords="433,140,584,167"/>
+<area shape="rect" id="node7" href="$if__xxx__rtems_8c.html#a0d44d815bf35b8d64e2c9b7dc79efa76" title=" " alt="" coords="648,89,687,116"/>
+</map>

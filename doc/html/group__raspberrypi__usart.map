@@ -1,0 +1,4 @@
+<map id="USART Support" name="USART Support">
+<area shape="rect" id="node1" title="Universal Synchronous/Asynchronous Receiver/Transmitter (USART) Support." alt="" coords="157,5,277,31"/>
+<area shape="rect" id="node2" href="$group__RTEMSBSPsARMRaspberryPi.html" title="Raspberry Pi Board Support Package." alt="" coords="5,5,109,31"/>
+</map>

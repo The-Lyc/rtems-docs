@@ -1,0 +1,6 @@
+<map id="_Thread_Timer_initialize" name="_Thread_Timer_initialize">
+<area shape="rect" id="node1" title="Initializes the thread timer." alt="" coords="5,31,188,57"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreWatchdog.html#gad98da837d665c764654ed6bcc25131dc" title="Pre&#45;initializes a watchdog." alt="" coords="236,31,413,57"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreWatchdog.html#ga3de62172597bf475ce849c935c51ed05" title="Sets the cpu for the watchdog." alt="" coords="465,5,619,32"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreWatchdog.html#ga08d63637741832757cddfc443e9cf473" title="Sets the state of the watchdog." alt="" coords="461,56,623,83"/>
+</map>

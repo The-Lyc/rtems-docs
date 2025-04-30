@@ -1,0 +1,7 @@
+<map id="console_open" name="console_open">
+<area shape="rect" id="node1" title="Console open entry point." alt="" coords="5,56,116,83"/>
+<area shape="rect" id="node2" href="$group__RTEMSBSPsSPARCERC32.html#ga33017a80c39bdce884e201734ceb023d" title=" " alt="" coords="164,5,371,32"/>
+<area shape="rect" id="node3" href="$shared_2dev_2serial_2console-polled_8c.html#a5421dc15d47189d0fe842e197d4a4605" title=" " alt="" coords="183,56,351,83"/>
+<area shape="rect" id="node5" href="$group__Termios.html#ga2f6eb2e1e2aee82f5030c1002d597785" title=" " alt="" coords="189,107,345,133"/>
+<area shape="rect" id="node4" href="$epiphany_2epiphany__sim_2console_2console-io_8c.html#ac9a2a930ad64626626190f49c68bc312" title=" " alt="" coords="419,56,595,83"/>
+</map>

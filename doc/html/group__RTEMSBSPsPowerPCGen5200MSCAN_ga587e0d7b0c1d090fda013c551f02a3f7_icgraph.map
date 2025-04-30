@@ -1,0 +1,10 @@
+<map id="mscan_initialization_mode_enter" name="mscan_initialization_mode_enter">
+<area shape="rect" id="node1" title="Enter initialization mode for the MSCAN module m." alt="" coords="483,125,636,166"/>
+<area shape="rect" id="node2" href="$group__RTEMSBSPsPowerPCGen5200MSCAN.html#gad8c8f94ea2a29e3052664a870319cbec" title="Disables the MSCAN module m." alt="" coords="278,5,397,32"/>
+<area shape="rect" id="node4" href="$group__RTEMSBSPsPowerPCGen5200MSCAN.html#gaea10ec6ee1163bdb33ff13b21332dfd7" title="Sets the filter ID and mask registers of the MSCAN module m to default values." alt="" coords="267,107,408,133"/>
+<area shape="rect" id="node5" href="$group__RTEMSBSPsPowerPCGen5200MSCAN.html#gab1e2410b46710969d0b6c886e1eb4eb4" title="Sets the number of active filters of the MSCAN module m to number and returns true if number is valid..." alt="" coords="5,183,192,209"/>
+<area shape="rect" id="node6" href="$group__RTEMSBSPsPowerPCGen5200MSCAN.html#gafae77c5bbc712dd3fe5e7432462e3d08" title="Sets or gets the filter ID and mask in id and mask depending on set of MSCAN module m...." alt="" coords="252,157,423,184"/>
+<area shape="rect" id="node7" href="$group__RTEMSBSPsPowerPCGen5200MSCAN.html#ga0f5f444e543a0629b59ee4e286ee30d8" title="Returns the receiver and transmitter error counter values in rec and tec of MSCAN module m." alt="" coords="240,208,435,235"/>
+<area shape="rect" id="node8" href="$group__RTEMSBSPsPowerPCGen5200MSCAN.html#gab0041bb347543a53b2f8bcde1cc6a586" title="Sets the bit rate for the MSCAN module m to can_bit_rate in [bits/s]." alt="" coords="263,56,412,83"/>
+<area shape="rect" id="node3" href="$group__RTEMSBSPsPowerPCGen5200MSCAN.html#ga8b80a3020d69fd2993928c0aae87b068" title="Enables and initializes the MSCAN module m." alt="" coords="41,56,157,83"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Ethernet Support" name="Ethernet Support">
+<area shape="rect" id="node1" title="Ethernet support." alt="" coords="164,5,295,31"/>
+<area shape="rect" id="node2" href="$group__RTEMSBSPsARMLPC32XX.html" title="NXP LPC32XX Board Support Package." alt="" coords="5,5,116,31"/>
+</map>

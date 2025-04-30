@@ -1,0 +1,6 @@
+<map id="_Priority_Get_minimum_node" name="_Priority_Get_minimum_node">
+<area shape="rect" id="node1" title="Gets the minimum node of the priority aggregation." alt="" coords="213,56,428,83"/>
+<area shape="rect" id="node2" href="$group__RTEMSScorePriority.html#gaf09a0d40270cffbc84c45ca0655d2d78" title="Updates the priority of the node in the aggregation." alt="" coords="15,5,155,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScorePriority.html#ga4a779aca3d3f5d714c7468398c30399d" title="Extracts the node from the aggregation." alt="" coords="21,56,150,83"/>
+<area shape="rect" id="node4" href="$group__RTEMSScorePriority.html#ga8628c09ae0aafba6264881d74cf3bcc6" title="Extracts the node from the aggregation." alt="" coords="5,107,165,149"/>
+</map>

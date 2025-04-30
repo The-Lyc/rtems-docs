@@ -1,0 +1,5 @@
+<map id="UART_ReceiveBuffer" name="UART_ReceiveBuffer">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,160,32"/>
+<area shape="rect" id="node2" href="$arm_2atsam_2contrib_2libraries_2libchip_2source_2uart_8c.html#a8003de31149ba9e3e57eada21fec5fbc" title="Reads and returns a character from the UART." alt="" coords="208,5,325,32"/>
+<area shape="rect" id="node3" href="$arm_2atsam_2contrib_2libraries_2libchip_2source_2uart_8c.html#a00e60c418f3031062060215af67aa3e1" title="Return 1 if a character can be read in UART." alt="" coords="373,5,507,32"/>
+</map>

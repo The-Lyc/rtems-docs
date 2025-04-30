@@ -1,0 +1,10 @@
+<map id="console_control" name="console_control">
+<area shape="rect" id="node1" title="Console IO control entry point." alt="" coords="5,81,129,108"/>
+<area shape="rect" id="node2" href="$powerpc_2include_2bsp_2uart_8h.html#afb6277196b1bc1ec095ba621d8a694ec" title=" " alt="" coords="189,5,364,32"/>
+<area shape="rect" id="node5" href="$powerpc_2include_2bsp_2uart_8h.html#a9d924be1cf40a6d6aeda7a2ea7b1b0f2" title=" " alt="" coords="190,56,363,83"/>
+<area shape="rect" id="node6" href="$group__ClassicFatal.html#gacadb95082c08823f56d908c248657b45" title="Invokes the internal error handler with a source of INTERNAL_ERROR_RTEMS_API and is internal set to f..." alt="" coords="177,107,376,133"/>
+<area shape="rect" id="node8" href="$group__Termios.html#ga73583d3b1a0974cdebef828e25e8ba3a" title=" " alt="" coords="201,157,353,184"/>
+<area shape="rect" id="node3" href="$intrbody_8c.html#a382fc4b29e2c3c681a14c6f306b2a2ad" title=" " alt="" coords="424,56,601,83"/>
+<area shape="rect" id="node4" href="$intrbody_8c.html#a33b26f833e238ecdeddb2f4b8fda18d6" title=" " alt="" coords="425,5,600,32"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreIntErr.html#ga5102f2f0c5939020aa3b11d67afa84eb" title="Initiates system termination." alt="" coords="465,107,560,133"/>
+</map>

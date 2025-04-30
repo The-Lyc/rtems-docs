@@ -1,0 +1,5 @@
+<map id="MCF548X" name="MCF548X">
+<area shape="rect" id="node1" href="$group__RTEMSBSPsM68k.html" title="Motorola 68000 and NXP ColdFire Board Support Packages." alt="" coords="5,5,167,45"/>
+<area shape="rect" id="node3" title="MCF548X Board Support Package." alt="" coords="215,13,299,38"/>
+<area shape="rect" id="node2" href="$group__genmcf548x__interrupt.html" title="Interrupt support." alt="" coords="347,13,479,38"/>
+</map>

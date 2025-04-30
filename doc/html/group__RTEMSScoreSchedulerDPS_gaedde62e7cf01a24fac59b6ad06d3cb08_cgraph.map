@@ -1,0 +1,20 @@
+<map id="_Scheduler_priority_Extract_body" name="_Scheduler_priority_Extract_body">
+<area shape="rect" id="node1" title="Extracts a node from the context of the scheduler." alt="" coords="5,84,152,125"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreSchedulerDPS.html#ga8a69246c562c36bec9bf7047be7d50ae" title="Gets the context of the scheduler." alt="" coords="212,16,359,57"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreSchedulerDPS.html#ga46493ec8bb581ce801bf2b20e5067cfd" title="Gets the priority node of the scheduler node." alt="" coords="212,84,359,125"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreSchedulerDPS.html#ga50249c9f6e86f80647058f85f4df62cb" title="Extracts a node from the specified ready queue." alt="" coords="200,155,371,196"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreScheduler.html#ga9c62ef5a388b998fa041a269297be1fe" title="Gets the context of the scheduler." alt="" coords="431,21,610,47"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreChain.html#ga51ca91740b37b6101d1aa80167ddcfe0" title="Extracts this node (unprotected)." alt="" coords="419,71,623,98"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreChain.html#ga27385f45cfb88979c37a06ba29d5275f" title="Checks if this chain has only one node." alt="" coords="419,173,622,199"/>
+<area shape="rect" id="node14" href="$group__RTEMSScoreChain.html#ga322cf50ff1974dab1ce8d60ec94ef5f8" title="Initializes this chain as empty." alt="" coords="431,223,610,250"/>
+<area shape="rect" id="node17" href="$group__RTEMSScoreChain.html#gab0fa19f01d37f1d510405e6382fd8b67" title="Initializes a chain node." alt="" coords="437,122,605,149"/>
+<area shape="rect" id="node18" href="$group__RTEMSScorePriority.html#gab4a3b896e05ca0e5b2b1227e851447f8" title="Removes Priority queue bit map information." alt="" coords="422,274,619,301"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreChain.html#gad7a790f247b3ace45f039c60c18f999f" title="Checks if the node is off chain." alt="" coords="685,5,832,47"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreChain.html#gadf0e5d55d133694eed8043ec13fe1266" title="Sets off chain." alt="" coords="679,71,839,98"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreChain.html#ga8b2c850d4d09d8db80d11e3199bce386" title="Returns pointer to immutable chain&#39;s first node." alt="" coords="671,122,847,149"/>
+<area shape="rect" id="node12" href="$group__RTEMSScoreChain.html#ga15a8beccb6581211397b46fe4c79cf66" title="Returns pointer to immutable chain&#39;s last node." alt="" coords="671,173,846,199"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreChain.html#gac08944db6f0428125d3b0d5a1c65b740" title="Returns pointer to immutable chain head." alt="" coords="895,122,1077,149"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreChain.html#gaa2f09e6d639b1bc5a27451eb119b6e33" title="Returns pointer to immutable chain tail." alt="" coords="900,173,1072,199"/>
+<area shape="rect" id="node15" href="$group__RTEMSScoreChain.html#ga8b66d3138b9cdacbcb0600c42237ff7d" title="Returns pointer to chain head." alt="" coords="705,223,812,250"/>
+<area shape="rect" id="node16" href="$group__RTEMSScoreChain.html#ga06f3e2dd6d64411f0565e3b483e53673" title="Returns pointer to chain tail." alt="" coords="711,274,806,301"/>
+</map>

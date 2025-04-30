@@ -1,0 +1,5 @@
+<map id="rtems_scheduler_get_maximum_priority" name="rtems_scheduler_get_maximum_priority">
+<area shape="rect" id="node1" title="Gets the maximum task priority of the specified scheduler instance." alt="" coords="5,5,164,47"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreScheduler.html#ga6a59bd6a442d2c5acf247c66e1b21757" title="Gets the scheduler index from the given object build id." alt="" coords="212,5,379,47"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreScheduler.html#ga5012b61871058535e8b6bfd316787fd7" title="Builds an object build id." alt="" coords="427,13,579,39"/>
+</map>

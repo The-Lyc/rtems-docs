@@ -1,0 +1,10 @@
+<map id="mscan_enable" name="mscan_enable">
+<area shape="rect" id="node1" title="Enables and initializes the MSCAN module m." alt="" coords="5,95,121,122"/>
+<area shape="rect" id="node2" href="$group__RTEMSBSPsPowerPCGen5200MSCAN.html#gad8c8f94ea2a29e3052664a870319cbec" title="Disables the MSCAN module m." alt="" coords="185,121,303,147"/>
+<area shape="rect" id="node4" href="$group__RTEMSBSPsPowerPCGen5200MSCAN.html#gad41e407b85565ec829d2d47f3ae874a2" title="Disables all interrupts for the MSCAN module m." alt="" coords="367,150,556,177"/>
+<area shape="rect" id="node5" href="$group__RTEMSBSPsPowerPCGen5200MSCAN.html#gaea10ec6ee1163bdb33ff13b21332dfd7" title="Sets the filter ID and mask registers of the MSCAN module m to default values." alt="" coords="173,19,315,46"/>
+<area shape="rect" id="node8" href="$group__RTEMSBSPsPowerPCGen5200MSCAN.html#gab0041bb347543a53b2f8bcde1cc6a586" title="Sets the bit rate for the MSCAN module m to can_bit_rate in [bits/s]." alt="" coords="169,70,319,97"/>
+<area shape="rect" id="node3" href="$group__RTEMSBSPsPowerPCGen5200MSCAN.html#ga587e0d7b0c1d090fda013c551f02a3f7" title="Enter initialization mode for the MSCAN module m." alt="" coords="385,71,538,112"/>
+<area shape="rect" id="node6" href="$group__RTEMSBSPsPowerPCGen5200MSCAN.html#ga29478727b755ce8d81ded34969194a1b" title="Leave initialization mode for the MSCAN module m." alt="" coords="385,5,538,47"/>
+<area shape="rect" id="node7" href="$group__RTEMSBSPsPowerPCGen5200MSCAN.html#ga189ba2bd33b05769166ff5c105af3395" title="Leave sleep mode for the MSCAN module m." alt="" coords="604,13,799,39"/>
+</map>

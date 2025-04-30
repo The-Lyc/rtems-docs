@@ -1,0 +1,5 @@
+<map id="_CPU_SMP_Initialize" name="_CPU_SMP_Initialize">
+<area shape="rect" id="node1" title=" " alt="" coords="5,46,160,73"/>
+<area shape="rect" id="node2" href="$i386_2pc386_2start_2bspsmp_8c.html#a32ada09a3a8e6df822d9de1043d67796" title=" " alt="" coords="210,5,385,47"/>
+<area shape="rect" id="node3" href="$group__rtems__interrupt__extension.html#ga086cc450fcdc9e37bfd0744a763dbfd4" title="Installs the interrupt handler routine handler for the interrupt vector with number vector." alt="" coords="208,71,387,112"/>
+</map>

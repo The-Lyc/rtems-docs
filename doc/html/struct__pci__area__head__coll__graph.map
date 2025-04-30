@@ -1,0 +1,7 @@
+<map id="_pci_area_head" name="_pci_area_head">
+<area shape="rect" id="node1" title=" " alt="" coords="5,248,128,275"/>
+<area shape="rect" id="node2" href="$struct__pci__area.html" title=" " alt="" coords="25,157,109,184"/>
+<area shape="rect" id="node3" href="$structpci__bus.html" title=" " alt="" coords="117,14,187,41"/>
+<area shape="rect" id="node4" href="$structpci__dev.html" title=" " alt="" coords="191,157,263,184"/>
+<area shape="rect" id="node5" href="$structpci__res.html" title=" " alt="" coords="289,14,357,41"/>
+</map>

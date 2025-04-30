@@ -1,0 +1,4 @@
+<map id="_Processor_mask_Is_zero" name="_Processor_mask_Is_zero">
+<area shape="rect" id="node1" title="Checks if the mask is zero, also considers CPU_MAXIMUM_PROCESSORS." alt="" coords="215,13,403,39"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreSchedulerSMPEDF.html#ga12244678bacb0c36ab3cb6035336503d" title="Checks if the processor set of the scheduler is the subset of the affinity set." alt="" coords="5,5,167,47"/>
+</map>

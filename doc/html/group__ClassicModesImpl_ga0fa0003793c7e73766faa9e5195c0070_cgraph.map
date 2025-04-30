@@ -1,0 +1,4 @@
+<map id="_Modes_Set_interrupt_level" name="_Modes_Set_interrupt_level">
+<area shape="rect" id="node1" title="Sets the current interrupt level to that specified in the mode_set." alt="" coords="5,5,168,47"/>
+<area shape="rect" id="node2" href="$group__ClassicModesImpl.html#ga3badf3f95421e122383aa0a5ffed70b7" title="Gets the interrupt level portion of the mode_set." alt="" coords="216,5,381,47"/>
+</map>

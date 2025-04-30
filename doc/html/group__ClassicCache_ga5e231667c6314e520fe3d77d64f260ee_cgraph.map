@@ -1,0 +1,5 @@
+<map id="rtems_cache_instruction_sync_after_code_change" name="rtems_cache_instruction_sync_after_code_change">
+<area shape="rect" id="node1" title="Ensure necessary synchronization required after code changes." alt="" coords="5,39,193,80"/>
+<area shape="rect" id="node2" href="$group__ClassicCache.html#gab71809c2afd76e0d546b391d0105ca60" title="Flushes multiple data cache lines." alt="" coords="241,5,445,47"/>
+<area shape="rect" id="node3" href="$group__ClassicCache.html#ga49d41da7c95eef43326fe4089c0bab84" title="Invalidates multiple instruction cache lines." alt="" coords="245,71,442,112"/>
+</map>

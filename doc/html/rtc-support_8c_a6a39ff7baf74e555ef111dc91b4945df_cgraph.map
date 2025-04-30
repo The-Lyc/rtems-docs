@@ -1,0 +1,9 @@
+<map id="checkRealTime" name="checkRealTime">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,128,83"/>
+<area shape="rect" id="node2" href="$group__ClassicClock.html#gab5bfb9a415bb9cbb6c9132d8b3de8f61" title="TOD to Seconds." alt="" coords="185,5,324,32"/>
+<area shape="rect" id="node3" href="$bfin_2shared_2dev_2rtc_8c.html#a8e603ae364261d256ba4c64336db888d" title=" " alt="" coords="202,56,307,83"/>
+<area shape="rect" id="node4" href="$group__ClassicClock.html#gab393605047b6f9a1f400eac9205b5e2e" title="Obtain Current Time of Day (Classic TOD)" alt="" coords="176,107,333,133"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreTOD.html#ga607a5281a16201ae5175c1146d7aab91" title="This routine returns a timeval based upon the internal timespec format TOD." alt="" coords="381,81,525,108"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreTOD.html#gad7357f287de1aec092ef824c185229b9" title="Check if the TOD is Set." alt="" coords="402,132,505,159"/>
+<area shape="rect" id="node6" href="$__timecounter_8h.html#af5508db763ba4735e54bfdb761d41aa2" title=" " alt="" coords="573,81,757,108"/>
+</map>

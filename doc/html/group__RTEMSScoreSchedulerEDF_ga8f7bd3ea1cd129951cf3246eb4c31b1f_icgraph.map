@@ -1,0 +1,12 @@
+<map id="_Scheduler_EDF_Get_context" name="_Scheduler_EDF_Get_context">
+<area shape="rect" id="node1" title="Gets the context of the scheduler." alt="" coords="524,133,680,174"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreSchedulerEDF.html#ga0daebfc9b131bd097db9899942bb0926" title="Extracts the node from the context of the given scheduler." alt="" coords="251,9,470,36"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreSchedulerEDF.html#ga8648861ae22830f1cfcddf7132b6163a" title="Initializes EDF scheduler." alt="" coords="266,216,455,243"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreSchedulerEDF.html#gacacc0195101c7c177c6bce307de1699a" title="Schedules the next ready thread as the heir." alt="" coords="245,64,476,91"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreSchedulerEDF.html#gaf8da2ab5519218b6509eeecb90f4f1d7" title="Updates the priority of the scheduler node." alt="" coords="11,107,191,149"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreSchedulerEDF.html#ga1e56a56a016ef9317cae0090f846ceb6" title="Executes a thread yield for the thread." alt="" coords="19,173,184,200"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreSchedulerEDF.html#ga1c6a885d1cbf890d31be7c539db7c12e" title="Performs an unblocking of the thread." alt="" coords="267,267,454,293"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreSchedulerEDF.html#gac26bbc49f94fa506fd0bdea7c1f09066" title="Removes the blocking thread from the ready queue and schedules is only again if the thread is executi..." alt="" coords="17,5,186,32"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreSchedulerEDF.html#gaffeb1173b847e46074a4f8b2e39e6b81" title="Sets the heir thread to be the next ready thread in the rbtree ready queue." alt="" coords="5,56,197,83"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreSchedulerCBS.html#gae0d9c2720ee46efdfe87ebf87cd45cae" title="Unblocks a thread." alt="" coords="8,267,195,293"/>
+</map>

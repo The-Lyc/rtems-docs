@@ -1,0 +1,12 @@
+<map id="bsps/arm/csb336/clock" name="bsps/arm/csb336/clock">
+<area shape="rect" id="node1" href="dir_53ee7868b2b5770d6edbe1039b3d2b38.html" title="clock" alt="" coords="101,52,173,100"/>
+<area shape="rect" id="node2" href="dir_a8197437635095da463d4588b678bca9.html" title="include" alt="" coords="5,148,77,196"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000594_000095.html" title="1" alt="" coords="79,134,88,149"/>
+<area shape="rect" id="node3" href="dir_e653c55a041a793eeaa2fef7ea5f8258.html" title="shared" alt="" coords="101,148,173,196"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000594_000068.html" title="1" alt="" coords="141,122,150,137"/>
+<area shape="rect" id="node4" href="dir_cd198e36225ba3f41de97552050ac017.html" title="cpukit" alt="" coords="101,244,173,292"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000594_000080.html" title="2" alt="" coords="171,227,180,242"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000095_000080.html" title="5" alt="" coords="102,218,111,232"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000068_000080.html" title="387" alt="" coords="133,218,158,233"/>
+<area shape="rect" id="clust1" href="dir_4c071891207037f6583c6da84d8b6da3.html" title="csb336" alt="" coords="91,16,184,111"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="_Heap_Is_used" name="_Heap_Is_used">
+<area shape="rect" id="node1" title="Returns if the heap block is used." alt="" coords="168,5,287,32"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreHeap.html#gae9a216779de2fa37926f7cba5d8342dd" title="Returns if the heap block is free." alt="" coords="5,5,120,32"/>
+</map>

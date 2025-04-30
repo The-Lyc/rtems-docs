@@ -1,0 +1,10 @@
+<map id="bsps/arm/lpc32xx/include/bsp/lpc32xx.h" name="bsps/arm/lpc32xx/include/bsp/lpc32xx.h">
+<area shape="rect" id="node1" title="Register base addresses." alt="" coords="52,5,240,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="44,244,115,271"/>
+<area shape="rect" id="node3" href="$include_2bsp_2utility_8h.html" title="Utility macros." alt="" coords="163,169,260,196"/>
+<area shape="rect" id="node4" href="$lpc-timer_8h.html" title="Timer API." alt="" coords="20,169,139,196"/>
+<area shape="rect" id="node5" href="$lpc-dma_8h.html" title="DMA support API." alt="" coords="406,95,521,121"/>
+<area shape="rect" id="node7" href="$lpc-i2s_8h.html" title="I2S API." alt="" coords="140,95,244,121"/>
+<area shape="rect" id="node8" href="$lpc-emc_8h.html" title="EMC support API." alt="" coords="268,95,382,121"/>
+<area shape="rect" id="node6" title=" " alt="" coords="421,169,506,196"/>
+</map>

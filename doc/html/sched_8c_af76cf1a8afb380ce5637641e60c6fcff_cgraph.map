@@ -1,0 +1,6 @@
+<map id="_Sched_Processor_count" name="_Sched_Processor_count">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,187,57"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreScheduler.html#gabc8aeee22cfaf3f6bf7d69b67d26635a" title="Gets the number of processors of the scheduler." alt="" coords="235,23,428,65"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreProcessorMask.html#gae3fdc6e3c725a7ef67faf3bc5bd9697e" title="Gets the number of set bits in the processor mask." alt="" coords="476,5,656,32"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreScheduler.html#ga9c62ef5a388b998fa041a269297be1fe" title="Gets the context of the scheduler." alt="" coords="477,56,655,83"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="cpukit/include/rtems/mouse_parser.h" name="cpukit/include/rtems/mouse_parser.h">
+<area shape="rect" id="node1" title="Initialize Mouse Parser Engine." alt="" coords="321,5,476,47"/>
+<area shape="rect" id="node2" href="$console__control_8c.html" title=" " alt="" coords="5,95,187,136"/>
+<area shape="rect" id="node3" href="$ps2__mouse_8c.html" title=" " alt="" coords="211,95,392,136"/>
+<area shape="rect" id="node4" href="$mouse__parser_8c.html" title="Opens a Serial Port Directly, and Interprets Serial Data." alt="" coords="417,95,578,136"/>
+<area shape="rect" id="node5" href="$serial__mouse_8c.html" title="Serial Mouse Driver." alt="" coords="602,95,763,136"/>
+</map>

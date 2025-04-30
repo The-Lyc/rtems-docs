@@ -1,0 +1,5 @@
+<map id="_Timer_Acquire_critical" name="_Timer_Acquire_critical">
+<area shape="rect" id="node1" title=" " alt="" coords="5,35,180,61"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreWatchdog.html#gaf1cb44dc5d0789c722e5272370fc20b4" title="Gets the watchdog&#39;s cpu." alt="" coords="255,5,412,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreWatchdog.html#ga2d69aa4531d31a6d4c7784de2e4e91ae" title="Acquires the per cpu watchdog lock in a critical section." alt="" coords="228,57,439,98"/>
+</map>

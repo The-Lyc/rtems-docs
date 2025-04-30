@@ -1,0 +1,10 @@
+<map id="_Scheduler_EDF_Cancel_job" name="_Scheduler_EDF_Cancel_job">
+<area shape="rect" id="node1" title="Cancels a job and removes the thread from the queue context." alt="" coords="5,123,209,149"/>
+<area shape="rect" id="node2" href="$group__RTEMSScorePriority.html#ga3b20401cbb459264526c37edc5b1c89f" title="Checks if the priority node is active." alt="" coords="259,5,441,32"/>
+<area shape="rect" id="node4" href="$group__RTEMSScorePriority.html#gaae4c7c5c4cc58ddbfd2376615e43d710" title="Sets the priority node inactive." alt="" coords="278,57,422,98"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreThread.html#ga8c1e1030ce5bea3614f62e8be650bbeb" title="Removes the specified thread priority node from the corresponding thread priority aggregation." alt="" coords="257,123,443,149"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreThread.html#ga31d2b044df5bb8998e4c935fededc17c" title="Acquires the thread wait lock inside a critical section (interrupts disabled)." alt="" coords="267,174,433,215"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreThread.html#gae077609cfcf4bf7a741a5fd36020dcb4" title="Releases the thread wait lock inside a critical section (interrupts disabled)." alt="" coords="267,239,433,281"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreRBTree.html#ga4076722f9dbc78d8e6682b88a3ed0c8e" title="Checks if this red&#45;black tree node is off&#45;tree." alt="" coords="491,5,679,32"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreRBTree.html#ga82d9b6f1aad201e7c8b614a0e970b356" title="Sets a red&#45;black tree node as off&#45;tree." alt="" coords="505,64,664,91"/>
+</map>

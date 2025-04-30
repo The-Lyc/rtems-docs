@@ -1,0 +1,12 @@
+<map id="cpukit/include/rtems/bdpart.h" name="cpukit/include/rtems/bdpart.h">
+<area shape="rect" id="node1" title="Block Device Partition Management." alt="" coords="654,5,809,47"/>
+<area shape="rect" id="node2" href="$bdpart-create_8c.html" title="Manage Partitions of a Disk Device." alt="" coords="5,95,145,136"/>
+<area shape="rect" id="node3" href="$bdpart-dump_8c.html" title="Prints the Partition Table Partitions with Count Partitions." alt="" coords="169,95,309,136"/>
+<area shape="rect" id="node4" href="$bdpart-mount_8c.html" title="Block Device Partition Management." alt="" coords="333,95,473,136"/>
+<area shape="rect" id="node5" href="$bdpart-read_8c.html" title="Block Device Partition Management." alt="" coords="497,95,637,136"/>
+<area shape="rect" id="node6" href="$bdpart-register_8c.html" title="Block Device Partition Management." alt="" coords="661,95,801,136"/>
+<area shape="rect" id="node7" href="$bdpart-sort_8c.html" title="Block Device Partition Management." alt="" coords="825,95,965,136"/>
+<area shape="rect" id="node8" href="$bdpart-write_8c.html" title="Block Device Partition Management." alt="" coords="989,95,1129,136"/>
+<area shape="rect" id="node9" href="$media_8c.html" title="Media implementation." alt="" coords="1153,95,1293,136"/>
+<area shape="rect" id="node10" href="$fdisk_8c.html" title=" " alt="" coords="1317,95,1465,136"/>
+</map>

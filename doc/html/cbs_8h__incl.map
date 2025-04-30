@@ -1,0 +1,52 @@
+<map id="cpukit/include/rtems/cbs.h" name="cpukit/include/rtems/cbs.h">
+<area shape="rect" id="node1" title="Constants and Structures Associated with the CBS library in RTEMS." alt="" coords="1043,5,1197,47"/>
+<area shape="rect" id="node2" href="$schedulercbs_8h.html" title="Thread manipulation for the CBS scheduler." alt="" coords="1020,95,1220,121"/>
+<area shape="rect" id="node3" href="$score_2chain_8h.html" title="Chain Handler API." alt="" coords="886,617,1037,644"/>
+<area shape="rect" id="node4" href="$rtems_2score_2priority_8h.html" title="Priority Handler API." alt="" coords="840,543,1000,569"/>
+<area shape="rect" id="node6" href="$rtems_2score_2rbtree_8h.html" title="Constants and Structures Associated with the Red&#45;Black Tree Handler." alt="" coords="1061,617,1216,644"/>
+<area shape="rect" id="node14" href="$score_2scheduler_8h.html" title="Constants and Structures Associated with the Scheduler." alt="" coords="1133,319,1310,345"/>
+<area shape="rect" id="node15" href="$score_2thread_8h.html" title="Constants and Structures Related with the Thread Control Block." alt="" coords="1016,393,1173,420"/>
+<area shape="rect" id="node34" href="$scheduleredf_8h.html" title="Data Related to the Manipulation of Threads for the EDF Scheduler." alt="" coords="1189,169,1387,196"/>
+<area shape="rect" id="node38" href="$include_2rtems_2rtems_2signal_8h.html" title="Signals API." alt="" coords="2412,468,2569,495"/>
+<area shape="rect" id="node47" href="$cpukit_2include_2rtems_2rtems_2timer_8h.html" title="Classic Timer Manager API." alt="" coords="2121,393,2273,420"/>
+<area shape="rect" id="node5" title=" " alt="" coords="1737,692,1876,719"/>
+<area shape="rect" id="node7" title=" " alt="" coords="961,692,1047,719"/>
+<area shape="rect" id="node8" href="$basedefs_8h.html" title="Basic Definitions." alt="" coords="1177,767,1351,793"/>
+<area shape="rect" id="node13" href="$assert_8h.html" title="Information for the Assert Handler." alt="" coords="1072,692,1227,719"/>
+<area shape="rect" id="node9" title=" " alt="" coords="450,841,617,868"/>
+<area shape="rect" id="node10" title=" " alt="" coords="1181,841,1256,868"/>
+<area shape="rect" id="node11" title=" " alt="" coords="1280,841,1363,868"/>
+<area shape="rect" id="node12" title=" " alt="" coords="1399,841,1470,868"/>
+<area shape="rect" id="node16" href="$include_2rtems_2score_2atomic_8h.html" title="Atomic Operations API." alt="" coords="116,468,276,495"/>
+<area shape="rect" id="node18" href="$context_8h.html" title="Information About Each Thread&#39;s Context." alt="" coords="1774,468,1938,495"/>
+<area shape="rect" id="node19" href="$freechain_8h.html" title="Freechain Handler API." alt="" coords="1472,468,1648,495"/>
+<area shape="rect" id="node21" href="$isrlock_8h.html" title="ISR Locks." alt="" coords="454,543,613,569"/>
+<area shape="rect" id="node24" href="$objectdata_8h.html" title="Object Handler Data Structures." alt="" coords="1003,468,1187,495"/>
+<area shape="rect" id="node26" href="$schedulernode_8h.html" title="Handles Scheduler Nodes." alt="" coords="311,468,521,495"/>
+<area shape="rect" id="node28" href="$cpukit_2include_2rtems_2score_2stack_8h.html" title="Information About the Thread Stack Handler." alt="" coords="1901,692,2051,719"/>
+<area shape="rect" id="node29" href="$states_8h.html" title="Thread Execution State Information." alt="" coords="1176,543,1331,569"/>
+<area shape="rect" id="node30" href="$threadq_8h.html" title="Constants and Structures Needed to Declare a Thread Queue." alt="" coords="813,468,979,495"/>
+<area shape="rect" id="node32" href="$timestamp_8h.html" title="Helpers for Manipulating Timestamps." alt="" coords="1211,468,1397,495"/>
+<area shape="rect" id="node33" href="$cpukit_2include_2rtems_2score_2watchdog_8h.html" title="Constants and Structures Associated with Watchdog Timers." alt="" coords="637,543,816,569"/>
+<area shape="rect" id="node17" title=" " alt="" coords="94,543,277,569"/>
+<area shape="rect" id="node20" href="$chainimpl_8h.html" title="Chain Handler API." alt="" coords="1405,543,1584,569"/>
+<area shape="rect" id="node22" href="$isrlevel_8h.html" title="ISR Level Type." alt="" coords="699,617,861,644"/>
+<area shape="rect" id="node23" href="$smplock_8h.html" title="SMP Lock API." alt="" coords="448,767,619,793"/>
+<area shape="rect" id="node25" href="$score_2object_8h.html" title="Constants and Structures Associated with the Object Handler." alt="" coords="1397,617,1552,644"/>
+<area shape="rect" id="node27" href="$smplockseq_8h.html" title="SMP Lock API." alt="" coords="225,767,418,793"/>
+<area shape="rect" id="node31" href="$watchdogticks_8h.html" title="Constants for the watchdog ticks." alt="" coords="1627,617,1837,644"/>
+<area shape="rect" id="node35" href="$schedulerpriority_8h.html" title="Thread Manipulation with the Priority&#45;Based Scheduler." alt="" coords="1465,244,1687,271"/>
+<area shape="rect" id="node37" title=" " alt="" coords="1259,244,1330,271"/>
+<area shape="rect" id="node36" href="$prioritybitmap_8h.html" title="Manipulation Routines for the Bitmap Priority Queue Implementation." alt="" coords="1723,319,1931,345"/>
+<area shape="rect" id="node39" href="$asr_8h.html" title=" " alt="" coords="2622,543,2759,569"/>
+<area shape="rect" id="node40" href="$modes_8h.html" title=" " alt="" coords="2804,617,2967,644"/>
+<area shape="rect" id="node41" href="$rtems_2status_8h.html" title=" " alt="" coords="2230,543,2389,569"/>
+<area shape="rect" id="node42" href="$cpukit_2include_2rtems_2rtems_2types_8h.html" title=" " alt="" coords="2413,543,2568,569"/>
+<area shape="rect" id="node43" title=" " alt="" coords="2283,617,2386,644"/>
+<area shape="rect" id="node44" title=" " alt="" coords="2410,617,2537,644"/>
+<area shape="rect" id="node45" title=" " alt="" coords="2561,617,2679,644"/>
+<area shape="rect" id="node46" href="$heapinfo_8h.html" title="Heap Handler Information API." alt="" coords="2754,767,2926,793"/>
+<area shape="rect" id="node48" href="$attr_8h.html" title=" " alt="" coords="2014,543,2154,569"/>
+<area shape="rect" id="node49" href="$tasks_8h.html" title="Classic Task Manager API." alt="" coords="2121,468,2274,495"/>
+<area shape="rect" id="node50" href="$smp_8h.html" title="SuperCore SMP Support API." alt="" coords="2014,617,2157,644"/>
+</map>

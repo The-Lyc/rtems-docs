@@ -1,0 +1,52 @@
+<map id="cpukit/include/rtems/score/statesimpl.h" name="cpukit/include/rtems/score/statesimpl.h">
+<area shape="rect" id="node1" title="Inlined Routines Associated with Thread State Information." alt="" coords="5659,5,5813,47"/>
+<area shape="rect" id="node2" href="$coresemimpl_8h.html" title="Inlined Routines Associated with the SuperCore Semaphore." alt="" coords="155,184,317,225"/>
+<area shape="rect" id="node6" href="$threadimpl_8h.html" title="Inlined Routines from the Thread Handler." alt="" coords="3372,95,3527,136"/>
+<area shape="rect" id="node10" href="$condwaitsupp_8c.html" title="POSIX Condition Variables Wait Support." alt="" coords="4628,281,4857,307"/>
+<area shape="rect" id="node11" href="$pthreadjoin_8c.html" title="Suspends Execution of Calling Thread until Target Thread Terminates." alt="" coords="4881,281,5095,307"/>
+<area shape="rect" id="node13" href="$killinfo_8c.html" title="Send a Signal to a Process." alt="" coords="604,281,788,307"/>
+<area shape="rect" id="node16" href="$eventmp_8c.html" title="Event MP Support." alt="" coords="3053,281,3253,307"/>
+<area shape="rect" id="node17" href="$msgmp_8c.html" title="Multiprocessing Support for the Message Queue Manager." alt="" coords="3329,281,3519,307"/>
+<area shape="rect" id="node18" href="$partmp_8c.html" title="Partition_MP_Send_process_packet." alt="" coords="3595,281,3784,307"/>
+<area shape="rect" id="node19" href="$regiongetsegment_8c.html" title="RTEMS Get Region Segment." alt="" coords="2125,281,2387,307"/>
+<area shape="rect" id="node20" href="$signalmp_8c.html" title="Signal MP Support." alt="" coords="4401,281,4604,307"/>
+<area shape="rect" id="node21" href="$taskmp_8c.html" title="RTEMS Tasks MP Send Process Packet." alt="" coords="994,370,1185,397"/>
+<area shape="rect" id="node23" href="$capture__user__extension_8c.html" title=" " alt="" coords="575,363,767,404"/>
+<area shape="rect" id="node26" href="$coremutexseize_8c.html" title="Seize Mutex with Blocking." alt="" coords="5,370,248,397"/>
+<area shape="rect" id="node41" href="$eventreceive_8c.html" title="Constant used to receive the set of currently pending events in." alt="" coords="4808,191,5035,218"/>
+<area shape="rect" id="node42" href="$systemeventreceive_8c.html" title="rtems_event_system_receive() implementation." alt="" coords="5059,191,5333,218"/>
+<area shape="rect" id="node43" href="$corebarrierwait_8c.html" title="Wait For The Barrier." alt="" coords="5358,191,5597,218"/>
+<area shape="rect" id="node44" href="$coremsgseize_8c.html" title="Seize a Message from the Message Queue." alt="" coords="5621,191,5851,218"/>
+<area shape="rect" id="node45" href="$coremsgsubmit_8c.html" title="CORE Message Queue Submit." alt="" coords="5875,191,6115,218"/>
+<area shape="rect" id="node46" href="$corerwlockobtainread_8c.html" title="Obtain RWLock for reading." alt="" coords="6139,191,6418,218"/>
+<area shape="rect" id="node47" href="$corerwlockobtainwrite_8c.html" title="RWLock Obtain for Writing." alt="" coords="6443,191,6725,218"/>
+<area shape="rect" id="node48" href="$semaphore_8c.html" title=" " alt="" coords="6749,191,6961,218"/>
+<area shape="rect" id="node49" href="$assocthreadstatestostring_8c.html" title=" " alt="" coords="7237,95,7467,136"/>
+<area shape="rect" id="node50" href="$threadqextractwithproxy_8c.html" title=" " alt="" coords="7491,102,7789,129"/>
+<area shape="rect" id="node3" href="$semimpl_8h.html" title="Classic Semaphore Manager Implementation." alt="" coords="295,363,449,404"/>
+<area shape="rect" id="node4" href="$coresem_8c.html" title="Core Semaphore Initialize." alt="" coords="39,281,233,307"/>
+<area shape="rect" id="node5" href="$mpci_8c.html" title="Multiprocessing Communications Interface (MPCI) Handler." alt="" coords="359,281,529,307"/>
+<area shape="rect" id="node7" href="$bspfatal-default_8c.html" title=" " alt="" coords="3825,184,4015,225"/>
+<area shape="rect" id="node8" href="$posix_2muteximpl_8h.html" title="Private Inlined Routines for POSIX Mutex&#39;s." alt="" coords="4040,184,4195,225"/>
+<area shape="rect" id="node9" href="$posixapi_8h.html" title="POSIX API Implementation." alt="" coords="3645,184,3800,225"/>
+<area shape="rect" id="node12" href="$pthreadimpl_8h.html" title="POSIX Threads Private Support." alt="" coords="605,184,761,225"/>
+<area shape="rect" id="node14" href="$ratemonimpl_8h.html" title="Classic Rate Monotonic Scheduler Implementation." alt="" coords="1242,273,1406,315"/>
+<area shape="rect" id="node15" href="$statusimpl_8h.html" title="Classic Status Implementation." alt="" coords="3315,184,3469,225"/>
+<area shape="rect" id="node22" href="$tasksimpl_8h.html" title="Classic Tasks Manager Implementation." alt="" coords="1012,273,1167,315"/>
+<area shape="rect" id="node24" href="$cpuusagetop_8c.html" title="CPU Usage Top." alt="" coords="1209,363,1372,404"/>
+<area shape="rect" id="node25" href="$coremuteximpl_8h.html" title="CORE Mutex Implementation." alt="" coords="812,273,988,315"/>
+<area shape="rect" id="node27" href="$schedulerimpl_8h.html" title="Inlined Routines Associated with the Manipulation of the Scheduler." alt="" coords="837,184,1006,225"/>
+<area shape="rect" id="node28" href="$____times_8c.html" title="Get Process Times." alt="" coords="4219,184,4357,225"/>
+<area shape="rect" id="node29" href="$error_8c.html" title="Error and Panic Report Support." alt="" coords="4381,184,4520,225"/>
+<area shape="rect" id="node30" href="$privateenv_8c.html" title="Instantiate a Private User Environment." alt="" coords="4544,184,4683,225"/>
+<area shape="rect" id="node31" href="$resource__snapshot_8c.html" title=" " alt="" coords="1285,184,1467,225"/>
+<area shape="rect" id="node32" href="$rtems-debugger-arm_8c.html" title=" " alt="" coords="1491,184,1663,225"/>
+<area shape="rect" id="node33" href="$rtems-debugger-i386_8c.html" title=" " alt="" coords="1687,184,1862,225"/>
+<area shape="rect" id="node34" href="$rtems-debugger-target_8c.html" title=" " alt="" coords="1886,184,2071,225"/>
+<area shape="rect" id="node35" href="$rtems-debugger-threads_8c.html" title=" " alt="" coords="2096,184,2291,225"/>
+<area shape="rect" id="node36" href="$cpuusagereport_8c.html" title="CPU Usage Report." alt="" coords="2315,184,2477,225"/>
+<area shape="rect" id="node37" href="$mon-task_8c.html" title=" " alt="" coords="2501,184,2669,225"/>
+<area shape="rect" id="node38" href="$check_8c.html" title="Stack Overflow Check User Extension Set." alt="" coords="2694,184,2869,225"/>
+<area shape="rect" id="node39" href="$t-test-rtems-objs_8c.html" title=" " alt="" coords="2893,184,3040,225"/>
+<area shape="rect" id="node40" href="$testbusy_8c.html" title=" " alt="" coords="3064,191,3240,218"/>
+</map>

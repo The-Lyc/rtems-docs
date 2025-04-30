@@ -1,0 +1,8 @@
+<map id="bsps/m68k/include/mcf548x/MCD_dma.h" name="bsps/m68k/include/mcf548x/MCD_dma.h">
+<area shape="rect" id="node1" title=" " alt="" coords="400,5,605,47"/>
+<area shape="rect" id="node2" href="$MCD__dmaApi_8c.html" title=" " alt="" coords="5,95,184,136"/>
+<area shape="rect" id="node3" href="$MCD__tasks_8c.html" title=" " alt="" coords="208,95,387,136"/>
+<area shape="rect" id="node4" href="$MCD__tasksInit_8c.html" title=" " alt="" coords="411,95,595,136"/>
+<area shape="rect" id="node5" href="$mcdma__glue_8c.html" title=" " alt="" coords="619,95,797,136"/>
+<area shape="rect" id="node6" href="$m68k_2genmcf548x_2net_2network_8c.html" title=" " alt="" coords="821,95,1000,136"/>
+</map>

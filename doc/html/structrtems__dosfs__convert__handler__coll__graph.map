@@ -1,0 +1,5 @@
+<map id="rtems_dosfs_convert_handler" name="rtems_dosfs_convert_handler">
+<area shape="rect" id="node1" title="FAT filesystem convert handler." alt="" coords="5,5,164,47"/>
+<area shape="rect" id="node2" href="$structrtems__dosfs__convert__control.html" title="FAT filesystem convert control." alt="" coords="60,197,219,239"/>
+<area shape="rect" id="node3" href="$structrtems__dosfs__buffer.html" title=" " alt="" coords="218,13,365,39"/>
+</map>

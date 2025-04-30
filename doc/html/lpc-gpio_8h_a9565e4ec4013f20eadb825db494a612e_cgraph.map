@@ -1,0 +1,4 @@
+<map id="lpc176x_gpio_config" name="lpc176x_gpio_config">
+<area shape="rect" id="node1" title="Configures the pin as input or output GPIO." alt="" coords="5,5,160,32"/>
+<area shape="rect" id="node2" href="$bsps_2arm_2lpc176x_2include_2bsp_2io_8h.html#a738f1daa64828ca59c28a905331c04ad" title="Sets pin to the selected function." alt="" coords="208,5,355,32"/>
+</map>

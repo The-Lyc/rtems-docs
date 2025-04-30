@@ -1,0 +1,22 @@
+<map id="cpukit/include/rtems/posix/pthreadimpl.h" name="cpukit/include/rtems/posix/pthreadimpl.h">
+<area shape="rect" id="node1" title="POSIX Threads Private Support." alt="" coords="2178,5,2334,47"/>
+<area shape="rect" id="node2" href="$adasupp_8c.html" title=" " alt="" coords="5,102,187,129"/>
+<area shape="rect" id="node3" href="$mon-object_8c.html" title=" " alt="" coords="211,95,379,136"/>
+<area shape="rect" id="node4" href="$kill_8c.html" title="Send a Signal to a Process." alt="" coords="403,102,562,129"/>
+<area shape="rect" id="node5" href="$kill__r_8c.html" title="Send a Signal to a Process." alt="" coords="587,102,757,129"/>
+<area shape="rect" id="node6" href="$killinfo_8c.html" title="Send a Signal to a Process." alt="" coords="781,102,965,129"/>
+<area shape="rect" id="node7" href="$psignal_8c.html" title="POSIX Signals Manager Initialization." alt="" coords="989,102,1176,129"/>
+<area shape="rect" id="node8" href="$psignalclearsignals_8c.html" title="POSIX Signals Clear Signals." alt="" coords="1200,102,1464,129"/>
+<area shape="rect" id="node9" href="$psignalsetprocesssignals_8c.html" title="POSIX Signals Set Process Signals." alt="" coords="1489,102,1791,129"/>
+<area shape="rect" id="node10" href="$psignalunblockthread_8c.html" title="POSIX Signals Thread Unlock." alt="" coords="1815,102,2094,129"/>
+<area shape="rect" id="node11" href="$psxtransschedparam_8c.html" title="Translate sched_param into SuperCore Terms." alt="" coords="2119,102,2393,129"/>
+<area shape="rect" id="node12" href="$pthreadcreate_8c.html" title="Function Starts a New Thread in The Calling Process." alt="" coords="2418,102,2649,129"/>
+<area shape="rect" id="node13" href="$pthreadequal_8c.html" title="Compare Thread IDs." alt="" coords="2673,102,2898,129"/>
+<area shape="rect" id="node14" href="$pthreadgetattrnp_8c.html" title="Pthread Get Attribute." alt="" coords="2922,102,3171,129"/>
+<area shape="rect" id="node15" href="$pthreadgetschedparam_8c.html" title="Gets Scheduling Policy and Parameters of Individual Threads." alt="" coords="3196,102,3487,129"/>
+<area shape="rect" id="node16" href="$pthreadsetschedparam_8c.html" title="Function sets scheduling policy and parameters of the thread." alt="" coords="3511,102,3801,129"/>
+<area shape="rect" id="node17" href="$pthreadsigmask_8c.html" title="Examine and/or change the calling thread&#39;s signal mask." alt="" coords="3825,102,4069,129"/>
+<area shape="rect" id="node18" href="$sigpending_8c.html" title="Examine Pending Signals." alt="" coords="4093,102,4304,129"/>
+<area shape="rect" id="node19" href="$sigqueue_8c.html" title="Queue a Signal to a Process." alt="" coords="4327,102,4526,129"/>
+<area shape="rect" id="node20" href="$sigtimedwait_8c.html" title="Wait for Queued Signals." alt="" coords="4549,102,4773,129"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="_Thread_Restore_fp" name="_Thread_Restore_fp">
+<area shape="rect" id="node1" title="Restores the executing thread&#39;s floating point area." alt="" coords="5,5,156,32"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreThread.html#ga798bc92d66cc45b20ceb5b06049340d6" title="Checks if the floating point context of the thread is currently loaded in the floating point unit." alt="" coords="204,5,383,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="SPI_ConfigureNPCS" name="SPI_ConfigureNPCS">
+<area shape="rect" id="node1" title="Configures a chip select of a SPI peripheral. The chip select configuration is computed using several..." alt="" coords="192,5,339,32"/>
+<area shape="rect" id="node2" href="$spi__dma_8h.html#a36e110a3cda7abf52985f30626c47b5f" title="Configures the parameters for the device corresponding to the cs value." alt="" coords="5,5,144,32"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="_Thread_Update_CPU_time_used" name="_Thread_Update_CPU_time_used">
+<area shape="rect" id="node1" title="Updates the cpu time used of the thread." alt="" coords="788,427,951,469"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreScheduler.html#ga29bb7f28ab22ddb95869cc527f2f75bf" title="Updates the heir." alt="" coords="561,435,740,461"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreSchedulerEDF.html#gacacc0195101c7c177c6bce307de1699a" title="Schedules the next ready thread as the heir." alt="" coords="273,115,504,141"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreSchedulerEDF.html#ga1c6a885d1cbf890d31be7c539db7c12e" title="Performs an unblocking of the thread." alt="" coords="295,289,482,316"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreSchedulerDPS.html#ga8b52515687c00a3b3e8a90b0dcd6b749" title="Scheduling decision logic." alt="" coords="315,394,462,435"/>
+<area shape="rect" id="node15" href="$group__RTEMSScoreSchedulerDPS.html#ga2a24da77012650161d32bed57eb5c128" title="Unblocks the thread." alt="" coords="315,459,462,501"/>
+<area shape="rect" id="node16" href="$group__RTEMSScoreSchedulerSimple.html#gad87c281f617f598c1e175f162224d6fb" title="Scheduling decision logic." alt="" coords="264,551,513,577"/>
+<area shape="rect" id="node21" href="$group__RTEMSScoreSchedulerSimple.html#ga5e15d6514580c3184e93d3dc935d0a6f" title="Unblocks the thread." alt="" coords="287,601,491,628"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreSchedulerEDF.html#gac26bbc49f94fa506fd0bdea7c1f09066" title="Removes the blocking thread from the ready queue and schedules is only again if the thread is executi..." alt="" coords="26,5,195,32"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreSchedulerEDF.html#gaffeb1173b847e46074a4f8b2e39e6b81" title="Sets the heir thread to be the next ready thread in the rbtree ready queue." alt="" coords="15,56,207,83"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreSchedulerEDF.html#gaf8da2ab5519218b6509eeecb90f4f1d7" title="Updates the priority of the scheduler node." alt="" coords="21,107,201,149"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreSchedulerEDF.html#ga1e56a56a016ef9317cae0090f846ceb6" title="Executes a thread yield for the thread." alt="" coords="28,173,193,200"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreSchedulerCBS.html#gae0d9c2720ee46efdfe87ebf87cd45cae" title="Unblocks a thread." alt="" coords="17,224,204,251"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreSchedulerDPS.html#ga0ef8d30efe3b8106036c277fb1e6967e" title="Blocks the thread." alt="" coords="37,275,184,317"/>
+<area shape="rect" id="node12" href="$group__RTEMSScoreSchedulerDPS.html#ga5f88549e443f989b9058f08f46eb4e8f" title="Sets the heir thread to be the next ready thread." alt="" coords="37,341,184,382"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreSchedulerDPS.html#gaa9250624cb136b5fd42bdfe060a2eb5e" title="Updates the priority of the node." alt="" coords="37,406,184,447"/>
+<area shape="rect" id="node14" href="$group__RTEMSScoreSchedulerDPS.html#ga5a3959d17cc9aa59b20ef5622e5de88f" title="Performs the yield of a thread." alt="" coords="37,471,184,513"/>
+<area shape="rect" id="node17" href="$group__RTEMSScoreSchedulerSimple.html#ga34e93fa9cafb272a16320fe540ac86a3" title="Blocks the thread." alt="" coords="17,537,204,564"/>
+<area shape="rect" id="node18" href="$group__RTEMSScoreSchedulerSimple.html#gac80488d4e091046dd3fa048c14b84995" title="Schedules threads." alt="" coords="5,588,216,615"/>
+<area shape="rect" id="node19" href="$group__RTEMSScoreSchedulerSimple.html#gacb4b8fc8ec7b055afb904072c38f9fc5" title="Updates the priority of the node." alt="" coords="11,639,210,681"/>
+<area shape="rect" id="node20" href="$group__RTEMSScoreSchedulerSimple.html#gacbdfbb5b5fa2df49606df7bda8a69431" title="Performs the yield of a thread." alt="" coords="19,705,202,732"/>
+</map>

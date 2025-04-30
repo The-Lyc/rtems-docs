@@ -1,0 +1,7 @@
+<map id="VBE_set_mode" name="VBE_set_mode">
+<area shape="rect" id="node1" title="Sets graphics mode selected. If mode has refreshRateCtrl bit set, than the info_block must be filled ..." alt="" coords="5,71,124,98"/>
+<area shape="rect" id="node2" href="$realmode__int_8h.html#a0971c9c582ca7ed6c973370d8d2ddcf2" title="Returns buffer and its size usable with real mode interrupt call." alt="" coords="181,5,337,47"/>
+<area shape="rect" id="node3" href="$i386_8h.html#a3ff23e272c8ca1bc3683f88550f96e07" title="Retrieves real mode pointer elements {segmnet, offset} from physical address." alt="" coords="178,71,341,98"/>
+<area shape="rect" id="node4" href="$realmode__int_8h.html#a1541b4af8720ed12dd8b966a7db9b100" title="Call to real mode interrupt with specified int NO and processor registers." alt="" coords="172,122,347,149"/>
+<area shape="rect" id="node5" href="$i386-stub-glue_8c.html#a1e0a236f3682681ac79ede3a128bffd5" title=" " alt="" coords="395,122,473,149"/>
+</map>

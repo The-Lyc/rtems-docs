@@ -1,0 +1,4 @@
+<map id="rtems_blkdev_request" name="rtems_blkdev_request">
+<area shape="rect" id="node1" title="The block device transfer request is used to read or write a number of blocks from or to the device." alt="" coords="11,95,178,121"/>
+<area shape="rect" id="node2" href="$structrtems__blkdev__sg__buffer.html" title="Block device scatter or gather buffer structure." alt="" coords="5,5,184,32"/>
+</map>

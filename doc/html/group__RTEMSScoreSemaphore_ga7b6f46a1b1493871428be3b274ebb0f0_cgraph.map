@@ -1,0 +1,12 @@
+<map id="_CORE_semaphore_Seize" name="_CORE_semaphore_Seize">
+<area shape="rect" id="node1" title="Seizes the semaphore." alt="" coords="5,159,192,186"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreSemaphore.html#gaac9e977e243913aae8631eba19979bdf" title="Acquires the semaphore critical." alt="" coords="241,5,443,47"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreSemaphore.html#ga1006d856222570dda9c8155c7b5bcacd" title="Releases the semaphore." alt="" coords="240,71,444,98"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreThreadQueue.html#gab31678d367077d484797bc9c4d97574e" title="Sets the thread state for the thread to enqueue in the thread queue context." alt="" coords="253,123,431,164"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreThreadQueue.html#ga4992b40810f6d287c832bdad240dbc90" title="Blocks the thread and places it on the thread queue." alt="" coords="250,189,434,215"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreThread.html#ga1a8eb44ff0357020e3bc2972747cd8fb" title="Get the status of the wait return code of the thread." alt="" coords="249,239,435,266"/>
+<area shape="rect" id="node10" href="$wait_8c.html#ab5ac4a5f02da38021d1821012e55d58c" title=" " alt="" coords="317,290,367,317"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreThreadQueue.html#ga2bb5c604a28a636950cca7aa43a47869" title="Acquires the thread queue control in a critical section." alt="" coords="493,5,671,47"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreThreadQueue.html#gaf1488e09cc925566233f2f1fc76c4d81" title="Acquires the thread queue control in a critical section." alt="" coords="720,5,921,47"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreThreadQueue.html#ga0a8881ef4106a0707b2751cdd3d18bef" title="Releases the thread queue control and enables interrupts." alt="" coords="492,71,672,98"/>
+</map>

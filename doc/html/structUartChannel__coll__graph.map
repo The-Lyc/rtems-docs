@@ -1,0 +1,4 @@
+<map id="UartChannel" name="UartChannel">
+<area shape="rect" id="node1" title="usart Transfer Request prepared by the application upper layer." alt="" coords="52,95,155,121"/>
+<area shape="rect" id="node2" href="$struct__LinkedListDescriporView1.html" title="Structure for storing parameters for DMA view1 that can be performed by the DMA Master transfer." alt="" coords="5,5,201,32"/>
+</map>

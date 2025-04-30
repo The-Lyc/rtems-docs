@@ -1,0 +1,4 @@
+<map id="i2c_dev_register_sensor_lm75a" name="i2c_dev_register_sensor_lm75a">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,184,47"/>
+<area shape="rect" id="node2" href="$group__I2CDevice.html#gaaa52883fe2313442f1172eb5f4de1215" title="Allocates a device control from the heap and initializes it." alt="" coords="232,13,401,39"/>
+</map>

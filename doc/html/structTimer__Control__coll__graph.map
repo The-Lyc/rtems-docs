@@ -1,0 +1,8 @@
+<map id="Timer_Control" name="Timer_Control">
+<area shape="rect" id="node1" title=" " alt="" coords="223,187,338,213"/>
+<area shape="rect" id="node2" href="$structWatchdog__Control.html" title="The control block used to manage each watchdog timer." alt="" coords="95,97,235,124"/>
+<area shape="rect" id="node3" href="$structRBTree__Node.html" title="Red&#45;black tree node." alt="" coords="5,7,113,33"/>
+<area shape="rect" id="node4" href="$structChain__Node__struct.html" title=" " alt="" coords="138,7,282,33"/>
+<area shape="rect" id="node5" href="$structObjects__Control.html" title=" " alt="" coords="334,97,459,124"/>
+<area shape="rect" id="node6" href="$unionObjects__Name.html" title=" " alt="" coords="391,7,509,33"/>
+</map>

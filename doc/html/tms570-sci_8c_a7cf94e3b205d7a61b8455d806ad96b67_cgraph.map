@@ -1,0 +1,13 @@
+<map id="tms570_sci_set_attributes" name="tms570_sci_set_attributes">
+<area shape="rect" id="node1" title="Set attributes of the HW peripheral." alt="" coords="5,130,199,157"/>
+<area shape="rect" id="node2" href="$clockgettickspersecond_8c.html#a1d0420ca59ffc8108c7db6d7e07dced7" title=" " alt="" coords="250,5,417,47"/>
+<area shape="rect" id="node3" href="$group__ClassicTasks.html#ga69becc1811a7654b0b74836272ac6429" title="RTEMS Task Wake After." alt="" coords="247,71,420,98"/>
+<area shape="rect" id="node7" href="$termiostypes_8h.html#aa02f7f2f749c9ada10f68a33ddfdd07b" title="Converts the baud flags to an integral baud value." alt="" coords="255,123,411,164"/>
+<area shape="rect" id="node10" href="$termiostypes_8h.html#a1ebc146d0aeeb60c14d75e16f902aae0" title="Acquires the device lock." alt="" coords="250,188,417,229"/>
+<area shape="rect" id="node11" href="$termiostypes_8h.html#a0d928bfa5fb62de3c9e66caa5a07dfc9" title="Releases the device lock." alt="" coords="250,253,417,295"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreThread.html#ga044bfb6e9317180d21b05c5338cedd1a" title="Disables thread dispatching." alt="" coords="468,70,660,97"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreThread.html#ga5ffeb81480c63293a317f69efc74dec3" title="Disables thread dispatching inside a critical section (interrupts disabled)." alt="" coords="708,60,900,101"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreThread.html#ga80a71da4ea096f7ea92781a872b955ae" title="Disables thread dispatching inside a critical section (interrupts disabled) with the current processo..." alt="" coords="948,60,1140,101"/>
+<area shape="rect" id="node8" href="$group__RTEMSAPIAssociativity.html#ga3aad4fe900c6a8d2cf4c08e4ec1521d4" title="RTEMS Associate Local by Remote." alt="" coords="481,123,647,164"/>
+<area shape="rect" id="node9" href="$group__RTEMSAPIAssociativity.html#gace083256448a2a428ede7396f2e8fb67" title="RTEMS Associate Pointer by Remote." alt="" coords="728,125,880,167"/>
+</map>

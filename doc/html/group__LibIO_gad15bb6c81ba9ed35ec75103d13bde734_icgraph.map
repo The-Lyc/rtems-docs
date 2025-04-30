@@ -1,0 +1,8 @@
+<map id="rtems_mkdir" name="rtems_mkdir">
+<area shape="rect" id="node1" title="Creates a directory and all its parent directories according to path." alt="" coords="427,56,532,83"/>
+<area shape="rect" id="node2" href="$group__FileSystemTypesAndMount.html#ga27af6440b4ef795576c94e870c5d997f" title="Mounts a file system and makes the target path." alt="" coords="159,5,379,32"/>
+<area shape="rect" id="node3" href="$pipe_8c.html#ab124622145bcd848cf33888a4dab7ab8" title=" " alt="" coords="243,56,294,83"/>
+<area shape="rect" id="node6" href="$group__rtems__fstab.html#gaa1e00bfe1aa6bce349c2c73092a39cc6" title="Mounts the file systems listed in the file system mount table." alt="" coords="208,107,329,133"/>
+<area shape="rect" id="node4" href="$group__FIFO__PIPE.html#ga15eb64a7cda614759d385c8f38296ea6" title="File system open. Interface to file system open." alt="" coords="17,31,99,57"/>
+<area shape="rect" id="node5" href="$group__FIFO__PIPE.html#gaeaf913514f36620744271f4c5581d29b" title="Release a pipe." alt="" coords="5,81,111,108"/>
+</map>

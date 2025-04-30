@@ -1,0 +1,6 @@
+<map id="_Partition_MP_Send_process_packet" name="_Partition_MP_Send_process_packet">
+<area shape="rect" id="node1" title="Partition_MP_Send_process_packet." alt="" coords="224,64,373,105"/>
+<area shape="rect" id="node2" href="$partmp_8c.html#a761d1be6cac7028bebeb74b1305dde72" title=" " alt="" coords="16,5,165,47"/>
+<area shape="rect" id="node3" href="$group__ClassicPart.html#gaae1e45358170b1de610acdae7f4a8148" title="RTEMS Partition Create." alt="" coords="5,71,176,98"/>
+<area shape="rect" id="node4" href="$group__ClassicPart.html#ga9cb3af79cb02585887caa1f4a2a62deb" title="RTEMS Delete Partition." alt="" coords="5,122,176,149"/>
+</map>

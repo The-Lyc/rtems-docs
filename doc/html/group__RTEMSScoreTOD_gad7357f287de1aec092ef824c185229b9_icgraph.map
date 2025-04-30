@@ -1,0 +1,12 @@
+<map id="_TOD_Is_set" name="_TOD_Is_set">
+<area shape="rect" id="node1" title="Check if the TOD is Set." alt="" coords="472,167,575,193"/>
+<area shape="rect" id="node2" href="$group__ClassicTimerImpl.html#gaf7294ac41fb549dbb5b2e1beb8438ea2" title=" " alt="" coords="259,49,399,76"/>
+<area shape="rect" id="node5" href="$group__ClassicClock.html#ga10b180e0af7dd148c725a12bc72cfe2c" title="Obtain Seconds Since Epoch." alt="" coords="235,101,424,142"/>
+<area shape="rect" id="node6" href="$group__ClassicClock.html#gab393605047b6f9a1f400eac9205b5e2e" title="Obtain Current Time of Day (Classic TOD)" alt="" coords="251,167,408,193"/>
+<area shape="rect" id="node9" href="$group__ClassicClock.html#ga4c42801d9c3b97560a4d83b12c34c54a" title="Obtain TOD in struct timeval Format." alt="" coords="251,218,408,259"/>
+<area shape="rect" id="node10" href="$group__ClassicTasks.html#gad5c419525564142bcd1f116b18c4ed7c" title="RTEMS Task Wake When." alt="" coords="240,284,419,311"/>
+<area shape="rect" id="node3" href="$group__ClassicTimer.html#gabd9f3904baedbd02fb540fdc52d2d067" title="RTEMS Timer Fire When." alt="" coords="10,5,182,32"/>
+<area shape="rect" id="node4" href="$group__ClassicTimer.html#ga2bdd05c6144a723410df17dfaa125adc" title="RTEMS Timer Server Fire When Directive." alt="" coords="21,57,171,98"/>
+<area shape="rect" id="node7" href="$tod_8h.html#a6a39ff7baf74e555ef111dc91b4945df" title=" " alt="" coords="35,152,157,179"/>
+<area shape="rect" id="node8" href="$tod_8c.html#a06ba139644c5af60527bd6efb09a3c59" title=" " alt="" coords="5,203,187,229"/>
+</map>

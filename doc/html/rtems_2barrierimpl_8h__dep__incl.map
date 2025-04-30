@@ -1,0 +1,9 @@
+<map id="cpukit/include/rtems/rtems/barrierimpl.h" name="cpukit/include/rtems/rtems/barrierimpl.h">
+<area shape="rect" id="node1" title="Classic Barrier Manager Implementation." alt="" coords="664,5,819,47"/>
+<area shape="rect" id="node2" href="$barriercreate_8c.html" title="RTEMS Create Barrier." alt="" coords="5,95,232,121"/>
+<area shape="rect" id="node3" href="$barrierdelete_8c.html" title="RTEMS Delete Barrier." alt="" coords="256,95,483,121"/>
+<area shape="rect" id="node4" href="$barrierident_8c.html" title="RTEMS Barrier name to Id." alt="" coords="507,95,725,121"/>
+<area shape="rect" id="node5" href="$barrierrelease_8c.html" title="RTEMS Barrier Release." alt="" coords="750,95,983,121"/>
+<area shape="rect" id="node6" href="$barrierwait_8c.html" title="RTEMS Barrier Wait." alt="" coords="1008,95,1221,121"/>
+<area shape="rect" id="node7" href="$getconfigmax_8c.html" title=" " alt="" coords="1246,95,1466,121"/>
+</map>

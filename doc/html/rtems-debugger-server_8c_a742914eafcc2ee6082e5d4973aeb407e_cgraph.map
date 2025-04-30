@@ -1,0 +1,9 @@
+<map id="rtems_debugger_clean_printf" name="rtems_debugger_clean_printf">
+<area shape="rect" id="node1" title=" " alt="" coords="5,57,176,98"/>
+<area shape="rect" id="node2" href="$rtems-debugger-server_8c.html#a6f2bf89b10a1a608f8490c7850e16b03" title=" " alt="" coords="224,5,431,32"/>
+<area shape="rect" id="node3" href="$rtems-debugger-server_8c.html#ab30f489432599e508252188bb4d9d18b" title=" " alt="" coords="241,57,414,98"/>
+<area shape="rect" id="node4" href="$bspIo_8h.html#a48cd00393a9699689b769200037738bb" title="Variable Argument printk()" alt="" coords="293,123,361,149"/>
+<area shape="rect" id="node5" href="$cpukit_2include_2rtems_2score_2io_8h.html#a6bb6bc6df4759579fd2e424421168c24" title=" " alt="" coords="493,97,587,124"/>
+<area shape="rect" id="node6" href="$bspIo_8h.html#aa7aa6e025aa35b36643e9ddbc2eccc10" title="Puts the character via rtems_putc()." alt="" coords="479,148,601,175"/>
+<area shape="rect" id="node7" href="$bspIo_8h.html#a6fd11f34260f10035f38a051af872e1e" title="Kernel Put Character." alt="" coords="649,148,744,175"/>
+</map>

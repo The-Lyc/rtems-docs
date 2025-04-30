@@ -1,0 +1,4 @@
+<map id="i2c_bus_alloc_and_init" name="i2c_bus_alloc_and_init">
+<area shape="rect" id="node1" title="Allocates a bus control from the heap and initializes it." alt="" coords="213,5,381,32"/>
+<area shape="rect" id="node2" href="$group__RTEMSBSPsARMimx.html#gaf79daa85e2800cdf3336db338c205074" title="Registers an IMX I2C bus driver." alt="" coords="5,5,165,32"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="_POSIX_Shm_Object_create_from_workspace" name="_POSIX_Shm_Object_create_from_workspace">
+<area shape="rect" id="node1" title="object_create operation for shm objects stored in RTEMS Workspace." alt="" coords="5,115,207,156"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreWorkspace.html#ga8b19b310c0e6194a2750c505367d8539" title="Allocates a memory block of the specified size from the workspace." alt="" coords="255,97,415,123"/>
+<area shape="rect" id="node10" href="$bootldr_8h.html#a36d20f7d597c517b964289f6b54ddfa7" title=" " alt="" coords="297,147,373,174"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreHeap.html#gad26c02ca60b04b7e5845ec959f6d4330" title="Allocates a memory area." alt="" coords="463,97,585,123"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreHeap.html#ga15167f1ad5eb93d85f15adb5e5524ff5" title="Allocates an aligned memory area with boundary constraint." alt="" coords="633,89,812,131"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreHeap.html#ga2563e03746d89148a8782b02f6159821" title="Returns the first address in the block without the heap header." alt="" coords="860,5,1019,47"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreHeap.html#ga0299809a91130b3da718ee889f4fe43d" title="Returns the first block of the free list of the heap." alt="" coords="861,71,1018,98"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreHeap.html#gad25276de4aa987568f1bfc66a0c66700" title="Returns the tail of the free list of the heap." alt="" coords="863,122,1016,149"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreHeap.html#gad88e4681224e360888f3f4bd020c97a9" title="Returns if the previous heap block is used." alt="" coords="862,173,1017,199"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreHeap.html#ga860e7959de03ba830d0ebe1b4cca8273" title="Returns the head of the free list of the heap." alt="" coords="1067,71,1231,98"/>
+</map>

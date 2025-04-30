@@ -1,0 +1,17 @@
+<map id="rtems_barrier_release" name="rtems_barrier_release">
+<area shape="rect" id="node1" title="RTEMS Barrier Release." alt="" coords="5,165,171,192"/>
+<area shape="rect" id="node2" href="$group__ClassicBarrierImpl.html#gaddb2ead3ee36662670debcccad61093d" title=" " alt="" coords="260,91,363,117"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreBarrier.html#ga8e1bfa64db88514abb54847074010ee8" title="Acquires critical core barrier." alt="" coords="226,158,397,199"/>
+<area shape="rect" id="node12" href="$group__RTEMSScoreBarrier.html#ga48a6be566a20ba33b62e13b42a3fcb2f" title="Manually releases the barrier." alt="" coords="219,227,404,253"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreObject.html#gaccc5682133e4f65b8cb374eab9be2c9d" title="Maps the specified object identifier to the associated local object control block." alt="" coords="487,15,595,41"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreThreadQueue.html#gae18ee06777084a67d286d743355d47ac" title="Initializes a thread queue context." alt="" coords="452,83,631,125"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreObject.html#ga22cdf45f285840b7728b06197a7f4627" title="Returns the index portion of the ID." alt="" coords="704,5,855,32"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreChain.html#gab0fa19f01d37f1d510405e6382fd8b67" title="Initializes a chain node." alt="" coords="695,56,863,83"/>
+<area shape="rect" id="node8" href="$bootldr_8h.html#a36d20f7d597c517b964289f6b54ddfa7" title=" " alt="" coords="741,107,817,133"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreChain.html#gadf0e5d55d133694eed8043ec13fe1266" title="Sets off chain." alt="" coords="928,56,1088,83"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreThreadQueue.html#ga2bb5c604a28a636950cca7aa43a47869" title="Acquires the thread queue control in a critical section." alt="" coords="453,158,630,199"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreThreadQueue.html#gaf1488e09cc925566233f2f1fc76c4d81" title="Acquires the thread queue control in a critical section." alt="" coords="679,158,880,199"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreBarrier.html#gaed6c59e37b0d953329d63da8cbdc99ee" title="Flushes the barrier." alt="" coords="452,227,631,253"/>
+<area shape="rect" id="node15" href="$group__RTEMSScoreThreadQueue.html#gaf7ba9f035005918f0e5eca4a3cfc92a1" title="Default thread queue flush filter function." alt="" coords="460,278,623,319"/>
+<area shape="rect" id="node14" href="$group__RTEMSScoreThreadQueue.html#gac979e73bbbb59a3157ebd782ff70df0c" title="Unblocks all threads enqueued on the thread queue." alt="" coords="698,223,861,265"/>
+</map>

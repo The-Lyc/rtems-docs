@@ -1,0 +1,13 @@
+<map id="bsps/sh/gensh4/include/rtems/score/sh7750_regs.h" name="bsps/sh/gensh4/include/rtems/score/sh7750_regs.h">
+<area shape="rect" id="node1" title=" " alt="" coords="552,5,753,47"/>
+<area shape="rect" id="node2" href="$bsps_2sh_2gensh4_2include_2bsp_8h.html" title="Global BSP definitions." alt="" coords="166,95,339,136"/>
+<area shape="rect" id="node3" href="$iosh7750_8h.html" title=" " alt="" coords="363,95,542,136"/>
+<area shape="rect" id="node7" href="$sh4uart_8h.html" title=" " alt="" coords="566,95,739,136"/>
+<area shape="rect" id="node10" href="$gensh4_2start_2hw__init_8c.html" title=" " alt="" coords="764,95,920,136"/>
+<area shape="rect" id="node11" href="$ispsh7750_8c.html" title=" " alt="" coords="944,95,1100,136"/>
+<area shape="rect" id="node4" href="$sh_2gensh4_2btimer_2btimer_8c.html" title="Timer driver for the Hitachi SH 7750." alt="" coords="5,184,175,225"/>
+<area shape="rect" id="node5" href="$sh_2gensh4_2clock_2ckinit_8c.html" title=" " alt="" coords="199,184,359,225"/>
+<area shape="rect" id="node6" href="$bsps_2sh_2gensh4_2start_2cpu__asm_8c.html" title=" " alt="" coords="384,184,540,225"/>
+<area shape="rect" id="node8" href="$sh_2gensh4_2console_2console_8c.html" title=" " alt="" coords="565,184,741,225"/>
+<area shape="rect" id="node9" href="$sh4uart_8c.html" title=" " alt="" coords="765,184,941,225"/>
+</map>

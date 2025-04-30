@@ -1,0 +1,7 @@
+<map id="_Priority_Node_set_inactive" name="_Priority_Node_set_inactive">
+<area shape="rect" id="node1" title="Sets the priority node inactive." alt="" coords="744,27,888,69"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreSchedulerEDF.html#ga616d8e664dde0dc44953c47fa76aa65f" title="Cancels a job and removes the thread from the queue context." alt="" coords="492,5,696,32"/>
+<area shape="rect" id="node5" href="$group__ClassicRateMon.html#gab599ee7e8f65f1d1461a3a5e198491eb" title="Create a Period." alt="" coords="509,57,679,98"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreSchedulerCBS.html#gaa7df4531e6a166ebebde6355dba251a6" title="Cancels a job." alt="" coords="240,5,444,32"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreSchedulerCBS.html#gae0d9c2720ee46efdfe87ebf87cd45cae" title="Unblocks a thread." alt="" coords="5,5,192,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="_RTEMS_Priority_To_core" name="_RTEMS_Priority_To_core">
+<area shape="rect" id="node1" title="Converts the RTEMS API priority to the corresponding SuperCore priority and validates it." alt="" coords="5,5,188,32"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreScheduler.html#ga01bd5513405dcafef3306676c55959c6" title="Maps a thread priority from the user domain to the scheduler domain." alt="" coords="236,5,419,32"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="_Thread_Priority_remove" name="_Thread_Priority_remove">
+<area shape="rect" id="node1" title="Removes the specified thread priority node from the corresponding thread priority aggregation." alt="" coords="744,78,929,105"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreMutex.html#gac76286dab6594ca0499aa20861f69fb8" title="Surrenders the ceiling mutex." alt="" coords="512,5,676,47"/>
+<area shape="rect" id="node3" href="$posix_2muteximpl_8h.html#aef2cdaf26c7b8333787140155835917f" title=" " alt="" coords="510,71,678,112"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreSchedulerEDF.html#ga616d8e664dde0dc44953c47fa76aa65f" title="Cancels a job and removes the thread from the queue context." alt="" coords="492,137,696,163"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreSchedulerCBS.html#gaa7df4531e6a166ebebde6355dba251a6" title="Cancels a job." alt="" coords="240,137,444,163"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreSchedulerCBS.html#gae0d9c2720ee46efdfe87ebf87cd45cae" title="Unblocks a thread." alt="" coords="5,137,192,163"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="_Thread_queue_First" name="_Thread_queue_First">
+<area shape="rect" id="node1" title="Returns the first thread on the thread queue if it exists, otherwise NULL." alt="" coords="5,64,161,91"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreThreadQueue.html#ga40080175681761a842fe6ab4784735b9" title="Acquires the thread queue control in a critical section." alt="" coords="211,5,388,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreThreadQueue.html#gac07672b4b41838966ddf124973f51451" title="Returns the first thread on the thread queue if it exists, otherwise NULL." alt="" coords="221,57,377,98"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreThreadQueue.html#ga0a8881ef4106a0707b2751cdd3d18bef" title="Releases the thread queue control and enables interrupts." alt="" coords="209,123,389,149"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="bsps/sparc/leon3/start/cpucounter.c" name="bsps/sparc/leon3/start/cpucounter.c">
+<area shape="rect" id="node1" title=" " alt="" coords="159,5,325,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,95,68,121"/>
+<area shape="rect" id="node3" href="$counter_8h.html" title="Free&#45;Running Counter and Busy Wait Delay API." alt="" coords="92,95,216,121"/>
+<area shape="rect" id="node5" href="$sysinit_8h.html" title=" " alt="" coords="444,95,563,121"/>
+<area shape="rect" id="node12" href="$sparcimpl_8h.html" title=" " alt="" coords="241,95,419,121"/>
+<area shape="rect" id="node4" title=" " alt="" coords="173,169,311,196"/>
+<area shape="rect" id="node6" href="$linkersets_8h.html" title=" " alt="" coords="434,169,573,196"/>
+<area shape="rect" id="node7" href="$basedefs_8h.html" title="Basic Definitions." alt="" coords="416,244,591,271"/>
+<area shape="rect" id="node8" title=" " alt="" coords="224,319,391,345"/>
+<area shape="rect" id="node9" title=" " alt="" coords="415,319,490,345"/>
+<area shape="rect" id="node10" title=" " alt="" coords="514,319,597,345"/>
+<area shape="rect" id="node11" title=" " alt="" coords="621,319,692,345"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="SMP Scheduler" name="SMP Scheduler">
+<area shape="rect" id="node1" href="$group__RTEMSScoreSchedulerPrioritySMP.html" title="Deterministic Priority SMP Scheduler." alt="" coords="380,5,541,45"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreSchedulerSMPEDF.html" title="EDF Priority SMP Scheduler." alt="" coords="361,70,560,95"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreSchedulerSMPSimple.html" title="Simple Priority SMP Scheduler." alt="" coords="385,120,536,160"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreScheduler.html" title=" " alt="" coords="5,99,147,125"/>
+<area shape="rect" id="node6" title="SMP Scheduler." alt="" coords="195,99,313,125"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreSchedulerStrongAPA.html" title="Strong APA Scheduler." alt="" coords="380,185,541,210"/>
+</map>

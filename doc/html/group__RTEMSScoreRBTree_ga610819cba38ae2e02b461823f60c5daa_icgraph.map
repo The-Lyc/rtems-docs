@@ -1,0 +1,6 @@
+<map id="_RBTree_Initialize_one" name="_RBTree_Initialize_one">
+<area shape="rect" id="node1" title="Initializes this red&#45;black tree to contain exactly the specified node." alt="" coords="393,31,561,57"/>
+<area shape="rect" id="node2" href="$group__RTEMSScorePriority.html#gac0c058cfd317fde243a7645b7a64b41c" title="Initializes the priority aggregation with the given information." alt="" coords="175,31,345,57"/>
+<area shape="rect" id="node3" href="$group__RTEMSScorePriority.html#gad7a0e6788cb685ddd6dc8b884f4b797a" title=" " alt="" coords="6,5,126,32"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreScheduler.html#gafdf8dfa2c90ca2122b995bb6dd42fcda" title="Sets a new scheduler." alt="" coords="5,56,127,83"/>
+</map>

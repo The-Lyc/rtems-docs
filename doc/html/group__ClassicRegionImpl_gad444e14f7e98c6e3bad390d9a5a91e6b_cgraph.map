@@ -1,0 +1,7 @@
+<map id="_Region_Unlock" name="_Region_Unlock">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,132,57"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreAllocatorMutex.html#ga15d657c04537c2ad1841adc28b8dd747" title=" " alt="" coords="180,31,369,57"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreAPIMutex.html#ga64a430ae861d0ce7f63413e651fbe36d" title="Releases the specified API mutex." alt="" coords="417,31,568,57"/>
+<area shape="rect" id="node4" href="$mutex_8c.html#adecd7211e7a1a5035841212574f45b31" title=" " alt="" coords="619,5,815,32"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreThread.html#gad5aaea7af4482aebd880403fb9c238af" title="Set the thread to life protected." alt="" coords="616,56,819,83"/>
+</map>

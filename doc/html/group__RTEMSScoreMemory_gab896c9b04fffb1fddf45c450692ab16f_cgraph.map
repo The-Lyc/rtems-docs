@@ -1,0 +1,8 @@
+<map id="_Memory_Dirty_free_areas" name="_Memory_Dirty_free_areas">
+<area shape="rect" id="node1" title="Dirty all free memory areas of the system." alt="" coords="5,74,160,115"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreMemory.html#gae6dced5f60807188ccb5a59ccd3aba55" title="Fill all free memory areas of the memory information with a constant byte." alt="" coords="210,56,319,83"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreMemory.html#gaec9f82588542ae89940517c48f0208f6" title="Return the memory information of this platform." alt="" coords="208,107,321,133"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreMemory.html#ga75120e2d8e6de6e70c9e910d933828e5" title="Get the begin of the free area of the memory area." alt="" coords="369,5,559,32"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreMemory.html#ga587b6b432ef9f07573042c0dc76cfe48" title="Get the size of the free memory area of the memory area." alt="" coords="375,56,553,83"/>
+<area shape="rect" id="node5" href="$bootldr_8h.html#a36d20f7d597c517b964289f6b54ddfa7" title=" " alt="" coords="426,107,502,133"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="cpukit/include/rtems/posix/timerimpl.h" name="cpukit/include/rtems/posix/timerimpl.h">
+<area shape="rect" id="node1" title="Inlined Routines from the POSIX Timer Manager." alt="" coords="577,5,731,47"/>
+<area shape="rect" id="node2" href="$psxtimercreate_8c.html" title="Create a Per&#45;Process Timer." alt="" coords="5,95,244,121"/>
+<area shape="rect" id="node3" href="$psxtimerdelete_8c.html" title="Deletes a POSIX Interval Timer." alt="" coords="268,95,507,121"/>
+<area shape="rect" id="node4" href="$timergetoverrun_8c.html" title="Get Overrun Count for a POSIX Per&#45;Process Timer." alt="" coords="531,95,777,121"/>
+<area shape="rect" id="node5" href="$timergettime_8c.html" title="Function Fetches State of POSIX Per&#45;Process Timers." alt="" coords="801,95,1027,121"/>
+<area shape="rect" id="node6" href="$timersettime_8c.html" title="Function Arms or Disarms the Timer Identified by timerid." alt="" coords="1050,95,1274,121"/>
+</map>

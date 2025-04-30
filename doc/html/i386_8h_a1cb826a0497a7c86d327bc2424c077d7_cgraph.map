@@ -1,0 +1,4 @@
+<map id="i386_get_gdt_entry" name="i386_get_gdt_entry">
+<area shape="rect" id="node1" title="Returns pointer to GDT table at index given by segment_selector." alt="" coords="5,5,152,32"/>
+<area shape="rect" id="node2" href="$i386_8h.html#a14c3c7f946ab2b80e0a138ec049c53a9" title=" " alt="" coords="200,5,392,32"/>
+</map>

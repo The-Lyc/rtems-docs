@@ -1,0 +1,5 @@
+<map id="_Objects_MP_Handler_early_initialization" name="_Objects_MP_Handler_early_initialization">
+<area shape="rect" id="node1" title="Intializes the global object node number used in the ID field of all objects." alt="" coords="5,5,168,47"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreIntErr.html#ga092fa4be4bda2528754b494e901d3d2a" title="Terminates the system with an INTERNAL_ERROR_CORE fatal source and the specified core error code." alt="" coords="216,13,333,39"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreIntErr.html#ga5102f2f0c5939020aa3b11d67afa84eb" title="Initiates system termination." alt="" coords="381,13,476,39"/>
+</map>

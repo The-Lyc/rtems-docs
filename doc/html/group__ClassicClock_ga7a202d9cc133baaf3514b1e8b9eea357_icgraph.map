@@ -1,0 +1,5 @@
+<map id="rtems_clock_get_ticks_since_boot" name="rtems_clock_get_ticks_since_boot">
+<area shape="rect" id="node1" title="Gets the current ticks counter value." alt="" coords="208,23,375,65"/>
+<area shape="rect" id="node2" href="$m68k_2mvme167_2console_2console_8c.html#a3eff2ca04a4c416ce74510491c6613d2" title=" " alt="" coords="23,5,143,32"/>
+<area shape="rect" id="node3" href="$shmdr-dump_8c.html#ada05fc7796080563c5069ec5326194d8" title=" " alt="" coords="5,56,160,83"/>
+</map>

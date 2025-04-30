@@ -1,0 +1,52 @@
+<map id="cpukit/include/rtems/score/schedulerpriorityimpl.h" name="cpukit/include/rtems/score/schedulerpriorityimpl.h">
+<area shape="rect" id="node1" title="Inlined Routines Associated with the Manipulation of the Priority&#45;Based Scheduling Structures." alt="" coords="1007,5,1223,47"/>
+<area shape="rect" id="node2" href="$schedulerpriority_8h.html" title="Thread Manipulation with the Priority&#45;Based Scheduler." alt="" coords="569,319,792,345"/>
+<area shape="rect" id="node7" href="$score_2thread_8h.html" title="Constants and Structures Related with the Thread Control Block." alt="" coords="1525,468,1682,495"/>
+<area shape="rect" id="node13" href="$chainimpl_8h.html" title="Chain Handler API." alt="" coords="2741,617,2919,644"/>
+<area shape="rect" id="node27" href="$prioritybitmapimpl_8h.html" title="Inlined Routines in the Priority Handler Bit Map Implementation." alt="" coords="110,319,347,345"/>
+<area shape="rect" id="node29" href="$schedulerimpl_8h.html" title="Inlined Routines Associated with the Manipulation of the Scheduler." alt="" coords="1225,95,1432,121"/>
+<area shape="rect" id="node3" href="$score_2chain_8h.html" title="Chain Handler API." alt="" coords="1432,692,1583,719"/>
+<area shape="rect" id="node4" href="$prioritybitmap_8h.html" title="Manipulation Routines for the Bitmap Priority Queue Implementation." alt="" coords="125,393,333,420"/>
+<area shape="rect" id="node6" href="$score_2scheduler_8h.html" title="Constants and Structures Associated with the Scheduler." alt="" coords="1257,393,1435,420"/>
+<area shape="rect" id="node5" title=" " alt="" coords="1333,767,1471,793"/>
+<area shape="rect" id="node8" href="$include_2rtems_2score_2atomic_8h.html" title="Atomic Operations API." alt="" coords="1399,543,1559,569"/>
+<area shape="rect" id="node10" href="$context_8h.html" title="Information About Each Thread&#39;s Context." alt="" coords="1244,692,1408,719"/>
+<area shape="rect" id="node11" href="$freechain_8h.html" title="Freechain Handler API." alt="" coords="2210,543,2386,569"/>
+<area shape="rect" id="node15" href="$isrlock_8h.html" title="ISR Locks." alt="" coords="2304,617,2463,644"/>
+<area shape="rect" id="node18" href="$objectdata_8h.html" title="Object Handler Data Structures." alt="" coords="2663,543,2847,569"/>
+<area shape="rect" id="node20" href="$rtems_2score_2priority_8h.html" title="Priority Handler API." alt="" coords="1050,617,1210,644"/>
+<area shape="rect" id="node21" href="$schedulernode_8h.html" title="Handles Scheduler Nodes." alt="" coords="962,543,1173,569"/>
+<area shape="rect" id="node22" href="$cpukit_2include_2rtems_2score_2stack_8h.html" title="Information About the Thread Stack Handler." alt="" coords="791,767,941,793"/>
+<area shape="rect" id="node23" href="$states_8h.html" title="Thread Execution State Information." alt="" coords="1285,617,1439,644"/>
+<area shape="rect" id="node24" href="$threadq_8h.html" title="Constants and Structures Needed to Declare a Thread Queue." alt="" coords="1583,543,1749,569"/>
+<area shape="rect" id="node25" href="$timestamp_8h.html" title="Helpers for Manipulating Timestamps." alt="" coords="1773,617,1959,644"/>
+<area shape="rect" id="node26" href="$cpukit_2include_2rtems_2score_2watchdog_8h.html" title="Constants and Structures Associated with Watchdog Timers." alt="" coords="2487,617,2666,644"/>
+<area shape="rect" id="node9" title=" " alt="" coords="1464,617,1647,644"/>
+<area shape="rect" id="node12" href="$basedefs_8h.html" title="Basic Definitions." alt="" coords="892,841,1067,868"/>
+<area shape="rect" id="node14" href="$assert_8h.html" title="Information for the Assert Handler." alt="" coords="2854,767,3009,793"/>
+<area shape="rect" id="node16" href="$isrlevel_8h.html" title="ISR Level Type." alt="" coords="2706,692,2869,719"/>
+<area shape="rect" id="node17" href="$smplock_8h.html" title="SMP Lock API." alt="" coords="2287,692,2458,719"/>
+<area shape="rect" id="node19" href="$score_2object_8h.html" title="Constants and Structures Associated with the Object Handler." alt="" coords="1658,692,1813,719"/>
+<area shape="rect" id="node28" href="$string_8h.html" title=" " alt="" coords="5,393,76,420"/>
+<area shape="rect" id="node30" href="$score_2priorityimpl_8h.html" title="Priority Handler API Implementation." alt="" coords="1255,319,1445,345"/>
+<area shape="rect" id="node31" href="$smpimpl_8h.html" title="SuperCore SMP Implementation." alt="" coords="855,468,1027,495"/>
+<area shape="rect" id="node36" href="$score_2status_8h.html" title=" " alt="" coords="1607,319,1762,345"/>
+<area shape="rect" id="node39" href="$threadimpl_8h.html" title="Inlined Routines from the Thread Handler." alt="" coords="2201,169,2387,196"/>
+<area shape="rect" id="node32" href="$smp_8h.html" title="SuperCore SMP Support API." alt="" coords="1984,617,2127,644"/>
+<area shape="rect" id="node33" href="$score_2percpu_8h.html" title=" " alt="" coords="1976,543,2135,569"/>
+<area shape="rect" id="node34" href="$processormask_8h.html" title="Processor Mask API." alt="" coords="951,692,1165,719"/>
+<area shape="rect" id="node35" href="$cpukit_2include_2rtems_2fatal_8h.html" title="Fatal API." alt="" coords="265,767,371,793"/>
+<area shape="rect" id="node37" href="$errno_8h.html" title=" " alt="" coords="1669,393,1737,420"/>
+<area shape="rect" id="node38" href="$pthread_8h.html" title="POSIX Threads Private Support." alt="" coords="1561,393,1645,420"/>
+<area shape="rect" id="node40" href="$interr_8h.html" title="Constants and Prototypes Related to the Internal Error Handler." alt="" coords="2533,692,2682,719"/>
+<area shape="rect" id="node41" href="$isr_8h.html" title="Data Related to the Management of Processor Interrupt Levels." alt="" coords="3019,319,3150,345"/>
+<area shape="rect" id="node42" href="$objectimpl_8h.html" title="Inlined Routines in the Object Handler." alt="" coords="2917,468,3101,495"/>
+<area shape="rect" id="node43" href="$sysstate_8h.html" title="System State Handler API." alt="" coords="3175,543,3346,569"/>
+<area shape="rect" id="node44" href="$schedulernodeimpl_8h.html" title="Scheduler Node Implementation." alt="" coords="1367,244,1605,271"/>
+<area shape="rect" id="node45" href="$statesimpl_8h.html" title="Inlined Routines Associated with Thread State Information." alt="" coords="413,543,597,569"/>
+<area shape="rect" id="node46" href="$timestampimpl_8h.html" title="Helpers for Manipulating Timestamps." alt="" coords="621,543,836,569"/>
+<area shape="rect" id="node47" href="$threadqimpl_8h.html" title="Constants and Structures Associated with the Manipulation of Objects." alt="" coords="1750,244,1945,271"/>
+<area shape="rect" id="node48" href="$todimpl_8h.html" title="Time of Day Handler API." alt="" coords="2423,244,2589,271"/>
+<area shape="rect" id="node49" href="$watchdogimpl_8h.html" title="Inlined Routines in the Watchdog Handler." alt="" coords="2533,468,2740,495"/>
+<area shape="rect" id="node50" title=" " alt="" coords="2285,244,2399,271"/>
+</map>

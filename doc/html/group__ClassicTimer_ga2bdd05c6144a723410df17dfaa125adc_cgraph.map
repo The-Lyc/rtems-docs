@@ -1,0 +1,8 @@
+<map id="rtems_timer_server_fire_when" name="rtems_timer_server_fire_when">
+<area shape="rect" id="node1" title="RTEMS Timer Server Fire When Directive." alt="" coords="5,78,156,119"/>
+<area shape="rect" id="node2" href="$group__ClassicTimerImpl.html#gaf7294ac41fb549dbb5b2e1beb8438ea2" title=" " alt="" coords="220,56,360,83"/>
+<area shape="rect" id="node6" href="$group__ClassicTimerImpl.html#ga4bebbb78a2e1f8a9b7ff99ea24b2da83" title=" " alt="" coords="204,107,376,149"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreTOD.html#gad7357f287de1aec092ef824c185229b9" title="Check if the TOD is Set." alt="" coords="442,5,545,32"/>
+<area shape="rect" id="node4" href="$group__ClassicClock.html#gab5bfb9a415bb9cbb6c9132d8b3de8f61" title="TOD to Seconds." alt="" coords="424,56,563,83"/>
+<area shape="rect" id="node5" href="$group__ClassicClock.html#ga80a0ad7cf75ab4da2f69eea860daeb77" title="TOD Validate." alt="" coords="435,107,552,133"/>
+</map>

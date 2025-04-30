@@ -1,0 +1,8 @@
+<map id="cpukit/score/cpu/bfin/include/rtems/score/bfin.h" name="cpukit/score/cpu/bfin/include/rtems/score/bfin.h">
+<area shape="rect" id="node1" title="Blackfin Set up Basic CPU Dependency Settings Based on Compiler Settings." alt="" coords="347,5,503,61"/>
+<area shape="rect" id="node2" href="$bsps_2bfin_2eZKit533_2include_2bsp_8h.html" title="Global BSP definitions." alt="" coords="5,109,148,151"/>
+<area shape="rect" id="node3" href="$bsps_2bfin_2TLL6527M_2include_2bsp_8h.html" title="Global BSP definitions." alt="" coords="172,109,323,151"/>
+<area shape="rect" id="node4" href="$cpukit_2score_2cpu_2bfin_2cpu_8c.html" title="Blackfin CPU Dependent Source." alt="" coords="347,109,503,151"/>
+<area shape="rect" id="node5" href="$cpukit_2score_2cpu_2bfin_2include_2rtems_2asm_8h.html" title="Address the Problems Caused by Incompatible Flavor of Assemblers and Toolsets." alt="" coords="527,109,685,151"/>
+<area shape="rect" id="node6" href="$bfin_2include_2rtems_2score_2cpu_8h.html" title="Blackfin CPU Department Source." alt="" coords="709,109,903,151"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="_Chain_Last" name="_Chain_Last">
+<area shape="rect" id="node1" title="Returns pointer to chain&#39;s last node." alt="" coords="711,155,811,181"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreMessageQueue.html#gabe86da1ead8e6b01ecf69c94e1de29f2" title="Flushes pending messages." alt="" coords="484,106,663,147"/>
+<area shape="rect" id="node8" href="$group__ClassicChains.html#gacf4f04f80c5d9e867686087fc0066006" title="Return pointer to Chain&#39;s Last node before the permanent tail." alt="" coords="507,184,640,211"/>
+<area shape="rect" id="node3" href="$group__ClassicMessageQueue.html#ga8b97ede3b5602d6f5cca6229f96f27ee" title="rtems_message_queue_flush" alt="" coords="242,99,415,141"/>
+<area shape="rect" id="node4" href="$group__lm32__milkymist__buttons.html#gac27d7a278f92f461a9e6e5381e7e741f" title=" " alt="" coords="34,5,145,32"/>
+<area shape="rect" id="node5" href="$group__lm32__milkymist__ir.html#ga22b13159305001c6098d95463a775d63" title=" " alt="" coords="54,56,125,83"/>
+<area shape="rect" id="node6" href="$group__lm32__milkymist__midi.html#gaa4d36d1d21efddae0f030bcb8ebb7a7d" title=" " alt="" coords="44,107,135,133"/>
+<area shape="rect" id="node7" href="$group__lm32__milkymist__usbinput.html#gac6580de0e3c50fa7f78fc48ec49d5d58" title=" " alt="" coords="31,157,148,184"/>
+<area shape="rect" id="node9" href="$rtl-obj_8c.html#a4c2f2836262a4606efecf94f95ac0cd8" title=" " alt="" coords="221,209,436,236"/>
+<area shape="rect" id="node10" href="$rtl-elf_8c.html#ad6bfd56d63e3cf2562d48a39b7fffc24" title=" " alt="" coords="5,209,173,250"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="rtems_filesystem_location_info_tt" name="rtems_filesystem_location_info_tt">
+<area shape="rect" id="node1" title="File system location." alt="" coords="300,434,495,475"/>
+<area shape="rect" id="node4" href="$structrtems__filesystem__global__location__t.html" title="Global file system location." alt="" coords="656,287,839,329"/>
+<area shape="rect" id="node7" href="$struct__rtems__filesystem__operations__table.html" title="File system operations table." alt="" coords="1373,253,1592,294"/>
+<area shape="rect" id="node8" href="$structrtems__filesystem__eval__path__context__t.html" title="Path evaluation context." alt="" coords="1031,289,1201,330"/>
+<area shape="rect" id="node9" href="$struct__rtems__filesystem__file__handlers__r.html" title="File system node operations table." alt="" coords="1031,758,1201,799"/>
+<area shape="rect" id="node10" href="$structrtems__libio__tt.html" title="An open file data structure." alt="" coords="691,701,803,728"/>
+<area shape="rect" id="node2" href="$structrtems__filesystem__mount__table__entry__tt.html" title="Mount table entry." alt="" coords="1024,179,1208,221"/>
+<area shape="rect" id="node3" href="$structrtems__filesystem__limits__and__options__t.html" title="Contain file system specific information which is required to support fpathconf()." alt="" coords="658,69,837,110"/>
+<area shape="rect" id="node5" href="$unionChain__Control.html" title=" " alt="" coords="519,27,632,53"/>
+<area shape="rect" id="node6" href="$structChain__Node__struct.html" title=" " alt="" coords="5,135,149,161"/>
+</map>

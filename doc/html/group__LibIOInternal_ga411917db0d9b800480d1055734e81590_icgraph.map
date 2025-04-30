@@ -1,0 +1,6 @@
+<map id="rtems_filesystem_check_access" name="rtems_filesystem_check_access">
+<area shape="rect" id="node1" title="Checks if access to an object is allowed for the current user." alt="" coords="485,35,665,76"/>
+<area shape="rect" id="node2" href="$group__LibIOInternal.html#gad65ec2b7ee831bdb93222e13abaee695" title=" " alt="" coords="255,5,426,47"/>
+<area shape="rect" id="node3" href="$shell__cmdset_8c.html#a2816029693432c81b3f51b32e0375a32" title=" " alt="" coords="244,71,437,98"/>
+<area shape="rect" id="node4" href="$shell__cmdset_8c.html#a444773a13b26ca96137622467719c00c" title=" " alt="" coords="5,71,196,98"/>
+</map>

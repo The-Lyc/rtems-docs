@@ -1,0 +1,10 @@
+<map id="UART Driver API" name="UART Driver API">
+<area shape="rect" id="node1" href="$group__UART__INT.html" title=" " alt="" coords="365,5,543,31"/>
+<area shape="rect" id="node2" href="$group__UART__FIFO.html" title=" " alt="" coords="377,55,531,80"/>
+<area shape="rect" id="node3" href="$group__UART__BAUD.html" title=" " alt="" coords="363,104,545,129"/>
+<area shape="rect" id="node4" href="$group__RTEMSBSPsARMCycVContrib.html" title="Contributed code from Altera." alt="" coords="5,129,140,155"/>
+<area shape="rect" id="node8" title=" " alt="" coords="188,129,315,155"/>
+<area shape="rect" id="node5" href="$group__UART__BASIC.html" title=" " alt="" coords="406,153,502,179"/>
+<area shape="rect" id="node6" href="$group__UART__LINE.html" title=" " alt="" coords="379,203,529,228"/>
+<area shape="rect" id="node7" href="$group__UART__MODEM.html" title=" " alt="" coords="368,252,540,277"/>
+</map>

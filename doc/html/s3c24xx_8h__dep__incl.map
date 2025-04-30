@@ -1,0 +1,12 @@
+<map id="bsps/arm/smdk2410/include/s3c24xx.h" name="bsps/arm/smdk2410/include/s3c24xx.h">
+<area shape="rect" id="node1" title=" " alt="" coords="895,5,1101,47"/>
+<area shape="rect" id="node2" href="$arm_2smdk2410_2btimer_2btimer_8c.html" title="S3C2400 Timer driver." alt="" coords="5,95,207,136"/>
+<area shape="rect" id="node3" href="$arm_2smdk2410_2clock_2clockdrv_8c.html" title=" " alt="" coords="231,95,423,136"/>
+<area shape="rect" id="node4" href="$support_8c.html" title=" " alt="" coords="447,95,639,136"/>
+<area shape="rect" id="node5" href="$arm_2smdk2410_2console_2uart_8c.html" title=" " alt="" coords="663,95,871,136"/>
+<area shape="rect" id="node6" href="$bsps_2arm_2smdk2410_2include_2bsp_2irq_8h.html" title=" " alt="" coords="895,95,1101,136"/>
+<area shape="rect" id="node7" href="$bsps_2arm_2smdk2410_2include_2bsp_8h.html" title="Global BSP definitons." alt="" coords="1125,95,1330,136"/>
+<area shape="rect" id="node8" href="$bsps_2arm_2smdk2410_2irq_2irq_8c.html" title=" " alt="" coords="1355,95,1529,136"/>
+<area shape="rect" id="node9" href="$smc_8c.html" title=" " alt="" coords="1553,95,1739,136"/>
+<area shape="rect" id="node10" href="$arm_2smdk2410_2start_2bspstart_8c.html" title=" " alt="" coords="1763,95,1951,136"/>
+</map>

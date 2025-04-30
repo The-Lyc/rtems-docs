@@ -1,0 +1,4 @@
+<map id="_Rate_monotonic_Allocate" name="_Rate_monotonic_Allocate">
+<area shape="rect" id="node1" title="Allocates a period control block from the inactive chain of free period control blocks." alt="" coords="223,13,417,39"/>
+<area shape="rect" id="node2" href="$group__ClassicRateMon.html#gab599ee7e8f65f1d1461a3a5e198491eb" title="Create a Period." alt="" coords="5,5,175,47"/>
+</map>

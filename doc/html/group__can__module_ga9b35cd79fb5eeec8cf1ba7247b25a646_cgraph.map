@@ -1,0 +1,4 @@
+<map id="MCAN_Init" name="MCAN_Init">
+<area shape="rect" id="node1" title="Initializes the MCAN hardware for giving peripheral. Default: Mixed mode TX Buffer + FIFO." alt="" coords="5,5,96,32"/>
+<area shape="rect" id="node2" href="$pio_8c.html#a1bb66b931fa38004c2178936c269fa76" title="Configures a list of Pin instances, each of which can either hold a single pin or a group of pins,..." alt="" coords="144,5,257,32"/>
+</map>

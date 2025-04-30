@@ -1,0 +1,5 @@
+<map id="_Thread_Join" name="_Thread_Join">
+<area shape="rect" id="node1" title="Joins the currently executing thread with the given thread to wait for." alt="" coords="5,42,111,69"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreThreadQueue.html#gab31678d367077d484797bc9c4d97574e" title="Sets the thread state for the thread to enqueue in the thread queue context." alt="" coords="161,5,340,47"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreThreadQueue.html#ga4992b40810f6d287c832bdad240dbc90" title="Blocks the thread and places it on the thread queue." alt="" coords="159,71,343,98"/>
+</map>

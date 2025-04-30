@@ -1,0 +1,6 @@
+<map id="_Priority_Initialize_empty" name="_Priority_Initialize_empty">
+<area shape="rect" id="node1" title="Initializes the priority aggregation empty." alt="" coords="5,35,144,76"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreRBTree.html#ga3b281ee15da2dfdd1a8c2bc7b4fc40b5" title="Initializes this RBTree as empty." alt="" coords="211,5,349,47"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreRBTree.html#gabbc757c2fd03694b6f9bb5aa2be553ff" title="Initializes a red&#45;black tree node." alt="" coords="192,71,368,98"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreRBTree.html#ga82d9b6f1aad201e7c8b614a0e970b356" title="Sets a red&#45;black tree node as off&#45;tree." alt="" coords="416,71,575,98"/>
+</map>

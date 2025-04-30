@@ -1,0 +1,4 @@
+<map id="a9mpcore_clock_periphclk" name="a9mpcore_clock_periphclk">
+<area shape="rect" id="node1" title=" " alt="" coords="240,5,435,32"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreCPUARM.html#gaa675150e5d00169c99410a82011b6117" title="Returns the current CPU counter frequency in Hz." alt="" coords="5,5,192,32"/>
+</map>

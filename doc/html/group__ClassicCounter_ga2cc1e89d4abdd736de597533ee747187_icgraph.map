@@ -1,0 +1,4 @@
+<map id="rtems_counter_sbintime_to_ticks" name="rtems_counter_sbintime_to_ticks">
+<area shape="rect" id="node1" title="Converts signed binary time (sbintime_t) into counter ticks." alt="" coords="179,5,359,47"/>
+<area shape="rect" id="node2" href="$group__RTEMSTestFrameworkTime.html#gaddf5ebf144e738c80e087130ece28fb6" title=" " alt="" coords="5,13,131,39"/>
+</map>

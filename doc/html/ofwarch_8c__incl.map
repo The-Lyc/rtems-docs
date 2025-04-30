@@ -1,0 +1,15 @@
+<map id="bsps/sparc64/shared/helenos/boot/sparc64/loader/ofwarch.c" name="bsps/sparc64/shared/helenos/boot/sparc64/loader/ofwarch.c">
+<area shape="rect" id="node1" title="Architecture dependent parts of OpenFirmware interface." alt="" coords="320,5,485,61"/>
+<area shape="rect" id="node2" href="$ofwarch_8h.html" title=" " alt="" coords="194,109,313,136"/>
+<area shape="rect" id="node3" href="$main_8h.html" title=" " alt="" coords="220,184,287,211"/>
+<area shape="rect" id="node4" href="$ofw_8h.html" title=" " alt="" coords="282,333,371,360"/>
+<area shape="rect" id="node12" href="$string_8h.html" title=" " alt="" coords="441,109,511,136"/>
+<area shape="rect" id="node13" href="$register_8h.html" title=" " alt="" coords="559,109,675,136"/>
+<area shape="rect" id="node5" href="$bsps_2sparc64_2include_2boot_2types_8h.html" title=" " alt="" coords="114,408,217,435"/>
+<area shape="rect" id="node10" href="$boot_2ofw__tree_8h.html" title=" " alt="" coords="192,259,315,285"/>
+<area shape="rect" id="node11" href="$balloc_8h.html" title=" " alt="" coords="21,333,128,360"/>
+<area shape="rect" id="node9" title=" " alt="" coords="289,408,364,435"/>
+<area shape="rect" id="node6" href="$gentypes_8h.html" title=" " alt="" coords="102,483,229,509"/>
+<area shape="rect" id="node7" title=" " alt="" coords="77,557,152,584"/>
+<area shape="rect" id="node8" title=" " alt="" coords="176,557,259,584"/>
+</map>

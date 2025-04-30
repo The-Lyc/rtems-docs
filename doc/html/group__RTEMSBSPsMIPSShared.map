@@ -1,0 +1,9 @@
+<map id="Shared" name="Shared">
+<area shape="rect" id="node1" href="$group__mips__gdb.html" title="GDB Interface." alt="" coords="239,5,352,31"/>
+<area shape="rect" id="node2" title="Shared Support for MIPS Board Support Packages." alt="" coords="108,104,175,129"/>
+<area shape="rect" id="node3" href="$group__mips__regs.html" title="MIPS Registers." alt="" coords="236,55,355,80"/>
+<area shape="rect" id="node4" href="$group__mips__i8259__irq.html" title="i8259 Chip Support" alt="" coords="223,104,368,129"/>
+<area shape="rect" id="node6" href="$group__mips__ops.html" title="MIPS Instruction Formats and Opcode Values." alt="" coords="238,153,353,179"/>
+<area shape="rect" id="node7" href="$group__mips__limits.html" title="Address Limits." alt="" coords="236,203,355,228"/>
+<area shape="rect" id="node5" href="$group__RTEMSBSPsMIPS.html" title="MIPS Board Support Packages." alt="" coords="5,104,60,129"/>
+</map>

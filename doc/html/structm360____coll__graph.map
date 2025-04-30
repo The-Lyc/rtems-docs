@@ -1,0 +1,13 @@
+<map id="m360_" name="m360_">
+<area shape="rect" id="node1" title=" " alt="" coords="275,311,341,337"/>
+<area shape="rect" id="node2" href="$structm360SCCENparms__.html" title=" " alt="" coords="14,5,165,32"/>
+<area shape="rect" id="node3" href="$structm360SPIparms__.html" title=" " alt="" coords="26,56,153,83"/>
+<area shape="rect" id="node4" href="$structm360SMCRegisters__.html" title=" " alt="" coords="11,116,167,143"/>
+<area shape="rect" id="node5" href="$structm360SCCRegisters__.html" title=" " alt="" coords="13,205,166,232"/>
+<area shape="rect" id="node6" href="$structm360SCCparms__.html" title=" " alt="" coords="23,280,156,307"/>
+<area shape="rect" id="node7" href="$structm360SMCparms__.html" title=" " alt="" coords="21,337,157,364"/>
+<area shape="rect" id="node8" href="$structm360MEMCRegisters__.html" title=" " alt="" coords="5,388,173,415"/>
+<area shape="rect" id="node9" href="$structm360IDMAparms__.html" title=" " alt="" coords="18,443,161,469"/>
+<area shape="rect" id="node10" href="$structm360TimerParms__.html" title=" " alt="" coords="17,493,161,520"/>
+<area shape="rect" id="node11" href="$structm360MiscParms__.html" title=" " alt="" coords="21,544,157,571"/>
+</map>

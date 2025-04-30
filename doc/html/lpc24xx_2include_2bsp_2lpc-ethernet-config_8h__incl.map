@@ -1,0 +1,11 @@
+<map id="bsps/arm/lpc24xx/include/bsp/lpc&#45;ethernet&#45;config.h" name="bsps/arm/lpc24xx/include/bsp/lpc&#45;ethernet&#45;config.h">
+<area shape="rect" id="node1" title="Ethernet driver configuration." alt="" coords="88,5,276,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,95,63,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="87,95,160,121"/>
+<area shape="rect" id="node4" href="$lpc24xx_8h.html" title="Register definitions." alt="" coords="185,95,297,121"/>
+<area shape="rect" id="node9" title=" " alt="" coords="320,95,391,121"/>
+<area shape="rect" id="node5" title=" " alt="" coords="65,169,203,196"/>
+<area shape="rect" id="node6" href="$include_2bsp_2utility_8h.html" title="Utility macros." alt="" coords="236,244,333,271"/>
+<area shape="rect" id="node8" href="$lpc-i2s_8h.html" title="I2S API." alt="" coords="278,169,382,196"/>
+<area shape="rect" id="node7" title=" " alt="" coords="249,319,320,345"/>
+</map>

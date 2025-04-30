@@ -1,0 +1,5 @@
+<map id="SPID_SendCommand" name="SPID_SendCommand">
+<area shape="rect" id="node1" title="Starts a SPI master transfer. This is a non blocking function. It will return as soon as the transfer..." alt="" coords="5,31,164,57"/>
+<area shape="rect" id="node2" href="$atsam_2contrib_2libraries_2libchip_2source_2pmc_8c.html#a4154148b8d69545bca1b5c868c004d49" title="Enables the clock of a peripheral. The peripheral ID is used to identify which peripheral is targeted..." alt="" coords="212,5,380,32"/>
+<area shape="rect" id="node3" href="$arm_2atsam_2contrib_2libraries_2libchip_2source_2spi_8c.html#a43013aa88577daf7494eec9bfc4359aa" title="Configures SPI chip select." alt="" coords="237,56,355,83"/>
+</map>

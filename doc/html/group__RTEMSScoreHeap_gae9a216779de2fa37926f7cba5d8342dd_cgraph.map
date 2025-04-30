@@ -1,0 +1,7 @@
+<map id="_Heap_Is_free" name="_Heap_Is_free">
+<area shape="rect" id="node1" title="Returns if the heap block is free." alt="" coords="5,56,120,83"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreHeap.html#ga7108eed881e09dc3519e8a35220f0feb" title="Returns if the heap block is used." alt="" coords="168,56,287,83"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreHeap.html#ga231bdbf1ec3d6b82583d0cc3198fc00b" title="Returns the block which is offset away from block." alt="" coords="349,5,475,32"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreHeap.html#ga161ac37dea0961191b2698abf0e61841" title="Returns the block size." alt="" coords="343,56,481,83"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreHeap.html#gad88e4681224e360888f3f4bd020c97a9" title="Returns if the previous heap block is used." alt="" coords="335,107,489,133"/>
+</map>

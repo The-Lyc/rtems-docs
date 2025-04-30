@@ -1,0 +1,4 @@
+<map id="_Heap_Area_overhead" name="_Heap_Area_overhead">
+<area shape="rect" id="node1" title="Returns the worst case overhead to manage a memory area." alt="" coords="5,5,173,32"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreHeap.html#gaa7c54b3d49cb3fbcf12bbf7a7a45e8d5" title="Aligns the value to a given alignment, rounding up." alt="" coords="221,5,348,32"/>
+</map>

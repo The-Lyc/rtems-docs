@@ -1,0 +1,7 @@
+<map id="Comm" name="Comm">
+<area shape="rect" id="node1" href="$group__i386__tty.html" title="i386 tySx driver" alt="" coords="222,5,270,31"/>
+<area shape="rect" id="node2" title="Comm." alt="" coords="104,55,169,80"/>
+<area shape="rect" id="node4" href="$group__i386__uart.html" title="i386 UART definitions" alt="" coords="217,55,275,80"/>
+<area shape="rect" id="node5" href="$group__i386__io.html" title="I/O." alt="" coords="226,104,266,129"/>
+<area shape="rect" id="node3" href="$group__RTEMSBSPsI386.html" title="i386 Board Support Package." alt="" coords="5,55,56,80"/>
+</map>

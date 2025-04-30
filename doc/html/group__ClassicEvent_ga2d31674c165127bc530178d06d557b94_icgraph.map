@@ -1,0 +1,9 @@
+<map id="rtems_event_send" name="rtems_event_send">
+<area shape="rect" id="node1" title="Sends an Event Set to the Target Task." alt="" coords="253,132,396,159"/>
+<area shape="rect" id="node2" href="$group__ClassicEventMP.html#ga1874d957f7df000c20e35f8c000842d6" title="Event MP Packet Process." alt="" coords="5,5,205,32"/>
+<area shape="rect" id="node3" href="$mon-monitor_8c.html#a9dce13aebc7d9c0361ecd5490cd39c5e" title=" " alt="" coords="18,56,193,83"/>
+<area shape="rect" id="node4" href="$rtemspppd_8c.html#afc259272991e12d2e8097901976af938" title=" " alt="" coords="27,107,184,133"/>
+<area shape="rect" id="node5" href="$rtemspppd_8c.html#afe8fe9afcf624756f30f5e0c8376024c" title=" " alt="" coords="20,157,191,184"/>
+<area shape="rect" id="node6" href="$termios_8c.html#a9dd97a1b494e296caf2522740f602841" title=" " alt="" coords="28,209,183,250"/>
+<area shape="rect" id="node7" href="$fec_8c.html#aa5d15861b72054e329f3a6cafd74885c" title=" " alt="" coords="37,275,174,301"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="bsps/arm/include/bsp/arm&#45;pl111&#45;regs.h" name="bsps/arm/include/bsp/arm&#45;pl111&#45;regs.h">
+<area shape="rect" id="node1" title="ARM PL111 Register definitions." alt="" coords="205,5,365,47"/>
+<area shape="rect" id="node2" href="$arm-pl111-fb_8h.html" title="ARM PL111 FB Support." alt="" coords="205,95,365,136"/>
+<area shape="rect" id="node3" href="$lpc24xx_2start_2fb-config_8c.html" title=" " alt="" coords="5,184,176,225"/>
+<area shape="rect" id="node4" href="$realview-pbx-a9_2start_2fb-config_8c.html" title=" " alt="" coords="200,184,371,225"/>
+<area shape="rect" id="node5" href="$arm-pl111_8c.html" title=" " alt="" coords="395,184,541,225"/>
+</map>

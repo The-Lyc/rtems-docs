@@ -1,0 +1,12 @@
+<map id="cpukit/include/rtems/extensiondata.h" name="cpukit/include/rtems/extensiondata.h">
+<area shape="rect" id="node1" title="Classic User Extensions Data Structures." alt="" coords="745,5,900,47"/>
+<area shape="rect" id="node2" href="$extensionimpl_8h.html" title="Classic User Extensions Implementation." alt="" coords="560,95,715,136"/>
+<area shape="rect" id="node9" href="$mon-extension_8c.html" title=" " alt="" coords="739,95,907,136"/>
+<area shape="rect" id="node10" href="$extension_8c.html" title="Extension Manager Information with Zero Objects." alt="" coords="931,102,1125,129"/>
+<area shape="rect" id="node3" href="$mon-object_8c.html" title=" " alt="" coords="5,184,173,225"/>
+<area shape="rect" id="node4" href="$exinit_8c.html" title="Initialization Manager." alt="" coords="197,191,365,218"/>
+<area shape="rect" id="node5" href="$extensioncreate_8c.html" title="User Extensions Implementation." alt="" coords="390,191,626,218"/>
+<area shape="rect" id="node6" href="$extensiondelete_8c.html" title="User Extensions Implementation." alt="" coords="650,191,886,218"/>
+<area shape="rect" id="node7" href="$extensionident_8c.html" title="User Extensions Implementation." alt="" coords="910,191,1138,218"/>
+<area shape="rect" id="node8" href="$getconfigmax_8c.html" title=" " alt="" coords="1162,191,1382,218"/>
+</map>

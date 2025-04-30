@@ -1,0 +1,4 @@
+<map id="rtems_workspace_free" name="rtems_workspace_free">
+<area shape="rect" id="node1" title="Frees Memory Allocated from the Workspace." alt="" coords="5,5,176,32"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreProtHeap.html#gabfcf102ec8b1ec0fa0f620ce3694722b" title="Frees the allocated memory area." alt="" coords="224,5,389,32"/>
+</map>

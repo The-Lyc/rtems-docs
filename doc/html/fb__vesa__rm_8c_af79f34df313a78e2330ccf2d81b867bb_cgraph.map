@@ -1,0 +1,8 @@
+<map id="VBE_controller_information" name="VBE_controller_information">
+<area shape="rect" id="node1" title="Returns information about graphic&#39;s controller in the info_block structure." alt="" coords="5,97,205,123"/>
+<area shape="rect" id="node2" href="$realmode__int_8h.html#a0971c9c582ca7ed6c973370d8d2ddcf2" title="Returns buffer and its size usable with real mode interrupt call." alt="" coords="263,5,419,47"/>
+<area shape="rect" id="node3" href="$i386_8h.html#a3ff23e272c8ca1bc3683f88550f96e07" title="Retrieves real mode pointer elements {segmnet, offset} from physical address." alt="" coords="259,71,422,98"/>
+<area shape="rect" id="node4" href="$realmode__int_8h.html#a1541b4af8720ed12dd8b966a7db9b100" title="Call to real mode interrupt with specified int NO and processor registers." alt="" coords="253,122,428,149"/>
+<area shape="rect" id="node6" href="$lib_8c.html#afee04a2bd3690b426c5ead287a32a1a8" title=" " alt="" coords="301,173,380,199"/>
+<area shape="rect" id="node5" href="$i386-stub-glue_8c.html#a1e0a236f3682681ac79ede3a128bffd5" title=" " alt="" coords="476,122,555,149"/>
+</map>

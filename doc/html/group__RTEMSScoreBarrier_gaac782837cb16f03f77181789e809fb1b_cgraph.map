@@ -1,0 +1,6 @@
+<map id="_CORE_barrier_Initialize" name="_CORE_barrier_Initialize">
+<area shape="rect" id="node1" title="Initializes the core barrier." alt="" coords="5,13,184,39"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreThreadQueue.html#gadff2605d33f07f210c22844f1ae71eaf" title="Initializes a thread queue embedded in an object with identifier." alt="" coords="232,5,403,47"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreThreadQueue.html#gae839c93467db7f3bb1776323a17ac8ad" title="Initializes the thread queue control to the given name." alt="" coords="451,13,635,39"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreThreadQueue.html#ga9bf4b585322581d70c742c7292bc8435" title="Initializes the thread queue queue with the given name." alt="" coords="683,5,853,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="ARM Co&#45;Processor 15 Support" name="ARM Co&#45;Processor 15 Support">
+<area shape="rect" id="node1" title="ARM co&#45;processor 15 (CP15) support." alt="" coords="105,5,267,45"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreCPUARM.html" title="ARM Architecture Support." alt="" coords="5,13,57,38"/>
+</map>

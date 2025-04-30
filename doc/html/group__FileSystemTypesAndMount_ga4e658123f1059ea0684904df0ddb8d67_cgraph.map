@@ -1,0 +1,22 @@
+<map id="rtems_filesystem_unregister" name="rtems_filesystem_unregister">
+<area shape="rect" id="node1" title="Unregisters a file system type." alt="" coords="5,202,213,229"/>
+<area shape="rect" id="node2" href="$group__ClassicChains.html#gaa8062d288572dd93db348803a5229c12" title="Extract the specified node from a chain (unprotected)." alt="" coords="261,60,416,101"/>
+<area shape="rect" id="node6" href="$group__ClassicChains.html#ga44b92f7e9e25d9a3a0eadb0b559398cc" title="Return pointer to Chain&#39;s First node after the permanent head." alt="" coords="271,126,406,153"/>
+<area shape="rect" id="node9" href="$group__ClassicChains.html#ga0131faa875818fc0cddb4c960e599396" title="Is this node the chain tail." alt="" coords="265,177,413,203"/>
+<area shape="rect" id="node12" href="$group__ClassicChains.html#ga53a35170adf0ff9075a2e04560777eab" title="Return pointer the next node from this node." alt="" coords="269,227,408,254"/>
+<area shape="rect" id="node14" href="$group__LibIOInternal.html#ga12b4b45fb45758475cfbfa8606c7ae9d" title=" " alt="" coords="274,278,403,305"/>
+<area shape="rect" id="node18" href="$group__LibIOInternal.html#gac22d5afbe375148eef15304958bc4cec" title=" " alt="" coords="266,329,411,355"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreChain.html#ga51ca91740b37b6101d1aa80167ddcfe0" title="Extracts this node (unprotected)." alt="" coords="464,67,668,94"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreChain.html#gad7a790f247b3ace45f039c60c18f999f" title="Checks if the node is off chain." alt="" coords="744,5,891,47"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreChain.html#gadf0e5d55d133694eed8043ec13fe1266" title="Sets off chain." alt="" coords="737,71,897,98"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreChain.html#ga89304b2d294b98f4909dcb6e68d7ec82" title="Returns pointer to chain&#39;s first node." alt="" coords="515,126,617,153"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreChain.html#gac08944db6f0428125d3b0d5a1c65b740" title="Returns pointer to immutable chain head." alt="" coords="726,126,909,153"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreChain.html#gacc6f9947e62bf5bb5fe1cb050b57289b" title="Checks if this node is the chain tail." alt="" coords="510,177,622,203"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreChain.html#gaa2f09e6d639b1bc5a27451eb119b6e33" title="Returns pointer to immutable chain tail." alt="" coords="731,177,903,203"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreChain.html#ga9502cc5cb6c81ef2bce33698005e1752" title="Returns pointer to the next node from this node." alt="" coords="514,227,618,254"/>
+<area shape="rect" id="node15" href="$group__RTEMSScoreAPIMutex.html#ga57829ca494f1d866219c499eadb0ffc9" title="Acquires the specified API mutex." alt="" coords="499,278,633,305"/>
+<area shape="rect" id="node16" href="$mutex_8c.html#a2960aef6016ac8937f24108f9cdeebd0" title=" " alt="" coords="721,253,914,279"/>
+<area shape="rect" id="node17" href="$group__RTEMSScoreThread.html#gad5aaea7af4482aebd880403fb9c238af" title="Set the thread to life protected." alt="" coords="716,303,919,330"/>
+<area shape="rect" id="node19" href="$group__RTEMSScoreAPIMutex.html#ga64a430ae861d0ce7f63413e651fbe36d" title="Releases the specified API mutex." alt="" coords="491,329,641,355"/>
+<area shape="rect" id="node20" href="$mutex_8c.html#adecd7211e7a1a5035841212574f45b31" title=" " alt="" coords="719,354,915,381"/>
+</map>

@@ -1,0 +1,31 @@
+<map id="mcTIMER_struct_tag" name="mcTIMER_struct_tag">
+<area shape="rect" id="node1" title=" " alt="" coords="657,1409,812,1436"/>
+<area shape="rect" id="node2" href="$unionmcTIMER__WDTOH__16B__tag.html" title=" " alt="" coords="328,5,529,32"/>
+<area shape="rect" id="node3" href="$unionmcTIMER__STS__16B__tag.html" title=" " alt="" coords="20,755,195,781"/>
+<area shape="rect" id="node14" href="$structmcTIMER__CHANNEL__struct__tag.html" title=" " alt="" coords="316,1347,541,1373"/>
+<area shape="rect" id="node4" href="$unionmcTIMER__ENBL__16B__tag.html" title=" " alt="" coords="337,192,521,219"/>
+<area shape="rect" id="node5" href="$unionmcTIMER__CTRL3__16B__tag.html" title=" " alt="" coords="12,579,203,605"/>
+<area shape="rect" id="node6" href="$unionmcTIMER__LOAD__16B__tag.html" title=" " alt="" coords="14,1285,201,1312"/>
+<area shape="rect" id="node7" href="$unionmcTIMER__DREQ2__16B__tag.html" title=" " alt="" coords="331,515,526,541"/>
+<area shape="rect" id="node8" href="$unionmcTIMER__DREQ__16B__tag.html" title=" " alt="" coords="335,565,522,592"/>
+<area shape="rect" id="node9" href="$unionmcTIMER__CNTR__16B__tag.html" title=" " alt="" coords="14,345,201,372"/>
+<area shape="rect" id="node10" href="$unionmcTIMER__CAPT2__16B__tag.html" title=" " alt="" coords="11,1091,203,1117"/>
+<area shape="rect" id="node11" href="$unionmcTIMER__COMP2__16B__tag.html" title=" " alt="" coords="9,193,206,220"/>
+<area shape="rect" id="node12" href="$unionmcTIMER__DREQ0__16B__tag.html" title=" " alt="" coords="331,1024,526,1051"/>
+<area shape="rect" id="node13" href="$unionmcTIMER__CMPLD1__16B__tag.html" title=" " alt="" coords="5,1037,209,1064"/>
+<area shape="rect" id="node15" href="$unionmcTIMER__CTRL2__16B__tag.html" title=" " alt="" coords="12,871,203,897"/>
+<area shape="rect" id="node16" href="$unionmcTIMER__HOLD__16B__tag.html" title=" " alt="" coords="14,1843,201,1869"/>
+<area shape="rect" id="node17" href="$unionmcTIMER__CAPT1__16B__tag.html" title=" " alt="" coords="11,1644,203,1671"/>
+<area shape="rect" id="node18" href="$unionmcTIMER__COMP1__16B__tag.html" title=" " alt="" coords="9,2360,206,2387"/>
+<area shape="rect" id="node19" href="$unionmcTIMER__FILT__16B__tag.html" title=" " alt="" coords="19,1556,195,1583"/>
+<area shape="rect" id="node20" href="$unionmcTIMER__CCCTRL__16B__tag.html" title=" " alt="" coords="7,2181,208,2208"/>
+<area shape="rect" id="node21" href="$unionmcTIMER__CMPLD2__16B__tag.html" title=" " alt="" coords="5,1417,209,1444"/>
+<area shape="rect" id="node22" href="$unionmcTIMER__CTRL1__16B__tag.html" title=" " alt="" coords="12,2067,203,2093"/>
+<area shape="rect" id="node23" href="$unionmcTIMER__INTDMA__16B__tag.html" title=" " alt="" coords="6,1936,209,1963"/>
+<area shape="rect" id="node24" href="$unionmcTIMER__DREQ1__16B__tag.html" title=" " alt="" coords="331,2485,526,2512"/>
+<area shape="rect" id="node25" href="$unionmcTIMER__FCTRL__16B__tag.html" title=" " alt="" coords="333,2536,524,2563"/>
+<area shape="rect" id="node26" href="$unionmcTIMER__FFILT__16B__tag.html" title=" " alt="" coords="337,2587,521,2613"/>
+<area shape="rect" id="node27" href="$unionmcTIMER__WDTOL__16B__tag.html" title=" " alt="" coords="329,2637,528,2664"/>
+<area shape="rect" id="node28" href="$unionmcTIMER__FSTS__16B__tag.html" title=" " alt="" coords="338,2688,519,2715"/>
+<area shape="rect" id="node29" href="$unionmcTIMER__DREQ3__16B__tag.html" title=" " alt="" coords="331,2739,526,2765"/>
+</map>

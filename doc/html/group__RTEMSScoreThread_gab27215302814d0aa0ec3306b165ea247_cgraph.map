@@ -1,0 +1,4 @@
+<map id="_Thread_Start_multitasking" name="_Thread_Start_multitasking">
+<area shape="rect" id="node1" title="Starts thread multitasking." alt="" coords="5,13,207,39"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreThread.html#gacd7c2e371fbc36ba623dffe713e6c427" title="Gets the heir of the processor and makes it executing." alt="" coords="255,5,421,47"/>
+</map>

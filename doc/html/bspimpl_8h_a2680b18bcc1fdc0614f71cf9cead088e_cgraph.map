@@ -1,0 +1,7 @@
+<map id="legacy_uart_probe" name="legacy_uart_probe">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,148,57"/>
+<area shape="rect" id="node2" href="$group__RTEMSBSPsI386.html#ga2601d170328dc0331b112a0722c7039c" title=" " alt="" coords="223,5,355,32"/>
+<area shape="rect" id="node4" href="$legacy-console_8c.html#ab7b7632a5db0bff08d69845c22ec1d56" title="console_register_devices" alt="" coords="196,56,383,83"/>
+<area shape="rect" id="node3" href="$group__RTEMSBSPsI386.html#ga505670a3f8ffa8bfcdc846e28be45ff0" title=" " alt="" coords="464,5,568,32"/>
+<area shape="rect" id="node5" href="$legacy-console_8c.html#a876e108a27082ad7b2a68f26dd37b673" title="console_initialize_data" alt="" coords="431,56,601,83"/>
+</map>

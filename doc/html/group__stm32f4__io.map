@@ -1,0 +1,5 @@
+<map id="IO Support" name="IO Support">
+<area shape="rect" id="node1" href="$group__stm32f4__gpio.html" title="GPIO Support." alt="" coords="275,5,383,31"/>
+<area shape="rect" id="node2" href="$group__RTEMSBSPsARMSTM32F4.html" title="STM32F4 Board Support Package." alt="" coords="5,5,88,31"/>
+<area shape="rect" id="node3" title="IO Support." alt="" coords="136,5,227,31"/>
+</map>

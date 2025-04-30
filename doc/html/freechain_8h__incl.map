@@ -1,0 +1,11 @@
+<map id="cpukit/include/rtems/score/freechain.h" name="cpukit/include/rtems/score/freechain.h">
+<area shape="rect" id="node1" title="Freechain Handler API." alt="" coords="125,5,279,47"/>
+<area shape="rect" id="node2" href="$basedefs_8h.html" title="Basic Definitions." alt="" coords="197,244,372,271"/>
+<area shape="rect" id="node7" href="$chainimpl_8h.html" title="Chain Handler API." alt="" coords="177,95,355,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,319,172,345"/>
+<area shape="rect" id="node4" title=" " alt="" coords="197,319,271,345"/>
+<area shape="rect" id="node5" title=" " alt="" coords="295,319,378,345"/>
+<area shape="rect" id="node6" title=" " alt="" coords="403,319,473,345"/>
+<area shape="rect" id="node8" href="$score_2chain_8h.html" title="Chain Handler API." alt="" coords="177,169,328,196"/>
+<area shape="rect" id="node9" href="$assert_8h.html" title="Information for the Assert Handler." alt="" coords="353,169,507,196"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="bsps/powerpc/include/bsp/vmeUniverse.h" name="bsps/powerpc/include/bsp/vmeUniverse.h">
+<area shape="rect" id="node1" title="Driver for the Tundra Universe II pci&#45;vme bridge." alt="" coords="222,5,385,47"/>
+<area shape="rect" id="node2" href="$vme__dma_8c.html" title=" " alt="" coords="5,184,169,225"/>
+<area shape="rect" id="node3" href="$beatnik_2vme_2vmeconfig_8c.html" title=" " alt="" coords="471,95,635,136"/>
+<area shape="rect" id="node4" href="$vmeUniverseDMA_8h.html" title="vmeUniverseDMA Support" alt="" coords="212,95,395,136"/>
+<area shape="rect" id="node5" href="$vme__universe_8c.html" title=" " alt="" coords="194,184,357,225"/>
+<area shape="rect" id="node6" href="$vmeUniverse_8c.html" title=" " alt="" coords="381,184,540,225"/>
+</map>

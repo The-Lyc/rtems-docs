@@ -1,0 +1,52 @@
+<map id="cpukit/include/rtems/score/objectdata.h" name="cpukit/include/rtems/score/objectdata.h">
+<area shape="rect" id="node1" title="Object Handler Data Structures." alt="" coords="3932,5,4087,47"/>
+<area shape="rect" id="node2" href="$extensiondata_8h.html" title="Classic User Extensions Data Structures." alt="" coords="5233,95,5388,136"/>
+<area shape="rect" id="node6" href="$rtems_2posix_2mqueue_8h.html" title="POSIX Message Queues Private Private Support." alt="" coords="5900,95,6055,136"/>
+<area shape="rect" id="node10" href="$semaphore_8h.html" title="Private Support Information for POSIX Semaphores." alt="" coords="6264,95,6419,136"/>
+<area shape="rect" id="node14" href="$shm_8h.html" title="Internal Support for POSIX Shared Memory." alt="" coords="513,95,668,136"/>
+<area shape="rect" id="node20" href="$cpukit_2include_2rtems_2posix_2timer_8h.html" title="POSIX Timers Internal Support." alt="" coords="1492,95,1647,136"/>
+<area shape="rect" id="node24" href="$barrierdata_8h.html" title="Classic Barrier Manager Data Structures." alt="" coords="2068,95,2223,136"/>
+<area shape="rect" id="node27" href="$dpmemdata_8h.html" title="Classic Dual Ported Memory Manager Data Structures." alt="" coords="2442,95,2601,136"/>
+<area shape="rect" id="node30" href="$messagedata_8h.html" title="Classic Message Queue Manager API." alt="" coords="2625,95,2793,136"/>
+<area shape="rect" id="node33" href="$partdata_8h.html" title="Classic Partition Manager Data Structures." alt="" coords="3843,95,3997,136"/>
+<area shape="rect" id="node37" href="$regiondata_8h.html" title="Classic Region Manager Data Structures." alt="" coords="4128,95,4283,136"/>
+<area shape="rect" id="node41" href="$timerdata_8h.html" title="Classic Partition Manager Data Structures." alt="" coords="4477,95,4632,136"/>
+<area shape="rect" id="node44" href="$objectimpl_8h.html" title="Inlined Routines in the Object Handler." alt="" coords="3044,95,3199,136"/>
+<area shape="rect" id="node45" href="$objectallocatestatic_8c.html" title=" " alt="" coords="2817,191,3084,218"/>
+<area shape="rect" id="node46" href="$objectallocateunlimited_8c.html" title=" " alt="" coords="3108,191,3401,218"/>
+<area shape="rect" id="node47" href="$score_2thread_8h.html" title="Constants and Structures Related with the Thread Control Block." alt="" coords="4656,95,4811,136"/>
+<area shape="rect" id="node48" href="$mpcidefault_8c.html" title="Multiprocessing Communications Interface (MPCI) Default Configuration." alt="" coords="5163,191,5381,218"/>
+<area shape="rect" id="node49" href="$objectallocatenone_8c.html" title=" " alt="" coords="6467,102,6730,129"/>
+<area shape="rect" id="node50" href="$objectfreestatic_8c.html" title=" " alt="" coords="6754,102,6995,129"/>
+<area shape="rect" id="node3" href="$extensionimpl_8h.html" title="Classic User Extensions Implementation." alt="" coords="4745,184,4900,225"/>
+<area shape="rect" id="node4" href="$mon-extension_8c.html" title=" " alt="" coords="5405,184,5573,225"/>
+<area shape="rect" id="node5" href="$extension_8c.html" title="Extension Manager Information with Zero Objects." alt="" coords="5597,191,5792,218"/>
+<area shape="rect" id="node7" href="$mqueueimpl_8h.html" title="Private Inlined Routines for POSIX Message Queue." alt="" coords="5817,184,5975,225"/>
+<area shape="rect" id="node8" href="$mqueuesend_8c.html" title="Adds Message Pointed by msg_ptr to Message Queue Reffered by mqdes." alt="" coords="5970,273,6193,300"/>
+<area shape="rect" id="node9" href="$mqueueconfig_8c.html" title=" " alt="" coords="5999,191,6230,218"/>
+<area shape="rect" id="node11" href="$posix_2semaphoreimpl_8h.html" title="Private Inlined Routines for POSIX Semaphores." alt="" coords="6863,184,7041,225"/>
+<area shape="rect" id="node12" href="$psxsemaphore_8c.html" title="POSIX Semaphore Information with Zero Objects." alt="" coords="6305,191,6540,218"/>
+<area shape="rect" id="node13" href="$psxsemaphoreconfig_8c.html" title=" " alt="" coords="6564,191,6839,218"/>
+<area shape="rect" id="node15" href="$mmanimpl_8h.html" title="Internal Support for POSIX 1003.1b 6.3.1 &#45; map pages of memory." alt="" coords="5,184,160,225"/>
+<area shape="rect" id="node16" href="$shmimpl_8h.html" title="Private Support Information for POSIX Shared Memory." alt="" coords="1711,184,1865,225"/>
+<area shape="rect" id="node17" href="$shm_8c.html" title="POSIX Shared Memory Information with Zero Objects." alt="" coords="185,191,351,218"/>
+<area shape="rect" id="node18" href="$shmconfig_8c.html" title=" " alt="" coords="375,191,582,218"/>
+<area shape="rect" id="node19" href="$shmops_8c.html" title=" " alt="" coords="606,191,797,218"/>
+<area shape="rect" id="node21" href="$posix_2timerimpl_8h.html" title="Inlined Routines from the POSIX Timer Manager." alt="" coords="1889,184,2044,225"/>
+<area shape="rect" id="node22" href="$psxtimerconfig_8c.html" title=" " alt="" coords="821,191,1057,218"/>
+<area shape="rect" id="node23" href="$ptimer_8c.html" title="POSIX Timer Information with Zero Objects." alt="" coords="1081,191,1263,218"/>
+<area shape="rect" id="node25" href="$rtems_2barrierimpl_8h.html" title="Classic Barrier Manager Implementation." alt="" coords="2068,184,2223,225"/>
+<area shape="rect" id="node26" href="$barrier_8c.html" title="Classic Barrier Information with Zero Objects." alt="" coords="1287,191,1471,218"/>
+<area shape="rect" id="node28" href="$dpmemimpl_8h.html" title="Dual Ported Memory Manager Implementation." alt="" coords="2442,184,2601,225"/>
+<area shape="rect" id="node29" href="$dpmem_8c.html" title="Classic Dual Ported Memory Information with Zero Objects." alt="" coords="1495,191,1687,218"/>
+<area shape="rect" id="node31" href="$messageimpl_8h.html" title="Classic Message Queue Manager Implementation." alt="" coords="2625,184,2793,225"/>
+<area shape="rect" id="node32" href="$msg_8c.html" title="Classic Message Queue Information with Zero Objects." alt="" coords="2247,191,2417,218"/>
+<area shape="rect" id="node34" href="$partimpl_8h.html" title="Classic Partition Manager Implementation." alt="" coords="3425,184,3580,225"/>
+<area shape="rect" id="node35" href="$mon-part_8c.html" title=" " alt="" coords="3783,184,3951,225"/>
+<area shape="rect" id="node36" href="$part_8c.html" title="Classic Partition Information with Zero Objects." alt="" coords="3975,191,4143,218"/>
+<area shape="rect" id="node38" href="$regionimpl_8h.html" title="Classic Region Manager Implementation." alt="" coords="3604,184,3759,225"/>
+<area shape="rect" id="node39" href="$mon-region_8c.html" title=" " alt="" coords="4375,184,4543,225"/>
+<area shape="rect" id="node40" href="$region_8c.html" title="Classic Region Information with Zero Objects." alt="" coords="4167,191,4350,218"/>
+<area shape="rect" id="node42" href="$rtems_2timerimpl_8h.html" title="Classic Timer Implementation." alt="" coords="4567,184,4721,225"/>
+<area shape="rect" id="node43" href="$rtemstimer_8c.html" title="Classic Timer Information with Zero Objects." alt="" coords="4925,191,5139,218"/>
+</map>

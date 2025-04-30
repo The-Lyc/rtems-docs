@@ -1,0 +1,5 @@
+<map id="_Scheduler_Release_job" name="_Scheduler_Release_job">
+<area shape="rect" id="node1" title="Releases a job of a thread with respect to the scheduler." alt="" coords="5,42,184,69"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreThreadQueue.html#gab84f558bc470437d43ce863f8024534e" title="Clears the priority update count of the thread queue context." alt="" coords="251,5,430,47"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreThread.html#ga0071d4e11d2d68b2e4c43ffe2108e7f5" title="Gets the home scheduler of the thread." alt="" coords="232,71,449,98"/>
+</map>

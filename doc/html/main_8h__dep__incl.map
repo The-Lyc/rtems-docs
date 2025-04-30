@@ -1,0 +1,8 @@
+<map id="bsps/sparc64/include/boot/main.h" name="bsps/sparc64/include/boot/main.h">
+<area shape="rect" id="node1" title=" " alt="" coords="462,5,621,47"/>
+<area shape="rect" id="node2" href="$ofwarch_8h.html" title=" " alt="" coords="345,95,503,136"/>
+<area shape="rect" id="node5" href="$sparc64_2shared_2helenos_2boot_2sparc64_2loader_2main_8c.html" title=" " alt="" coords="424,184,589,240"/>
+<area shape="rect" id="node6" href="$ofwarch_8c.html" title="Architecture dependent parts of OpenFirmware interface." alt="" coords="613,184,779,240"/>
+<area shape="rect" id="node3" href="$ofw_8c.html" title=" " alt="" coords="5,191,208,233"/>
+<area shape="rect" id="node4" href="$ofw__tree_8c.html" title=" " alt="" coords="233,184,399,240"/>
+</map>

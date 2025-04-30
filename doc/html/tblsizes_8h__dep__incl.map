@@ -1,0 +1,5 @@
+<map id="bsps/i386/pc386/include/bsp/tblsizes.h" name="bsps/i386/pc386/include/bsp/tblsizes.h">
+<area shape="rect" id="node1" title="Sizes of Global and Interrupt descriptor tables." alt="" coords="100,5,279,47"/>
+<area shape="rect" id="node2" href="$bsps_2i386_2pc386_2include_2bsp_8h.html" title="Global BSP definitions." alt="" coords="5,95,184,136"/>
+<area shape="rect" id="node3" href="$i386_2shared_2irq_2idt_8c.html" title=" " alt="" coords="209,95,362,136"/>
+</map>

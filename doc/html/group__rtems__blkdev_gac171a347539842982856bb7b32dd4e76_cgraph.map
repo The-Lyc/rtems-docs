@@ -1,0 +1,14 @@
+<map id="rtems_blkstats" name="rtems_blkstats">
+<area shape="rect" id="node1" title="Block device statistics command." alt="" coords="5,31,124,57"/>
+<area shape="rect" id="node2" href="$fstat_8c.html#a23e97e216411694f310e15d36b34ef9c" title=" " alt="" coords="173,5,225,32"/>
+<area shape="rect" id="node4" href="$open_8c.html#a62e93eb794fed24c0f46c6acda6ea510" title=" " alt="" coords="172,56,227,83"/>
+<area shape="rect" id="node3" href="$bootldr_8h.html#a36d20f7d597c517b964289f6b54ddfa7" title=" " alt="" coords="314,5,390,32"/>
+<area shape="rect" id="node5" href="$group__LibIOInternal.html#ga2021231771d73c426958cf0bb7400666" title=" " alt="" coords="275,56,429,83"/>
+<area shape="rect" id="node6" href="$group__LibIOInternal.html#ga12b4b45fb45758475cfbfa8606c7ae9d" title=" " alt="" coords="485,31,615,57"/>
+<area shape="rect" id="node10" href="$group__LibIOInternal.html#gac22d5afbe375148eef15304958bc4cec" title=" " alt="" coords="477,81,623,108"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreAPIMutex.html#ga57829ca494f1d866219c499eadb0ffc9" title="Acquires the specified API mutex." alt="" coords="679,31,813,57"/>
+<area shape="rect" id="node8" href="$mutex_8c.html#a2960aef6016ac8937f24108f9cdeebd0" title=" " alt="" coords="874,5,1067,32"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreThread.html#gad5aaea7af4482aebd880403fb9c238af" title="Set the thread to life protected." alt="" coords="869,56,1072,83"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreAPIMutex.html#ga64a430ae861d0ce7f63413e651fbe36d" title="Releases the specified API mutex." alt="" coords="671,81,821,108"/>
+<area shape="rect" id="node12" href="$mutex_8c.html#adecd7211e7a1a5035841212574f45b31" title=" " alt="" coords="873,107,1069,133"/>
+</map>

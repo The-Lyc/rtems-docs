@@ -1,0 +1,6 @@
+<map id="rtems_task_wake_when" name="rtems_task_wake_when">
+<area shape="rect" id="node1" title="RTEMS Task Wake When." alt="" coords="5,56,184,83"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreTOD.html#gad7357f287de1aec092ef824c185229b9" title="Check if the TOD is Set." alt="" coords="250,5,353,32"/>
+<area shape="rect" id="node3" href="$group__ClassicClock.html#gab5bfb9a415bb9cbb6c9132d8b3de8f61" title="TOD to Seconds." alt="" coords="232,56,371,83"/>
+<area shape="rect" id="node4" href="$group__ClassicClock.html#ga80a0ad7cf75ab4da2f69eea860daeb77" title="TOD Validate." alt="" coords="243,107,360,133"/>
+</map>

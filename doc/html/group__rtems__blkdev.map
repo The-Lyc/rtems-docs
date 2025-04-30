@@ -1,0 +1,9 @@
+<map id="Block Device Management" name="Block Device Management">
+<area shape="rect" id="node1" href="$group__Management.html" title="Management." alt="" coords="607,5,715,31"/>
+<area shape="rect" id="node2" href="$group__rtems__ramdisk.html" title=" " alt="" coords="594,55,729,80"/>
+<area shape="rect" id="node3" href="$group__rtems__libblock.html" title="Block device modules." alt="" coords="5,104,161,129"/>
+<area shape="rect" id="node5" title=" " alt="" coords="211,104,408,129"/>
+<area shape="rect" id="node4" href="$group__rtems__blkdev__generic.html" title=" " alt="" coords="584,104,739,129"/>
+<area shape="rect" id="node6" href="$group__RTEMSFDisk.html" title=" " alt="" coords="592,153,731,179"/>
+<area shape="rect" id="node7" href="$group__rtems__sparse__disk.html" title=" " alt="" coords="587,203,735,228"/>
+</map>

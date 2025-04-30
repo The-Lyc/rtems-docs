@@ -1,0 +1,8 @@
+<map id="Block Device Library" name="Block Device Library">
+<area shape="rect" id="node1" href="$group__rtems__bdbuf.html" title=" " alt="" coords="416,5,567,45"/>
+<area shape="rect" id="node2" href="$group__rtems__disk.html" title="This module provides functions to manage disk devices." alt="" coords="376,70,607,95"/>
+<area shape="rect" id="node3" title="Block device modules." alt="" coords="172,95,328,121"/>
+<area shape="rect" id="node5" href="$group__rtems__blkdev.html" title=" " alt="" coords="393,119,590,145"/>
+<area shape="rect" id="node6" href="$group__rtems__bdpart.html" title="This module provides functions to manage partitions of a disk device." alt="" coords="409,169,574,209"/>
+<area shape="rect" id="node4" href="$group__RTEMSDeviceDrivers.html" title="Device Drivers." alt="" coords="5,95,124,121"/>
+</map>

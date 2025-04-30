@@ -1,0 +1,6 @@
+<map id="bsp_watchdog_system_reset" name="bsp_watchdog_system_reset">
+<area shape="rect" id="node1" title=" " alt="" coords="5,23,176,65"/>
+<area shape="rect" id="node2" href="$sparc_2leon3_2btimer_2watchdog_8c.html#a57a73781f6586c8a2165d15e6b34281d" title=" " alt="" coords="233,5,396,32"/>
+<area shape="rect" id="node4" href="$sparc64_8h.html#aefc86e53f95cb4de8f424b459b243d71" title=" " alt="" coords="224,56,405,83"/>
+<area shape="rect" id="node3" href="$sparc_2leon3_2btimer_2watchdog_8c.html#aa635f485e95bf27bc17c58b6a50f3b5b" title=" " alt="" coords="453,5,596,32"/>
+</map>

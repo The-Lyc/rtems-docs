@@ -1,0 +1,7 @@
+<map id="_CORE_mutex_Acquire_critical" name="_CORE_mutex_Acquire_critical">
+<area shape="rect" id="node1" title="Acquires the mutex critical." alt="" coords="235,104,405,145"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreMutex.html#gae40030a2c780f0da5839deee9387f340" title="Seizes the ceiling mutex." alt="" coords="14,5,178,47"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreMutex.html#gac76286dab6594ca0499aa20861f69fb8" title="Surrenders the ceiling mutex." alt="" coords="14,71,178,112"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreMutex.html#gaacb95bc0bdba9fb365d01dfe2623665d" title="Seizes the recursive mutex." alt="" coords="5,136,187,177"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreMutex.html#ga5096e2975fb3918dafc94ee7d1fc2c06" title="Surrenders the recursive mutex." alt="" coords="5,201,187,243"/>
+</map>

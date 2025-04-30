@@ -1,0 +1,6 @@
+<map id="_Sched_Index" name="_Sched_Index">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,116,83"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreScheduler.html#ga22b124b409502e8e91d3faeab16367ac" title="Gets the index of the scheduler." alt="" coords="189,5,356,32"/>
+<area shape="rect" id="node3" href="$group__PerCPU.html#ga294cfaf3cf50de03f1d9821d68b9c1bd" title="Returns the thread control block of the executing thread." alt="" coords="185,56,360,83"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreThread.html#ga0071d4e11d2d68b2e4c43ffe2108e7f5" title="Gets the home scheduler of the thread." alt="" coords="164,107,381,133"/>
+</map>

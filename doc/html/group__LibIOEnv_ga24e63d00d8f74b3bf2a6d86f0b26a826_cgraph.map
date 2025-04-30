@@ -1,0 +1,12 @@
+<map id="rtems_current_user_env_getgroups" name="rtems_current_user_env_getgroups">
+<area shape="rect" id="node1" title="Gets the supplementary group IDs using the current user ID and updates the table of supplementary gro..." alt="" coords="5,161,153,202"/>
+<area shape="rect" id="node2" href="$getgroups_8c.html#a21cd4cae2ec9bd043c6ef5fef0881c43" title=" " alt="" coords="232,112,319,139"/>
+<area shape="rect" id="node8" href="$if__xxx__rtems_8c.html#a0d44d815bf35b8d64e2c9b7dc79efa76" title=" " alt="" coords="256,168,295,195"/>
+<area shape="rect" id="node9" href="$group__LibIOEnv.html#gae0ea3b12bb890c1f272b6d049a486160" title="Fetch the pointer to the current user environment." alt="" coords="201,230,349,271"/>
+<area shape="rect" id="node3" href="$getgrent_8c.html#ad8139e6b6a3e1c75bc059ff9507cbd48" title=" " alt="" coords="445,5,525,32"/>
+<area shape="rect" id="node4" href="$getgrent_8c.html#ad562e93b891b0df5e1d875b7ad118aa6" title=" " alt="" coords="446,56,523,83"/>
+<area shape="rect" id="node5" href="$pwdgrp_8c.html#a171c52c8fac39d01f77ed0d69efbaa61" title=" " alt="" coords="437,107,532,133"/>
+<area shape="rect" id="node6" href="$getuid_8c.html#a2f517436c22ef73337d3de4920908c6c" title=" " alt="" coords="453,157,516,184"/>
+<area shape="rect" id="node7" href="$getgrent_8c.html#acb15dcd4c02d1f8b693306cd43a8aa69" title=" " alt="" coords="447,208,523,235"/>
+<area shape="rect" id="node10" href="$group__PerCPU.html#ga294cfaf3cf50de03f1d9821d68b9c1bd" title="Returns the thread control block of the executing thread." alt="" coords="397,259,572,285"/>
+</map>

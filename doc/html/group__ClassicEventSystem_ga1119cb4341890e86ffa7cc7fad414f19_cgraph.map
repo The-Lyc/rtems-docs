@@ -1,0 +1,15 @@
+<map id="rtems_event_system_send" name="rtems_event_system_send">
+<area shape="rect" id="node1" title="See rtems_event_send()." alt="" coords="5,173,203,200"/>
+<area shape="rect" id="node2" href="$group__ClassicEventImpl.html#ga6ecbbc770f35aa183650e0e11901efc9" title=" " alt="" coords="269,64,405,91"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreThread.html#gadc33b4b428dfc134ae1622441433b1a1" title="Gets a thread by its identifier." alt="" coords="285,173,389,200"/>
+<area shape="rect" id="node12" href="$group__RTEMSScoreThreadMP.html#ga8c8c9e4dadd94632600e764d4e85ee89" title="Checks if the thread MP with this object id is remote." alt="" coords="251,232,424,259"/>
+<area shape="rect" id="node3" href="$group__ClassicEventImpl.html#ga7f13b2e266b6f66390fcdf588ae80262" title="Posts the given new_events into the event_set passed in." alt="" coords="493,5,628,32"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreThread.html#gafbc47e5ce486029f2311242f2303c66d" title="Acquires the thread wait default lock inside a critical section (interrupts disabled)." alt="" coords="478,57,643,98"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreObject.html#gaba59419fd15c39c93eedbaba5788de05" title="Checks if two object IDs are equal." alt="" coords="473,123,649,149"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreObject.html#gaccc5682133e4f65b8cb374eab9be2c9d" title="Maps the specified object identifier to the associated local object control block." alt="" coords="507,173,615,200"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreThread.html#ga291d97d78d5460ffa5539964e417bb49" title="Gets object information for the object id." alt="" coords="481,225,640,266"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreObject.html#ga22cdf45f285840b7728b06197a7f4627" title="Returns the index portion of the ID." alt="" coords="703,173,854,200"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreObject.html#ga907a0412d7c657fa047641444090fe7b" title="Returns the API portion of the ID." alt="" coords="711,228,847,255"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreObject.html#ga8014a70deeb6819f7e2ca50efd13e1be" title="Checks if the api is valid." alt="" coords="697,279,860,305"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreObjectMP.html#gae1144d0c54b95368022bd861539e9694" title="Checks if the object identifier is in the global object identifier cache of the specified object info..." alt="" coords="472,291,649,317"/>
+</map>

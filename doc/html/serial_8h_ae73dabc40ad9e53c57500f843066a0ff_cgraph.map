@@ -1,0 +1,4 @@
+<map id="bsp_console_select" name="bsp_console_select">
+<area shape="rect" id="node1" title="Selects the minor number of the console device." alt="" coords="5,13,153,39"/>
+<area shape="rect" id="node2" href="$group__RTEMSBSPsI386.html#gaabcc1940ae7a48d540dd1b8c591abd94" title=" " alt="" coords="201,5,364,47"/>
+</map>

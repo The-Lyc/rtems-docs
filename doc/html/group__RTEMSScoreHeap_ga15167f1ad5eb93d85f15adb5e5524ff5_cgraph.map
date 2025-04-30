@@ -1,0 +1,8 @@
+<map id="_Heap_Allocate_aligned_with_boundary" name="_Heap_Allocate_aligned_with_boundary">
+<area shape="rect" id="node1" title="Allocates an aligned memory area with boundary constraint." alt="" coords="5,89,184,131"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreHeap.html#ga2563e03746d89148a8782b02f6159821" title="Returns the first address in the block without the heap header." alt="" coords="232,5,391,47"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreHeap.html#ga0299809a91130b3da718ee889f4fe43d" title="Returns the first block of the free list of the heap." alt="" coords="233,71,390,98"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreHeap.html#gad25276de4aa987568f1bfc66a0c66700" title="Returns the tail of the free list of the heap." alt="" coords="235,122,388,149"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreHeap.html#gad88e4681224e360888f3f4bd020c97a9" title="Returns if the previous heap block is used." alt="" coords="234,173,389,199"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreHeap.html#ga860e7959de03ba830d0ebe1b4cca8273" title="Returns the head of the free list of the heap." alt="" coords="439,71,603,98"/>
+</map>

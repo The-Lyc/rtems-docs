@@ -1,0 +1,5 @@
+<map id="BSP_disable_irq_at_pic" name="BSP_disable_irq_at_pic">
+<area shape="rect" id="node1" title=" " alt="" coords="5,42,176,69"/>
+<area shape="rect" id="node2" href="$group__mips__i8259__irq.html#ga2cbf3b2287a4937b96bacd73ce4ce3c7" title="function to disable a particular irq at 8259 level." alt="" coords="227,5,372,47"/>
+<area shape="rect" id="node3" href="$openpic_8h.html#a0ed65540dbb69ca15df81aa7745b7e3f" title=" " alt="" coords="224,71,375,98"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="bsps/include/bsp/u&#45;boot.h" name="bsps/include/bsp/u&#45;boot.h">
+<area shape="rect" id="node1" title="U_BOOT Support." alt="" coords="506,5,649,47"/>
+<area shape="rect" id="node2" href="$bsps_2powerpc_2gen5200_2include_2bsp_8h.html" title="Global BSP definitions." alt="" coords="5,95,176,136"/>
+<area shape="rect" id="node3" href="$powerpc_2gen83xx_2net_2network_8c.html" title=" " alt="" coords="200,95,371,136"/>
+<area shape="rect" id="node4" href="$gen83xx_2start_2bsprestart_8c.html" title=" " alt="" coords="395,95,565,136"/>
+<area shape="rect" id="node5" href="$powerpc_2gen83xx_2start_2bspstart_8c.html" title="Source for BSP startup code." alt="" coords="589,95,760,136"/>
+<area shape="rect" id="node6" href="$gen83xx_2start_2cpuinit_8c.html" title=" " alt="" coords="784,95,955,136"/>
+<area shape="rect" id="node7" href="$bsp-uboot-board-info_8c.html" title=" " alt="" coords="979,95,1141,136"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="cadence_i2c_bus" name="cadence_i2c_bus">
+<area shape="rect" id="node1" title=" " alt="" coords="75,95,207,121"/>
+<area shape="rect" id="node2" href="$structi2c__msg.html" title="I2C transfer message." alt="" coords="5,5,81,32"/>
+<area shape="rect" id="node3" href="$structi2c__bus.html" title="I2C bus control." alt="" coords="105,5,176,32"/>
+<area shape="rect" id="node4" href="$structcadence__i2c.html" title=" " alt="" coords="200,5,303,32"/>
+</map>

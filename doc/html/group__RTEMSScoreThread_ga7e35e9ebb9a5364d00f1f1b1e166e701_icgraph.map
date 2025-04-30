@@ -1,0 +1,7 @@
+<map id="_Thread_Clear_state" name="_Thread_Clear_state">
+<area shape="rect" id="node1" title="Clears the specified thread state." alt="" coords="448,56,603,83"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreThread.html#ga1234634f1d75c8c0864c5727b526f9a3" title="Unblocks the thread." alt="" coords="257,31,392,57"/>
+<area shape="rect" id="node5" href="$group__ClassicTasks.html#ga5b5778a2be36d41764e730377ccc58a5" title="RTEMS Resume Task." alt="" coords="249,81,400,108"/>
+<area shape="rect" id="node3" href="$group__ClassicEventImpl.html#ga63d82e0e70a4acc2784bb7bc1bba01fb" title=" " alt="" coords="49,5,157,32"/>
+<area shape="rect" id="node4" href="$group__ClassicRateMonImpl.html#gaf57f665d68876281d6798e972a816665" title=" " alt="" coords="5,56,201,83"/>
+</map>

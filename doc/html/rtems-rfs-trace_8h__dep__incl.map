@@ -1,0 +1,36 @@
+<map id="cpukit/include/rtems/rfs/rtems&#45;rfs&#45;trace.h" name="cpukit/include/rtems/rfs/rtems&#45;rfs&#45;trace.h">
+<area shape="rect" id="node1" title="Manages the Trace and Debugging Features of the RTEMS RFS File System." alt="" coords="513,5,671,47"/>
+<area shape="rect" id="node2" href="$rtems-rfs-bitmaps_8h.html" title="RTEMS File Systems Bitmap Routines." alt="" coords="386,184,563,225"/>
+<area shape="rect" id="node3" href="$rtems-rfs-group_8h.html" title="RTEMS File Systems Group Management." alt="" coords="671,273,833,315"/>
+<area shape="rect" id="node8" href="$rtems-rfs-file_8c.html" title="RTEMS File Systems File Routines." alt="" coords="580,809,719,851"/>
+<area shape="rect" id="node12" href="$rtems-rfs-dir_8c.html" title="RTEMS File Systems Directory Routines." alt="" coords="419,720,557,761"/>
+<area shape="rect" id="node14" href="$rtems-rfs-link_8c.html" title="RTEMS File Systems Link Routines." alt="" coords="1807,720,1945,761"/>
+<area shape="rect" id="node21" href="$rtems-rfs-file-system_8c.html" title="RTEMS File Systems Open." alt="" coords="678,541,853,583"/>
+<area shape="rect" id="node30" href="$rtems-rfs-buffer_8h.html" title="Maps Blocks to the Media Interface Layers." alt="" coords="609,95,770,136"/>
+<area shape="rect" id="node31" href="$rtems-rfs-mutex_8h.html" title="RTEMS File System Mutex." alt="" coords="2397,95,2563,136"/>
+<area shape="rect" id="node33" href="$rtems-rfs-format_8h.html" title="RTEMS File System Format." alt="" coords="195,541,349,583"/>
+<area shape="rect" id="node34" href="$rtems-rfs-trace_8c.html" title="RTEMS File Systems Trace Support." alt="" coords="2701,95,2840,136"/>
+<area shape="rect" id="node29" href="$rtems-rfs-bitmaps_8c.html" title="RTEMS File Systems Bitmap Routines." alt="" coords="391,273,545,315"/>
+<area shape="rect" id="node4" href="$rtems-rfs-file-system_8h.html" title="RTEMS File System Data." alt="" coords="1281,363,1479,404"/>
+<area shape="rect" id="node11" href="$rtems-rfs-block_8c.html" title="RTEMS File Systems Block Routines." alt="" coords="927,720,1065,761"/>
+<area shape="rect" id="node15" href="$rtems-rfs-shell_8c.html" title="RTEMS File Systems Shell Commands Support." alt="" coords="232,720,371,761"/>
+<area shape="rect" id="node28" href="$rtems-rfs-group_8c.html" title="RTEMS File Systems Group Routines." alt="" coords="1645,452,1784,493"/>
+<area shape="rect" id="node5" href="$rtems-rfs-block-pos_8h.html" title="RTEMS File Systems Block Position and Size Management." alt="" coords="1029,541,1216,583"/>
+<area shape="rect" id="node6" href="$rtems-rfs-block_8h.html" title="RTEMS File Systems Block Management." alt="" coords="917,631,1075,672"/>
+<area shape="rect" id="node7" href="$rtems-rfs-file_8h.html" title="RTEMS File System File Support." alt="" coords="1493,720,1648,761"/>
+<area shape="rect" id="node13" href="$rtems-rfs-inode_8c.html" title="RTEMS File Systems Inode Routines." alt="" coords="1280,720,1419,761"/>
+<area shape="rect" id="node16" href="$rtems-rfs-dir_8h.html" title="RTEMS File System Directory Support." alt="" coords="1392,541,1547,583"/>
+<area shape="rect" id="node17" href="$rtems-rfs-format_8c.html" title="RTEMS File Systems Format." alt="" coords="585,631,732,672"/>
+<area shape="rect" id="node19" href="$rtems-rfs-inode_8h.html" title="RTEMS File System Information Node." alt="" coords="1157,452,1317,493"/>
+<area shape="rect" id="node20" href="$rtems-rfs-link_8h.html" title="RTEMS File System Link Support." alt="" coords="1672,541,1827,583"/>
+<area shape="rect" id="node22" href="$rtems-rfs-rtems_8h.html" title=" " alt="" coords="2125,541,2267,583"/>
+<area shape="rect" id="node25" href="$rtems-rfs-buffer-bdbuf_8c.html" title="RTEMS File Systems Buffer Routines." alt="" coords="1808,452,1989,493"/>
+<area shape="rect" id="node26" href="$rtems-rfs-buffer-devio_8c.html" title="RTEMS File Systems Buffer Routines." alt="" coords="2013,452,2195,493"/>
+<area shape="rect" id="node27" href="$rtems-rfs-buffer_8c.html" title="RTEMS File Systems Buffer Routines." alt="" coords="2219,452,2357,493"/>
+<area shape="rect" id="node9" href="$rtems-rfs-rtems-file_8c.html" title="RTEMS RFS File Handlers." alt="" coords="2105,809,2271,851"/>
+<area shape="rect" id="node10" href="$rtems-rfs-rtems_8c.html" title="RTEMS File System Interface for RTEMS." alt="" coords="1558,809,1698,851"/>
+<area shape="rect" id="node18" href="$rtems-rfs-rtems-dir_8c.html" title="RTEMS RFS Directory Access Routines." alt="" coords="1767,631,1929,672"/>
+<area shape="rect" id="node23" href="$rtems-rfs-rtems-dev_8c.html" title="RTEMS RFS Device Interface." alt="" coords="2004,631,2172,672"/>
+<area shape="rect" id="node24" href="$rtems-rfs-rtems-utils_8c.html" title="Set of Utility Functions to Support RTEMS RFS on RTEMS." alt="" coords="2196,631,2369,672"/>
+<area shape="rect" id="node32" href="$rtems-rfs-mutex_8c.html" title="RTEMS File System Mutex." alt="" coords="2483,184,2627,225"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="_CORE_recursive_mutex_Surrender" name="_CORE_recursive_mutex_Surrender">
+<area shape="rect" id="node1" title="Surrenders the recursive mutex." alt="" coords="5,140,187,181"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreMutex.html#ga7efc39f335c242812ebe84999e526db4" title="Acquires the mutex critical." alt="" coords="245,5,415,47"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreMutex.html#gabe046b730388df1b060c700dc17a142d" title="Checks if the the thread is the owner of the mutex." alt="" coords="241,71,419,98"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreMutex.html#ga0bb76a8a25cab71b0fdaa1f7b215f809" title="Releases the mutex." alt="" coords="243,122,417,149"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreMutex.html#gaf6d95e3bb9f3ebb168fa67f3731740dc" title="Sets the owner of the mutex." alt="" coords="235,173,425,199"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreThreadQueue.html#ga2f163fd4e89b8ea38e05e2faf4b065cf" title="Surrenders the thread queue previously owned by the thread to the first enqueued thread." alt="" coords="235,223,425,250"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreThread.html#ga778547cad4f7dd7524abb2b9aec0a239" title="Decrements the thread&#39;s resource count." alt="" coords="238,275,422,316"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreThreadQueue.html#ga2bb5c604a28a636950cca7aa43a47869" title="Acquires the thread queue control in a critical section." alt="" coords="480,5,657,47"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreThreadQueue.html#gaf1488e09cc925566233f2f1fc76c4d81" title="Acquires the thread queue control in a critical section." alt="" coords="712,5,913,47"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreMutex.html#gac97696832bb6ad43d333541536040ec3" title="Gets the owner of the mutex." alt="" coords="473,71,664,98"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreThreadQueue.html#ga0a8881ef4106a0707b2751cdd3d18bef" title="Releases the thread queue control and enables interrupts." alt="" coords="479,122,659,149"/>
+</map>

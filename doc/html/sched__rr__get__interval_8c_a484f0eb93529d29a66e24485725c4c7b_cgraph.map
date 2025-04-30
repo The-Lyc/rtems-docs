@@ -1,0 +1,6 @@
+<map id="sched_rr_get_interval" name="sched_rr_get_interval">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,168,57"/>
+<area shape="rect" id="node2" href="$group__Timespec.html#ga457e50d3d65d2a890754fa88ccccc43e" title="Converts ticks to timespec." alt="" coords="216,5,387,32"/>
+<area shape="rect" id="node3" href="$getpid_8c.html#ac61b207337ca21b3b309593fd1a0cb82" title=" " alt="" coords="270,56,333,83"/>
+<area shape="rect" id="node4" href="$group__ClassicClassInfo.html#ga62c21de7d0b7487bba7ebd0ecc11edb3" title="Get the local MPCI node number." alt="" coords="435,56,647,83"/>
+</map>

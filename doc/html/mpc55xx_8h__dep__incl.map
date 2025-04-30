@@ -1,0 +1,10 @@
+<map id="bsps/powerpc/mpc55xxevb/include/mpc55xx/mpc55xx.h" name="bsps/powerpc/mpc55xxevb/include/mpc55xx/mpc55xx.h">
+<area shape="rect" id="node1" title="Documentation for this file." alt="" coords="666,5,879,47"/>
+<area shape="rect" id="node2" href="$dspi_8c.html" title="Source file for the LibI2C bus driver for the Deserial Serial Peripheral Interface (DSPI)." alt="" coords="5,95,204,136"/>
+<area shape="rect" id="node3" href="$powerpc_2mpc55xxevb_2start_2bspstart_8c.html" title="BSP startup code." alt="" coords="228,95,427,136"/>
+<area shape="rect" id="node4" href="$edma_8c.html" title="Enhanced Direct Memory Access (eDMA)." alt="" coords="451,95,649,136"/>
+<area shape="rect" id="node5" href="$flash__support_8c.html" title="MPC55XX flash memory support." alt="" coords="673,95,872,136"/>
+<area shape="rect" id="node6" href="$idle-thread_8c.html" title="bsp_idle_thread() implementation." alt="" coords="896,95,1095,136"/>
+<area shape="rect" id="node7" href="$sd-card-init_8c.html" title="SD Card initialization code." alt="" coords="1119,95,1317,136"/>
+<area shape="rect" id="node8" href="$siu_8c.html" title="System Integration Unit Access (SIU)." alt="" coords="1341,95,1540,136"/>
+</map>

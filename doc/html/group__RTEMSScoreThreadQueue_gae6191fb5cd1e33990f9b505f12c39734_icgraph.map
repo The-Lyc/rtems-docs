@@ -1,0 +1,4 @@
+<map id="_Thread_queue_Add_timeout_ticks" name="_Thread_queue_Add_timeout_ticks">
+<area shape="rect" id="node1" title="Adds timeout ticks of the queue to the thread." alt="" coords="261,5,472,47"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreThreadQueue.html#ga539935c21bc9e51bd27d64eb8f2ea26c" title="Sets the enqueue callout to add a relative monotonic timeout in ticks." alt="" coords="5,5,213,47"/>
+</map>

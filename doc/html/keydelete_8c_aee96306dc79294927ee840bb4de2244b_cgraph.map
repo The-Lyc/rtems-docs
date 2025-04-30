@@ -1,0 +1,11 @@
+<map id="pthread_key_delete" name="pthread_key_delete">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,156,83"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreObject.html#ga3059733162454cc71ff73288ba9b4dfd" title="Locks the object allocator mutex." alt="" coords="204,31,381,57"/>
+<area shape="rect" id="node7" href="$group__POSIX__KEY.html#ga8d47bd5ba7a91092f4df03fc2f22c593" title=" " alt="" coords="225,81,361,108"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreAllocatorMutex.html#ga89aa77edce0d5557b1a7e9d9ef7999c8" title=" " alt="" coords="444,31,619,57"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreAPIMutex.html#ga57829ca494f1d866219c499eadb0ffc9" title="Acquires the specified API mutex." alt="" coords="689,31,824,57"/>
+<area shape="rect" id="node5" href="$mutex_8c.html#a2960aef6016ac8937f24108f9cdeebd0" title=" " alt="" coords="885,5,1078,32"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreThread.html#gad5aaea7af4482aebd880403fb9c238af" title="Set the thread to life protected." alt="" coords="880,56,1083,83"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreObject.html#ga0f21f1287215fd0f82bedfabf5872058" title="Maps object ids to object control blocks." alt="" coords="429,81,633,108"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreObject.html#ga22cdf45f285840b7728b06197a7f4627" title="Returns the index portion of the ID." alt="" coords="681,81,832,108"/>
+</map>

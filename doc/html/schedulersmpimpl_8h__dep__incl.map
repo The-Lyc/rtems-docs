@@ -1,0 +1,11 @@
+<map id="cpukit/include/rtems/score/schedulersmpimpl.h" name="cpukit/include/rtems/score/schedulersmpimpl.h">
+<area shape="rect" id="node1" title="SMP Scheduler Implementation." alt="" coords="787,5,984,47"/>
+<area shape="rect" id="node2" href="$schedulerprioritysmpimpl_8h.html" title="Deterministic Priority SMP Scheduler API." alt="" coords="205,95,449,136"/>
+<area shape="rect" id="node3" href="$schedulerpriorityaffinitysmp_8c.html" title="Deterministic Priority Affinity SMP Scheduler Implementation." alt="" coords="5,184,328,211"/>
+<area shape="rect" id="node5" href="$scheduleredfsmp_8c.html" title="EDF SMP Scheduler Implementation." alt="" coords="473,102,724,129"/>
+<area shape="rect" id="node6" href="$schedulersimplesmp_8c.html" title="Simple SMP Scheduler Implementation." alt="" coords="748,102,1023,129"/>
+<area shape="rect" id="node7" href="$schedulersmp_8c.html" title=" " alt="" coords="1047,102,1278,129"/>
+<area shape="rect" id="node8" href="$schedulersmpstartidle_8c.html" title=" " alt="" coords="1302,102,1586,129"/>
+<area shape="rect" id="node9" href="$schedulerstrongapa_8c.html" title="Strong APA Scheduler Implementation." alt="" coords="1611,102,1877,129"/>
+<area shape="rect" id="node4" href="$schedulerprioritysmp_8c.html" title="Deterministic Priority SMP Scheduler Implementation." alt="" coords="352,184,629,211"/>
+</map>

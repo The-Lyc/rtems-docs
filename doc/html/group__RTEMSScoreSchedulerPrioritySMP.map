@@ -1,0 +1,5 @@
+<map id="Deterministic Priority SMP Scheduler" name="Deterministic Priority SMP Scheduler">
+<area shape="rect" id="node1" title="Deterministic Priority SMP Scheduler." alt="" coords="172,5,333,45"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreSchedulerPriorityAffinitySMP.html" title="Deterministic Priority Affinity SMP Scheduler." alt="" coords="381,5,555,45"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreSchedulerSMP.html" title="SMP Scheduler." alt="" coords="5,13,124,38"/>
+</map>

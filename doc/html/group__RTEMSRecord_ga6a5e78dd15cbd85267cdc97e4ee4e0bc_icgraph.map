@@ -1,0 +1,45 @@
+<map id="rtems_record_produce_n" name="rtems_record_produce_n">
+<area shape="rect" id="node1" title="Produces n record items." alt="" coords="244,1044,427,1071"/>
+<area shape="rect" id="node2" href="$record-util_8c.html#a1018e47e2945ffbf20f39f69902892dc" title=" " alt="" coords="33,5,168,32"/>
+<area shape="rect" id="node3" href="$record-util_8c.html#afa5420e5255e4b10d3fe7b89a2b6ee5a" title=" " alt="" coords="33,56,168,83"/>
+<area shape="rect" id="node4" href="$record-util_8c.html#affc2e5f6a26a34bf2802c2b12572cb77" title=" " alt="" coords="27,107,174,133"/>
+<area shape="rect" id="node5" href="$record-util_8c.html#a062adfbe7c112adbee770b67868bd419" title=" " alt="" coords="15,157,186,184"/>
+<area shape="rect" id="node6" href="$record-util_8c.html#a54a70be40122d4592464999d49aea5a3" title=" " alt="" coords="19,208,182,235"/>
+<area shape="rect" id="node7" href="$record-util_8c.html#ab3490d4b646efed8e8ba420a4bc256b3" title=" " alt="" coords="19,259,182,285"/>
+<area shape="rect" id="node8" href="$record-util_8c.html#a8294336ee497ef6a67f991d25b93afb6" title=" " alt="" coords="19,309,182,336"/>
+<area shape="rect" id="node9" href="$record-util_8c.html#a471e315666cabefad0a3387d708c3e4e" title=" " alt="" coords="19,360,182,387"/>
+<area shape="rect" id="node10" href="$record-util_8c.html#ac3cd0ef03a897f1d5c1c10570bcf1c2a" title=" " alt="" coords="19,411,182,437"/>
+<area shape="rect" id="node11" href="$record-util_8c.html#a6c20e0b1cba59fb3105141873c974566" title=" " alt="" coords="19,461,182,488"/>
+<area shape="rect" id="node12" href="$record-util_8c.html#a084b0119a58135dd7ab77a1440888a9f" title=" " alt="" coords="19,512,182,539"/>
+<area shape="rect" id="node13" href="$record-util_8c.html#a57811ead18966a94c221ee453fd7a796" title=" " alt="" coords="19,563,182,589"/>
+<area shape="rect" id="node14" href="$record-util_8c.html#ac0442e95a9943d6d7d6069d24f6acd4c" title=" " alt="" coords="31,613,170,640"/>
+<area shape="rect" id="node15" href="$record-util_8c.html#a03f4576117e5cbaec9e2416a842efc24" title=" " alt="" coords="35,664,166,691"/>
+<area shape="rect" id="node16" href="$record-util_8c.html#a30b4685ba9d7a03a7418b1a0b667c887" title=" " alt="" coords="35,715,166,741"/>
+<area shape="rect" id="node17" href="$record-util_8c.html#a253ea13cac93c009c2f24f326728b714" title=" " alt="" coords="35,765,166,792"/>
+<area shape="rect" id="node18" href="$record-util_8c.html#a3f17e99e76a428cf0a909baafea74b0d" title=" " alt="" coords="35,816,166,843"/>
+<area shape="rect" id="node19" href="$record-util_8c.html#aa9a1b85bb74182e7bb28272ae31dcb00" title=" " alt="" coords="35,867,166,893"/>
+<area shape="rect" id="node20" href="$record-util_8c.html#a42e35dcd10f4dc5b530f9e245d36735f" title=" " alt="" coords="35,917,166,944"/>
+<area shape="rect" id="node21" href="$record-util_8c.html#ace20adac6f99484099b31ea83ea8b3ee" title=" " alt="" coords="35,968,166,995"/>
+<area shape="rect" id="node22" href="$record-util_8c.html#a77744f5ec707b15f93f1bccc4302f0b3" title=" " alt="" coords="35,1019,166,1045"/>
+<area shape="rect" id="node23" href="$record-util_8c.html#ad7678aedd0ff041e83f891bff60858da" title=" " alt="" coords="36,1069,165,1096"/>
+<area shape="rect" id="node24" href="$record-util_8c.html#afb5d6abb5826555335c022f7cafdfab6" title=" " alt="" coords="40,1120,161,1147"/>
+<area shape="rect" id="node25" href="$record-util_8c.html#a9d13fb8cb0f4fe8db896b2edbabdb21a" title=" " alt="" coords="40,1171,161,1197"/>
+<area shape="rect" id="node26" href="$record-util_8c.html#a5cb0e6fdf1f3779b1bc0d1c8c61feea2" title=" " alt="" coords="40,1221,161,1248"/>
+<area shape="rect" id="node27" href="$record-util_8c.html#a80c2658b1c24969472d70c9926f58ce8" title=" " alt="" coords="40,1272,161,1299"/>
+<area shape="rect" id="node28" href="$record-util_8c.html#abf36991e0ea12f4720d8a2f560d62f7c" title=" " alt="" coords="40,1323,161,1349"/>
+<area shape="rect" id="node29" href="$record-util_8c.html#a960bb68074e16ee89876b0edb4fdfbbe" title=" " alt="" coords="40,1373,161,1400"/>
+<area shape="rect" id="node30" href="$record-util_8c.html#a73d0dbe51d0c65e8a056dc69dac4f806" title=" " alt="" coords="40,1424,161,1451"/>
+<area shape="rect" id="node31" href="$record-util_8c.html#a112e1fc2cf29c7539ccf3254b7c4e436" title=" " alt="" coords="40,1475,161,1501"/>
+<area shape="rect" id="node32" href="$record-userext_8c.html#a070c00eef2cf8b5e84479b5ed0397ff0" title=" " alt="" coords="13,1525,188,1552"/>
+<area shape="rect" id="node33" href="$record-userext_8c.html#a80a1705fd5295b1c6b191b8a543ca699" title=" " alt="" coords="13,1576,188,1603"/>
+<area shape="rect" id="node34" href="$group__RTEMSRecord.html#gaf7ef62ae9e2ff1e27c7b1d2a0bcfcc6e" title="Generates an RTEMS_RECORD_LINE event and two extra events." alt="" coords="23,1627,178,1653"/>
+<area shape="rect" id="node35" href="$group__RTEMSRecord.html#ga29c660908f2516727be5446bf0bd5bf7" title="Generates an RTEMS_RECORD_LINE event and ten argument events." alt="" coords="5,1677,196,1704"/>
+<area shape="rect" id="node36" href="$group__RTEMSRecord.html#ga547a6428c652cba5db755855c67d55b2" title="Generates an RTEMS_RECORD_LINE event and two argument events." alt="" coords="9,1728,192,1755"/>
+<area shape="rect" id="node37" href="$group__RTEMSRecord.html#gaa8e8420d7d8e1dce17ff689cd1efd1ff" title="Generates an RTEMS_RECORD_LINE event and three argument events." alt="" coords="9,1779,192,1805"/>
+<area shape="rect" id="node38" href="$group__RTEMSRecord.html#ga440769c3469c94bf59efc3cc2f977493" title="Generates an RTEMS_RECORD_LINE event and four argument events." alt="" coords="9,1829,192,1856"/>
+<area shape="rect" id="node39" href="$group__RTEMSRecord.html#ga667b80069071f1eb1e03979a680600d5" title="Generates an RTEMS_RECORD_LINE event and five argument events." alt="" coords="9,1880,192,1907"/>
+<area shape="rect" id="node40" href="$group__RTEMSRecord.html#ga442b9273fa2ee5fce152ef9cf24dcbf9" title="Generates an RTEMS_RECORD_LINE event and six argument events." alt="" coords="9,1931,192,1957"/>
+<area shape="rect" id="node41" href="$group__RTEMSRecord.html#gaec1bd9c0d07df7237df2ae660dae2ae7" title="Generates an RTEMS_RECORD_LINE event and seven argument events." alt="" coords="9,1981,192,2008"/>
+<area shape="rect" id="node42" href="$group__RTEMSRecord.html#ga899210b034f9ee8addb7d142ffd6d549" title="Generates an RTEMS_RECORD_LINE event and eight argument events." alt="" coords="9,2032,192,2059"/>
+<area shape="rect" id="node43" href="$group__RTEMSRecord.html#ga64f6642bf2ec6f60d7e5e2b1bc3fd64f" title="Generates an RTEMS_RECORD_LINE event and nine argument events." alt="" coords="9,2083,192,2109"/>
+</map>

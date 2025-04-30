@@ -1,0 +1,4 @@
+<map id="rtems_fatal" name="rtems_fatal">
+<area shape="rect" id="node1" title="Terminates the system." alt="" coords="212,5,309,32"/>
+<area shape="rect" id="node2" href="$group__ppc__exc.html#ga638134c589f6bde05b3765da1eb31c02" title="Default global exception handler." alt="" coords="5,5,164,32"/>
+</map>

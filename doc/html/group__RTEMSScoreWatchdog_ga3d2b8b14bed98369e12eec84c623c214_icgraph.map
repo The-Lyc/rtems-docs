@@ -1,0 +1,12 @@
+<map id="_Watchdog_Insert" name="_Watchdog_Insert">
+<area shape="rect" id="node1" title="Inserts a watchdog into the set of scheduled watchdogs according to the specified expiration time." alt="" coords="679,93,816,120"/>
+<area shape="rect" id="node2" href="$group__ClassicTimerImpl.html#ga88df13f9a367637321a0783369bec2cb" title=" " alt="" coords="482,39,581,65"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreWatchdog.html#gafe13ff2012b33245774dd1ccb09da175" title="Sets the watchdog&#39;s cpu and inserts it with the given expiration time in the scheduled watchdogs." alt="" coords="432,93,631,120"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreWatchdog.html#gae396749d9d59bd42fb6927ef35880661" title="Sets the watchdog&#39;s cpu to the given instance and sets its expiration time to the watchdog expiration..." alt="" coords="432,147,631,189"/>
+<area shape="rect" id="node3" href="$group__ClassicTimerImpl.html#gaa71b85670a35521a0f1267eabcbc3835" title=" " alt="" coords="235,35,369,61"/>
+<area shape="rect" id="node4" href="$group__ClassicTimer.html#gad9785a6bd78ab5a591a134d147b2bdd3" title="RTEMS Timer Fire After." alt="" coords="5,5,172,32"/>
+<area shape="rect" id="node5" href="$group__ClassicTimer.html#ga521234c97e4fbf2d2e759d78447b5a8f" title="RTEMS Timer Server Fire After." alt="" coords="13,57,164,98"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreThread.html#ga21916832cf16bf603f348041e2c04859" title="Inserts the cpu&#39;s watchdog realtime into the thread&#39;s timer." alt="" coords="221,86,383,127"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreThread.html#ga9f508c3f03d4d52fd2420746ce14fe03" title="Adds timeout ticks to the thread." alt="" coords="220,151,384,193"/>
+<area shape="rect" id="node10" href="$group__ClassicEventImpl.html#ga63d82e0e70a4acc2784bb7bc1bba01fb" title=" " alt="" coords="35,159,143,185"/>
+</map>

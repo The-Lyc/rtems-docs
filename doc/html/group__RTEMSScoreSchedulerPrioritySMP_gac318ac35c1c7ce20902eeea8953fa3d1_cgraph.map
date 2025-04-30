@@ -1,0 +1,4 @@
+<map id="_Scheduler_priority_SMP_Block" name="_Scheduler_priority_SMP_Block">
+<area shape="rect" id="node1" title="Blocks the thread." alt="" coords="5,5,152,47"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreScheduler.html#ga9c62ef5a388b998fa041a269297be1fe" title="Gets the context of the scheduler." alt="" coords="200,13,379,39"/>
+</map>

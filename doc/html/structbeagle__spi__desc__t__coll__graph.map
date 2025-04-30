@@ -1,0 +1,6 @@
+<map id="beagle_spi_desc_t" name="beagle_spi_desc_t">
+<area shape="rect" id="node1" title=" " alt="" coords="102,184,243,211"/>
+<area shape="rect" id="node2" href="$structrtems__libi2c__bus__t__.html" title=" " alt="" coords="15,95,165,121"/>
+<area shape="rect" id="node3" href="$structrtems__libi2c__bus__ops__.html" title=" " alt="" coords="5,5,175,32"/>
+<area shape="rect" id="node4" href="$structbeagle__spi__softc.html" title=" " alt="" coords="190,95,321,121"/>
+</map>

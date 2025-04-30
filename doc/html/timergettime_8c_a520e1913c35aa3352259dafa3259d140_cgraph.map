@@ -1,0 +1,12 @@
+<map id="timer_gettime" name="timer_gettime">
+<area shape="rect" id="node1" title=" " alt="" coords="5,148,120,175"/>
+<area shape="rect" id="node2" href="$posix_2timerimpl_8h.html#aec7705a0a3576d845124c84d59087181" title=" " alt="" coords="169,57,339,98"/>
+<area shape="rect" id="node5" href="$posix_2timerimpl_8h.html#a1d4676c4320534f2c346154098db1da4" title="POSIX Timer Get." alt="" coords="183,123,325,149"/>
+<area shape="rect" id="node8" href="$posix_2timerimpl_8h.html#a4e9d5f902ee7d8b7a124d6d3d40a128b" title=" " alt="" coords="168,173,340,200"/>
+<area shape="rect" id="node10" href="$group__Timespec.html#ga457e50d3d65d2a890754fa88ccccc43e" title="Converts ticks to timespec." alt="" coords="169,224,339,251"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreWatchdog.html#gaf1cb44dc5d0789c722e5272370fc20b4" title="Gets the watchdog&#39;s cpu." alt="" coords="415,5,572,32"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreWatchdog.html#ga2d69aa4531d31a6d4c7784de2e4e91ae" title="Acquires the per cpu watchdog lock in a critical section." alt="" coords="388,57,599,98"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreObject.html#gaccc5682133e4f65b8cb374eab9be2c9d" title="Maps the specified object identifier to the associated local object control block." alt="" coords="439,123,547,149"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreObject.html#ga22cdf45f285840b7728b06197a7f4627" title="Returns the index portion of the ID." alt="" coords="647,123,797,149"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreWatchdog.html#ga6b10befdd7d24a03d5b738b62c08a4f3" title="Releases the per cpu watchdog lock in a critical section." alt="" coords="388,174,599,215"/>
+</map>

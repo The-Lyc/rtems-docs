@@ -1,0 +1,6 @@
+<map id="rtems_termios_close" name="rtems_termios_close">
+<area shape="rect" id="node1" title=" " alt="" coords="167,56,325,83"/>
+<area shape="rect" id="node2" href="$bfin_2bf537Stamp_2console_2console_8c.html#a4efabb094608f8155b1a679e03f2eafc" title="Console close entry point." alt="" coords="5,5,119,32"/>
+<area shape="rect" id="node3" href="$ps2__drv_8h.html#a11237fae9b9369e3fe3f1c740f6aa8ef" title=" " alt="" coords="15,56,109,83"/>
+<area shape="rect" id="node4" href="$group__i386__tty.html#ga10756309126cd53d00dea24f17888f9d" title="tty1 &amp; tty2 shared entry points" alt="" coords="21,107,103,133"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="rtems_rbtree_min" name="rtems_rbtree_min">
+<area shape="rect" id="node1" title="Returns the minimum node of the red&#45;black tree." alt="" coords="231,56,369,83"/>
+<area shape="rect" id="node2" href="$group__ClassicRBTrees.html#gaf2f3d6be3886b350a0ef83d4225b74bc" title="Gets a node with the minimum key value from the red&#45;black tree." alt="" coords="11,5,177,32"/>
+<area shape="rect" id="node3" href="$group__ClassicRBTrees.html#gab52a8561fdde5d8722a156075963d9f7" title="Is this the minimum node on the RBTree." alt="" coords="16,56,172,83"/>
+<area shape="rect" id="node4" href="$group__ClassicRBTrees.html#gaf8534bd70e35281fe993c5b6fd1a20b8" title="Peek at the min node on a rbtree." alt="" coords="5,107,183,133"/>
+</map>

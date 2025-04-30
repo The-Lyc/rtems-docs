@@ -1,0 +1,4 @@
+<map id="Interrupt Locks" name="Interrupt Locks">
+<area shape="rect" id="node1" title="Low&#45;level lock to protect critical sections accessed by threads and interrupt service routines." alt="" coords="139,5,257,31"/>
+<area shape="rect" id="node2" href="$group__ClassicINTR.html" title=" " alt="" coords="5,5,91,31"/>
+</map>

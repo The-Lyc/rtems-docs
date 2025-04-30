@@ -1,0 +1,11 @@
+<map id="i2c_dev_alloc_and_init" name="i2c_dev_alloc_and_init">
+<area shape="rect" id="node1" title="Allocates a device control from the heap and initializes it." alt="" coords="240,228,409,255"/>
+<area shape="rect" id="node2" href="$group__I2CEEPROM.html#ga809ef5ca392c60e6c037808888c214a9" title=" " alt="" coords="5,5,192,32"/>
+<area shape="rect" id="node3" href="$fpga-i2c-slave_8h.html#ae140fe9c6f4e219cbd51042ac796b869" title=" " alt="" coords="16,57,181,98"/>
+<area shape="rect" id="node4" href="$group__I2CGPIONXPPCA9535.html#gace67a1e02f03afdf690e2967721877f3" title=" " alt="" coords="17,122,181,163"/>
+<area shape="rect" id="node5" href="$group__I2CSensorLM75A.html#gac7339effcd78f07e0c85574c0933d388" title=" " alt="" coords="9,187,188,229"/>
+<area shape="rect" id="node6" href="$group__I2CSWITCHNXPPCA9548A.html#ga27d973187b8638b60ac0d59a95a9f1b1" title=" " alt="" coords="9,253,188,294"/>
+<area shape="rect" id="node7" href="$ti-ads-16bit-adc_8h.html#a762ebcdda40dedcb1aa301ebf0f9698f" title=" " alt="" coords="26,318,171,359"/>
+<area shape="rect" id="node8" href="$ti-lm25066a_8h.html#a2e8a40b46c8159b7fb9bb2e4cec5b24e" title=" " alt="" coords="26,383,171,425"/>
+<area shape="rect" id="node9" href="$ti-tmp112_8h.html#aad1aec9585c12ed3f988fb787ee3bebd" title=" " alt="" coords="26,449,171,490"/>
+</map>

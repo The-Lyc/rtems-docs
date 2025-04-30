@@ -1,0 +1,8 @@
+<map id="bsps/sparc64/shared/helenos/boot/genarch" name="bsps/sparc64/shared/helenos/boot/genarch">
+<area shape="rect" id="node1" href="dir_b8c646594703ced223461e5354c3a7ba.html" title="genarch" alt="" coords="52,52,127,100"/>
+<area shape="rect" id="node2" href="dir_eb065905402c590b15497afd6718ba1a.html" title="include" alt="" coords="5,148,77,196"/>
+<area shape="rect" id="edge1-headlabel" href="dir_001022_000072.html" title="11" alt="" coords="60,128,78,143"/>
+<area shape="rect" id="node3" href="dir_cd198e36225ba3f41de97552050ac017.html" title="cpukit" alt="" coords="101,148,173,196"/>
+<area shape="rect" id="edge2-headlabel" href="dir_001022_000080.html" title="3" alt="" coords="120,121,129,135"/>
+<area shape="rect" id="clust1" href="dir_a0b4212e37c6e065659f7965956bed08.html" title="boot" alt="" coords="41,16,137,111"/>
+</map>

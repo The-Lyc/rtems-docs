@@ -1,0 +1,5 @@
+<map id="rtems_media_create_path" name="rtems_media_create_path">
+<area shape="rect" id="node1" title="Creates a new path as &quot;prefix/name&#45;major&quot;." alt="" coords="5,31,197,57"/>
+<area shape="rect" id="node2" href="$if__gfe_2rtemscompat__defs_8h.html#a357a42eb6494ea592e9c3f96c55cebe2" title=" " alt="" coords="245,5,317,32"/>
+<area shape="rect" id="node3" href="$lib_8c.html#ace2e8f8b5db1119196eee36974d8b536" title=" " alt="" coords="252,56,311,83"/>
+</map>

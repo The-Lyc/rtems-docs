@@ -1,0 +1,7 @@
+<map id="VBE_mode_information" name="VBE_mode_information">
+<area shape="rect" id="node1" title="Fills structure info_block with informations about selected mode in mode_number variable." alt="" coords="5,71,180,98"/>
+<area shape="rect" id="node2" href="$realmode__int_8h.html#a0971c9c582ca7ed6c973370d8d2ddcf2" title="Returns buffer and its size usable with real mode interrupt call." alt="" coords="237,5,393,47"/>
+<area shape="rect" id="node3" href="$i386_8h.html#a3ff23e272c8ca1bc3683f88550f96e07" title="Retrieves real mode pointer elements {segmnet, offset} from physical address." alt="" coords="234,71,397,98"/>
+<area shape="rect" id="node4" href="$realmode__int_8h.html#a1541b4af8720ed12dd8b966a7db9b100" title="Call to real mode interrupt with specified int NO and processor registers." alt="" coords="228,122,403,149"/>
+<area shape="rect" id="node5" href="$i386-stub-glue_8c.html#a1e0a236f3682681ac79ede3a128bffd5" title=" " alt="" coords="451,122,529,149"/>
+</map>

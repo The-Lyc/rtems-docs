@@ -1,0 +1,5 @@
+<map id="bsps/sparc/shared/start/bsp_fatal_exit.c" name="bsps/sparc/shared/start/bsp_fatal_exit.c">
+<area shape="rect" id="node1" title="ERC32/LEON2/LEON3 BSP specific exit handler." alt="" coords="9,5,182,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,95,63,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="87,95,226,121"/>
+</map>

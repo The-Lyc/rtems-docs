@@ -1,0 +1,12 @@
+<map id="_Thread_queue_Heads_initialize" name="_Thread_queue_Heads_initialize">
+<area shape="rect" id="node1" title="Initializes the thread queue heads." alt="" coords="5,99,175,141"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreChain.html#ga322cf50ff1974dab1ce8d60ec94ef5f8" title="Initializes this chain as empty." alt="" coords="223,56,401,83"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreChain.html#gab0fa19f01d37f1d510405e6382fd8b67" title="Initializes a chain node." alt="" coords="228,107,396,133"/>
+<area shape="rect" id="node7" href="$group__RTEMSScorePriority.html#ga8d8c4f07bd22c4dd27a592368fadedcf" title="Initializes the priority aggregation empty." alt="" coords="243,158,381,199"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreChain.html#ga8b66d3138b9cdacbcb0600c42237ff7d" title="Returns pointer to chain head." alt="" coords="484,5,591,32"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreChain.html#ga06f3e2dd6d64411f0565e3b483e53673" title="Returns pointer to chain tail." alt="" coords="490,56,585,83"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreChain.html#gadf0e5d55d133694eed8043ec13fe1266" title="Sets off chain." alt="" coords="457,107,617,133"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreRBTree.html#ga3b281ee15da2dfdd1a8c2bc7b4fc40b5" title="Initializes this RBTree as empty." alt="" coords="469,158,606,199"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreRBTree.html#gabbc757c2fd03694b6f9bb5aa2be553ff" title="Initializes a red&#45;black tree node." alt="" coords="449,224,625,251"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreRBTree.html#ga82d9b6f1aad201e7c8b614a0e970b356" title="Sets a red&#45;black tree node as off&#45;tree." alt="" coords="673,224,832,251"/>
+</map>

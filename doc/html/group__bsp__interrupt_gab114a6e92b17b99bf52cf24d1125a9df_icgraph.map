@@ -1,0 +1,4 @@
+<map id="bsp_interrupt_facility_initialize" name="bsp_interrupt_facility_initialize">
+<area shape="rect" id="node1" title="BSP specific initialization." alt="" coords="232,5,392,47"/>
+<area shape="rect" id="node2" href="$group__RTEMSBSPsSharedStartup.html#gae847768d4b83b8e3e4bc7313095ef7dd" title="Standard start routine for secondary processors." alt="" coords="5,5,184,47"/>
+</map>

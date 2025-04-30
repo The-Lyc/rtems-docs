@@ -1,0 +1,19 @@
+<map id="cpukit/score/cpu/i386" name="cpukit/score/cpu/i386">
+<area shape="rect" id="node2" href="dir_f0690e0970fd3204f047ad88c466e8fe.html" title="include" alt="" coords="37,159,109,207"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000903_000992.html" title="2" alt="" coords="77,133,86,148"/>
+<area shape="rect" id="node3" href="dir_8c02ade8afce3eac690e731f5f9c9c6b.html" title="libfs" alt="" coords="111,255,183,303"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000903_000480.html" title="2" alt="" coords="146,228,155,242"/>
+<area shape="rect" id="node4" href="dir_49b8d5997469a34e9a523535602b7e1a.html" title="bsps" alt="" coords="184,159,256,207"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000903_000000.html" title="1" alt="" coords="169,134,178,149"/>
+<area shape="rect" id="node5" href="dir_4f6a7e6de63bf7faab77653961b179a0.html" title="include" alt="" coords="111,351,183,399"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000903_000241.html" title="12" alt="" coords="187,338,205,353"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000992_000480.html" title="1" alt="" coords="120,228,129,242"/>
+<area shape="rect" id="edge10-headlabel" href="dir_000992_000241.html" title="4" alt="" coords="119,324,129,338"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000480_000241.html" title="262" alt="" coords="133,325,159,339"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000000_000992.html" title="1" alt="" coords="123,184,132,198"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000000_000480.html" title="268" alt="" coords="170,238,195,253"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000000_000241.html" title="2147" alt="" coords="166,333,200,348"/>
+<area shape="rect" id="edge11-headlabel" href="dir_000241_000480.html" title="24" alt="" coords="139,314,156,329"/>
+<area shape="rect" id="clust2" href="dir_52d177ac548baf3f1c9f12ab889a0789.html" alt="" coords="27,52,120,217"/>
+<area shape="rect" id="clust1" href="dir_19f76e80a70030fb9c388ff4e4a84222.html" title="cpu" alt="" coords="16,16,131,228"/>
+</map>

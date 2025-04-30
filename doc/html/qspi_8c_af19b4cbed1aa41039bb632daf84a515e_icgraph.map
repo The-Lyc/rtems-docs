@@ -1,0 +1,7 @@
+<map id="QSPI_WriteSPI" name="QSPI_WriteSPI">
+<area shape="rect" id="node1" title="Write to QSPI Tx register in SPI mode." alt="" coords="208,81,323,108"/>
+<area shape="rect" id="node2" href="$qspi_8h.html#aa8e703416d8faf7e6ca68d18c1da6115" title="Reads multiple data received by a SPI peripheral. This method must be called after a successful SPI_W..." alt="" coords="10,5,155,32"/>
+<area shape="rect" id="node3" href="$qspi_8h.html#ade81d33cb14e6aa8701d4824de0656a2" title="Sends multiple data through a SPI peripheral." alt="" coords="9,56,156,83"/>
+<area shape="rect" id="node4" href="$qspi_8h.html#aaa891e040401e77f8f68068c6751a558" title="Reads the data received by a SPI peripheral. This method must be called after a successful SPI_Write ..." alt="" coords="7,107,159,133"/>
+<area shape="rect" id="node5" href="$qspi_8h.html#a2e91dc0a09fbf99a27f36836807b1a60" title="Sends a single data through a SPI peripheral." alt="" coords="5,157,160,184"/>
+</map>

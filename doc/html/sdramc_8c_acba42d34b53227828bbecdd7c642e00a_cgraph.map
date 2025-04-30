@@ -1,0 +1,4 @@
+<map id="SDRAMC_Configure" name="SDRAMC_Configure">
+<area shape="rect" id="node1" title="Configure and initialize the SDRAM controller." alt="" coords="5,5,153,32"/>
+<area shape="rect" id="node2" href="$atsam_2contrib_2libraries_2libchip_2source_2pmc_8c.html#a4154148b8d69545bca1b5c868c004d49" title="Enables the clock of a peripheral. The peripheral ID is used to identify which peripheral is targeted..." alt="" coords="201,5,369,32"/>
+</map>

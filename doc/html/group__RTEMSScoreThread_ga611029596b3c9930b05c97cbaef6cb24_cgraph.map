@@ -1,0 +1,4 @@
+<map id="_Thread_Priority_perform_actions" name="_Thread_Priority_perform_actions">
+<area shape="rect" id="node1" title="Checks if the thread is owner of the lock of the join queue." alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreThreadQueue.html#gae87ba650367cd3744e08ce9a0a23c8a0" title="Returns the priority update count of the thread queue context." alt="" coords="240,5,419,47"/>
+</map>

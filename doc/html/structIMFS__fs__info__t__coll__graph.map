@@ -1,0 +1,18 @@
+<map id="IMFS_fs_info_t" name="IMFS_fs_info_t">
+<area shape="rect" id="node1" title=" " alt="" coords="2793,724,2909,751"/>
+<area shape="rect" id="node2" href="$structIMFS__mknod__controls.html" title=" " alt="" coords="2472,603,2636,629"/>
+<area shape="rect" id="node3" href="$structIMFS__mknod__control.html" title=" " alt="" coords="2208,455,2365,481"/>
+<area shape="rect" id="node4" href="$structIMFS__node__control.html" title="IMFS node control." alt="" coords="1879,469,2023,496"/>
+<area shape="rect" id="node15" href="$structIMFS__jnode__tt.html" title=" " alt="" coords="2230,552,2343,579"/>
+<area shape="rect" id="node5" href="$struct__rtems__filesystem__file__handlers__r.html" title="File system node operations table." alt="" coords="1539,135,1709,177"/>
+<area shape="rect" id="node6" href="$structrtems__filesystem__location__info__tt.html" title="File system location." alt="" coords="896,453,1091,494"/>
+<area shape="rect" id="node9" href="$structrtems__filesystem__global__location__t.html" title="Global file system location." alt="" coords="1197,595,1380,637"/>
+<area shape="rect" id="node12" href="$struct__rtems__filesystem__operations__table.html" title="File system operations table." alt="" coords="1841,626,2060,667"/>
+<area shape="rect" id="node13" href="$structrtems__filesystem__eval__path__context__t.html" title="Path evaluation context." alt="" coords="1539,595,1709,637"/>
+<area shape="rect" id="node14" href="$structrtems__libio__tt.html" title="An open file data structure." alt="" coords="1233,348,1345,375"/>
+<area shape="rect" id="node7" href="$structrtems__filesystem__mount__table__entry__tt.html" title="Mount table entry." alt="" coords="600,609,784,650"/>
+<area shape="rect" id="node16" href="$structIMFS__directory__t.html" title=" " alt="" coords="2489,749,2619,776"/>
+<area shape="rect" id="node8" href="$structrtems__filesystem__limits__and__options__t.html" title="Contain file system specific information which is required to support fpathconf()." alt="" coords="236,606,415,647"/>
+<area shape="rect" id="node10" href="$unionChain__Control.html" title=" " alt="" coords="269,672,382,699"/>
+<area shape="rect" id="node11" href="$structChain__Node__struct.html" title=" " alt="" coords="5,509,149,536"/>
+</map>

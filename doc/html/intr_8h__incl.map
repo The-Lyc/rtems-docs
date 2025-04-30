@@ -1,0 +1,15 @@
+<map id="cpukit/include/rtems/rtems/intr.h" name="cpukit/include/rtems/rtems/intr.h">
+<area shape="rect" id="node1" title=" " alt="" coords="134,5,289,47"/>
+<area shape="rect" id="node2" href="$rtems_2status_8h.html" title=" " alt="" coords="5,169,164,196"/>
+<area shape="rect" id="node8" href="$isr_8h.html" title="Data Related to the Management of Processor Interrupt Levels." alt="" coords="146,95,277,121"/>
+<area shape="rect" id="node12" href="$isrlock_8h.html" title="ISR Locks." alt="" coords="301,95,460,121"/>
+<area shape="rect" id="node3" href="$basedefs_8h.html" title="Basic Definitions." alt="" coords="145,319,320,345"/>
+<area shape="rect" id="node4" title=" " alt="" coords="371,393,537,420"/>
+<area shape="rect" id="node5" title=" " alt="" coords="70,393,145,420"/>
+<area shape="rect" id="node6" title=" " alt="" coords="169,393,251,420"/>
+<area shape="rect" id="node7" title=" " alt="" coords="276,393,347,420"/>
+<area shape="rect" id="node9" href="$isrlevel_8h.html" title="ISR Level Type." alt="" coords="233,169,395,196"/>
+<area shape="rect" id="node10" title=" " alt="" coords="99,244,238,271"/>
+<area shape="rect" id="node11" href="$assert_8h.html" title="Information for the Assert Handler." alt="" coords="262,244,417,271"/>
+<area shape="rect" id="node13" href="$smplock_8h.html" title="SMP Lock API." alt="" coords="369,319,539,345"/>
+</map>

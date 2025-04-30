@@ -1,0 +1,8 @@
+<map id="_Thread_Dispatch_direct" name="_Thread_Dispatch_direct">
+<area shape="rect" id="node1" title="Directly do a thread dispatch." alt="" coords="807,31,989,57"/>
+<area shape="rect" id="node2" href="$group__ClassicEventImpl.html#ga63d82e0e70a4acc2784bb7bc1bba01fb" title=" " alt="" coords="635,5,743,32"/>
+<area shape="rect" id="node3" href="$group__ClassicTasks.html#gad74c115e94d1f65c416444b36bf012bf" title="RTEMS Task Mode." alt="" coords="620,56,759,83"/>
+<area shape="rect" id="node4" href="$group__ClassicSignalImpl.html#gaaa0e11ca22aa3c8e65543d6df98b9c2d" title=" " alt="" coords="399,56,572,83"/>
+<area shape="rect" id="node5" href="$group__ClassicSignal.html#ga9b10bae66f1a80b2bc7151eb1ce90e23" title="RTEMS Send Signal." alt="" coords="207,56,351,83"/>
+<area shape="rect" id="node6" href="$signalmp_8c.html#a1259b6d2d57c4768c74ce209c6b16e75" title="Signal MP Process Packet." alt="" coords="5,49,159,90"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="arm_debug_hwbreak" name="arm_debug_hwbreak">
+<area shape="rect" id="node1" title=" " alt="" coords="233,288,392,315"/>
+<area shape="rect" id="node2" href="$structCPU__Exception__frame.html" title="The set of registers that specifies the complete processor state." alt="" coords="229,199,396,225"/>
+<area shape="rect" id="node3" href="$structARM__VFP__context.html" title=" " alt="" coords="5,109,145,136"/>
+<area shape="rect" id="node4" href="$structContext__Control__sse.html" title=" " alt="" coords="169,109,325,136"/>
+<area shape="rect" id="node5" href="$structCPU__Interrupt__frame.html" title="Interrupt stack frame (ISF)." alt="" coords="349,109,508,136"/>
+<area shape="rect" id="node6" href="$structSPARC__Minimum__stack__frame.html" title=" " alt="" coords="237,5,412,47"/>
+<area shape="rect" id="node7" href="$structSPARC64__Minimum__stack__frame.html" title=" " alt="" coords="436,5,627,47"/>
+<area shape="rect" id="node8" href="$structContext__Control.html" title="Thread register context." alt="" coords="532,109,659,136"/>
+</map>

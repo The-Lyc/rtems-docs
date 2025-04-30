@@ -1,0 +1,12 @@
+<map id="bsp_interrupt_report" name="bsp_interrupt_report">
+<area shape="rect" id="node1" title="Prints interrupt information via the default printk plugin." alt="" coords="5,97,160,123"/>
+<area shape="rect" id="node2" href="$irq-info_8c.html#a168f97599eb189fe05bd02878c26109b" title="Prints interrupt information via the printk plugin print with the context context." alt="" coords="208,56,363,97"/>
+<area shape="rect" id="node5" href="$group__RTEMSPrintSupport.html#ga553b725c5361554dc9788e1a6a82b373" title="Initializes the printer to print via printk()." alt="" coords="212,121,359,163"/>
+<area shape="rect" id="node3" href="$group__rtems__interrupt__extension.html#ga31d23275b676018c06e13c7bedc87983" title="Iterates over all installed interrupt handler of the interrupt vector with number vector." alt="" coords="411,5,589,47"/>
+<area shape="rect" id="node4" href="$print_8h.html#a9d7cd7d1a2242a0d33f403ecec3f9baa" title="Print to the kernel plugin handler. This has to be a macro because there is no vprint version of the ..." alt="" coords="449,71,551,98"/>
+<area shape="rect" id="node6" href="$printk__plugin_8c.html#ada3e7b4e55515d9b5bd320510e73414b" title=" " alt="" coords="423,129,577,155"/>
+<area shape="rect" id="node7" href="$bspIo_8h.html#a48cd00393a9699689b769200037738bb" title="Variable Argument printk()" alt="" coords="637,129,705,155"/>
+<area shape="rect" id="node8" href="$cpukit_2include_2rtems_2score_2io_8h.html#a6bb6bc6df4759579fd2e424421168c24" title=" " alt="" coords="767,103,862,130"/>
+<area shape="rect" id="node9" href="$bspIo_8h.html#aa7aa6e025aa35b36643e9ddbc2eccc10" title="Puts the character via rtems_putc()." alt="" coords="753,154,876,181"/>
+<area shape="rect" id="node10" href="$bspIo_8h.html#a6fd11f34260f10035f38a051af872e1e" title="Kernel Put Character." alt="" coords="924,154,1019,181"/>
+</map>

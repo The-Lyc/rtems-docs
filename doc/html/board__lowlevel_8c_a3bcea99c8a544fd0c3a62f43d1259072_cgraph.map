@@ -1,0 +1,8 @@
+<map id="LowLevelInit" name="LowLevelInit">
+<area shape="rect" id="node1" title="Performs the low&#45;level initialization of the chip." alt="" coords="5,81,109,108"/>
+<area shape="rect" id="node2" href="$board__lowlevel_8c.html#a9744d00e2d0a1292c99875113204bcfc" title="Set up a memory region." alt="" coords="157,56,323,83"/>
+<area shape="rect" id="node6" href="$system__samv71_8c.html#a93f514700ccf00d08dbdcff7f1224eb2" title="Setup the microcontroller system. Initialize the System and update the SystemFrequency variable." alt="" coords="194,107,286,133"/>
+<area shape="rect" id="node3" href="$mpu_8c.html#a5bdbf8327da8abb7c67a214586df72f4" title="Calculate region size for the RASR." alt="" coords="371,5,553,32"/>
+<area shape="rect" id="node4" href="$mpu_8c.html#a04bb5350667e9ca80c259db5544c7bec" title="Enables the MPU module." alt="" coords="411,56,513,83"/>
+<area shape="rect" id="node5" href="$mpu_8c.html#a5b599da2790baa9affb17efe20e758a1" title="Setup a memory region." alt="" coords="399,107,525,133"/>
+</map>

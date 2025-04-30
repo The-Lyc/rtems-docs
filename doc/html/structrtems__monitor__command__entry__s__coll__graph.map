@@ -1,0 +1,7 @@
+<map id="rtems_monitor_command_entry_s" name="rtems_monitor_command_entry_s">
+<area shape="rect" id="node1" title=" " alt="" coords="5,124,196,165"/>
+<area shape="rect" id="node2" href="$union__rtems__monitor__command__arg__t.html" title=" " alt="" coords="154,243,351,284"/>
+<area shape="rect" id="node3" href="$struct__rtems__symbol__table__t.html" title=" " alt="" coords="325,131,500,158"/>
+<area shape="rect" id="node4" href="$struct__rtems__symbol__t.html" title=" " alt="" coords="277,13,412,39"/>
+<area shape="rect" id="node5" href="$structrtems__symbol__string__block__s.html" title=" " alt="" coords="436,5,595,47"/>
+</map>

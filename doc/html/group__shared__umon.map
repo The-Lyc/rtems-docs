@@ -1,0 +1,7 @@
+<map id="MicroMonitor" name="MicroMonitor">
+<area shape="rect" id="node1" href="$group__shared__cli.html" title="Command table structure used by the monitor:" alt="" coords="276,5,464,31"/>
+<area shape="rect" id="node2" href="$group__shared__tfs.html" title="TFS Support Package." alt="" coords="321,55,419,80"/>
+<area shape="rect" id="node3" title="shared_umon MicroMonitor (uMon) Bootloader Support" alt="" coords="120,55,228,80"/>
+<area shape="rect" id="node5" href="$group__shared__monlib.html" title="MONLIB Support Package." alt="" coords="306,104,434,129"/>
+<area shape="rect" id="node4" href="$group__RTEMSBSPsShared.html" title="Shared Support for Board Support Packages." alt="" coords="5,55,72,80"/>
+</map>

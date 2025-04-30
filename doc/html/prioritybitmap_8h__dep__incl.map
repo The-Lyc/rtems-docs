@@ -1,0 +1,52 @@
+<map id="cpukit/include/rtems/score/prioritybitmap.h" name="cpukit/include/rtems/score/prioritybitmap.h">
+<area shape="rect" id="node1" title="Manipulation Routines for the Bitmap Priority Queue Implementation." alt="" coords="3170,5,3340,47"/>
+<area shape="rect" id="node2" href="$prioritybitmapimpl_8h.html" title="Inlined Routines in the Priority Handler Bit Map Implementation." alt="" coords="509,273,708,315"/>
+<area shape="rect" id="node15" href="$schedulerpriority_8h.html" title="Thread Manipulation with the Priority&#45;Based Scheduler." alt="" coords="6740,95,6925,136"/>
+<area shape="rect" id="node3" href="$schedulerpriorityimpl_8h.html" title="Inlined Routines Associated with the Manipulation of the Priority&#45;Based Scheduling Structures." alt="" coords="500,363,716,404"/>
+<area shape="rect" id="node14" href="$log2table_8c.html" title=" " alt="" coords="276,370,476,397"/>
+<area shape="rect" id="node4" href="$schedulerprioritysmpimpl_8h.html" title="Deterministic Priority SMP Scheduler API." alt="" coords="6336,452,6580,493"/>
+<area shape="rect" id="node5" href="$schedulerpriorityaffinitysmp_8c.html" title="Deterministic Priority Affinity SMP Scheduler Implementation." alt="" coords="6675,541,6998,568"/>
+<area shape="rect" id="node7" href="$schedulerpriority_8c.html" title=" " alt="" coords="28,459,274,486"/>
+<area shape="rect" id="node8" href="$schedulerpriorityblock_8c.html" title="Scheduler Priority Block." alt="" coords="298,459,582,486"/>
+<area shape="rect" id="node9" href="$schedulerprioritychangepriority_8c.html" title="Removes Thread from Thread Queue." alt="" coords="607,459,948,486"/>
+<area shape="rect" id="node10" href="$schedulerpriorityschedule_8c.html" title="Priority Scheduler Schedule Method." alt="" coords="972,459,1279,486"/>
+<area shape="rect" id="node11" href="$schedulerpriorityunblock_8c.html" title="Scheduler Priority Unblock." alt="" coords="1304,459,1604,486"/>
+<area shape="rect" id="node12" href="$schedulerpriorityyield_8c.html" title="Scheduler Priority Yield." alt="" coords="1628,459,1909,486"/>
+<area shape="rect" id="node13" href="$schedulerstrongapa_8c.html" title="Strong APA Scheduler Implementation." alt="" coords="6930,459,7196,486"/>
+<area shape="rect" id="node6" href="$schedulerprioritysmp_8c.html" title="Deterministic Priority SMP Scheduler Implementation." alt="" coords="6319,541,6596,568"/>
+<area shape="rect" id="node16" href="$scheduleredf_8h.html" title="Data Related to the Manipulation of Threads for the EDF Scheduler." alt="" coords="5624,184,5784,225"/>
+<area shape="rect" id="node42" href="$schedulerpriorityaffinitysmp_8h.html" title="Deterministic Priority Affinity SMP Scheduler API." alt="" coords="6644,273,6906,315"/>
+<area shape="rect" id="node43" href="$schedulerprioritysmp_8h.html" title="Deterministic Priority SMP Scheduler API." alt="" coords="6798,184,7013,225"/>
+<area shape="rect" id="node44" href="$schedulersimple_8h.html" title="Manipulation of Threads Simple&#45;Priority&#45;Based Ready Queue." alt="" coords="7038,184,7222,225"/>
+<area shape="rect" id="node49" href="$schedulersimplesmp_8h.html" title="Simple SMP Scheduler API." alt="" coords="7246,184,7458,225"/>
+<area shape="rect" id="node50" href="$schedulerstrongapa_8h.html" title="Strong APA Scheduler API." alt="" coords="7483,184,7688,225"/>
+<area shape="rect" id="node17" href="$schedulercbs_8h.html" title="Thread manipulation for the CBS scheduler." alt="" coords="2414,273,2576,315"/>
+<area shape="rect" id="node31" href="$scheduleredfimpl_8h.html" title="EDF Scheduler Implementation." alt="" coords="5211,273,5400,315"/>
+<area shape="rect" id="node40" href="$scheduleredfsmp_8h.html" title="EDF SMP Scheduler API." alt="" coords="6008,273,6198,315"/>
+<area shape="rect" id="node18" href="$cbs_8h.html" title="Constants and Structures Associated with the CBS library in RTEMS." alt="" coords="740,363,895,404"/>
+<area shape="rect" id="node19" href="$qreslib_8h.html" title="Constants and Structures Associated with the QoS RES library in RTEMS." alt="" coords="919,363,1074,404"/>
+<area shape="rect" id="node20" href="$schedulercbsimpl_8h.html" title="CBS Scheduler Implementation." alt="" coords="1098,363,1289,404"/>
+<area shape="rect" id="node22" href="$schedulercbscleanup_8c.html" title="Scheduler CBS Cleanup." alt="" coords="1314,370,1588,397"/>
+<area shape="rect" id="node23" href="$schedulercbscreateserver_8c.html" title="Scheduler CBS Create Server." alt="" coords="3737,370,4042,397"/>
+<area shape="rect" id="node24" href="$schedulercbsdestroyserver_8c.html" title="Scheduler CBS Destroy Server." alt="" coords="1613,370,1926,397"/>
+<area shape="rect" id="node25" href="$schedulercbsgetapprovedbudget_8c.html" title="Scheduler CBS Get Approved Budget." alt="" coords="1950,370,2301,397"/>
+<area shape="rect" id="node26" href="$schedulercbsgetexecutiontime_8c.html" title="Get Thread Execution Info." alt="" coords="2326,370,2664,397"/>
+<area shape="rect" id="node27" href="$schedulercbsgetparameters_8c.html" title="_Scheduler_CBS_Get_parameters" alt="" coords="2688,370,3008,397"/>
+<area shape="rect" id="node28" href="$schedulercbsgetremainingbudget_8c.html" title="Scheduler CBS Get Remaining Budget." alt="" coords="3033,370,3389,397"/>
+<area shape="rect" id="node29" href="$schedulercbsgetserverid_8c.html" title="Scheduler CBS Get Server id." alt="" coords="3414,370,3712,397"/>
+<area shape="rect" id="node30" href="$schedulercbssetparameters_8c.html" title="Set Parameters for CBS Scheduling." alt="" coords="4066,370,4385,397"/>
+<area shape="rect" id="node21" href="$schedulercbsunblock_8c.html" title="Unblocks a Thread from the Queue." alt="" coords="3194,459,3468,486"/>
+<area shape="rect" id="node32" href="$scheduleredf_8c.html" title="Scheduler EDF Initialize and Support." alt="" coords="4460,370,4682,397"/>
+<area shape="rect" id="node33" href="$scheduleredfblock_8c.html" title="Removes the Thread from Ready Queue." alt="" coords="4706,370,4964,397"/>
+<area shape="rect" id="node34" href="$scheduleredfchangepriority_8c.html" title="Scheduler EDF Extract." alt="" coords="4988,370,5303,397"/>
+<area shape="rect" id="node35" href="$scheduleredfnodeinit_8c.html" title="Scheduler EDF Allocate." alt="" coords="5328,370,5604,397"/>
+<area shape="rect" id="node36" href="$scheduleredfreleasejob_8c.html" title="Scheduler EDF Release Job." alt="" coords="5628,370,5919,397"/>
+<area shape="rect" id="node37" href="$scheduleredfschedule_8c.html" title="Scheduler EDF Allocate." alt="" coords="5944,370,6225,397"/>
+<area shape="rect" id="node38" href="$scheduleredfunblock_8c.html" title="Scheduler EDF Unblock." alt="" coords="6250,370,6524,397"/>
+<area shape="rect" id="node39" href="$scheduleredfyield_8c.html" title="Scheduler EDF Yield." alt="" coords="6549,370,6804,397"/>
+<area shape="rect" id="node41" href="$scheduleredfsmp_8c.html" title="EDF SMP Scheduler Implementation." alt="" coords="6604,459,6855,486"/>
+<area shape="rect" id="node45" href="$schedulersimpleimpl_8h.html" title="Inlined Routines Associated with the Manipulation of the Priority&#45;Based Scheduling Structures." alt="" coords="7023,273,7236,315"/>
+<area shape="rect" id="node46" href="$schedulersmpimpl_8h.html" title="SMP Scheduler Implementation." alt="" coords="7031,363,7228,404"/>
+<area shape="rect" id="node48" href="$schedulersimple_8c.html" title="Scheduler Simple Functions." alt="" coords="7253,370,7500,397"/>
+<area shape="rect" id="node47" href="$schedulersimplesmp_8c.html" title="Simple SMP Scheduler Implementation." alt="" coords="7335,459,7610,486"/>
+</map>

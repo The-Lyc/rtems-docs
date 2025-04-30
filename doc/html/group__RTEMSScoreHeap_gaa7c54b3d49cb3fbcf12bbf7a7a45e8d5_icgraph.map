@@ -1,0 +1,15 @@
+<map id="_Heap_Align_up" name="_Heap_Align_up">
+<area shape="rect" id="node1" title="Aligns the value to a given alignment, rounding up." alt="" coords="972,121,1099,147"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreHeap.html#gaa4fd1c467f6288c7c7501e99b8446e27" title="Returns the worst case overhead to manage a memory area." alt="" coords="508,14,676,41"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreHeap.html#ga31ce1fc13ec844eaccf67486e290324b" title="Gets the first and last block for the heap area." alt="" coords="746,172,902,213"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreHeap.html#gac5974c7ccf84c152ba6c8e17bea3ca5f" title="Initializes the heap control block." alt="" coords="529,121,655,147"/>
+<area shape="rect" id="node12" href="$group__RTEMSScoreHeap.html#ga54ed70e7cf8e99037c356772c927eaee" title="Returns the minimal Heap Block size for the given page_size." alt="" coords="739,121,909,147"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreHeap.html#ga00d53e87789012f59ec95f97911f3f8b" title="Returns the size with administration and alignment overhead for one allocation." alt="" coords="724,238,924,265"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreWorkspace.html#gac10ac71b406698cb4441aff69a80c847" title="Initilizes the workspace handler." alt="" coords="284,5,443,47"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreHeap.html#ga7484f40d81ae26a7f5b3773a2dd006be" title="Extends the memory available for the heap." alt="" coords="535,201,649,227"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreProtHeap.html#gaeafd4fefda9100f0b9484f97f19d1093" title="Extends the protected heap." alt="" coords="272,223,455,250"/>
+<area shape="rect" id="node7" href="$rtems__heap__extend__via__sbrk_8c.html#aaab427c995cc0c8e362e991a7877b261" title="RTEMS Extend Heap via Sbrk." alt="" coords="5,223,219,250"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreProtHeap.html#ga0f09fcdd50fcb5de78cdb10c0cb3b7e5" title="Initializes the protected heap." alt="" coords="267,71,460,98"/>
+<area shape="rect" id="node10" href="$group__bsp__stack.html#ga5525bfd94b2a806da939383fe0c2fde1" title="Task stack allocator initialization for CONFIGURE_TASK_STACK_ALLOCATOR_INIT." alt="" coords="276,122,451,149"/>
+<area shape="rect" id="node11" href="$group__ClassicRegion.html#ga024758f91cbf73e06cbc4c85df83d1ca" title="rtems_region_create" alt="" coords="285,173,441,199"/>
+</map>

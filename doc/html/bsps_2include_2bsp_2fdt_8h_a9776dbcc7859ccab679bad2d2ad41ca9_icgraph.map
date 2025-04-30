@@ -1,0 +1,9 @@
+<map id="bsp_fdt_get" name="bsp_fdt_get">
+<area shape="rect" id="node1" title="Returns the FDT of the BSP." alt="" coords="227,159,325,185"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreCPUi386.html#ga254ab76f1c02812babdb3d5028f59178" title=" " alt="" coords="29,5,155,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSBSPsARMZynqMP.html#ga371b5f674b0ec4957ef0fee036cf6897" title=" " alt="" coords="5,57,179,98"/>
+<area shape="rect" id="node4" href="$group__bsp__interrupt.html#gab114a6e92b17b99bf52cf24d1125a9df" title="BSP specific initialization." alt="" coords="12,122,172,163"/>
+<area shape="rect" id="node5" href="$group__RTEMSBSPsARMimx.html#gaf79daa85e2800cdf3336db338c205074" title="Registers an IMX I2C bus driver." alt="" coords="12,188,172,215"/>
+<area shape="rect" id="node6" href="$group__QorIQMMU.html#gabd578e7956fb6ed301e94b8737118a6d" title=" " alt="" coords="21,239,163,265"/>
+<area shape="rect" id="node7" href="$group__RTEMSBSPsARMimx.html#ga76c0c74170b6f591738da72382b35dde" title="Registers an IMX ECSPI bus driver." alt="" coords="12,289,172,316"/>
+</map>

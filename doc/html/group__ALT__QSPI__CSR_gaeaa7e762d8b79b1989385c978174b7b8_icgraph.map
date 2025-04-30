@@ -1,0 +1,8 @@
+<map id="alt_qspi_is_idle" name="alt_qspi_is_idle">
+<area shape="rect" id="node1" title=" " alt="" coords="268,122,391,149"/>
+<area shape="rect" id="node2" href="$group__ALT__QSPI__DAC.html#gad7b0dc3a61560e7d7c2edeb9204698ad" title=" " alt="" coords="36,5,189,47"/>
+<area shape="rect" id="node3" href="$group__ALT__QSPI__DMA.html#ga6544a397843d6b1204f500be26896878" title=" " alt="" coords="21,71,204,98"/>
+<area shape="rect" id="node4" href="$group__ALT__QSPI__CSR.html#gabafd6da28abc48578f144cbd6c85e224" title=" " alt="" coords="37,122,188,149"/>
+<area shape="rect" id="node5" href="$group__ALT__QSPI__CSR.html#ga90573895220218be5c3be1888010e5bc" title=" " alt="" coords="39,173,187,199"/>
+<area shape="rect" id="node6" href="$group__ALT__QSPI__DEV__CFG.html#gada3ca0ace7fbbf8bd1ea1ce2ad9dada0" title=" " alt="" coords="5,223,220,250"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="bsps/x86_64/include/libcpu/page.h" name="bsps/x86_64/include/libcpu/page.h">
+<area shape="rect" id="node1" title=" " alt="" coords="303,5,458,47"/>
+<area shape="rect" id="node2" href="$i386_2pc386_2start_2page_8c.html" title=" " alt="" coords="5,95,167,136"/>
+<area shape="rect" id="node3" href="$i386_2shared_2cache_2cache_8c.html" title=" " alt="" coords="191,95,365,136"/>
+<area shape="rect" id="node4" href="$x86__64_2amd64_2start_2bspstart_8c.html" title=" " alt="" coords="390,95,577,136"/>
+<area shape="rect" id="node5" href="$x86__64_2amd64_2start_2page_8c.html" title=" " alt="" coords="601,95,787,136"/>
+</map>

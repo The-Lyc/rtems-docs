@@ -1,0 +1,4 @@
+<map id="_Scheduler_Acquire_critical" name="_Scheduler_Acquire_critical">
+<area shape="rect" id="node1" title="Acquires the scheduler instance inside a critical section (interrupts disabled)." alt="" coords="5,5,155,47"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreScheduler.html#ga9c62ef5a388b998fa041a269297be1fe" title="Gets the context of the scheduler." alt="" coords="203,13,381,39"/>
+</map>

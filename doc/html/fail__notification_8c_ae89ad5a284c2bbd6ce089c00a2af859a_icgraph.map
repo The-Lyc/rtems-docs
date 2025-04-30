@@ -1,0 +1,5 @@
+<map id="tms570_memory_port0_fail_notification" name="tms570_memory_port0_fail_notification">
+<area shape="rect" id="node1" title=" " alt="" coords="376,5,551,47"/>
+<area shape="rect" id="node2" href="$tms570__selftest_8c.html#a3af264550de13cdb92997bdf563e9608" title="Reaction to PBIST failure (HCG:pbistFail)" alt="" coords="189,13,328,39"/>
+<area shape="rect" id="node3" href="$bspstarthooks-hwinit_8c.html#a21575f8c638d77f9365131e139ff1839" title=" " alt="" coords="5,13,141,39"/>
+</map>

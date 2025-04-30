@@ -1,0 +1,13 @@
+<map id="rtems_termios_device_lock_acquire" name="rtems_termios_device_lock_acquire">
+<area shape="rect" id="node1" title="Acquires the device lock." alt="" coords="887,93,1053,135"/>
+<area shape="rect" id="node2" href="$group__Termios.html#ga578fc70ca70d5cf49aebd7b75328e577" title=" " alt="" coords="652,64,832,105"/>
+<area shape="rect" id="node11" href="$tms570-sci-driver_8h.html#a73848a263fd0b87c4ab8f1e151239fc5" title="Set attributes of the HW peripheral." alt="" coords="645,130,839,157"/>
+<area shape="rect" id="node3" href="$m340uart_8h.html#a4bbf1ce2400a956a026d03d64eee93ca" title=" " alt="" coords="463,17,593,43"/>
+<area shape="rect" id="node5" href="$mc68681__p_8h.html#ae84c299e145617d8f5970e19ec9ca73b" title=" " alt="" coords="459,71,597,98"/>
+<area shape="rect" id="node8" href="$z85c30__p_8h.html#a38e763c0d749dc6c5a598a5e19e8d63c" title=" " alt="" coords="465,123,591,150"/>
+<area shape="rect" id="node4" href="$m340timer_8h.html#a92955e23925695309aa558b72f700d38" title=" " alt="" coords="255,5,411,47"/>
+<area shape="rect" id="node6" href="$mc68681__p_8h.html#abf9fc0280b232cdf99cacc751ad999b5" title=" " alt="" coords="280,71,385,98"/>
+<area shape="rect" id="node7" href="$mc68681__p_8h.html#afb92a4a05336c37713c88efa42c3ed3a" title=" " alt="" coords="33,63,179,104"/>
+<area shape="rect" id="node9" href="$z85c30__p_8h.html#aedf7b4ff4661ad2b3c2752b3f306a06b" title=" " alt="" coords="287,125,378,151"/>
+<area shape="rect" id="node10" href="$z85c30__p_8h.html#a13bae38e32df4c283d7752d04d35abf0" title=" " alt="" coords="5,129,207,155"/>
+</map>

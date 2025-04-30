@@ -1,0 +1,5 @@
+<map id="USART Support" name="USART Support">
+<area shape="rect" id="node1" href="$group__RTEMSBSPsARMSTM32F4.html" title="STM32F4 Board Support Package." alt="" coords="5,5,88,31"/>
+<area shape="rect" id="node2" title="USART Support." alt="" coords="136,5,256,31"/>
+<area shape="rect" id="node3" href="$group__stm32__usart.html" title="STM32 USART Support." alt="" coords="304,5,472,31"/>
+</map>

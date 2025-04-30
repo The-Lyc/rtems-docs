@@ -1,0 +1,4 @@
+<map id="_Dual_ported_memory_Free" name="_Dual_ported_memory_Free">
+<area shape="rect" id="node1" title="Frees a port control block to the inactive chain of free port control blocks." alt="" coords="195,5,400,32"/>
+<area shape="rect" id="node2" href="$group__ClassicDPMEM.html#gab601849546c8342b31dc7db5ea183daf" title="RTEMS Delete Port." alt="" coords="5,5,147,32"/>
+</map>

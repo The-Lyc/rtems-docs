@@ -1,0 +1,5 @@
+<map id="ppc_exc_set_handler" name="ppc_exc_set_handler">
+<area shape="rect" id="node1" title="Set high&#45;level exception handler." alt="" coords="239,42,397,69"/>
+<area shape="rect" id="node2" href="$group__bsp__interrupt.html#gab114a6e92b17b99bf52cf24d1125a9df" title="BSP specific initialization." alt="" coords="18,5,178,47"/>
+<area shape="rect" id="node3" href="$bsps_2powerpc_2virtex5_2include_2bsp_2irq_8h.html#a01e7f8947316386ac027cea861e37756" title=" " alt="" coords="5,71,191,98"/>
+</map>

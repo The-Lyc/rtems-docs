@@ -1,0 +1,8 @@
+<map id="_Scheduler_Get_by_id" name="_Scheduler_Get_by_id">
+<area shape="rect" id="node1" title="Gets the scheduler from the given object build id." alt="" coords="240,143,405,170"/>
+<area shape="rect" id="node2" href="$group__ClassicTasks.html#ga52b4ea4c1b8bb3a657e75f1c69e24741" title="Map a POSIX thread priority to the corresponding task priority." alt="" coords="15,5,182,47"/>
+<area shape="rect" id="node3" href="$group__ClassicTasks.html#ga875f450e05e528d678c06243dbfbda17" title="Map a task priority to the corresponding POSIX thread priority." alt="" coords="15,71,182,112"/>
+<area shape="rect" id="node4" href="$group__ClassicTasks.html#ga033f8f1ec58d5e0f91dbf69f0486b441" title="Removes a processor from set of processors owned by the specified scheduler instance." alt="" coords="5,136,192,177"/>
+<area shape="rect" id="node5" href="$group__ClassicSem.html#gad9bd7dcfb6e233a152f02f47bbf73f50" title="Sets the priority value with respect to the specified scheduler of a semaphore." alt="" coords="15,201,182,243"/>
+<area shape="rect" id="node6" href="$group__ClassicTasks.html#gad06646a724fbaf16f1a4d117d1c667dc" title="Gets the current priority of the specified task with respect to the specified scheduler instance." alt="" coords="10,267,187,294"/>
+</map>

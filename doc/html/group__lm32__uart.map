@@ -1,0 +1,5 @@
+<map id="LM32 UART" name="LM32 UART">
+<area shape="rect" id="node1" href="$group__RTEMSBSPsLM32SharedMilkymistOne.html" title="Shared Support for Milkymist One Board Support Packages." alt="" coords="188,5,304,31"/>
+<area shape="rect" id="node2" title="LatticeMico32 UART definitions." alt="" coords="5,51,101,76"/>
+<area shape="rect" id="node3" href="$group__RTEMSBSPsLM32Shared.html" title="Shared Support for LatticeMicro32 Board Support Packages." alt="" coords="213,75,279,100"/>
+</map>

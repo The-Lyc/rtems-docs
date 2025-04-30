@@ -1,0 +1,10 @@
+<map id="umask" name="umask">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,72,83"/>
+<area shape="rect" id="node2" href="$group__LibIOInternal.html#ga12b4b45fb45758475cfbfa8606c7ae9d" title=" " alt="" coords="128,31,257,57"/>
+<area shape="rect" id="node6" href="$group__LibIOInternal.html#gac22d5afbe375148eef15304958bc4cec" title=" " alt="" coords="120,81,265,108"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreAPIMutex.html#ga57829ca494f1d866219c499eadb0ffc9" title="Acquires the specified API mutex." alt="" coords="321,31,456,57"/>
+<area shape="rect" id="node4" href="$mutex_8c.html#a2960aef6016ac8937f24108f9cdeebd0" title=" " alt="" coords="517,5,710,32"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreThread.html#gad5aaea7af4482aebd880403fb9c238af" title="Set the thread to life protected." alt="" coords="512,56,715,83"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreAPIMutex.html#ga64a430ae861d0ce7f63413e651fbe36d" title="Releases the specified API mutex." alt="" coords="313,81,464,108"/>
+<area shape="rect" id="node8" href="$mutex_8c.html#adecd7211e7a1a5035841212574f45b31" title=" " alt="" coords="515,107,711,133"/>
+</map>

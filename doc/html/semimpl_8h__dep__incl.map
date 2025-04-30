@@ -1,0 +1,14 @@
+<map id="cpukit/include/rtems/rtems/semimpl.h" name="cpukit/include/rtems/rtems/semimpl.h">
+<area shape="rect" id="node1" title="Classic Semaphore Manager Implementation." alt="" coords="1109,5,1264,47"/>
+<area shape="rect" id="node2" href="$mon-object_8c.html" title=" " alt="" coords="5,95,173,136"/>
+<area shape="rect" id="node3" href="$mon-sema_8c.html" title=" " alt="" coords="197,95,365,136"/>
+<area shape="rect" id="node4" href="$semcreate_8c.html" title="rtems_semaphore_create" alt="" coords="389,102,600,129"/>
+<area shape="rect" id="node5" href="$semdelete_8c.html" title="RTEMS Delete Semaphore." alt="" coords="624,102,835,129"/>
+<area shape="rect" id="node6" href="$semflush_8c.html" title="RTEMS Semaphore Flush." alt="" coords="859,102,1061,129"/>
+<area shape="rect" id="node7" href="$semident_8c.html" title="RTEMS Semaphore Name to Id." alt="" coords="1085,102,1288,129"/>
+<area shape="rect" id="node8" href="$semmp_8c.html" title="Semaphore MP Support." alt="" coords="1313,102,1503,129"/>
+<area shape="rect" id="node9" href="$semobtain_8c.html" title="RTEMS Obtain Semaphore." alt="" coords="1528,102,1739,129"/>
+<area shape="rect" id="node10" href="$semrelease_8c.html" title="RTEMS Semaphore Release." alt="" coords="1763,102,1981,129"/>
+<area shape="rect" id="node11" href="$semsetpriority_8c.html" title=" " alt="" coords="2005,102,2240,129"/>
+<area shape="rect" id="node12" href="$getconfigmax_8c.html" title=" " alt="" coords="2265,102,2485,129"/>
+</map>

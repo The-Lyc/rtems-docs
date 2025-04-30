@@ -1,0 +1,11 @@
+<map id="bsps/moxie" name="bsps/moxie">
+<area shape="rect" id="node2" href="dir_ca5234099a86a87d811134d6343ad665.html" title="moxiesim" alt="" coords="134,63,221,111"/>
+<area shape="rect" id="node4" href="dir_5d1ab919b2bc2a88d122acf1f2df3693.html" title="include" alt="" coords="104,159,176,207"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000177_000468.html" title="3" alt="" coords="159,138,168,152"/>
+<area shape="rect" id="node5" href="dir_cd198e36225ba3f41de97552050ac017.html" title="cpukit" alt="" coords="140,255,212,303"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000177_000080.html" title="5" alt="" coords="188,231,197,246"/>
+<area shape="rect" id="node3" href="dir_b7020e663eb04c3e36e5c686834e0a65.html" title="shared" alt="" coords="37,63,109,111"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000468_000080.html" title="58" alt="" coords="160,227,177,242"/>
+<area shape="rect" id="clust2" href="dir_2cf2245b1f08821794495ea0fb0ac5b2.html" alt="" coords="27,52,328,121"/>
+<area shape="rect" id="clust1" href="dir_49b8d5997469a34e9a523535602b7e1a.html" title="bsps" alt="" coords="16,16,339,132"/>
+</map>

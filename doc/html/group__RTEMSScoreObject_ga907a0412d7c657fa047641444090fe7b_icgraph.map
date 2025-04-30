@@ -1,0 +1,52 @@
+<map id="_Objects_Get_API" name="_Objects_Get_API">
+<area shape="rect" id="node1" title="Returns the API portion of the ID." alt="" coords="1013,620,1149,647"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreObject.html#ga73bb4fe5d6c1200fba89863b6d5fe6db" title="Gets information of an object from an ID." alt="" coords="755,173,965,200"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreObject.html#ga968b850454008bc4e68ab83c2f033282" title="Initializes the specified objects information." alt="" coords="789,393,931,434"/>
+<area shape="rect" id="node12" href="$group__RTEMSScoreThread.html#ga291d97d78d5460ffa5539964e417bb49" title="Gets object information for the object id." alt="" coords="781,645,939,686"/>
+<area shape="rect" id="node49" href="$rtemsobjectidgetapi_8c.html#a9ae816cd3f590744fc6f4c8fcba4a569" title=" " alt="" coords="769,837,951,864"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreObject.html#gabd551c27404cc5db7e78b6ad24a5dda9" title="Gets object name in the form of a C string." alt="" coords="530,10,705,51"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreObject.html#ga4ef83167e7503b64f503bd9218332cde" title="Returns the name associated with object id." alt="" coords="537,123,698,149"/>
+<area shape="rect" id="node7" href="$group__ClassicTasksImpl.html#ga3d8f1c033065071a99b447c7c0d10c39" title="Frees a task control block." alt="" coords="542,173,693,200"/>
+<area shape="rect" id="node8" href="$group__ClassicClassInfo.html#gacb1a1933caf2556aa7e9b715c684fe5b" title="Set Name of Object." alt="" coords="528,224,707,251"/>
+<area shape="rect" id="node4" href="$group__ClassicClassInfo.html#ga85242d8af75f936826239cf37493fe0b" title="Obtain Object Name as String." alt="" coords="281,5,459,32"/>
+<area shape="rect" id="node5" href="$mon-prmisc_8c.html#a3dfb0490788be3c879467d5b0cc11637" title=" " alt="" coords="5,5,212,32"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreThread.html#gacd86ef6b0e5fb19ec14d7fe51e3868e2" title="Initializes the thread information." alt="" coords="549,369,686,410"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreThread.html#ga439268e164b067a866d2901085c8c672" title="Initializes thread handler." alt="" coords="260,56,480,83"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreThread.html#gadc33b4b428dfc134ae1622441433b1a1" title="Gets a thread by its identifier." alt="" coords="565,652,669,679"/>
+<area shape="rect" id="node48" href="$group__RTEMSScoreThreadMP.html#ga8c8c9e4dadd94632600e764d4e85ee89" title="Checks if the thread MP with this object id is remote." alt="" coords="531,917,704,944"/>
+<area shape="rect" id="node14" href="$group__RTEMSScoreMPCI.html#gae2df57913a498a0305315a2fb6cf12fb" title="Passes a packet to the thread." alt="" coords="277,461,463,488"/>
+<area shape="rect" id="node15" href="$cancel_8c.html#a9e77a80c073787bf9a593e9c619dce27" title=" " alt="" coords="309,512,431,539"/>
+<area shape="rect" id="node16" href="$pthreaddetach_8c.html#a7c275c509c26566b6dd95a2de1668a2f" title=" " alt="" coords="309,563,431,589"/>
+<area shape="rect" id="node18" href="$pthreadequal_8c.html#a98ec817164a6641eda2341de473b659d" title=" " alt="" coords="313,613,427,640"/>
+<area shape="rect" id="node20" href="$pthreadgetattrnp_8c.html#a6bdca4b2c8a436c4651fb5e8d462408b" title=" " alt="" coords="297,664,443,691"/>
+<area shape="rect" id="node21" href="$pthreadgetnamenp_8c.html#a8d55a60492c979991dc1a361b5453813" title=" " alt="" coords="290,715,450,741"/>
+<area shape="rect" id="node22" href="$pthreadgetschedparam_8c.html#aae9850b3759769c748727e171c4c6e61" title=" " alt="" coords="280,107,460,133"/>
+<area shape="rect" id="node24" href="$pthreadsetschedparam_8c.html#a5863ca5ea1eaf973c408e2c3bbaff3a7" title=" " alt="" coords="281,157,459,184"/>
+<area shape="rect" id="node25" href="$pthreadsetschedprio_8c.html#a7a23cbcfc21a4e3edf531ed65f022370" title=" " alt="" coords="289,208,451,235"/>
+<area shape="rect" id="node26" href="$group__ClassicEvent.html#ga2d31674c165127bc530178d06d557b94" title="Sends an Event Set to the Target Task." alt="" coords="299,259,441,285"/>
+<area shape="rect" id="node33" href="$group__ClassicEventSystem.html#ga1119cb4341890e86ffa7cc7fad414f19" title="See rtems_event_send()." alt="" coords="271,917,469,944"/>
+<area shape="rect" id="node35" href="$group__ClassicSignal.html#ga9b10bae66f1a80b2bc7151eb1ce90e23" title="RTEMS Send Signal." alt="" coords="298,309,442,336"/>
+<area shape="rect" id="node37" href="$group__ClassicTasks.html#gaf7c82a7fa13338a65583dc3d760ad9cc" title="RTEMS Delete Task." alt="" coords="299,968,441,995"/>
+<area shape="rect" id="node39" href="$group__ClassicTasks.html#gaf4a38e236136d5df6e5bef463a7e5506" title="Gets the processor affinity set of a task." alt="" coords="282,765,458,792"/>
+<area shape="rect" id="node40" href="$group__ClassicTasks.html#gad06646a724fbaf16f1a4d117d1c667dc" title="Gets the current priority of the specified task with respect to the specified scheduler instance." alt="" coords="281,816,459,843"/>
+<area shape="rect" id="node41" href="$group__ClassicTasks.html#gae1825025c9bc70a32d9e223759586b9d" title="Gets the scheduler of a task." alt="" coords="273,867,467,893"/>
+<area shape="rect" id="node42" href="$group__ClassicTasks.html#ga626e860edc5525db9f87de63efe14661" title="rtems_task_is_suspended" alt="" coords="275,1069,465,1096"/>
+<area shape="rect" id="node43" href="$group__ClassicTasks.html#ga504b10074964c789ea82fbae8771e074" title="RTEMS Task Restart." alt="" coords="297,1120,443,1147"/>
+<area shape="rect" id="node44" href="$group__ClassicTasks.html#ga5b5778a2be36d41764e730377ccc58a5" title="RTEMS Resume Task." alt="" coords="295,360,445,387"/>
+<area shape="rect" id="node45" href="$group__ClassicTasks.html#ga33444117a6771a55307452862a1ca944" title="Sets the processor affinity set of a task." alt="" coords="283,1171,457,1197"/>
+<area shape="rect" id="node46" href="$group__ClassicTasks.html#gac7fe1362154946d78978ceb4f116f13e" title="RTEMS Start Task." alt="" coords="304,1019,436,1045"/>
+<area shape="rect" id="node47" href="$group__ClassicTasks.html#ga16aca2f5aa37d9d2b2a1a54de0f63dbf" title="RTEMS Suspend Task." alt="" coords="292,411,448,437"/>
+<area shape="rect" id="node17" href="$thrd_8c.html#ad5380997f9e32a31f802bdd9cb266902" title=" " alt="" coords="59,563,158,589"/>
+<area shape="rect" id="node19" href="$thrd_8c.html#a153e65a389814ce51ad07791e42b2118" title=" " alt="" coords="63,613,154,640"/>
+<area shape="rect" id="node23" href="$aio__misc_8c.html#a8477bc52bcf6620a6f253b06075d1554" title=" " alt="" coords="33,73,184,100"/>
+<area shape="rect" id="node27" href="$group__ClassicEventMP.html#ga1874d957f7df000c20e35f8c000842d6" title="Event MP Packet Process." alt="" coords="9,292,209,319"/>
+<area shape="rect" id="node28" href="$mon-monitor_8c.html#a9dce13aebc7d9c0361ecd5490cd39c5e" title=" " alt="" coords="21,343,196,369"/>
+<area shape="rect" id="node29" href="$rtemspppd_8c.html#afc259272991e12d2e8097901976af938" title=" " alt="" coords="30,393,187,420"/>
+<area shape="rect" id="node30" href="$rtemspppd_8c.html#afe8fe9afcf624756f30f5e0c8376024c" title=" " alt="" coords="23,124,194,151"/>
+<area shape="rect" id="node31" href="$termios_8c.html#a9dd97a1b494e296caf2522740f602841" title=" " alt="" coords="31,175,186,217"/>
+<area shape="rect" id="node32" href="$fec_8c.html#aa5d15861b72054e329f3a6cafd74885c" title=" " alt="" coords="40,241,177,268"/>
+<area shape="rect" id="node34" href="$group__ClassicEventTransient.html#gab2d8a49e579d5eb1f71f499230ed9808" title="See rtems_event_system_send()." alt="" coords="5,917,212,944"/>
+<area shape="rect" id="node36" href="$signalmp_8c.html#a1259b6d2d57c4768c74ce209c6b16e75" title="Signal MP Process Packet." alt="" coords="32,445,185,486"/>
+<area shape="rect" id="node38" href="$grspw__pkt_8c.html#a332e9d8281beb4acd9c2451488def344" title=" " alt="" coords="34,993,183,1020"/>
+<area shape="rect" id="node50" href="$capture__support_8c.html#ae0089bcc9bad1ac14fe5a2fd72361849" title="Capture print record task." alt="" coords="541,969,694,1010"/>
+</map>

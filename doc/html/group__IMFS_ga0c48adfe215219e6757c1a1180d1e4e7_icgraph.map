@@ -1,0 +1,8 @@
+<map id="IMFS_make_node" name="IMFS_make_node">
+<area shape="rect" id="node1" title=" " alt="" coords="421,81,556,108"/>
+<area shape="rect" id="node2" href="$group__IMFSGenericNodes.html#gae7bc195be301f29ac87799edab608076" title="Makes a generic IMFS node." alt="" coords="183,56,373,83"/>
+<area shape="rect" id="node6" href="$group__IMFS.html#ga5ea4b21f4f7767f36b21c146b972124b" title="Makes a linear IMFS file." alt="" coords="198,107,358,133"/>
+<area shape="rect" id="node3" href="$group__I2CBus.html#ga6987c0edf1d40adf54d2689fed47c3cf" title="Registers a bus control." alt="" coords="6,5,134,32"/>
+<area shape="rect" id="node4" href="$group__I2CDevice.html#ga917604be9f6cfaa0e4d7a9302e873d16" title="Registers a device control." alt="" coords="5,56,135,83"/>
+<area shape="rect" id="node5" href="$group__SPI.html#ga4e6ca0b1d473a6be4fbbefa2ed1a55f2" title="Registers a bus control." alt="" coords="6,107,134,133"/>
+</map>

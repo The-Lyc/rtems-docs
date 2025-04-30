@@ -1,0 +1,7 @@
+<map id="USARTD_DisableTxChannels" name="USARTD_DisableTxChannels">
+<area shape="rect" id="node1" title="This function disables the appropriate DMA channel for Tx channel of USART." alt="" coords="5,81,213,108"/>
+<area shape="rect" id="node2" href="$atsam_2contrib_2libraries_2libchip_2source_2usart_8c.html#a4b230a28c6f390863052cf27d2590ab3" title="Enables or disables the transmitter of an USART peripheral." alt="" coords="261,5,481,32"/>
+<area shape="rect" id="node3" href="$group__dmad__functions.html#ga2a3178c1d2615b7a4d7a0005662cdd89" title="Free the specified xDMA channel." alt="" coords="291,56,451,83"/>
+<area shape="rect" id="node4" href="$group__dmad__functions.html#gaa0af49f87c84aaa20bee1f055d31ad2d" title="Set the callback function for xDMA channel transfer." alt="" coords="293,107,449,133"/>
+<area shape="rect" id="node5" href="$group__dmad__functions.html#ga6be5cec75618250adb227d7588ae7078" title="Stop DMA transfer." alt="" coords="291,157,451,184"/>
+</map>

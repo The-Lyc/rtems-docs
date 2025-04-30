@@ -1,0 +1,7 @@
+<map id="_MPCI_Announce" name="_MPCI_Announce">
+<area shape="rect" id="node1" title="Announces the availability of a packet." alt="" coords="683,13,816,39"/>
+<area shape="rect" id="node2" href="$group__ClassicMP.html#ga2dacfadddfd9155a1e2f7d4230ac00e0" title="RTEMS Multiprocessing Announce." alt="" coords="464,5,635,47"/>
+<area shape="rect" id="node3" href="$shmdr-mpisr_8c.html#a4ffaf6a9c0123568f3dc0b1d3f214554" title=" " alt="" coords="341,13,416,39"/>
+<area shape="rect" id="node4" href="$sparc_2leon3_2mpci_2mpisr_8c.html#a9104332dda29a5a174b95160f2e006c8" title=" " alt="" coords="192,13,293,39"/>
+<area shape="rect" id="node5" href="$shmdr-init_8c.html#acc75b92b3418a9ea3b048e7f76e085f8" title=" " alt="" coords="5,13,144,39"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="rtems_timer_fire_when" name="rtems_timer_fire_when">
+<area shape="rect" id="node1" title="RTEMS Timer Fire When." alt="" coords="5,132,177,159"/>
+<area shape="rect" id="node2" href="$group__ClassicTimerImpl.html#gaf7294ac41fb549dbb5b2e1beb8438ea2" title=" " alt="" coords="246,81,386,108"/>
+<area shape="rect" id="node6" href="$group__ClassicTimerImpl.html#ga52566ddfc6c14e1f233c0dd0e83ed675" title=" " alt="" coords="225,157,407,184"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreTOD.html#gad7357f287de1aec092ef824c185229b9" title="Check if the TOD is Set." alt="" coords="488,5,591,32"/>
+<area shape="rect" id="node4" href="$group__ClassicClock.html#gab5bfb9a415bb9cbb6c9132d8b3de8f61" title="TOD to Seconds." alt="" coords="470,56,609,83"/>
+<area shape="rect" id="node5" href="$group__ClassicClock.html#ga80a0ad7cf75ab4da2f69eea860daeb77" title="TOD Validate." alt="" coords="481,107,598,133"/>
+<area shape="rect" id="node7" href="$group__ClassicTimerImpl.html#gaacab90062cdce2d4686dc3b56b7eb666" title=" " alt="" coords="455,157,624,184"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreWatchdog.html#gaf1cb44dc5d0789c722e5272370fc20b4" title="Gets the watchdog&#39;s cpu." alt="" coords="461,208,618,235"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="_Scheduler_priority_Schedule" name="_Scheduler_priority_Schedule">
+<area shape="rect" id="node1" title="Sets the heir thread to be the next ready thread." alt="" coords="5,99,152,141"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreSchedulerDPS.html#ga8b52515687c00a3b3e8a90b0dcd6b749" title="Scheduling decision logic." alt="" coords="200,99,347,141"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreSchedulerDPS.html#ga8a69246c562c36bec9bf7047be7d50ae" title="Gets the context of the scheduler." alt="" coords="411,17,557,58"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreSchedulerDPS.html#ga8d8a162be45d44eb572a6d2a243249cb" title="Returns a pointer to the first node." alt="" coords="409,99,559,141"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreScheduler.html#ga29bb7f28ab22ddb95869cc527f2f75bf" title="Updates the heir." alt="" coords="395,224,573,251"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreScheduler.html#ga9c62ef5a388b998fa041a269297be1fe" title="Gets the context of the scheduler." alt="" coords="621,5,800,32"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreChain.html#ga89304b2d294b98f4909dcb6e68d7ec82" title="Returns pointer to chain&#39;s first node." alt="" coords="660,56,761,83"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreChain.html#ga06f3e2dd6d64411f0565e3b483e53673" title="Returns pointer to chain tail." alt="" coords="663,107,758,133"/>
+<area shape="rect" id="node9" href="$group__RTEMSScorePriority.html#ga1f62e66dfe278e0aa74677bcb444d4bf" title="Gets highest portion of Priority queue bit map." alt="" coords="627,158,794,199"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreChain.html#gac08944db6f0428125d3b0d5a1c65b740" title="Returns pointer to immutable chain head." alt="" coords="848,56,1031,83"/>
+<area shape="rect" id="node10" href="$group__RTEMSScorePriority.html#gacf3f0ba39c90e26e3f821c04a2e48ee5" title="Returns the bit number of the first bit set in the specified value." alt="" coords="857,140,1022,167"/>
+<area shape="rect" id="node12" href="$group__RTEMSScorePriority.html#ga7e9cb59c60f7231a454824509f3a1b6a" title="Returns the bit index position for the specified major or minor bit number." alt="" coords="864,191,1015,217"/>
+<area shape="rect" id="node11" href="$if__xxx__rtems_8c.html#a0d44d815bf35b8d64e2c9b7dc79efa76" title=" " alt="" coords="1079,140,1117,167"/>
+<area shape="rect" id="node14" href="$group__RTEMSScoreThread.html#ga04310043b907712ed8693fbbbc6ba0be" title="Gets the cpu of the thread&#39;s scheduler." alt="" coords="641,224,780,251"/>
+<area shape="rect" id="node15" href="$group__RTEMSScoreThread.html#ga02a75f308e726ba3f36a97cd758a8e7e" title="Updates the cpu time used of the thread." alt="" coords="629,275,792,317"/>
+</map>

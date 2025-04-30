@@ -1,0 +1,32 @@
+<map id="bsps/sparc" name="bsps/sparc">
+<area shape="rect" id="node2" href="dir_cbe8ffb816c00a25dd538c7f33916496.html" title="erc32" alt="" coords="229,63,301,111"/>
+<area shape="rect" id="node3" href="dir_79cbdd15b9d0d8df466ede4071076632.html" title="include" alt="" coords="273,159,345,207"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000227_000978.html" title="1" alt="" coords="294,131,303,146"/>
+<area shape="rect" id="node7" href="dir_5d1ab919b2bc2a88d122acf1f2df3693.html" title="include" alt="" coords="397,255,469,303"/>
+<area shape="rect" id="edge10-headlabel" href="dir_000227_000468.html" title="5" alt="" coords="456,234,466,249"/>
+<area shape="rect" id="node8" href="dir_e653c55a041a793eeaa2fef7ea5f8258.html" title="shared" alt="" coords="525,159,597,207"/>
+<area shape="rect" id="edge11-headlabel" href="dir_000227_000068.html" title="1" alt="" coords="507,143,516,158"/>
+<area shape="rect" id="node9" href="dir_cd198e36225ba3f41de97552050ac017.html" title="cpukit" alt="" coords="200,351,272,399"/>
+<area shape="rect" id="edge12-headlabel" href="dir_000227_000080.html" title="21" alt="" coords="223,323,240,338"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000978_000468.html" title="1" alt="" coords="386,230,395,245"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000978_000080.html" title="2" alt="" coords="255,329,264,344"/>
+<area shape="rect" id="node4" href="dir_ca7c46d420a626d435076b2a728e3ec0.html" title="leon2" alt="" coords="325,63,397,111"/>
+<area shape="rect" id="edge13-headlabel" href="dir_000229_000978.html" title="2" alt="" coords="334,139,343,154"/>
+<area shape="rect" id="edge14-headlabel" href="dir_000229_000468.html" title="4" alt="" coords="484,270,494,285"/>
+<area shape="rect" id="edge15-headlabel" href="dir_000229_000068.html" title="2" alt="" coords="508,142,517,157"/>
+<area shape="rect" id="edge16-headlabel" href="dir_000229_000080.html" title="22" alt="" coords="231,324,248,339"/>
+<area shape="rect" id="node5" href="dir_6de92cf848d690e046fa9fbf350a682d.html" title="leon3" alt="" coords="133,63,205,111"/>
+<area shape="rect" id="edge17-headlabel" href="dir_000231_000978.html" title="1" alt="" coords="260,134,269,149"/>
+<area shape="rect" id="edge18-headlabel" href="dir_000231_000468.html" title="23" alt="" coords="432,228,450,243"/>
+<area shape="rect" id="edge19-headlabel" href="dir_000231_000068.html" title="2" alt="" coords="506,143,515,157"/>
+<area shape="rect" id="edge20-headlabel" href="dir_000231_000080.html" title="32" alt="" coords="216,323,233,338"/>
+<area shape="rect" id="node6" href="dir_c14d649d1a2cbfb6c07d48ff243819d9.html" title="shared" alt="" coords="37,63,109,111"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000070_000978.html" title="3" alt="" coords="254,147,264,162"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000070_000468.html" title="16" alt="" coords="407,227,424,242"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000070_000080.html" title="17" alt="" coords="208,323,225,338"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000468_000080.html" title="58" alt="" coords="284,349,301,363"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000068_000468.html" title="314" alt="" coords="477,245,502,260"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000068_000080.html" title="387" alt="" coords="279,370,304,384"/>
+<area shape="rect" id="clust2" href="dir_3ea1e8b3225ab2955438672a79c5aabc.html" alt="" coords="27,52,504,217"/>
+<area shape="rect" id="clust1" href="dir_49b8d5997469a34e9a523535602b7e1a.html" title="bsps" alt="" coords="16,16,515,228"/>
+</map>

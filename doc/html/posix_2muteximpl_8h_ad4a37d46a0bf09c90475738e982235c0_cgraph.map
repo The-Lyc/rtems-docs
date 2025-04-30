@@ -1,0 +1,10 @@
+<map id="_POSIX_Mutex_Surrender" name="_POSIX_Mutex_Surrender">
+<area shape="rect" id="node1" title=" " alt="" coords="5,112,192,139"/>
+<area shape="rect" id="node2" href="$posix_2muteximpl_8h.html#aeb6b81be11464de12b09beeaf876d155" title=" " alt="" coords="245,7,426,33"/>
+<area shape="rect" id="node4" href="$posix_2muteximpl_8h.html#a7d79a81165ff9936fcac8cfd5912a5f5" title=" " alt="" coords="248,61,423,88"/>
+<area shape="rect" id="node6" href="$posix_2muteximpl_8h.html#aac5c3781d95e2db54e2f66ebb0869dbc" title=" " alt="" coords="240,112,431,139"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreThreadQueue.html#ga2f163fd4e89b8ea38e05e2faf4b065cf" title="Surrenders the thread queue previously owned by the thread to the first enqueued thread." alt="" coords="240,163,431,189"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreThread.html#ga778547cad4f7dd7524abb2b9aec0a239" title="Decrements the thread&#39;s resource count." alt="" coords="243,214,427,255"/>
+<area shape="rect" id="node3" href="$posix_2muteximpl_8h.html#a7b63c2b142623855104b334604b4f80f" title=" " alt="" coords="479,5,672,32"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreThreadQueue.html#ga5074d780cc6e486c858a564e0406f647" title="Releases the thread queue queue and enables interrupts." alt="" coords="490,57,661,98"/>
+</map>

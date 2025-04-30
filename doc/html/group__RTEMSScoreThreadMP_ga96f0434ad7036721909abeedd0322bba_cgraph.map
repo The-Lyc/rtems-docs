@@ -1,0 +1,11 @@
+<map id="_Thread_MP_Handler_initialization" name="_Thread_MP_Handler_initialization">
+<area shape="rect" id="node1" title="Initialize MP thread handler." alt="" coords="5,99,164,141"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreChain.html#ga59b0dbda01fc9f0675bef62722627764" title="Initializes a chain header." alt="" coords="239,69,368,96"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreThread.html#gacb988363d243a9c060fdeb9a2cf3d401" title="Initializes the thread timer." alt="" coords="212,132,395,159"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreAddress.html#gaa7812bb29c95ed68f2b958d833c79399" title="Adds offset to an address." alt="" coords="445,5,617,32"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreChain.html#ga8b66d3138b9cdacbcb0600c42237ff7d" title="Returns pointer to chain head." alt="" coords="478,56,585,83"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreChain.html#ga06f3e2dd6d64411f0565e3b483e53673" title="Returns pointer to chain tail." alt="" coords="484,107,579,133"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreWatchdog.html#gad98da837d665c764654ed6bcc25131dc" title="Pre&#45;initializes a watchdog." alt="" coords="443,157,620,184"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreWatchdog.html#ga3de62172597bf475ce849c935c51ed05" title="Sets the cpu for the watchdog." alt="" coords="671,132,826,159"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreWatchdog.html#ga08d63637741832757cddfc443e9cf473" title="Sets the state of the watchdog." alt="" coords="668,183,829,209"/>
+</map>

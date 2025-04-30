@@ -1,0 +1,13 @@
+<map id="File System Types and Mount" name="File System Types and Mount">
+<area shape="rect" id="node1" href="$group__IMFS.html" title="In&#45;Memory File System Support." alt="" coords="365,5,539,45"/>
+<area shape="rect" id="node2" href="$group__rtems__ftpfs.html" title="The FTP file system (FTP client) can be used to transfer files from or to remote hosts." alt="" coords="373,69,531,109"/>
+<area shape="rect" id="node3" title="File system types and mount." alt="" coords="139,240,305,280"/>
+<area shape="rect" id="node4" href="$group__FIFO__PIPE.html" title="Interface to the POSIX FIFO/Pipe File System." alt="" coords="370,133,534,173"/>
+<area shape="rect" id="node5" href="$group__libfs.html" title="libfs" alt="" coords="427,198,477,223"/>
+<area shape="rect" id="node6" href="$group__DOSFS.html" title="FAT file system configuration support, format and mount options." alt="" coords="365,247,539,273"/>
+<area shape="rect" id="node8" href="$group__JFFS2.html" title="Mount options for the Journalling Flash File System, Version 2 (JFFS2)." alt="" coords="358,297,546,351"/>
+<area shape="rect" id="node9" href="$group__rtems__rfs.html" title=" " alt="" coords="357,376,547,416"/>
+<area shape="rect" id="node10" href="$group__nfsclient.html" title="nfs Client" alt="" coords="410,441,494,466"/>
+<area shape="rect" id="node11" href="$group__rtems__fstab.html" title="File System Mount Functions." alt="" coords="353,490,551,515"/>
+<area shape="rect" id="node7" href="$group__LibIO.html" title="Provides system call and file system interface definitions." alt="" coords="5,247,91,273"/>
+</map>

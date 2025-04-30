@@ -1,0 +1,4 @@
+<map id="rtems_current_user_env_get" name="rtems_current_user_env_get">
+<area shape="rect" id="node1" title="Fetch the pointer to the current user environment." alt="" coords="5,5,153,47"/>
+<area shape="rect" id="node2" href="$group__PerCPU.html#ga294cfaf3cf50de03f1d9821d68b9c1bd" title="Returns the thread control block of the executing thread." alt="" coords="201,13,376,39"/>
+</map>

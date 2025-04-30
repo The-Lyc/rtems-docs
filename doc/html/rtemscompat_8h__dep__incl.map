@@ -1,0 +1,8 @@
+<map id="bsps/powerpc/beatnik/net/porting/rtemscompat.h" name="bsps/powerpc/beatnik/net/porting/rtemscompat.h">
+<area shape="rect" id="node1" title=" " alt="" coords="283,5,483,47"/>
+<area shape="rect" id="node2" href="$if__em__osdep_8h.html" title=" " alt="" coords="5,95,192,136"/>
+<area shape="rect" id="node3" href="$if__xxx__rtems_8c.html" title=" " alt="" coords="216,95,413,136"/>
+<area shape="rect" id="node5" href="$if__gfe__rtems_8c.html" title=" " alt="" coords="358,184,543,225"/>
+<area shape="rect" id="node6" href="$if__xxx_8modini_8c.html" title=" " alt="" coords="489,95,690,136"/>
+<area shape="rect" id="node4" href="$if__em__rtems_8c.html" title=" " alt="" coords="149,184,334,225"/>
+</map>

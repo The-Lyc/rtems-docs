@@ -1,0 +1,15 @@
+<map id="i386 Specific Support" name="i386 Specific Support">
+<area shape="rect" id="node1" href="$group__RTEMSScoreCPUEpiphany.html" title="Epiphany Architecture Support." alt="" coords="647,30,729,55"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreCPUSPARCContext.html" title=" " alt="" coords="593,85,783,110"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreCPUi386Paravirt.html" title=" " alt="" coords="604,135,772,175"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreCPUARM.html" title="ARM Architecture Support." alt="" coords="662,199,714,225"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreCPUlm32Context.html" title=" " alt="" coords="605,249,771,289"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreCPU.html" title="Provides CPU architecture dependent services." alt="" coords="5,305,192,330"/>
+<area shape="rect" id="node11" title="i386 specific support." alt="" coords="241,305,400,330"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreCPUi386ASM.html" title="i386 Assembler Support" alt="" coords="599,314,777,339"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreCPUV850CPUContext.html" title=" " alt="" coords="605,364,771,404"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreCPUMIPS.html" title="MIPS Architecture Support." alt="" coords="661,429,715,454"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreCPUBfinCPUContext.html" title=" " alt="" coords="605,480,771,520"/>
+<area shape="rect" id="node12" href="$group__RTEMSScoreCPUi386Interrupt.html" title="i386 Interrupt Management" alt="" coords="602,544,774,584"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreCPUPowerPC.html" title="PowerPC Architecture Support." alt="" coords="649,609,727,634"/>
+</map>

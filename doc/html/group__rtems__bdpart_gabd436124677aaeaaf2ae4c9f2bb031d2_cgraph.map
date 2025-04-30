@@ -1,0 +1,5 @@
+<map id="rtems_bdpart_dump" name="rtems_bdpart_dump">
+<area shape="rect" id="node1" title="Prints the partition table partitions with count partitions to standard output." alt="" coords="5,42,159,69"/>
+<area shape="rect" id="node2" href="$group__rtems__bdpart.html#ga13ba144439be58871fa6c7e26854f11a" title="Converts the partition type in type to the MBR partition type." alt="" coords="207,5,369,47"/>
+<area shape="rect" id="node3" href="$if__gfe_2rtemscompat__defs_8h.html#a357a42eb6494ea592e9c3f96c55cebe2" title=" " alt="" coords="252,71,324,98"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Shared" name="Shared">
+<area shape="rect" id="node1" href="$group__RTEMSBSPsLM32SharedMilkymistOne.html" title="Shared Support for Milkymist One Board Support Packages." alt="" coords="391,5,507,31"/>
+<area shape="rect" id="node2" href="$group__RTEMSBSPsLM32.html" title="LatticeMicro32 Board Support Packages." alt="" coords="5,96,171,121"/>
+<area shape="rect" id="node5" title="Shared Support for LatticeMicro32 Board Support Packages." alt="" coords="220,96,287,121"/>
+<area shape="rect" id="node3" href="$group__lm32__uart.html" title="LatticeMico32 UART definitions." alt="" coords="401,57,497,83"/>
+<area shape="rect" id="node4" href="$group__lm32__clock.html" title="LatticeMico32 Timer (Clock) definitions." alt="" coords="401,113,498,139"/>
+<area shape="rect" id="node6" href="$group__lm32__tsmac.html" title="LatticeMico32 TSMAC (Tri&#45;Speed MAC) definitions." alt="" coords="396,163,503,188"/>
+<area shape="rect" id="node7" href="$group__lm32__gdb.html" title="Definition of the interface between the stub and gdb,." alt="" coords="373,212,525,237"/>
+</map>

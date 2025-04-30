@@ -1,0 +1,7 @@
+<map id="cpukit/include/rtems/posix/barrierimpl.h" name="cpukit/include/rtems/posix/barrierimpl.h">
+<area shape="rect" id="node1" title="Inlined Routines from the POSIX Barrier Manager." alt="" coords="413,5,568,47"/>
+<area shape="rect" id="node2" href="$pbarrierdestroy_8c.html" title="Destroy a Barrier Object." alt="" coords="5,95,243,121"/>
+<area shape="rect" id="node3" href="$pbarrierinit_8c.html" title="Call to Function Enables Reinitializing of the Barrier." alt="" coords="267,95,477,121"/>
+<area shape="rect" id="node4" href="$pbarrierwait_8c.html" title="Wait at a Barrier." alt="" coords="501,95,720,121"/>
+<area shape="rect" id="node5" href="$posixapi_8c.html" title="Initialize POSIX API." alt="" coords="744,95,931,121"/>
+</map>

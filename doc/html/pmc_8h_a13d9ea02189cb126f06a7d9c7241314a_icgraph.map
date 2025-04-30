@@ -1,0 +1,4 @@
+<map id="PMC_IsPeriphEnabled" name="PMC_IsPeriphEnabled">
+<area shape="rect" id="node1" title="Get Periph Status for the given peripheral ID." alt="" coords="236,5,399,32"/>
+<area shape="rect" id="node2" href="$group__dmad__functions.html#ga2a7947467c04eb39abee2471d846ee35" title="Enable clock of the xDMA peripheral, Enable the dma peripheral, configure configuration register for ..." alt="" coords="5,5,188,32"/>
+</map>

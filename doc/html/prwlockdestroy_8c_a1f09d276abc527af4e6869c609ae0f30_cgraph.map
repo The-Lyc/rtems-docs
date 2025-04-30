@@ -1,0 +1,8 @@
+<map id="pthread_rwlock_destroy" name="pthread_rwlock_destroy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,184,108"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreRWLock.html#ga80b56e01077592b6608d7e2a1a6ddd46" title="Acquires the RWlock." alt="" coords="236,5,416,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreRWLock.html#ga0441e1bfb6a1316cbf35dccf40dbf920" title="Releases the RWlock." alt="" coords="235,56,417,83"/>
+<area shape="rect" id="node5" href="$rwlockimpl_8h.html#a34a2ae0951ff22962eace9a2a0d8aa21" title=" " alt="" coords="247,107,405,133"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreThreadQueue.html#ga35b6fa511ba7c3c55a3afb91cc7b0cfb" title="Checks if the thread queue queue is empty." alt="" coords="232,157,420,184"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreThreadQueue.html#ga5074d780cc6e486c858a564e0406f647" title="Releases the thread queue queue and enables interrupts." alt="" coords="468,49,639,90"/>
+</map>

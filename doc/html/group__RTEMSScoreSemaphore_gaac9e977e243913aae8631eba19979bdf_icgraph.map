@@ -1,0 +1,5 @@
+<map id="_CORE_semaphore_Acquire_critical" name="_CORE_semaphore_Acquire_critical">
+<area shape="rect" id="node1" title="Acquires the semaphore critical." alt="" coords="457,5,659,47"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreSemaphore.html#ga7b6f46a1b1493871428be3b274ebb0f0" title="Seizes the semaphore." alt="" coords="223,13,409,39"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreMPCI.html#gaf232dadc9160e4b1c733906d3a6d1f57" title="Receives and processes all packets." alt="" coords="5,13,175,39"/>
+</map>

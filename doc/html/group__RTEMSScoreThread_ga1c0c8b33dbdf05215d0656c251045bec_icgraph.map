@@ -1,0 +1,7 @@
+<map id="_Thread_Is_heir" name="_Thread_Is_heir">
+<area shape="rect" id="node1" title="Checks if the thread is the heir." alt="" coords="439,64,563,91"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreScheduler.html#ga582a9364e4794778595d769e3f4f4693" title="Blocks the thread." alt="" coords="240,57,391,98"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreSchedulerEDF.html#gac26bbc49f94fa506fd0bdea7c1f09066" title="Removes the blocking thread from the ready queue and schedules is only again if the thread is executi..." alt="" coords="14,5,183,32"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreSchedulerDPS.html#ga0ef8d30efe3b8106036c277fb1e6967e" title="Blocks the thread." alt="" coords="25,57,172,98"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreSchedulerSimple.html#ga34e93fa9cafb272a16320fe540ac86a3" title="Blocks the thread." alt="" coords="5,123,192,149"/>
+</map>

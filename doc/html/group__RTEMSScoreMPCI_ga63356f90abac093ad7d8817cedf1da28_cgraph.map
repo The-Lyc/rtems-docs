@@ -1,0 +1,8 @@
+<map id="_MPCI_Internal_packets_Send_process_packet" name="_MPCI_Internal_packets_Send_process_packet">
+<area shape="rect" id="node1" title="Performs a process on another node." alt="" coords="5,39,181,80"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreMPCI.html#gaa1dfe78c5adee4604729d791941634a6" title="Obtains an internal thread." alt="" coords="229,5,405,47"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreMPCI.html#ga02e1e38a1e6a9d3b6488058c89ac96a1" title="Sends a process packet." alt="" coords="238,71,397,112"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreMPCI.html#ga66e87499b1e505e2e38411619c88adce" title="Obtains a packet by invoking the user provided MPCI get packet callout." alt="" coords="453,13,596,39"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreIntErr.html#ga092fa4be4bda2528754b494e901d3d2a" title="Terminates the system with an INTERNAL_ERROR_CORE fatal source and the specified core error code." alt="" coords="644,13,761,39"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreIntErr.html#ga5102f2f0c5939020aa3b11d67afa84eb" title="Initiates system termination." alt="" coords="809,13,904,39"/>
+</map>

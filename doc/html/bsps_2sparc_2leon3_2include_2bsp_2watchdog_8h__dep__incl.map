@@ -1,0 +1,5 @@
+<map id="bsps/sparc/leon3/include/bsp/watchdog.h" name="bsps/sparc/leon3/include/bsp/watchdog.h">
+<area shape="rect" id="node1" title=" " alt="" coords="98,5,281,47"/>
+<area shape="rect" id="node2" href="$arm_2lpc176x_2start_2watchdog_8c.html" title="Watchdog controller for the mbed lpc176x family boards." alt="" coords="5,95,176,136"/>
+<area shape="rect" id="node3" href="$sparc_2leon3_2btimer_2watchdog_8c.html" title=" " alt="" coords="200,95,379,136"/>
+</map>

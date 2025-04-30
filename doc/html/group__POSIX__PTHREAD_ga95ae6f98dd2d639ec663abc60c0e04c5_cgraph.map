@@ -1,0 +1,5 @@
+<map id="_POSIX_Thread_Translate_sched_param" name="_POSIX_Thread_Translate_sched_param">
+<area shape="rect" id="node1" title="Translate sched_param into SuperCore terms." alt="" coords="5,35,192,76"/>
+<area shape="rect" id="node2" href="$group__POSIX__PTHREAD.html#ga9e39e8f504e1f4df1f6cb8f63506453a" title="POSIX threads sporadic budget callout." alt="" coords="240,5,431,47"/>
+<area shape="rect" id="node3" href="$group__Timespec.html#ga1aa89ad35c5fdabdef548cd32cf8a40f" title="Converts timespec to number of ticks." alt="" coords="260,71,411,98"/>
+</map>

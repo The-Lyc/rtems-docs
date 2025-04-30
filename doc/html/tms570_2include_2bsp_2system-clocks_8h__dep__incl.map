@@ -1,0 +1,11 @@
+<map id="bsps/arm/tms570/include/bsp/system&#45;clocks.h" name="bsps/arm/tms570/include/bsp/system&#45;clocks.h">
+<area shape="rect" id="node1" title="System clocks." alt="" coords="696,5,883,47"/>
+<area shape="rect" id="node2" href="$arm_2lpc176x_2start_2bspstart_8c.html" title="Startup code." alt="" coords="5,95,176,136"/>
+<area shape="rect" id="node3" href="$bsps_2arm_2lpc176x_2start_2io_8c.html" title="Input/output module methods." alt="" coords="201,102,399,129"/>
+<area shape="rect" id="node4" href="$lpc176x_2start_2system-clocks_8c.html" title="System clocks." alt="" coords="424,95,595,136"/>
+<area shape="rect" id="node5" href="$lcd_8c.html" title="LCD support." alt="" coords="619,95,773,136"/>
+<area shape="rect" id="node6" href="$arm_2lpc24xx_2start_2bspstart_8c.html" title="Startup code." alt="" coords="797,95,968,136"/>
+<area shape="rect" id="node7" href="$bsps_2arm_2lpc24xx_2start_2io_8c.html" title="Input and output module." alt="" coords="993,102,1191,129"/>
+<area shape="rect" id="node8" href="$lpc24xx_2start_2system-clocks_8c.html" title="System clocks." alt="" coords="1216,95,1387,136"/>
+<area shape="rect" id="node9" href="$arm_2lpc24xx_2start_2timer_8c.html" title="Benchmark timer support." alt="" coords="1411,95,1581,136"/>
+</map>

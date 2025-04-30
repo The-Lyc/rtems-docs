@@ -1,0 +1,29 @@
+<map id="_Signal_Action_handler" name="_Signal_Action_handler">
+<area shape="rect" id="node1" title=" " alt="" coords="5,329,179,355"/>
+<area shape="rect" id="node2" href="$group__ClassicASRImpl.html#ga4d8d2ce253def38c19cb128b29bf0025" title=" " alt="" coords="227,253,416,279"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreThread.html#ga958218590f858b65855c89802b2cc071" title="Releases the lock context and enables interrupts." alt="" coords="481,13,652,39"/>
+<area shape="rect" id="node6" href="$group__ClassicTasks.html#gad74c115e94d1f65c416444b36bf012bf" title="RTEMS Task Mode." alt="" coords="252,354,391,381"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreThread.html#gab003d620d9c5fc5502cedd90960d59d5" title="Release the lock context in a critical section." alt="" coords="741,5,911,47"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreThreadQueue.html#ga923d39f206f389ae8a8293e22bae8fbf" title="Checks if the thread queue control is the owner of the lock." alt="" coords="983,5,1184,47"/>
+<area shape="rect" id="node7" href="$group__ClassicASRImpl.html#ga496c903f7e707c3ca892247473ed57bd" title=" " alt="" coords="491,63,642,90"/>
+<area shape="rect" id="node8" href="$group__ClassicModesImpl.html#ga3badf3f95421e122383aa0a5ffed70b7" title="Gets the interrupt level portion of the mode_set." alt="" coords="743,176,909,217"/>
+<area shape="rect" id="node9" href="$group__ClassicModesImpl.html#ga34e4751d5be175830dae1780aa09776e" title="Checks if mode_set says that Asynchronous Signal Processing is disabled." alt="" coords="477,165,656,191"/>
+<area shape="rect" id="node10" href="$group__ClassicModesImpl.html#ga7951761df7339bfa621b3c1bee188d15" title="Checks if mode_set indicates that preemption is enabled." alt="" coords="491,215,643,242"/>
+<area shape="rect" id="node11" href="$group__ClassicModesImpl.html#ga38bf25bb20c0d19b57cf50c8d7af339c" title="Checks if mode_set indicates that timeslicing is enabled." alt="" coords="488,266,645,293"/>
+<area shape="rect" id="node12" href="$group__ClassicModesImpl.html#ga0fa0003793c7e73766faa9e5195c0070" title="Sets the current interrupt level to that specified in the mode_set." alt="" coords="485,317,648,359"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreScheduler.html#ga8ae120060b9523ac05e0aaf3e9f2b4d9" title="General scheduling decision." alt="" coords="487,383,646,410"/>
+<area shape="rect" id="node17" href="$group__RTEMSScoreThread.html#ga0071d4e11d2d68b2e4c43ffe2108e7f5" title="Gets the home scheduler of the thread." alt="" coords="717,438,935,465"/>
+<area shape="rect" id="node18" href="$group__RTEMSScoreSMP.html#ga0dbdecb29135563cf50bcd3f90298036" title="Indicate if inter&#45;processor interrupts are needed." alt="" coords="464,485,669,527"/>
+<area shape="rect" id="node19" href="$group__RTEMSScoreThread.html#gab19f3f385804128f7f975c8ed326765a" title="Adds a post switch action to the thread with the given handler." alt="" coords="471,551,662,592"/>
+<area shape="rect" id="node20" href="$group__RTEMSScoreThread.html#gab4251559fe6a0c06762de333bca275f5" title="Directly do a thread dispatch." alt="" coords="475,617,658,643"/>
+<area shape="rect" id="node21" href="$group__RTEMSScoreThread.html#ga044bfb6e9317180d21b05c5338cedd1a" title="Disables thread dispatching." alt="" coords="471,667,663,694"/>
+<area shape="rect" id="node24" href="$group__PerCPU.html#ga294cfaf3cf50de03f1d9821d68b9c1bd" title="Returns the thread control block of the executing thread." alt="" coords="479,718,654,745"/>
+<area shape="rect" id="node25" href="$group__RTEMSScoreThread.html#ga9a583864cdcbb7eaeda8002d05de6912" title="Disables interrupts and acquires the lock_context." alt="" coords="481,769,652,795"/>
+<area shape="rect" id="node14" href="$group__RTEMSScoreScheduler.html#ga9e6cf07526560aa067d7bcb92a7aa964" title="Acquires the scheduler instance inside a critical section (interrupts disabled)." alt="" coords="751,307,901,348"/>
+<area shape="rect" id="node16" href="$group__RTEMSScoreScheduler.html#gae4d084e50d4f8a616f394312b66df32b" title="Releases the scheduler instance inside a critical section (interrupts disabled)." alt="" coords="750,372,902,413"/>
+<area shape="rect" id="node15" href="$group__RTEMSScoreScheduler.html#ga9c62ef5a388b998fa041a269297be1fe" title="Gets the context of the scheduler." alt="" coords="994,347,1173,374"/>
+<area shape="rect" id="node22" href="$group__RTEMSScoreThread.html#ga5ffeb81480c63293a317f69efc74dec3" title="Disables thread dispatching inside a critical section (interrupts disabled)." alt="" coords="730,660,922,701"/>
+<area shape="rect" id="node23" href="$group__RTEMSScoreThread.html#ga80a71da4ea096f7ea92781a872b955ae" title="Disables thread dispatching inside a critical section (interrupts disabled) with the current processo..." alt="" coords="987,660,1179,701"/>
+<area shape="rect" id="node26" href="$group__RTEMSScoreThread.html#gafd7ff215edf64b4611da7b7c1d4e3050" title="Acquires the lock context in a critical section." alt="" coords="741,761,911,803"/>
+<area shape="rect" id="node27" href="$group__RTEMSScoreThreadQueue.html#gaf1488e09cc925566233f2f1fc76c4d81" title="Acquires the thread queue control in a critical section." alt="" coords="983,761,1184,803"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="_Objects_Allocator_unlock" name="_Objects_Allocator_unlock">
+<area shape="rect" id="node1" title="Unlocks the object allocator mutex." alt="" coords="5,23,148,65"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreAllocatorMutex.html#ga15d657c04537c2ad1841adc28b8dd747" title=" " alt="" coords="196,31,385,57"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreAPIMutex.html#ga64a430ae861d0ce7f63413e651fbe36d" title="Releases the specified API mutex." alt="" coords="433,31,584,57"/>
+<area shape="rect" id="node4" href="$mutex_8c.html#adecd7211e7a1a5035841212574f45b31" title=" " alt="" coords="635,5,831,32"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreThread.html#gad5aaea7af4482aebd880403fb9c238af" title="Set the thread to life protected." alt="" coords="632,56,835,83"/>
+</map>

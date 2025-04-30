@@ -1,0 +1,52 @@
+<map id="cpukit/sapi/src/extensioncreate.c" name="cpukit/sapi/src/extensioncreate.c">
+<area shape="rect" id="node1" title="User Extensions Implementation." alt="" coords="988,5,1224,32"/>
+<area shape="rect" id="node2" href="$extensionimpl_8h.html" title="Classic User Extensions Implementation." alt="" coords="1083,80,1252,107"/>
+<area shape="rect" id="node46" href="$support_8h.html" title=" " alt="" coords="679,80,845,107"/>
+<area shape="rect" id="node48" href="$userextimpl_8h.html" title="User Extension Handler API." alt="" coords="1504,229,1697,256"/>
+<area shape="rect" id="node49" href="$sysinit_8h.html" title=" " alt="" coords="2225,80,2344,107"/>
+<area shape="rect" id="node3" href="$extensiondata_8h.html" title="Classic User Extensions Data Structures." alt="" coords="839,304,1008,331"/>
+<area shape="rect" id="node23" href="$objectimpl_8h.html" title="Inlined Routines in the Object Handler." alt="" coords="2583,155,2767,181"/>
+<area shape="rect" id="node4" href="$extension_8h.html" title="User Extensions API." alt="" coords="760,379,900,405"/>
+<area shape="rect" id="node17" href="$objectdata_8h.html" title="Object Handler Data Structures." alt="" coords="925,379,1109,405"/>
+<area shape="rect" id="node22" href="$userextdata_8h.html" title="User Extension Handler Data Structures." alt="" coords="543,379,736,405"/>
+<area shape="rect" id="node5" href="$rtems_2status_8h.html" title=" " alt="" coords="829,603,988,629"/>
+<area shape="rect" id="node8" href="$cpukit_2include_2rtems_2rtems_2types_8h.html" title=" " alt="" coords="437,453,591,480"/>
+<area shape="rect" id="node16" href="$userext_8h.html" title="User Extension Handler API." alt="" coords="672,453,836,480"/>
+<area shape="rect" id="node6" href="$basedefs_8h.html" title="Basic Definitions." alt="" coords="1393,677,1568,704"/>
+<area shape="rect" id="node7" title=" " alt="" coords="849,752,920,779"/>
+<area shape="rect" id="node9" title=" " alt="" coords="733,528,836,555"/>
+<area shape="rect" id="node10" title=" " alt="" coords="253,528,380,555"/>
+<area shape="rect" id="node11" title=" " alt="" coords="405,528,522,555"/>
+<area shape="rect" id="node12" href="$heapinfo_8h.html" title="Heap Handler Information API." alt="" coords="5,677,177,704"/>
+<area shape="rect" id="node13" href="$score_2object_8h.html" title="Constants and Structures Associated with the Object Handler." alt="" coords="911,528,1066,555"/>
+<area shape="rect" id="node14" href="$watchdogticks_8h.html" title="Constants for the watchdog ticks." alt="" coords="1091,528,1300,555"/>
+<area shape="rect" id="node15" href="$modes_8h.html" title=" " alt="" coords="546,528,709,555"/>
+<area shape="rect" id="node18" href="$chainimpl_8h.html" title="Chain Handler API." alt="" coords="1142,453,1321,480"/>
+<area shape="rect" id="node21" href="$rtems_2score_2rbtree_8h.html" title="Constants and Structures Associated with the Red&#45;Black Tree Handler." alt="" coords="1477,528,1631,555"/>
+<area shape="rect" id="node19" href="$score_2chain_8h.html" title="Chain Handler API." alt="" coords="1656,528,1807,555"/>
+<area shape="rect" id="node20" href="$assert_8h.html" title="Information for the Assert Handler." alt="" coords="1933,603,2087,629"/>
+<area shape="rect" id="node24" href="$apimutex_8h.html" title="API Mutex Handler API." alt="" coords="2587,229,2764,256"/>
+<area shape="rect" id="node29" href="$isrlock_8h.html" title="ISR Locks." alt="" coords="2265,453,2424,480"/>
+<area shape="rect" id="node40" href="$sysstate_8h.html" title="System State Handler API." alt="" coords="2111,603,2282,629"/>
+<area shape="rect" id="node41" href="$threaddispatch_8h.html" title="Constants and Structures Related with Thread Dispatch." alt="" coords="2788,229,3000,256"/>
+<area shape="rect" id="node25" href="$score_2thread_8h.html" title="Constants and Structures Related with the Thread Control Block." alt="" coords="1773,304,1930,331"/>
+<area shape="rect" id="node39" title=" " alt="" coords="2587,304,2673,331"/>
+<area shape="rect" id="node26" href="$include_2rtems_2score_2atomic_8h.html" title="Atomic Operations API." alt="" coords="2061,379,2221,405"/>
+<area shape="rect" id="node27" href="$context_8h.html" title="Information About Each Thread&#39;s Context." alt="" coords="2245,379,2409,405"/>
+<area shape="rect" id="node28" href="$freechain_8h.html" title="Freechain Handler API." alt="" coords="1234,379,1410,405"/>
+<area shape="rect" id="node32" href="$rtems_2score_2priority_8h.html" title="Priority Handler API." alt="" coords="1598,453,1758,480"/>
+<area shape="rect" id="node33" href="$schedulernode_8h.html" title="Handles Scheduler Nodes." alt="" coords="1674,379,1885,405"/>
+<area shape="rect" id="node34" href="$cpukit_2include_2rtems_2score_2stack_8h.html" title="Information About the Thread Stack Handler." alt="" coords="1251,603,1401,629"/>
+<area shape="rect" id="node35" href="$states_8h.html" title="Thread Execution State Information." alt="" coords="2086,453,2241,480"/>
+<area shape="rect" id="node36" href="$threadq_8h.html" title="Constants and Structures Needed to Declare a Thread Queue." alt="" coords="1434,379,1599,405"/>
+<area shape="rect" id="node37" href="$timestamp_8h.html" title="Helpers for Manipulating Timestamps." alt="" coords="2449,453,2635,480"/>
+<area shape="rect" id="node38" href="$cpukit_2include_2rtems_2score_2watchdog_8h.html" title="Constants and Structures Associated with Watchdog Timers." alt="" coords="1833,453,2011,480"/>
+<area shape="rect" id="node30" href="$isrlevel_8h.html" title="ISR Level Type." alt="" coords="2505,528,2667,555"/>
+<area shape="rect" id="node31" href="$smplock_8h.html" title="SMP Lock API." alt="" coords="2310,528,2481,555"/>
+<area shape="rect" id="node42" href="$score_2percpu_8h.html" title=" " alt="" coords="2800,379,2959,405"/>
+<area shape="rect" id="node45" href="$score_2profiling_8h.html" title="Profiling Support API." alt="" coords="2749,304,2917,331"/>
+<area shape="rect" id="node43" title=" " alt="" coords="2660,453,2827,480"/>
+<area shape="rect" id="node44" href="$smp_8h.html" title="SuperCore SMP Support API." alt="" coords="2851,453,2993,480"/>
+<area shape="rect" id="node47" title=" " alt="" coords="705,155,819,181"/>
+<area shape="rect" id="node50" href="$linkersets_8h.html" title=" " alt="" coords="2758,603,2897,629"/>
+</map>

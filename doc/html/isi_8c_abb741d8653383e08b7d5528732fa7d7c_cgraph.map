@@ -1,0 +1,4 @@
+<map id="ISI_RgbPixelMapping" name="ISI_RgbPixelMapping">
+<area shape="rect" id="node1" title="Defines RGB pattern when RGB_MODE is set to 1." alt="" coords="5,5,163,32"/>
+<area shape="rect" id="node2" href="$isi_8c.html#adbb6e16ad19dced5edc920ec7f8e7bbf" title="Workaround for ISI CFG2 register read." alt="" coords="211,5,405,32"/>
+</map>

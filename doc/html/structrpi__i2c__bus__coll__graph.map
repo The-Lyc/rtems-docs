@@ -1,0 +1,4 @@
+<map id="rpi_i2c_bus" name="rpi_i2c_bus">
+<area shape="rect" id="node1" title="Object containing relevant information about an I2C bus." alt="" coords="5,95,100,121"/>
+<area shape="rect" id="node2" href="$structi2c__bus.html" title="I2C bus control." alt="" coords="17,5,88,32"/>
+</map>

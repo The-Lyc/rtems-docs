@@ -1,0 +1,4 @@
+<map id="i386_raw_gdt_entry" name="i386_raw_gdt_entry">
+<area shape="rect" id="node1" title="Allows to set a GDT entry." alt="" coords="200,5,351,32"/>
+<area shape="rect" id="node2" href="$i386_8h.html#a24ae2b79f74284f1c07a368b59bfe0f1" title=" " alt="" coords="5,5,152,32"/>
+</map>

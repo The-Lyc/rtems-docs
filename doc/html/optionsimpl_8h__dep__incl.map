@@ -1,0 +1,12 @@
+<map id="cpukit/include/rtems/rtems/optionsimpl.h" name="cpukit/include/rtems/rtems/optionsimpl.h">
+<area shape="rect" id="node1" title="Classic Options Implementation." alt="" coords="1025,5,1183,47"/>
+<area shape="rect" id="node2" href="$eventseize_8c.html" title="Event Manager Initialization." alt="" coords="5,95,219,121"/>
+<area shape="rect" id="node3" href="$eventsurrender_8c.html" title="Surrender Event." alt="" coords="243,95,483,121"/>
+<area shape="rect" id="node4" href="$msgmp_8c.html" title="Multiprocessing Support for the Message Queue Manager." alt="" coords="507,95,698,121"/>
+<area shape="rect" id="node5" href="$msgqreceive_8c.html" title="RTEMS Message Queue Receive." alt="" coords="723,95,949,121"/>
+<area shape="rect" id="node6" href="$regiongetsegment_8c.html" title="RTEMS Get Region Segment." alt="" coords="973,95,1235,121"/>
+<area shape="rect" id="node7" href="$semmp_8c.html" title="Semaphore MP Support." alt="" coords="1259,95,1450,121"/>
+<area shape="rect" id="node8" href="$semobtain_8c.html" title="RTEMS Obtain Semaphore." alt="" coords="1475,95,1685,121"/>
+<area shape="rect" id="node9" href="$signalmp_8c.html" title="Signal MP Support." alt="" coords="1709,95,1912,121"/>
+<area shape="rect" id="node10" href="$taskmp_8c.html" title="RTEMS Tasks MP Send Process Packet." alt="" coords="1937,95,2127,121"/>
+</map>

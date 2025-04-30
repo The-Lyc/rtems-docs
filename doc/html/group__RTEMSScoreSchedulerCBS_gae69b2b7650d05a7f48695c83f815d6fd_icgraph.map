@@ -1,0 +1,5 @@
+<map id="_Scheduler_CBS_Node_downcast" name="_Scheduler_CBS_Node_downcast">
+<area shape="rect" id="node1" title="Casts the scheduler node to a scheduler CBS node." alt="" coords="240,35,407,76"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreSchedulerCBS.html#gabb8137112e3b30c70daa4dc3221093cb" title="Initializes a CBS specific scheduler node of the_thread." alt="" coords="15,5,182,47"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreSchedulerCBS.html#gae0d9c2720ee46efdfe87ebf87cd45cae" title="Unblocks a thread." alt="" coords="5,71,192,98"/>
+</map>

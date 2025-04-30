@@ -1,0 +1,9 @@
+<map id="bsps/m68k/mrm332/clock/ckinit.c" name="bsps/m68k/mrm332/clock/ckinit.c">
+<area shape="rect" id="node1" title=" " alt="" coords="131,5,321,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,95,76,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="100,95,157,121"/>
+<area shape="rect" id="node4" href="$mrm332_8h.html" title=" " alt="" coords="181,95,271,121"/>
+<area shape="rect" id="node5" href="$clockdrv_8h.html" title="Clock Driver API." alt="" coords="295,95,426,121"/>
+<area shape="rect" id="node7" href="$sim_8h.html" title="Motorola M68K System Integration Module." alt="" coords="450,95,591,121"/>
+<area shape="rect" id="node6" title=" " alt="" coords="325,169,396,196"/>
+</map>

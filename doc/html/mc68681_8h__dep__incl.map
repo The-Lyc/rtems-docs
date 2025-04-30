@@ -1,0 +1,9 @@
+<map id="bsps/include/libchip/mc68681.h" name="bsps/include/libchip/mc68681.h">
+<area shape="rect" id="node1" title=" " alt="" coords="206,5,357,47"/>
+<area shape="rect" id="node2" href="$mc68681_8c.html" title=" " alt="" coords="5,95,173,136"/>
+<area shape="rect" id="node3" href="$mc68681__baud_8c.html" title=" " alt="" coords="197,95,365,136"/>
+<area shape="rect" id="node4" href="$mc68681__reg_8c.html" title=" " alt="" coords="389,95,557,136"/>
+<area shape="rect" id="node5" href="$mc68681__reg2_8c.html" title=" " alt="" coords="197,184,365,225"/>
+<area shape="rect" id="node6" href="$mc68681__reg4_8c.html" title=" " alt="" coords="389,184,557,225"/>
+<area shape="rect" id="node7" href="$mc68681__reg8_8c.html" title=" " alt="" coords="581,184,749,225"/>
+</map>

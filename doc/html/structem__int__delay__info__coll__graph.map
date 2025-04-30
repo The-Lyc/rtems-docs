@@ -1,0 +1,18 @@
+<map id="em_int_delay_info" name="em_int_delay_info">
+<area shape="rect" id="node1" title=" " alt="" coords="616,65,759,92"/>
+<area shape="rect" id="node2" href="$structadapter.html" title=" " alt="" coords="921,347,993,373"/>
+<area shape="rect" id="node3" href="$structem__hw.html" title=" " alt="" coords="653,128,722,155"/>
+<area shape="rect" id="node4" href="$structem__eeprom__info.html" title=" " alt="" coords="317,77,449,104"/>
+<area shape="rect" id="node5" href="$structem__host__mng__dhcp__cookie.html" title=" " alt="" coords="281,128,484,155"/>
+<area shape="rect" id="node6" href="$structem__buffer.html" title=" " alt="" coords="643,179,731,205"/>
+<area shape="rect" id="node7" href="$structgfe__dmamem.html" title=" " alt="" coords="326,217,439,244"/>
+<area shape="rect" id="node15" href="$structem__dma__alloc.html" title=" " alt="" coords="629,229,746,256"/>
+<area shape="rect" id="node8" href="$structbus__dma__segment__t.html" title=" " alt="" coords="5,245,163,272"/>
+<area shape="rect" id="node9" href="$structcallout.html" title=" " alt="" coords="654,319,721,345"/>
+<area shape="rect" id="node10" href="$structem__hw__stats.html" title=" " alt="" coords="633,369,741,396"/>
+<area shape="rect" id="node11" href="$structem__osdep.html" title=" " alt="" coords="643,483,732,509"/>
+<area shape="rect" id="node12" href="$structdevice.html" title=" " alt="" coords="350,445,415,472"/>
+<area shape="rect" id="node13" href="$structmtx.html" title=" " alt="" coords="663,533,711,560"/>
+<area shape="rect" id="node14" href="$structem__rx__desc.html" title=" " alt="" coords="637,584,737,611"/>
+<area shape="rect" id="node16" href="$structem__tx__desc.html" title=" " alt="" coords="637,635,737,661"/>
+</map>

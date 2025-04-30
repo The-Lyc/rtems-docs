@@ -1,0 +1,5 @@
+<map id="VBE_current_mode" name="VBE_current_mode">
+<area shape="rect" id="node1" title="Get currently set mode number." alt="" coords="5,5,151,32"/>
+<area shape="rect" id="node2" href="$realmode__int_8h.html#a1541b4af8720ed12dd8b966a7db9b100" title="Call to real mode interrupt with specified int NO and processor registers." alt="" coords="199,5,373,32"/>
+<area shape="rect" id="node3" href="$i386-stub-glue_8c.html#a1e0a236f3682681ac79ede3a128bffd5" title=" " alt="" coords="421,5,500,32"/>
+</map>

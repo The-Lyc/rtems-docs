@@ -1,0 +1,9 @@
+<map id="console_read" name="console_read">
+<area shape="rect" id="node1" title="Console read entry point." alt="" coords="5,107,113,133"/>
+<area shape="rect" id="node2" href="$sh4uart_8h.html#a3c7032558f4910e9827f3f72863dbf00" title=" " alt="" coords="179,5,342,32"/>
+<area shape="rect" id="node3" href="$mcfuart_8h.html#afe97dbf6fc3f68406554ef46a16e0dc4" title=" " alt="" coords="191,56,331,83"/>
+<area shape="rect" id="node4" href="$group__ClassicFatal.html#gacadb95082c08823f56d908c248657b45" title="Invokes the internal error handler with a source of INTERNAL_ERROR_RTEMS_API and is internal set to f..." alt="" coords="161,107,360,133"/>
+<area shape="rect" id="node6" href="$group__Termios.html#gaed46d58ba006e1f3cea47df1a479d9d9" title=" " alt="" coords="184,157,337,184"/>
+<area shape="rect" id="node7" href="$sh4uart_8c.html#abdf0244c572fb7764558edb82714776d" title=" " alt="" coords="191,208,330,235"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreIntErr.html#ga5102f2f0c5939020aa3b11d67afa84eb" title="Initiates system termination." alt="" coords="408,107,503,133"/>
+</map>

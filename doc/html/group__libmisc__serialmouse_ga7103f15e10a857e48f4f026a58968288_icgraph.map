@@ -1,0 +1,4 @@
+<map id="bsp_get_serial_mouse_device" name="bsp_get_serial_mouse_device">
+<area shape="rect" id="node1" title="Obtain serial mouse configuration information." alt="" coords="225,5,392,47"/>
+<area shape="rect" id="node2" href="$group__libmisc__serialmouse.html#gab65973e690c31999099201a59b7f3503" title="The initialization of the serial mouse driver." alt="" coords="5,13,177,39"/>
+</map>

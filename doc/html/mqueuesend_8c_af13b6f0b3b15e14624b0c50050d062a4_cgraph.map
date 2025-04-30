@@ -1,0 +1,5 @@
+<map id="mq_send" name="mq_send">
+<area shape="rect" id="node1" title=" " alt="" coords="5,46,87,73"/>
+<area shape="rect" id="node2" href="$mqueueimpl_8h.html#ae50b57cad91421699d2723e49089f36e" title="POSIX Message Queue Send Support." alt="" coords="137,5,317,47"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreThreadQueue.html#ga6a087492df4bba9c56d8e8018339a84e" title="Does nothing." alt="" coords="135,71,319,112"/>
+</map>

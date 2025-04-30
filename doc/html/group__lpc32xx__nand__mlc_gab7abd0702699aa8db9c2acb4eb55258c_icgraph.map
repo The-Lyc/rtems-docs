@@ -1,0 +1,4 @@
+<map id="lpc32xx_mlc_erase_block_safe_3" name="lpc32xx_mlc_erase_block_safe_3">
+<area shape="rect" id="node1" title="Erases the block with index block_index." alt="" coords="277,5,467,47"/>
+<area shape="rect" id="node2" href="$group__lpc32xx__nand__mlc.html#gab3b2378535527c368dd10f78a4eca68c" title="Erases the block with index block_index." alt="" coords="5,13,229,39"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="xilinx_axi_i2c_bus" name="xilinx_axi_i2c_bus">
+<area shape="rect" id="node1" title=" " alt="" coords="85,109,226,136"/>
+<area shape="rect" id="node2" href="$structi2c__msg.html" title="I2C transfer message." alt="" coords="5,5,81,32"/>
+<area shape="rect" id="node3" href="$structi2c__bus.html" title="I2C bus control." alt="" coords="120,5,191,32"/>
+<area shape="rect" id="node4" href="$structxilinx__aix__i2c__timing.html" title=" " alt="" coords="215,5,375,32"/>
+</map>

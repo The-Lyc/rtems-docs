@@ -1,0 +1,5 @@
+<map id="bsps/powerpc/include/bsp/bspVmeDmaList.h" name="bsps/powerpc/include/bsp/bspVmeDmaList.h">
+<area shape="rect" id="node1" title="This header should only be used inside a BSP chosing to use bspVmeDmaList for implementing VMEDMA...." alt="" coords="5,5,177,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="56,169,127,196"/>
+<area shape="rect" id="node3" href="$VMEDMA_8h.html" title="Public interface of DMA routines." alt="" coords="80,95,201,121"/>
+</map>

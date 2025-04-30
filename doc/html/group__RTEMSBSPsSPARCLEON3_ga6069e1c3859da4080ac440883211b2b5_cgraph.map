@@ -1,0 +1,6 @@
+<map id="BSP_shared_interrupt_init" name="BSP_shared_interrupt_init">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,195,83"/>
+<area shape="rect" id="node2" href="$group__bsp__interrupt.html#gafccb8719531b51a8cf0163febeb42b29" title="Initialize BSP interrupt support." alt="" coords="243,5,413,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSBSPsSPARCERC32.html#ga6b05ff5e3f13132107c892ff7bfd583d" title=" " alt="" coords="266,56,390,83"/>
+<area shape="rect" id="node4" href="$mips-stub_8c.html#a5241381a1f451f68a42c2304f022b59c" title=" " alt="" coords="245,107,411,133"/>
+</map>

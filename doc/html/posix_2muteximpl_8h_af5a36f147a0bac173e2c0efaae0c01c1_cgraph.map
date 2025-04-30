@@ -1,0 +1,10 @@
+<map id="_POSIX_Mutex_Seize_slow" name="_POSIX_Mutex_Seize_slow">
+<area shape="rect" id="node1" title=" " alt="" coords="5,170,200,197"/>
+<area shape="rect" id="node2" href="$posix_2muteximpl_8h.html#a7d79a81165ff9936fcac8cfd5912a5f5" title=" " alt="" coords="255,13,430,39"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreThreadQueue.html#gab024e7369bc091e53e7bb04ed8ebfb61" title="Sets the deadlock callout in the thread queue context." alt="" coords="253,64,432,105"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreThreadQueue.html#gab31678d367077d484797bc9c4d97574e" title="Sets the thread state for the thread to enqueue in the thread queue context." alt="" coords="253,129,432,171"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreThreadQueue.html#gaca11db0fbad98d6b0ee9a41139aa7d54" title="Sets the thread wait return code to STATUS_DEADLOCK." alt="" coords="248,195,437,236"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreThreadQueue.html#ga4992b40810f6d287c832bdad240dbc90" title="Blocks the thread and places it on the thread queue." alt="" coords="251,261,435,287"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreThread.html#ga1a8eb44ff0357020e3bc2972747cd8fb" title="Get the status of the wait return code of the thread." alt="" coords="250,311,435,338"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreThreadQueue.html#ga5074d780cc6e486c858a564e0406f647" title="Releases the thread queue queue and enables interrupts." alt="" coords="485,5,656,47"/>
+</map>

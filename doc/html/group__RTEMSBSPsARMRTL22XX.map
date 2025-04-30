@@ -1,0 +1,5 @@
+<map id="RTL22XX" name="RTL22XX">
+<area shape="rect" id="node1" title="RTL22XX Board Support Package." alt="" coords="105,5,184,31"/>
+<area shape="rect" id="node3" href="$group__rtl22xx__uart.html" title="UART (Universal Asynchronous Reciever/Transmitter) Support." alt="" coords="232,5,343,31"/>
+<area shape="rect" id="node2" href="$group__RTEMSBSPsARM.html" title="ARM Board Support Packages." alt="" coords="5,5,57,31"/>
+</map>

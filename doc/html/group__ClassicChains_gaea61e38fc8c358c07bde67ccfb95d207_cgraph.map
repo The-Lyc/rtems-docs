@@ -1,0 +1,4 @@
+<map id="rtems_chain_is_node_off_chain" name="rtems_chain_is_node_off_chain">
+<area shape="rect" id="node1" title="Is the node off chain." alt="" coords="5,5,164,47"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreChain.html#gad7a790f247b3ace45f039c60c18f999f" title="Checks if the node is off chain." alt="" coords="212,5,359,47"/>
+</map>

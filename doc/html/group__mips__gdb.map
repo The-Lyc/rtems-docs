@@ -1,0 +1,5 @@
+<map id="GDB Interface" name="GDB Interface">
+<area shape="rect" id="node1" title="GDB Interface." alt="" coords="121,7,235,33"/>
+<area shape="rect" id="node3" href="$group__lm32__gdb.html" title="Definition of the interface between the stub and gdb,." alt="" coords="468,7,620,33"/>
+<area shape="rect" id="node2" href="$group__RTEMSBSPsMIPSShared.html" title="Shared Support for MIPS Board Support Packages." alt="" coords="5,7,72,33"/>
+</map>

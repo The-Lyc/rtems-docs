@@ -1,0 +1,7 @@
+<map id="_Heap_Get_information" name="_Heap_Get_information">
+<area shape="rect" id="node1" title="Returns information about used and free blocks for the heap." alt="" coords="485,64,661,91"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreProtHeap.html#ga327ad8c35910aeef2bad64e4ba05bbbf" title="Returns information about used and free blocks for the heap." alt="" coords="248,27,408,69"/>
+<area shape="rect" id="node5" href="$group__ClassicRegion.html#ga21008d667508d701ad822f08f1dab568" title="RTEMS Get Region Information." alt="" coords="219,93,437,120"/>
+<area shape="rect" id="node3" href="$group__libcsupport.html#ga223e58622d39e49bb8b26b6846cb8c28" title="Get malloc status information." alt="" coords="39,5,137,32"/>
+<area shape="rect" id="node4" href="$group__ClassicRTEMSWorkspace.html#ga95815bb0f8f80d806ffafe7fa47ab5c7" title="Gets Workspace Information." alt="" coords="5,57,171,98"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="amd64_get_handler_from_idt" name="amd64_get_handler_from_idt">
+<area shape="rect" id="node1" title=" " alt="" coords="671,42,884,69"/>
+<area shape="rect" id="node2" href="$idt_8h.html#a652c02c49159c54baf3420e0ef3aaa6d" title=" " alt="" coords="415,42,623,69"/>
+<area shape="rect" id="node3" href="$bsps_2x86__64_2amd64_2include_2clock_8h.html#abf0afda694ebc96f87ee2c0623f60f87" title=" " alt="" coords="231,13,343,39"/>
+<area shape="rect" id="node5" href="$group__bsp__interrupt.html#gab114a6e92b17b99bf52cf24d1125a9df" title="BSP specific initialization." alt="" coords="207,64,367,105"/>
+<area shape="rect" id="node4" href="$bsps_2x86__64_2amd64_2include_2clock_8h.html#a2ce3dbcd9abad894735efa572bd10dcd" title=" " alt="" coords="5,5,159,47"/>
+</map>

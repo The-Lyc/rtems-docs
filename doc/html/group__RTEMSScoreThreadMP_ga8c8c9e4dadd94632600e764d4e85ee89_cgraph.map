@@ -1,0 +1,7 @@
+<map id="_Thread_MP_Is_remote" name="_Thread_MP_Is_remote">
+<area shape="rect" id="node1" title="Checks if the thread MP with this object id is remote." alt="" coords="5,35,179,61"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreObjectMP.html#gae1144d0c54b95368022bd861539e9694" title="Checks if the object identifier is in the global object identifier cache of the specified object info..." alt="" coords="227,5,404,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreThread.html#ga291d97d78d5460ffa5539964e417bb49" title="Gets object information for the object id." alt="" coords="236,57,395,98"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreObject.html#ga907a0412d7c657fa047641444090fe7b" title="Returns the API portion of the ID." alt="" coords="465,39,601,65"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreObject.html#ga8014a70deeb6819f7e2ca50efd13e1be" title="Checks if the api is valid." alt="" coords="452,89,615,116"/>
+</map>

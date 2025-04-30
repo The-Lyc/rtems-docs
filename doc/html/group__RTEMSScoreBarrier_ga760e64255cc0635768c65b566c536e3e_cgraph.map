@@ -1,0 +1,14 @@
+<map id="_CORE_barrier_Seize" name="_CORE_barrier_Seize">
+<area shape="rect" id="node1" title="Waits for the barrier." alt="" coords="5,151,163,178"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreBarrier.html#ga8e1bfa64db88514abb54847074010ee8" title="Acquires critical core barrier." alt="" coords="229,5,399,47"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreBarrier.html#ga6b8d2207e81aa4b1e1d8240f5c644dea" title="Checks if the barrier is automatic." alt="" coords="211,71,417,98"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreBarrier.html#ga48a6be566a20ba33b62e13b42a3fcb2f" title="Manually releases the barrier." alt="" coords="221,122,407,149"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreThreadQueue.html#gab31678d367077d484797bc9c4d97574e" title="Sets the thread state for the thread to enqueue in the thread queue context." alt="" coords="225,173,403,215"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreThreadQueue.html#ga4992b40810f6d287c832bdad240dbc90" title="Blocks the thread and places it on the thread queue." alt="" coords="222,239,406,266"/>
+<area shape="rect" id="node12" href="$group__RTEMSScoreThread.html#ga1a8eb44ff0357020e3bc2972747cd8fb" title="Get the status of the wait return code of the thread." alt="" coords="221,290,407,317"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreThreadQueue.html#ga2bb5c604a28a636950cca7aa43a47869" title="Acquires the thread queue control in a critical section." alt="" coords="466,5,643,47"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreThreadQueue.html#gaf1488e09cc925566233f2f1fc76c4d81" title="Acquires the thread queue control in a critical section." alt="" coords="692,5,893,47"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreBarrier.html#gaed6c59e37b0d953329d63da8cbdc99ee" title="Flushes the barrier." alt="" coords="465,101,644,127"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreThreadQueue.html#gaf7ba9f035005918f0e5eca4a3cfc92a1" title="Default thread queue flush filter function." alt="" coords="473,152,636,193"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreThreadQueue.html#gac979e73bbbb59a3157ebd782ff70df0c" title="Unblocks all threads enqueued on the thread queue." alt="" coords="711,93,874,135"/>
+</map>

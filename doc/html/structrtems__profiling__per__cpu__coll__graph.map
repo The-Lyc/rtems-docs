@@ -1,0 +1,4 @@
+<map id="rtems_profiling_per_cpu" name="rtems_profiling_per_cpu">
+<area shape="rect" id="node1" title="Per&#45;CPU profiling data." alt="" coords="5,95,184,121"/>
+<area shape="rect" id="node2" href="$structrtems__profiling__header.html" title="The profiling data header." alt="" coords="9,5,181,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="_Thread_queue_Deadlock_fatal" name="_Thread_queue_Deadlock_fatal">
+<area shape="rect" id="node1" title="Results in an INTERNAL_ERROR_THREAD_QUEUE_DEADLOCK fatal error." alt="" coords="5,5,195,47"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreIntErr.html#ga092fa4be4bda2528754b494e901d3d2a" title="Terminates the system with an INTERNAL_ERROR_CORE fatal source and the specified core error code." alt="" coords="243,13,360,39"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreIntErr.html#ga5102f2f0c5939020aa3b11d67afa84eb" title="Initiates system termination." alt="" coords="408,13,503,39"/>
+</map>

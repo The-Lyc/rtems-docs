@@ -1,0 +1,5 @@
+<map id="i2c_dev_destroy_and_free" name="i2c_dev_destroy_and_free">
+<area shape="rect" id="node1" title="Destroys a device control and frees its memory." alt="" coords="5,5,197,32"/>
+<area shape="rect" id="node2" href="$group__I2CDevice.html#ga2ed20633d6ded213b3f06ca56db211c6" title="Destroys a device control." alt="" coords="245,5,373,32"/>
+<area shape="rect" id="node3" href="$close_8c.html#aafbcde67669a1b96577e735ddebd8634" title=" " alt="" coords="421,5,477,32"/>
+</map>

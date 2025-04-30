@@ -1,0 +1,4 @@
+<map id="rtems_resource_snapshot_take" name="rtems_resource_snapshot_take">
+<area shape="rect" id="node1" title="Tasks a snapshot of the resource usage of the system." alt="" coords="243,13,467,39"/>
+<area shape="rect" id="node2" href="$group__libcsupport.html#ga3f67474826d25c37ae77d2d129bedf59" title="Takes a new resource snapshot and checks that it is equal to the given resource snapshot." alt="" coords="5,5,195,47"/>
+</map>

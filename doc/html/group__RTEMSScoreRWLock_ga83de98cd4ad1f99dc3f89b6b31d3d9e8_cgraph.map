@@ -1,0 +1,10 @@
+<map id="_CORE_RWLock_Seize_for_writing" name="_CORE_RWLock_Seize_for_writing">
+<area shape="rect" id="node1" title="Obtains RWLock for writing." alt="" coords="5,137,172,178"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreRWLock.html#ga80b56e01077592b6608d7e2a1a6ddd46" title="Acquires the RWlock." alt="" coords="223,5,403,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreRWLock.html#ga0441e1bfb6a1316cbf35dccf40dbf920" title="Releases the RWlock." alt="" coords="221,56,404,83"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreThreadQueue.html#gab31678d367077d484797bc9c4d97574e" title="Sets the thread state for the thread to enqueue in the thread queue context." alt="" coords="223,107,402,149"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreThreadQueue.html#ga4992b40810f6d287c832bdad240dbc90" title="Blocks the thread and places it on the thread queue." alt="" coords="221,173,405,200"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreThread.html#ga1a8eb44ff0357020e3bc2972747cd8fb" title="Get the status of the wait return code of the thread." alt="" coords="220,224,405,251"/>
+<area shape="rect" id="node8" href="$wait_8c.html#ab5ac4a5f02da38021d1821012e55d58c" title=" " alt="" coords="287,275,338,301"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreThreadQueue.html#ga5074d780cc6e486c858a564e0406f647" title="Releases the thread queue queue and enables interrupts." alt="" coords="453,49,624,90"/>
+</map>

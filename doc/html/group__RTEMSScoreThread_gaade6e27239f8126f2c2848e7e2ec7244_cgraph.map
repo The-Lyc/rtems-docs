@@ -1,0 +1,9 @@
+<map id="_Thread_Get_CPU_time_used" name="_Thread_Get_CPU_time_used">
+<area shape="rect" id="node1" title="Updates the used cpu time for the heir and dispatches a new heir." alt="" coords="5,71,219,98"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreScheduler.html#ga9e6cf07526560aa067d7bcb92a7aa964" title="Acquires the scheduler instance inside a critical section (interrupts disabled)." alt="" coords="301,5,450,47"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreThread.html#ga0071d4e11d2d68b2e4c43ffe2108e7f5" title="Gets the home scheduler of the thread." alt="" coords="267,71,484,98"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreThread.html#ga9a583864cdcbb7eaeda8002d05de6912" title="Disables interrupts and acquires the lock_context." alt="" coords="290,122,461,149"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreScheduler.html#ga9c62ef5a388b998fa041a269297be1fe" title="Gets the context of the scheduler." alt="" coords="532,13,711,39"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreThread.html#gafd7ff215edf64b4611da7b7c1d4e3050" title="Acquires the lock context in a critical section." alt="" coords="536,115,707,156"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreThreadQueue.html#gaf1488e09cc925566233f2f1fc76c4d81" title="Acquires the thread queue control in a critical section." alt="" coords="759,115,960,156"/>
+</map>

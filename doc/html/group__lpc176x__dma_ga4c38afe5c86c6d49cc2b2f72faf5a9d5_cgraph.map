@@ -1,0 +1,4 @@
+<map id="lpc176x_dma_copy_release" name="lpc176x_dma_copy_release">
+<area shape="rect" id="node1" title=" " alt="" coords="5,13,208,39"/>
+<area shape="rect" id="node2" href="$group__rtems__interrupt__extension.html#ga90011d3f7a1f614913fd6386f1725b9d" title="Removes the interrupt handler routine handler with argument arg for the interrupt vector with number ..." alt="" coords="256,5,435,47"/>
+</map>

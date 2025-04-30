@@ -1,0 +1,8 @@
+<map id="_Priority_Initialize_one" name="_Priority_Initialize_one">
+<area shape="rect" id="node1" title="Initializes the priority aggregation with the given information." alt="" coords="5,31,176,57"/>
+<area shape="rect" id="node2" href="$group__RTEMSScorePriority.html#ga10c99a53ad7cb8f77e5de8aa06deb934" title="Initializes the priority node to the given priority." alt="" coords="224,5,404,32"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreRBTree.html#ga610819cba38ae2e02b461823f60c5daa" title="Initializes this red&#45;black tree to contain exactly the specified node." alt="" coords="230,56,398,83"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreRBTree.html#gabbc757c2fd03694b6f9bb5aa2be553ff" title="Initializes a red&#45;black tree node." alt="" coords="458,5,634,32"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreRBTree.html#ga82d9b6f1aad201e7c8b614a0e970b356" title="Sets a red&#45;black tree node as off&#45;tree." alt="" coords="688,5,847,32"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreRBTree.html#ga4076722f9dbc78d8e6682b88a3ed0c8e" title="Checks if this red&#45;black tree node is off&#45;tree." alt="" coords="452,56,640,83"/>
+</map>

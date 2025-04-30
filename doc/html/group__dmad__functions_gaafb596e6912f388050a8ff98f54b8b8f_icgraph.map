@@ -1,0 +1,10 @@
+<map id="XDMAD_AllocateChannel" name="XDMAD_AllocateChannel">
+<area shape="rect" id="node1" title="Allocate a XDMA channel for upper layer." alt="" coords="265,157,451,184"/>
+<area shape="rect" id="node2" href="$qspi__dma_8h.html#a0d664a2d9fdc7a5b276553ef98ebb085" title="Enables a QSPI Rx channel. This function will allocate a dma Rx channel for QSPI." alt="" coords="5,5,217,32"/>
+<area shape="rect" id="node3" href="$qspi__dma_8h.html#a98964de2ac702a42bac23703636aa744" title="Enables a QSPI Tx channel. This function will allocate a dma Tx channel for QSPI." alt="" coords="6,56,217,83"/>
+<area shape="rect" id="node4" href="$qspi__dma_8h.html#aa4c44dd6ea57f7d345dc1cea9e764b33" title="Enables a QSPI SPI Rx channel. This function will allocate a dma Rx channel for QSPI SPI mode." alt="" coords="18,107,205,133"/>
+<area shape="rect" id="node5" href="$uart__dma_8h.html#a67f71ddf9448a9404427f880e3063664" title="This function initialize the appropriate DMA channel for Rx channel of UART." alt="" coords="14,157,209,184"/>
+<area shape="rect" id="node6" href="$uart__dma_8h.html#a88e980ec7908f8ac5ca57b1d0028a987" title="This function initialize the appropriate DMA channel for Tx channel of UART." alt="" coords="14,208,209,235"/>
+<area shape="rect" id="node7" href="$usart__dma_8h.html#a7714e0765368904f8f43f1fc0ccb63fd" title="This function initialize the appropriate DMA channel for Rx channel of USART." alt="" coords="9,259,213,285"/>
+<area shape="rect" id="node8" href="$usart__dma_8h.html#add65a720aa37b5f7d95df156b3fb06e7" title="This function initialize the appropriate DMA channel for Tx channel of USART." alt="" coords="10,309,213,336"/>
+</map>

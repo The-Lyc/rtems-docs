@@ -1,0 +1,12 @@
+<map id="m8260_" name="m8260_">
+<area shape="rect" id="node1" title=" " alt="" coords="277,291,352,317"/>
+<area shape="rect" id="node2" href="$structm8260SCCRegisters__.html" title=" " alt="" coords="13,31,174,57"/>
+<area shape="rect" id="node3" href="$structm8260MEMCRegisters__.html" title=" " alt="" coords="5,81,181,108"/>
+<area shape="rect" id="node4" href="$structm8260SMCRegisters__.html" title=" " alt="" coords="11,141,175,168"/>
+<area shape="rect" id="node5" href="$structm8260SCCparms__.html" title=" " alt="" coords="23,231,164,257"/>
+<area shape="rect" id="node6" href="$structm8260MCCRegisters__.html" title=" " alt="" coords="11,291,176,317"/>
+<area shape="rect" id="node7" href="$structm8260SIRegisters__.html" title=" " alt="" coords="20,351,167,377"/>
+<area shape="rect" id="node8" href="$structm8260FCCparms__.html" title=" " alt="" coords="23,425,164,452"/>
+<area shape="rect" id="node9" href="$structm8260SMCparms__.html" title=" " alt="" coords="21,485,165,512"/>
+<area shape="rect" id="node10" href="$structm8260FCCRegisters__.html" title=" " alt="" coords="13,560,174,587"/>
+</map>

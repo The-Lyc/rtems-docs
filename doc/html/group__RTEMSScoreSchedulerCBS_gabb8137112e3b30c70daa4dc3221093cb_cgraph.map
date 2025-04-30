@@ -1,0 +1,11 @@
+<map id="_Scheduler_CBS_Node_initialize" name="_Scheduler_CBS_Node_initialize">
+<area shape="rect" id="node1" title="Initializes a CBS specific scheduler node of the_thread." alt="" coords="5,39,172,80"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreSchedulerCBS.html#gae69b2b7650d05a7f48695c83f815d6fd" title="Casts the scheduler node to a scheduler CBS node." alt="" coords="220,5,387,47"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreSchedulerEDF.html#ga465fd54ce1c8c0633424db0933856c67" title="Initializes an EDF specific scheduler node of the_thread." alt="" coords="220,71,387,112"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreRBTree.html#gabbc757c2fd03694b6f9bb5aa2be553ff" title="Initializes a red&#45;black tree node." alt="" coords="435,19,611,46"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreSchedulerEDF.html#gaea9b538d93951ca5e84d203fc274b8db" title="Returns the scheduler EDF node for the scheduler node." alt="" coords="439,71,606,112"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreScheduler.html#ga04a65b42652ef556df7f53940d4c1a11" title="Initializes a node." alt="" coords="444,136,601,177"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreRBTree.html#ga82d9b6f1aad201e7c8b614a0e970b356" title="Sets a red&#45;black tree node as off&#45;tree." alt="" coords="663,19,822,46"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreChain.html#gab0fa19f01d37f1d510405e6382fd8b67" title="Initializes a chain node." alt="" coords="659,143,827,170"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreChain.html#gadf0e5d55d133694eed8043ec13fe1266" title="Sets off chain." alt="" coords="875,143,1035,170"/>
+</map>

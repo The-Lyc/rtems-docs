@@ -1,0 +1,17 @@
+<map id="Contributed Code" name="Contributed Code">
+<area shape="rect" id="node1" href="$group__ALT__QSPI.html" title=" " alt="" coords="396,5,555,45"/>
+<area shape="rect" id="node2" href="$group__ALT__DMA__COMMON.html" title=" " alt="" coords="383,69,567,109"/>
+<area shape="rect" id="node3" href="$group__CACHE__MGR.html" title=" " alt="" coords="387,134,564,159"/>
+<area shape="rect" id="node4" href="$group__ALT__GPIO__API.html" title=" " alt="" coords="379,184,572,224"/>
+<area shape="rect" id="node5" href="$group__CLK__MGR.html" title=" " alt="" coords="389,249,561,274"/>
+<area shape="rect" id="node6" href="$group__ADDR__SPACE__MGR.html" title=" " alt="" coords="372,298,579,323"/>
+<area shape="rect" id="node7" title="Contributed code from Altera." alt="" coords="173,347,308,373"/>
+<area shape="rect" id="node8" href="$group__ALT__DMA__PRG.html" title=" " alt="" coords="356,347,595,373"/>
+<area shape="rect" id="node9" href="$group__ALT__I2C.html" title=" " alt="" coords="407,397,543,422"/>
+<area shape="rect" id="node10" href="$group__ALT__SOCAL__UTIL.html" title=" " alt="" coords="416,446,535,471"/>
+<area shape="rect" id="node11" href="$group__ALT__DMA.html" title=" " alt="" coords="402,495,549,521"/>
+<area shape="rect" id="node12" href="$group__RST__MGR.html" title=" " alt="" coords="401,545,549,570"/>
+<area shape="rect" id="node13" href="$group__UART.html" title=" " alt="" coords="412,594,539,619"/>
+<area shape="rect" id="node15" href="$group__INT__COMMON.html" title=" " alt="" coords="396,644,555,684"/>
+<area shape="rect" id="node14" href="$group__RTEMSBSPsARMCycV.html" title="Intel Cyclone V Board Support Package." alt="" coords="5,347,125,373"/>
+</map>

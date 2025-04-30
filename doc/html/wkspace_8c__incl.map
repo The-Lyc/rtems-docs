@@ -1,0 +1,19 @@
+<map id="cpukit/score/src/wkspace.c" name="cpukit/score/src/wkspace.c">
+<area shape="rect" id="node1" title="Workspace Handler Support." alt="" coords="419,5,615,32"/>
+<area shape="rect" id="node2" href="$score_2wkspace_8h.html" title="Information Related to the RAM Workspace." alt="" coords="257,80,429,107"/>
+<area shape="rect" id="node7" href="$interr_8h.html" title="Constants and Prototypes Related to the Internal Error Handler." alt="" coords="177,155,327,181"/>
+<area shape="rect" id="node13" href="$assert_8h.html" title="Information for the Assert Handler." alt="" coords="405,229,560,256"/>
+<area shape="rect" id="node14" href="$heapimpl_8h.html" title="Heap Handler Implementation." alt="" coords="5,80,181,107"/>
+<area shape="rect" id="node15" title=" " alt="" coords="737,80,852,107"/>
+<area shape="rect" id="node16" href="$sysinit_8h.html" title=" " alt="" coords="594,80,713,107"/>
+<area shape="rect" id="node3" href="$heap_8h.html" title="Heap Handler API." alt="" coords="7,155,153,181"/>
+<area shape="rect" id="node8" href="$rtems_2score_2memory_8h.html" title="Memory Handler API." alt="" coords="351,155,519,181"/>
+<area shape="rect" id="node4" title=" " alt="" coords="153,229,292,256"/>
+<area shape="rect" id="node5" href="$heapinfo_8h.html" title="Heap Handler Information API." alt="" coords="58,304,230,331"/>
+<area shape="rect" id="node6" title=" " alt="" coords="137,379,207,405"/>
+<area shape="rect" id="node9" href="$basedefs_8h.html" title="Basic Definitions." alt="" coords="387,304,562,331"/>
+<area shape="rect" id="node10" title=" " alt="" coords="246,379,413,405"/>
+<area shape="rect" id="node11" title=" " alt="" coords="437,379,512,405"/>
+<area shape="rect" id="node12" title=" " alt="" coords="536,379,619,405"/>
+<area shape="rect" id="node17" href="$linkersets_8h.html" title=" " alt="" coords="584,229,723,256"/>
+</map>

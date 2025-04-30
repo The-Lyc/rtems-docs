@@ -1,0 +1,7 @@
+<map id="UARTD_Configure" name="UARTD_Configure">
+<area shape="rect" id="node1" title="Initializes the UartDma structure and the corresponding UART &amp; DMA . hardware select value...." alt="" coords="5,81,141,108"/>
+<area shape="rect" id="node2" href="$group__CMSIS__Core__NVICFunctions.html#ga332e10ef9605dc6eb10b9e14511930f8" title="Clear Pending Interrupt." alt="" coords="189,5,360,32"/>
+<area shape="rect" id="node3" href="$group__CMSIS__Core__NVICFunctions.html#ga47a0f52794068d076c9147aa3cb8d8a6" title="Get Active Interrupt." alt="" coords="212,56,337,83"/>
+<area shape="rect" id="node4" href="$atsam_2contrib_2libraries_2libchip_2source_2pmc_8c.html#a4154148b8d69545bca1b5c868c004d49" title="Enables the clock of a peripheral. The peripheral ID is used to identify which peripheral is targeted..." alt="" coords="191,107,359,133"/>
+<area shape="rect" id="node5" href="$arm_2atsam_2contrib_2libraries_2libchip_2source_2uart_8c.html#ac7edef0d8ae22231b638865c882db8a9" title="Configures an UART peripheral with the specified parameters." alt="" coords="211,157,338,184"/>
+</map>

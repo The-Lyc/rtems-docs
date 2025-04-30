@@ -1,0 +1,7 @@
+<map id="bsps/powerpc/tqm8xx/include/bsp/spi.h" name="bsps/powerpc/tqm8xx/include/bsp/spi.h">
+<area shape="rect" id="node1" title=" " alt="" coords="265,5,430,47"/>
+<area shape="rect" id="node2" href="$atsam__spi__init_8c.html" title=" " alt="" coords="5,95,156,136"/>
+<area shape="rect" id="node3" href="$arm_2beagle_2spi_2spi_8c.html" title="BeagleBoard SPI bus initialization and API Support." alt="" coords="180,95,333,136"/>
+<area shape="rect" id="node4" href="$arm_2raspberrypi_2spi_2spi_8c.html" title="Support for the SPI bus on the Raspberry Pi GPIO P1 header (model A/B) and GPIO J8 header on model B+..." alt="" coords="358,95,518,136"/>
+<area shape="rect" id="node5" href="$powerpc_2tqm8xx_2spi_2spi_8c.html" title=" " alt="" coords="542,95,707,136"/>
+</map>

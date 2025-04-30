@@ -1,0 +1,4 @@
+<map id="_CORE_message_queue_Close" name="_CORE_message_queue_Close">
+<area shape="rect" id="node1" title="Closes a message queue." alt="" coords="5,5,184,47"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreThreadQueue.html#gac979e73bbbb59a3157ebd782ff70df0c" title="Unblocks all threads enqueued on the thread queue." alt="" coords="232,5,395,47"/>
+</map>

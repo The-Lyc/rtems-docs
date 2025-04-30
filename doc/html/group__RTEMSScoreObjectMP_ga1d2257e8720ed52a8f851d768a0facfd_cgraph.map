@@ -1,0 +1,7 @@
+<map id="_Objects_MP_Handler_initialization" name="_Objects_MP_Handler_initialization">
+<area shape="rect" id="node1" title="Intializes the inactive global object chain based on the maximum number of global objects configured." alt="" coords="5,49,168,90"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreChain.html#ga59b0dbda01fc9f0675bef62722627764" title="Initializes a chain header." alt="" coords="216,56,345,83"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreAddress.html#gaa7812bb29c95ed68f2b958d833c79399" title="Adds offset to an address." alt="" coords="393,5,565,32"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreChain.html#ga8b66d3138b9cdacbcb0600c42237ff7d" title="Returns pointer to chain head." alt="" coords="426,56,533,83"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreChain.html#ga06f3e2dd6d64411f0565e3b483e53673" title="Returns pointer to chain tail." alt="" coords="432,107,527,133"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="bsps/arm/lpc32xx/include/bsp/nand&#45;mlc.h" name="bsps/arm/lpc32xx/include/bsp/nand&#45;mlc.h">
+<area shape="rect" id="node1" title="NAND MLC controller API." alt="" coords="513,5,701,47"/>
+<area shape="rect" id="node2" href="$arm_2lpc32xx_2include_2bsp_2boot_8h.html" title="Boot support API." alt="" coords="5,102,193,143"/>
+<area shape="rect" id="node4" href="$nand-mlc-erase-block-safe_8c.html" title="lpc32xx_mlc_erase_block_safe(), lpc32xx_mlc_erase_block_safe_3(), and lpc32xx_mlc_zero_block() implem..." alt="" coords="218,95,391,151"/>
+<area shape="rect" id="node5" href="$nand-mlc-read-blocks_8c.html" title="lpc32xx_mlc_read_blocks() implementation." alt="" coords="415,102,594,143"/>
+<area shape="rect" id="node6" href="$nand-mlc-write-blocks_8c.html" title="lpc32xx_mlc_write_blocks() implementation." alt="" coords="619,102,801,143"/>
+<area shape="rect" id="node7" href="$nand-mlc_8c.html" title="NAND MLC controller implementation." alt="" coords="826,102,999,143"/>
+<area shape="rect" id="node8" href="$nand-select_8c.html" title="NAND controller selection." alt="" coords="1023,102,1197,143"/>
+<area shape="rect" id="node3" href="$boot_8c.html" title="Boot support implementation." alt="" coords="14,199,185,240"/>
+</map>

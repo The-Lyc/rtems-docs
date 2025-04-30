@@ -1,0 +1,9 @@
+<map id="_Objects_Initialize_information" name="_Objects_Initialize_information">
+<area shape="rect" id="node1" title="Initializes the specified objects information." alt="" coords="5,125,147,166"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreAddress.html#gaa7812bb29c95ed68f2b958d833c79399" title="Adds offset to an address." alt="" coords="195,5,367,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreChain.html#ga8b66d3138b9cdacbcb0600c42237ff7d" title="Returns pointer to chain head." alt="" coords="227,56,334,83"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreChain.html#ga06f3e2dd6d64411f0565e3b483e53673" title="Returns pointer to chain tail." alt="" coords="233,107,328,133"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreObject.html#ga907a0412d7c657fa047641444090fe7b" title="Returns the API portion of the ID." alt="" coords="213,157,349,184"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreObject.html#ga450c379424f26235d60f702638d229fa" title="Returns the class portion of the ID." alt="" coords="207,208,355,235"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreObject.html#ga22cdf45f285840b7728b06197a7f4627" title="Returns the index portion of the ID." alt="" coords="205,259,356,285"/>
+</map>

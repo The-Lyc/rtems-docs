@@ -1,0 +1,4 @@
+<map id="_Message_queue_MP_Get_number_pending" name="_Message_queue_MP_Get_number_pending">
+<area shape="rect" id="node1" title="Issues a remote rtems_message_queue_get_number_pending() request." alt="" coords="5,5,196,47"/>
+<area shape="rect" id="node2" href="$group__PerCPU.html#ga294cfaf3cf50de03f1d9821d68b9c1bd" title="Returns the thread control block of the executing thread." alt="" coords="244,13,419,39"/>
+</map>

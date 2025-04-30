@@ -1,0 +1,6 @@
+<map id="cpukit/include/rtems/serdbg.h" name="cpukit/include/rtems/serdbg.h">
+<area shape="rect" id="node1" title=" " alt="" coords="188,5,343,47"/>
+<area shape="rect" id="node2" href="$serdbgcnf_8h.html" title="Adds a GDB remote Debug Stub to an RTEMS System." alt="" coords="5,95,160,136"/>
+<area shape="rect" id="node3" href="$serdbg_8c.html" title=" " alt="" coords="185,95,346,136"/>
+<area shape="rect" id="node4" href="$serdbgio_8c.html" title=" " alt="" coords="370,95,531,136"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="pipe" name="pipe">
+<area shape="rect" id="node1" title=" " alt="" coords="159,31,209,57"/>
+<area shape="rect" id="node2" href="$group__FIFO__PIPE.html#ga15eb64a7cda614759d385c8f38296ea6" title="File system open. Interface to file system open." alt="" coords="17,5,99,32"/>
+<area shape="rect" id="node3" href="$group__FIFO__PIPE.html#gaeaf913514f36620744271f4c5581d29b" title="Release a pipe." alt="" coords="5,56,111,83"/>
+</map>

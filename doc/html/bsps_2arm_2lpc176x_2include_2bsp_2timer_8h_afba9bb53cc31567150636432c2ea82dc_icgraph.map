@@ -1,0 +1,4 @@
+<map id="lpc176x_timer_init" name="lpc176x_timer_init">
+<area shape="rect" id="node1" title="Initializes timer in timer mode and resets counter but without starting it, and without any capture o..." alt="" coords="196,13,339,39"/>
+<area shape="rect" id="node2" href="$arm_2lpc176x_2timer_2timer_8c.html#abb815062c9b3c17b6c2bd40bb970e7e8" title="Initializes timer in timer mode and resets counter but without starting it, and without any capture o..." alt="" coords="5,5,148,47"/>
+</map>

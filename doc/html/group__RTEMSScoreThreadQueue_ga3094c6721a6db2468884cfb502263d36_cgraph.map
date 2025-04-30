@@ -1,0 +1,4 @@
+<map id="_Thread_queue_Context_set_enqueue_timeout_monotonic_timespec" name="_Thread_queue_Context_set_enqueue_timeout_monotonic_timespec">
+<area shape="rect" id="node1" title="Sets the enqueue callout to add an absolute monotonic timeout in timespec format." alt="" coords="5,5,184,61"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreThreadQueue.html#ga4ec75c62ea3aad333b84e577a2bb09a4" title="Adds a monotonic timespec to the thread and sets the watchdog header to monotonic." alt="" coords="232,13,443,54"/>
+</map>

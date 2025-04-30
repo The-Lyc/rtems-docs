@@ -1,0 +1,9 @@
+<map id="rtems_record_line_arg" name="rtems_record_line_arg">
+<area shape="rect" id="node1" title="Generates an RTEMS_RECORD_LINE event and one argument event." alt="" coords="5,63,172,89"/>
+<area shape="rect" id="node2" href="$group__RTEMSRecord.html#gaa5332b5d70ad8e147ebe44ca25341944" title="Produces two record items." alt="" coords="220,63,403,89"/>
+<area shape="rect" id="node3" href="$group__RTEMSRecord.html#ga5e164fc0a361be6cac976c3afa8ec732" title="Adds a record item." alt="" coords="464,8,603,35"/>
+<area shape="rect" id="node5" href="$group__RTEMSRecord.html#gac80cf4761566e19371353c9c72271e84" title="Commits a set of record items." alt="" coords="451,63,616,89"/>
+<area shape="rect" id="node7" href="$group__RTEMSRecord.html#gad96c3279a0126090309e78135151168e" title="Prepares to add and commit record items." alt="" coords="451,113,616,140"/>
+<area shape="rect" id="node4" href="$record_8h.html#aa1f6bc150385e3209e68a628887f52ba" title=" " alt="" coords="688,5,805,32"/>
+<area shape="rect" id="node6" href="$group__RTEMSRecord.html#ga2a34e1207be9164960fd9fe9bf18bb57" title="Commits a set of record items in a critical section with interrupts disabled." alt="" coords="664,57,829,98"/>
+</map>

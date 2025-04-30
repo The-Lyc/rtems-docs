@@ -1,0 +1,6 @@
+<map id="mscan_tx_parms" name="mscan_tx_parms">
+<area shape="rect" id="node1" title=" " alt="" coords="126,184,259,211"/>
+<area shape="rect" id="node2" href="$unioncan__message.html" title="A CAN message represented of both forms." alt="" coords="137,95,248,121"/>
+<area shape="rect" id="node3" href="$structregisters__can__message.html" title="A CAN message represented for the registers of the device." alt="" coords="5,5,180,32"/>
+<area shape="rect" id="node4" href="$structlow__level__can__message.html" title="A CAN message represented with each logical parts." alt="" coords="204,5,384,32"/>
+</map>

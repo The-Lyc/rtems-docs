@@ -1,0 +1,4 @@
+<map id="_POSIX_Priority_To_core" name="_POSIX_Priority_To_core">
+<area shape="rect" id="node1" title="Converts the POSIX API priority to the corresponding SuperCore priority and validates it." alt="" coords="5,5,184,32"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreScheduler.html#ga01bd5513405dcafef3306676c55959c6" title="Maps a thread priority from the user domain to the scheduler domain." alt="" coords="232,5,415,32"/>
+</map>

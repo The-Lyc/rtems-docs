@@ -1,0 +1,6 @@
+<map id="ns16550_outch_polled" name="ns16550_outch_polled">
+<area shape="rect" id="node1" title="Polled write for NS16550." alt="" coords="439,31,605,57"/>
+<area shape="rect" id="node2" href="$mips_2malta_2console_2printk__support_8c.html#a3c32190c456fa435bdb3254f79d4f45e" title=" " alt="" coords="246,5,371,32"/>
+<area shape="rect" id="node3" href="$ns16550_8c.html#acd7f103cb0419366895706b76491c13d" title=" " alt="" coords="227,56,391,83"/>
+<area shape="rect" id="node4" href="$ns16550_8c.html#a8cf451ee95b7826521138d0fb579e51b" title=" " alt="" coords="5,49,179,90"/>
+</map>

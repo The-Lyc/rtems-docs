@@ -1,0 +1,9 @@
+<map id="bsps/include/libchip/ata_internal.h" name="bsps/include/libchip/ata_internal.h">
+<area shape="rect" id="node1" title=" " alt="" coords="411,5,562,47"/>
+<area shape="rect" id="node2" href="$powerpc_2gen5200_2include_2bsp_2ata_8h.html" title=" " alt="" coords="216,95,387,136"/>
+<area shape="rect" id="node6" href="$ata_8c.html" title=" " alt="" coords="411,95,563,136"/>
+<area shape="rect" id="node7" href="$ata__util_8c.html" title=" " alt="" coords="587,95,739,136"/>
+<area shape="rect" id="node3" href="$ata-dma-pio-single_8c.html" title=" " alt="" coords="5,184,192,225"/>
+<area shape="rect" id="node4" href="$ata-instance_8c.html" title=" " alt="" coords="216,184,387,225"/>
+<area shape="rect" id="node5" href="$mpc5200-ata_8c.html" title=" " alt="" coords="411,184,581,225"/>
+</map>

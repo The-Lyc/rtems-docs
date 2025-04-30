@@ -1,0 +1,11 @@
+<map id="m302_dualPortRAM_t" name="m302_dualPortRAM_t">
+<area shape="rect" id="node1" title=" " alt="" coords="697,56,860,83"/>
+<area shape="rect" id="node2" href="$structm302__internalReg__t.html" title=" " alt="" coords="463,9,616,36"/>
+<area shape="rect" id="node3" href="$structm302__SCC__Registers__t.html" title=" " alt="" coords="195,5,367,32"/>
+<area shape="rect" id="node4" href="$structm302__SCC__t.html" title=" " alt="" coords="487,107,591,133"/>
+<area shape="rect" id="node5" href="$structm302__SCC__UartSpecific__t.html" title=" " alt="" coords="186,56,375,83"/>
+<area shape="rect" id="node6" href="$structm302__SCC__parameters__t.html" title=" " alt="" coords="187,107,374,133"/>
+<area shape="rect" id="node7" href="$structm302__SCC__bd__table__t.html" title=" " alt="" coords="197,157,364,184"/>
+<area shape="rect" id="node8" href="$structm302__SCC__bd.html" title=" " alt="" coords="5,157,120,184"/>
+<area shape="rect" id="node9" href="$structm302__SCC__HdlcSpecific__t.html" title=" " alt="" coords="185,208,376,235"/>
+</map>

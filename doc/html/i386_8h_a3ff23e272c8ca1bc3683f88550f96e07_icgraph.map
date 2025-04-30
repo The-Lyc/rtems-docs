@@ -1,0 +1,7 @@
+<map id="i386_Physical_to_real" name="i386_Physical_to_real">
+<area shape="rect" id="node1" title="Retrieves real mode pointer elements {segmnet, offset} from physical address." alt="" coords="504,56,667,83"/>
+<area shape="rect" id="node2" href="$fb__vesa_8h.html#af79f34df313a78e2330ccf2d81b867bb" title="Returns information about graphic&#39;s controller in the info_block structure." alt="" coords="256,5,456,32"/>
+<area shape="rect" id="node4" href="$fb__vesa_8h.html#ad6912df918c80a1d1af9396d298fa290" title="Fills structure info_block with informations about selected mode in mode_number variable." alt="" coords="269,56,443,83"/>
+<area shape="rect" id="node5" href="$fb__vesa_8h.html#a9db0915ef74a364c88a6d42e847fa1b4" title="Sets graphics mode selected. If mode has refreshRateCtrl bit set, than the info_block must be filled ..." alt="" coords="297,107,415,133"/>
+<area shape="rect" id="node3" href="$fb__vesa__rm_8c.html#a66442b4301c2a23d9f9baef8f4cdab8f" title="Initializes VBE framebuffer during bootup." alt="" coords="5,31,208,57"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="rtems_timer_create" name="rtems_timer_create">
+<area shape="rect" id="node1" title="RTEMS Create Timer." alt="" coords="5,173,156,200"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreObject.html#ga41a6751fdfbe5adc5f9cb5d12cc8a214" title="Unlocks the object allocator mutex." alt="" coords="221,23,364,65"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreObject.html#ga09c8a97720f6c6dd41849c5c4101e49d" title="Places the_object control pointer and object name in the Local Pointer and Local Name Tables,..." alt="" coords="233,115,352,141"/>
+<area shape="rect" id="node11" href="$group__ClassicTimerImpl.html#ga77ef33047cce91fa663a936bafee7eac" title="Timer_Allocate." alt="" coords="229,173,356,200"/>
+<area shape="rect" id="node23" href="$group__RTEMSScoreWatchdog.html#gad98da837d665c764654ed6bcc25131dc" title="Pre&#45;initializes a watchdog." alt="" coords="204,224,381,251"/>
+<area shape="rect" id="node26" href="$group__ClassicTasks.html#ga18cea13f764d37604f3cf92183d2106b" title="Returns true if the name is valid, and false otherwise." alt="" coords="212,275,373,301"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreAllocatorMutex.html#ga15d657c04537c2ad1841adc28b8dd747" title=" " alt="" coords="429,5,619,32"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreAPIMutex.html#ga64a430ae861d0ce7f63413e651fbe36d" title="Releases the specified API mutex." alt="" coords="703,5,853,32"/>
+<area shape="rect" id="node5" href="$mutex_8c.html#adecd7211e7a1a5035841212574f45b31" title=" " alt="" coords="937,31,1133,57"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreThread.html#gad5aaea7af4482aebd880403fb9c238af" title="Set the thread to life protected." alt="" coords="1181,31,1384,57"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreObject.html#ga22cdf45f285840b7728b06197a7f4627" title="Returns the index portion of the ID." alt="" coords="960,81,1111,108"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreObject.html#ga9c697fd8a483c32420ccfff211ec3c14" title="Sets the pointer to the local_table object referenced by the index." alt="" coords="452,107,596,149"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreObject.html#gadf825a94fecd0945a4368e503e274bfd" title="Returns the maximum index of the specified object class." alt="" coords="687,107,869,149"/>
+<area shape="rect" id="node12" href="$group__RTEMSScoreObject.html#ga3978b5150ea104a85bb28db0585ae000" title="Allocates an object." alt="" coords="455,173,593,200"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreObject.html#gaf72f90dc17914740829466f086c33668" title="Allocates an object without locking the allocator mutex." alt="" coords="667,224,889,251"/>
+<area shape="rect" id="node20" href="$group__RTEMSScoreAllocatorMutex.html#ga89aa77edce0d5557b1a7e9d9ef7999c8" title=" " alt="" coords="691,173,865,200"/>
+<area shape="rect" id="node14" href="$group__RTEMSScoreObject.html#ga67f9cdae9423a81e46626f0e2cb9f305" title="Checks if the allocator is the owner of the object allocator mutex." alt="" coords="964,183,1107,225"/>
+<area shape="rect" id="node18" href="$group__RTEMSScoreSysState.html#ga1f0777590280f354ba1a73b0b4ed143e" title="Gets the current system state." alt="" coords="961,249,1109,276"/>
+<area shape="rect" id="node19" href="$group__RTEMSScoreSysState.html#gaa34964b3212ea72baf5ec0064f5d28df" title="Checks if the state is up." alt="" coords="956,300,1115,327"/>
+<area shape="rect" id="node15" href="$group__RTEMSScoreAllocatorMutex.html#ga8698c4f98051e1c097ed32e38fbf786f" title=" " alt="" coords="1205,183,1361,225"/>
+<area shape="rect" id="node16" href="$group__RTEMSScoreAPIMutex.html#ga0a01be1d7b28416e738a2b97ca3f611d" title="Checks if the specified API mutex is owned by the executing thread." alt="" coords="1432,191,1595,217"/>
+<area shape="rect" id="node17" href="$group__PerCPU.html#ga294cfaf3cf50de03f1d9821d68b9c1bd" title="Returns the thread control block of the executing thread." alt="" coords="1643,191,1817,217"/>
+<area shape="rect" id="node21" href="$group__RTEMSScoreAPIMutex.html#ga57829ca494f1d866219c499eadb0ffc9" title="Acquires the specified API mutex." alt="" coords="968,132,1103,159"/>
+<area shape="rect" id="node22" href="$mutex_8c.html#a2960aef6016ac8937f24108f9cdeebd0" title=" " alt="" coords="1186,132,1379,159"/>
+<area shape="rect" id="node24" href="$group__RTEMSScoreWatchdog.html#ga3de62172597bf475ce849c935c51ed05" title="Sets the cpu for the watchdog." alt="" coords="447,224,601,251"/>
+<area shape="rect" id="node25" href="$group__RTEMSScoreWatchdog.html#ga08d63637741832757cddfc443e9cf473" title="Sets the state of the watchdog." alt="" coords="443,275,605,301"/>
+</map>

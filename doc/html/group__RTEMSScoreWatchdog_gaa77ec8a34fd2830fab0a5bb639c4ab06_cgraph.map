@@ -1,0 +1,4 @@
+<map id="_Watchdog_Is_scheduled" name="_Watchdog_Is_scheduled">
+<area shape="rect" id="node1" title="Checks if the watchdog is scheduled." alt="" coords="5,5,189,32"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreWatchdog.html#gace59e3b987e52e536a15534fa1f91ec5" title="Gets the state of the watchdog." alt="" coords="237,5,400,32"/>
+</map>

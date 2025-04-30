@@ -1,0 +1,8 @@
+<map id="_Watchdog_Preinitialize" name="_Watchdog_Preinitialize">
+<area shape="rect" id="node1" title="Pre&#45;initializes a watchdog." alt="" coords="711,71,888,98"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreThread.html#gacb988363d243a9c060fdeb9a2cf3d401" title="Initializes the thread timer." alt="" coords="480,13,663,39"/>
+<area shape="rect" id="node5" href="$group__ClassicRateMon.html#gab599ee7e8f65f1d1461a3a5e198491eb" title="Create a Period." alt="" coords="487,64,656,105"/>
+<area shape="rect" id="node6" href="$group__ClassicTimer.html#ga57cf664e958961aefdb8ef8440f23afa" title="RTEMS Create Timer." alt="" coords="496,130,647,157"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreThreadMP.html#ga96f0434ad7036721909abeedd0322bba" title="Initialize MP thread handler." alt="" coords="273,5,432,47"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreThread.html#ga439268e164b067a866d2901085c8c672" title="Initializes thread handler." alt="" coords="5,13,225,39"/>
+</map>

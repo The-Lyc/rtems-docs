@@ -1,0 +1,4 @@
+<map id="rtems_task_self" name="rtems_task_self">
+<area shape="rect" id="node1" title="RTEMS Get Self Task Id." alt="" coords="5,5,132,32"/>
+<area shape="rect" id="node2" href="$group__PerCPU.html#ga294cfaf3cf50de03f1d9821d68b9c1bd" title="Returns the thread control block of the executing thread." alt="" coords="180,5,355,32"/>
+</map>

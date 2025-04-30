@@ -1,0 +1,9 @@
+<map id="cpukit/include/linux/spi/spidev.h" name="cpukit/include/linux/spi/spidev.h">
+<area shape="rect" id="node1" title="RTEMS Port of Linux SPI API." alt="" coords="373,5,522,47"/>
+<area shape="rect" id="node2" href="$cpukit_2include_2dev_2spi_2spi_8h.html" title="Serial Peripheral Interface (SPI) Driver API." alt="" coords="377,95,518,136"/>
+<area shape="rect" id="node3" href="$atsam__spi__bus_8c.html" title=" " alt="" coords="5,184,156,225"/>
+<area shape="rect" id="node4" href="$imx-ecspi_8c.html" title=" " alt="" coords="181,184,343,225"/>
+<area shape="rect" id="node5" href="$ssp_8c.html" title=" " alt="" coords="367,184,527,225"/>
+<area shape="rect" id="node6" href="$sc16is752-spi_8c.html" title=" " alt="" coords="552,184,751,225"/>
+<area shape="rect" id="node7" href="$spi-bus_8c.html" title="Serial Peripheral Interface (SPI) Bus Implementation." alt="" coords="774,184,910,225"/>
+</map>

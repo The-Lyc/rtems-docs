@@ -1,0 +1,9 @@
+<map id="_Timecounter_Microtime" name="_Timecounter_Microtime">
+<area shape="rect" id="node1" title=" " alt="" coords="652,85,836,112"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreTOD.html#ga607a5281a16201ae5175c1146d7aab91" title="This routine returns a timeval based upon the internal timespec format TOD." alt="" coords="450,60,594,87"/>
+<area shape="rect" id="node7" href="$group__RTEMSAPIBSD.html#gabe64cdf3c2b9497f6ba1d9f1d5ce6f23" title=" " alt="" coords="440,111,604,137"/>
+<area shape="rect" id="node3" href="$group__ClassicClock.html#gab393605047b6f9a1f400eac9205b5e2e" title="Obtain Current Time of Day (Classic TOD)" alt="" coords="235,31,392,57"/>
+<area shape="rect" id="node6" href="$group__ClassicClock.html#ga4c42801d9c3b97560a4d83b12c34c54a" title="Obtain TOD in struct timeval Format." alt="" coords="235,82,392,123"/>
+<area shape="rect" id="node4" href="$tod_8h.html#a6a39ff7baf74e555ef111dc91b4945df" title=" " alt="" coords="35,5,157,32"/>
+<area shape="rect" id="node5" href="$tod_8c.html#a06ba139644c5af60527bd6efb09a3c59" title=" " alt="" coords="5,56,187,83"/>
+</map>

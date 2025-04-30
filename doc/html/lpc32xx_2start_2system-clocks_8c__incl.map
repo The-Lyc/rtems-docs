@@ -1,0 +1,12 @@
+<map id="bsps/arm/lpc32xx/start/system&#45;clocks.c" name="bsps/arm/lpc32xx/start/system&#45;clocks.c">
+<area shape="rect" id="node1" title="System clocks." alt="" coords="6,5,177,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="8,95,65,121"/>
+<area shape="rect" id="node3" href="$lpc32xx_8h.html" title="Register base addresses." alt="" coords="90,95,202,121"/>
+<area shape="rect" id="node4" title=" " alt="" coords="44,319,115,345"/>
+<area shape="rect" id="node5" href="$include_2bsp_2utility_8h.html" title="Utility macros." alt="" coords="163,244,260,271"/>
+<area shape="rect" id="node6" href="$lpc-timer_8h.html" title="Timer API." alt="" coords="20,244,139,271"/>
+<area shape="rect" id="node7" href="$lpc-dma_8h.html" title="DMA support API." alt="" coords="406,169,521,196"/>
+<area shape="rect" id="node9" href="$lpc-i2s_8h.html" title="I2S API." alt="" coords="139,169,243,196"/>
+<area shape="rect" id="node10" href="$lpc-emc_8h.html" title="EMC support API." alt="" coords="268,169,381,196"/>
+<area shape="rect" id="node8" title=" " alt="" coords="421,244,506,271"/>
+</map>

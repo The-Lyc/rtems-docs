@@ -1,0 +1,5 @@
+<map id="_POSIX_Threads_Get_sched_param_sporadic" name="_POSIX_Threads_Get_sched_param_sporadic">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,184,47"/>
+<area shape="rect" id="node2" href="$group__POSIX__PRIORITY.html#gad0693fb0599992826c0948cd9bda4d69" title="Converts the SuperCore priority to the corresponding POSIX API priority." alt="" coords="232,13,429,39"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreScheduler.html#gaa2f56f77ed86e3d02527742f917fcd0c" title="Unmaps a thread priority from the scheduler domain to the user domain." alt="" coords="477,13,679,39"/>
+</map>

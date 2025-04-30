@@ -1,0 +1,6 @@
+<map id="rtems_task_exit" name="rtems_task_exit">
+<area shape="rect" id="node1" title=" " alt="" coords="5,13,132,39"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreThread.html#ga044bfb6e9317180d21b05c5338cedd1a" title="Disables thread dispatching." alt="" coords="180,13,372,39"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreThread.html#ga5ffeb81480c63293a317f69efc74dec3" title="Disables thread dispatching inside a critical section (interrupts disabled)." alt="" coords="420,5,612,47"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreThread.html#ga80a71da4ea096f7ea92781a872b955ae" title="Disables thread dispatching inside a critical section (interrupts disabled) with the current processo..." alt="" coords="660,5,852,47"/>
+</map>

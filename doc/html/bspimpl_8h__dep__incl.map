@@ -1,0 +1,8 @@
+<map id="bsps/i386/pc386/include/bsp/bspimpl.h" name="bsps/i386/pc386/include/bsp/bspimpl.h">
+<area shape="rect" id="node1" title=" " alt="" coords="417,5,596,47"/>
+<area shape="rect" id="node2" href="$i386_2pc386_2console_2conscfg_8c.html" title=" " alt="" coords="5,95,187,136"/>
+<area shape="rect" id="node3" href="$console__select_8c.html" title="pc386 console select" alt="" coords="211,95,392,136"/>
+<area shape="rect" id="node4" href="$gdb__select_8c.html" title="pc386 gdb select" alt="" coords="416,95,597,136"/>
+<area shape="rect" id="node5" href="$i386_2pc386_2start_2bspstart_8c.html" title=" " alt="" coords="622,95,783,136"/>
+<area shape="rect" id="node6" href="$pci__io_8c.html" title=" " alt="" coords="808,95,963,136"/>
+</map>

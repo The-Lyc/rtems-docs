@@ -1,0 +1,18 @@
+<map id="_Scheduler_CBS_Cancel_job" name="_Scheduler_CBS_Cancel_job">
+<area shape="rect" id="node1" title="Cancels a job." alt="" coords="5,169,209,196"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreSchedulerCBS.html#gac2cf154d9842c9449d74735b2b1d0a82" title="Gets the CBS node of the thread." alt="" coords="270,89,449,130"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreSchedulerEDF.html#ga616d8e664dde0dc44953c47fa76aa65f" title="Cancels a job and removes the thread from the queue context." alt="" coords="257,199,461,225"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreThread.html#ga080a177afc4fc254a1081485cd89f75d" title="Gets the scheduler&#39;s home node." alt="" coords="515,45,689,86"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreChain.html#ga89304b2d294b98f4909dcb6e68d7ec82" title="Returns pointer to chain&#39;s first node." alt="" coords="1016,5,1117,32"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreChain.html#ga67ffad0c14d402473760ec6bb8e93bcc" title="Checks if the chain is empty." alt="" coords="770,56,903,83"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreChain.html#gac08944db6f0428125d3b0d5a1c65b740" title="Returns pointer to immutable chain head." alt="" coords="1203,31,1385,57"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreChain.html#ga8b2c850d4d09d8db80d11e3199bce386" title="Returns pointer to immutable chain&#39;s first node." alt="" coords="979,56,1155,83"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreChain.html#gaa2f09e6d639b1bc5a27451eb119b6e33" title="Returns pointer to immutable chain tail." alt="" coords="981,107,1153,133"/>
+<area shape="rect" id="node10" href="$group__RTEMSScorePriority.html#ga3b20401cbb459264526c37edc5b1c89f" title="Checks if the priority node is active." alt="" coords="511,111,693,137"/>
+<area shape="rect" id="node12" href="$group__RTEMSScorePriority.html#gaae4c7c5c4cc58ddbfd2376615e43d710" title="Sets the priority node inactive." alt="" coords="530,162,674,203"/>
+<area shape="rect" id="node14" href="$group__RTEMSScoreThread.html#ga8c1e1030ce5bea3614f62e8be650bbeb" title="Removes the specified thread priority node from the corresponding thread priority aggregation." alt="" coords="509,228,695,255"/>
+<area shape="rect" id="node15" href="$group__RTEMSScoreThread.html#ga31d2b044df5bb8998e4c935fededc17c" title="Acquires the thread wait lock inside a critical section (interrupts disabled)." alt="" coords="519,279,685,321"/>
+<area shape="rect" id="node16" href="$group__RTEMSScoreThread.html#gae077609cfcf4bf7a741a5fd36020dcb4" title="Releases the thread wait lock inside a critical section (interrupts disabled)." alt="" coords="519,345,685,386"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreRBTree.html#ga4076722f9dbc78d8e6682b88a3ed0c8e" title="Checks if this red&#45;black tree node is off&#45;tree." alt="" coords="743,111,931,137"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreRBTree.html#ga82d9b6f1aad201e7c8b614a0e970b356" title="Sets a red&#45;black tree node as off&#45;tree." alt="" coords="757,169,916,196"/>
+</map>

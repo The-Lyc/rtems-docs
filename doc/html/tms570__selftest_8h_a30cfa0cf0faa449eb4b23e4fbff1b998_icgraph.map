@@ -1,0 +1,10 @@
+<map id="bsp_selftest_fail_notification" name="bsp_selftest_fail_notification">
+<area shape="rect" id="node1" title=" " alt="" coords="428,148,636,175"/>
+<area shape="rect" id="node2" href="$tms570__tcram__tests_8c.html#a33c90dbfe1e416a72a53a925a1aceb93" title="Check TCRAM ECC error detection logic (HCG:checkRAMECC)" alt="" coords="189,5,380,32"/>
+<area shape="rect" id="node3" href="$tms570__selftest_8c.html#a1918892570812dab64902cec171d51c7" title="PBIST self test Driver (HCG:pbistSelfCheck)" alt="" coords="191,56,378,83"/>
+<area shape="rect" id="node5" href="$tms570__selftest__par__can_8c.html#ab50449340fe25d5386816b58af2cd7b9" title="run test to check that parity protection works for CAN modules RAM" alt="" coords="207,107,362,149"/>
+<area shape="rect" id="node6" href="$tms570__selftest__par__mibspi_8c.html#ac0478e6ffc00a10093eed29febc6bf61" title="run test to check that parity protection works for MibSPI modules RAM" alt="" coords="207,173,362,214"/>
+<area shape="rect" id="node7" href="$tms570__selftest__par__std_8c.html#a214d12ffcd050f636d0c1c1b46ffdd61" title="run test to check that parity protection works for modules with common setup structure." alt="" coords="207,238,362,279"/>
+<area shape="rect" id="node8" href="$init__system_8c.html#adfc60d117ea095a205722a96aeaf3b65" title="TMS570 system hardware initialization (HCG:systemInit)" alt="" coords="195,304,375,331"/>
+<area shape="rect" id="node4" href="$bspstarthooks-hwinit_8c.html#a21575f8c638d77f9365131e139ff1839" title=" " alt="" coords="5,180,141,207"/>
+</map>

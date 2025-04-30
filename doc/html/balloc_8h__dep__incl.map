@@ -1,0 +1,10 @@
+<map id="bsps/sparc64/include/boot/balloc.h" name="bsps/sparc64/include/boot/balloc.h">
+<area shape="rect" id="node1" title=" " alt="" coords="495,5,653,47"/>
+<area shape="rect" id="node2" href="$main_8h.html" title=" " alt="" coords="411,102,569,143"/>
+<area shape="rect" id="node5" href="$ofw__tree_8c.html" title=" " alt="" coords="5,288,172,344"/>
+<area shape="rect" id="node6" href="$sparc64_2shared_2helenos_2boot_2sparc64_2loader_2main_8c.html" title=" " alt="" coords="613,288,778,344"/>
+<area shape="rect" id="node8" href="$balloc_8c.html" title=" " alt="" coords="671,95,837,151"/>
+<area shape="rect" id="node3" href="$ofwarch_8h.html" title=" " alt="" coords="385,199,544,240"/>
+<area shape="rect" id="node7" href="$ofwarch_8c.html" title="Architecture dependent parts of OpenFirmware interface." alt="" coords="197,288,362,344"/>
+<area shape="rect" id="node4" href="$ofw_8c.html" title=" " alt="" coords="386,295,589,337"/>
+</map>

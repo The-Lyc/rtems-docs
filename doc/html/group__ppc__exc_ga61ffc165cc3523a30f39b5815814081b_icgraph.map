@@ -1,0 +1,4 @@
+<map id="ppc_exc_handler_default" name="ppc_exc_handler_default">
+<area shape="rect" id="node1" title="Default high&#45;level exception handler." alt="" coords="212,5,396,32"/>
+<area shape="rect" id="node2" href="$group__ppc__exc.html#ga89b8b9866c9c705a6bd8d043e8e47bd5" title="Returns the currently active high&#45;level exception handler." alt="" coords="5,5,164,32"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="_Thread_Resource_count_decrement" name="_Thread_Resource_count_decrement">
+<area shape="rect" id="node1" title="Decrements the thread&#39;s resource count." alt="" coords="240,104,424,145"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreMutex.html#gac76286dab6594ca0499aa20861f69fb8" title="Surrenders the ceiling mutex." alt="" coords="17,5,181,47"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreMutex.html#ga5096e2975fb3918dafc94ee7d1fc2c06" title="Surrenders the recursive mutex." alt="" coords="8,71,189,112"/>
+<area shape="rect" id="node4" href="$posix_2muteximpl_8h.html#aef2cdaf26c7b8333787140155835917f" title=" " alt="" coords="15,136,183,177"/>
+<area shape="rect" id="node5" href="$posix_2muteximpl_8h.html#ad4a37d46a0bf09c90475738e982235c0" title=" " alt="" coords="5,202,192,229"/>
+</map>

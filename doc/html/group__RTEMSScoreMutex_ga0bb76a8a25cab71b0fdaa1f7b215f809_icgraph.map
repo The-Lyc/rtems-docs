@@ -1,0 +1,9 @@
+<map id="_CORE_mutex_Release" name="_CORE_mutex_Release">
+<area shape="rect" id="node1" title="Releases the mutex." alt="" coords="459,143,632,170"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreMutex.html#gae40030a2c780f0da5839deee9387f340" title="Seizes the ceiling mutex." alt="" coords="5,12,169,53"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreMutex.html#ga3c9beab408f6eaae8af2a29d962b08f3" title="Sets the owner of the ceiling mutex." alt="" coords="232,41,396,82"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreMutex.html#gac76286dab6594ca0499aa20861f69fb8" title="Surrenders the ceiling mutex." alt="" coords="232,106,396,148"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreMutex.html#ga89693ae813a53c8984a6e40c6c228322" title="Seize the mutex slowly." alt="" coords="217,172,411,199"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreMutex.html#gaacb95bc0bdba9fb365d01dfe2623665d" title="Seizes the recursive mutex." alt="" coords="223,224,405,265"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreMutex.html#ga5096e2975fb3918dafc94ee7d1fc2c06" title="Surrenders the recursive mutex." alt="" coords="223,289,405,330"/>
+</map>

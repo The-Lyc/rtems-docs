@@ -1,0 +1,9 @@
+<map id="cpukit/include/rtems/score/statesimpl.h" name="cpukit/include/rtems/score/statesimpl.h">
+<area shape="rect" id="node1" title="Inlined Routines Associated with Thread State Information." alt="" coords="100,5,255,47"/>
+<area shape="rect" id="node2" href="$states_8h.html" title="Thread Execution State Information." alt="" coords="5,95,160,121"/>
+<area shape="rect" id="node4" href="$basedefs_8h.html" title="Basic Definitions." alt="" coords="185,95,359,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="47,169,118,196"/>
+<area shape="rect" id="node5" title=" " alt="" coords="142,169,309,196"/>
+<area shape="rect" id="node6" title=" " alt="" coords="333,169,408,196"/>
+<area shape="rect" id="node7" title=" " alt="" coords="432,169,515,196"/>
+</map>

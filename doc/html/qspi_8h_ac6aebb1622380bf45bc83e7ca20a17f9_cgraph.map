@@ -1,0 +1,7 @@
+<map id="QSPI_ConfigureInterface" name="QSPI_ConfigureInterface">
+<area shape="rect" id="node1" title="Configures QSPI/SPI." alt="" coords="5,81,184,108"/>
+<area shape="rect" id="node2" href="$qspi_8c.html#a540d57bb3a49cb62569937d3f54f7085" title="Configure mode register of QSPI." alt="" coords="250,5,371,32"/>
+<area shape="rect" id="node3" href="$qspi_8c.html#afde6147001d6981039fdb672af9fe0d4" title="Configure QSPI/SPI mode." alt="" coords="232,56,389,83"/>
+<area shape="rect" id="node4" href="$qspi_8c.html#a24e4ad68361409458213083438db8449" title="Disables a QSPI peripheral." alt="" coords="257,107,365,133"/>
+<area shape="rect" id="node5" href="$qspi_8c.html#ad41ddc810992fae62c42f245a989381a" title="Resets a QSPI peripheral." alt="" coords="253,157,368,184"/>
+</map>

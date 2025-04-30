@@ -1,0 +1,10 @@
+<map id="_POSIX_Semaphore_Allocate_unprotected" name="_POSIX_Semaphore_Allocate_unprotected">
+<area shape="rect" id="node1" title=" " alt="" coords="5,64,215,105"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreObject.html#gaf72f90dc17914740829466f086c33668" title="Allocates an object without locking the allocator mutex." alt="" coords="263,71,485,98"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreObject.html#ga67f9cdae9423a81e46626f0e2cb9f305" title="Checks if the allocator is the owner of the object allocator mutex." alt="" coords="541,5,684,47"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreSysState.html#ga1f0777590280f354ba1a73b0b4ed143e" title="Gets the current system state." alt="" coords="539,71,687,98"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreSysState.html#gaa34964b3212ea72baf5ec0064f5d28df" title="Checks if the state is up." alt="" coords="533,122,692,149"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreAllocatorMutex.html#ga8698c4f98051e1c097ed32e38fbf786f" title=" " alt="" coords="740,5,896,47"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreAPIMutex.html#ga0a01be1d7b28416e738a2b97ca3f611d" title="Checks if the specified API mutex is owned by the executing thread." alt="" coords="944,13,1107,39"/>
+<area shape="rect" id="node6" href="$group__PerCPU.html#ga294cfaf3cf50de03f1d9821d68b9c1bd" title="Returns the thread control block of the executing thread." alt="" coords="1155,13,1329,39"/>
+</map>

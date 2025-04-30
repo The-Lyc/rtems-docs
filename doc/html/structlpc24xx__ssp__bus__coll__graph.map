@@ -1,0 +1,7 @@
+<map id="lpc24xx_ssp_bus" name="lpc24xx_ssp_bus">
+<area shape="rect" id="node1" title=" " alt="" coords="267,95,399,121"/>
+<area shape="rect" id="node2" href="$structspi__ioc__transfer.html" title="SPI transfer message." alt="" coords="5,5,131,32"/>
+<area shape="rect" id="node3" href="$structrtems__binary__semaphore.html" title=" " alt="" coords="155,5,343,32"/>
+<area shape="rect" id="node4" href="$structlpc24xx__ssp.html" title=" " alt="" coords="367,5,470,32"/>
+<area shape="rect" id="node5" href="$structspi__bus.html" title="SPI bus control." alt="" coords="494,5,565,32"/>
+</map>

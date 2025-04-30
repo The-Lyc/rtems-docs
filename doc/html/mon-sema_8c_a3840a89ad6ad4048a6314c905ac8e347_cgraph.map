@@ -1,0 +1,11 @@
+<map id="rtems_monitor_sema_canonical" name="rtems_monitor_sema_canonical">
+<area shape="rect" id="node1" title=" " alt="" coords="5,180,167,221"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreMutex.html#gaba91517faca7018478e83a8ace073303" title="Gets the priority of the ceiling mutex." alt="" coords="234,5,398,47"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreMutex.html#ga34b94afb9af40268c4e865d4cd937b7f" title="Gets the scheduler of the ceiling mutex." alt="" coords="234,71,398,112"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreMutex.html#gac97696832bb6ad43d333541536040ec3" title="Gets the owner of the mutex." alt="" coords="221,137,411,163"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreScheduler.html#gaa2f56f77ed86e3d02527742f917fcd0c" title="Unmaps a thread priority from the scheduler domain to the user domain." alt="" coords="215,187,417,214"/>
+<area shape="rect" id="node6" href="$group__ClassicSemImpl.html#gad28b669ee7b56ee7791c8a3037bc4f20" title=" " alt="" coords="215,238,417,265"/>
+<area shape="rect" id="node7" href="$group__ClassicSemImpl.html#ga552f636ae3156648534235dea223413c" title=" " alt="" coords="231,289,401,315"/>
+<area shape="rect" id="node9" href="$group__ClassicSemImpl.html#ga7fc23711da0709752607f2dd1f2f8b52" title=" " alt="" coords="223,339,409,366"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreChain.html#gad7a790f247b3ace45f039c60c18f999f" title="Checks if the node is off chain." alt="" coords="465,281,612,323"/>
+</map>

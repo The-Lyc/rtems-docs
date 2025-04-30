@@ -1,0 +1,52 @@
+<map id="__asm__" name="__asm__">
+<area shape="rect" id="node1" title=" " alt="" coords="452,1171,531,1197"/>
+<area shape="rect" id="node2" href="$m68k_2mvme167_2console_2console_8c.html#a4babd07f78f3f1a5bf1ea099e2d770fb" title=" " alt="" coords="233,56,375,83"/>
+<area shape="rect" id="node4" href="$m68k_2mvme167_2console_2console_8c.html#a9c5f31e520e76443e82b9a97fb5700e3" title=" " alt="" coords="232,5,376,32"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreCPUARM.html#gaa9f8cc989454b28232e5375e30c90970" title="CPU switch context." alt="" coords="223,107,385,133"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreCPUARM.html#gac016ae4ed92ed2607bd65408a36d908b" title="Returns the current CPU counter value." alt="" coords="229,157,379,184"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreCPUi386.html#ga254ab76f1c02812babdb3d5028f59178" title=" " alt="" coords="241,208,367,235"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreCPUARM.html#ga869484e3d851b032fd826c69ff21fc72" title="CPU initialization." alt="" coords="245,259,363,285"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreCPUARM.html#ga1d9dcab9170d532b6634a5620385adbd" title="Returns the interrupt level of the executing thread." alt="" coords="227,309,381,336"/>
+<area shape="rect" id="node10" href="$powerpc_2qoriq_2start_2bspsmp_8c.html#a423b8c9ab27fd3005f613d29813f3296" title=" " alt="" coords="207,360,401,387"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreCPUARM.html#ga903a802003c95d6ef5206cb330424a1b" title=" " alt="" coords="215,411,393,437"/>
+<area shape="rect" id="node12" href="$x86__64_2include_2rtems_2score_2cpu__asm_8h.html#aa42f0e8514456a25df6138a5673aa5ae" title=" " alt="" coords="209,512,399,539"/>
+<area shape="rect" id="node14" href="$x86__64_2include_2rtems_2score_2cpu__asm_8h.html#a987e0f6e402ad816bb8b03d1314f2429" title=" " alt="" coords="210,461,398,488"/>
+<area shape="rect" id="node15" href="$x86__64_2include_2rtems_2score_2cpu__asm_8h.html#a0279a1053a1825f2b89dcd0c8b894f9b" title=" " alt="" coords="246,563,362,589"/>
+<area shape="rect" id="node16" href="$x86__64_2include_2rtems_2score_2cpu__asm_8h.html#a0b13c2a15c22ff62e779b23756f390c3" title=" " alt="" coords="243,613,365,640"/>
+<area shape="rect" id="node17" href="$mips_2csb350_2btimer_2btimer_8c.html#a9ba0ae2fd8880801fb86979a16cd3b2b" title="Initialize the Benchmark Timer." alt="" coords="204,664,404,691"/>
+<area shape="rect" id="node18" href="$epiphany_2epiphany__sim_2btimer_2btimer_8c.html#ab8dc8517e97918d293d78e85b9454855" title="Read the Benchmark Timer." alt="" coords="217,715,391,741"/>
+<area shape="rect" id="node19" href="$group__RTEMSBSPsSH4.html#ga978874b3ce172a195180547e7fa37bbe" title=" " alt="" coords="247,765,361,792"/>
+<area shape="rect" id="node20" href="$group__RTEMSBSPsARMLPC176X.html#ga301be7085b80c41a9c5887247003c662" title="Optimized idle task." alt="" coords="241,816,367,843"/>
+<area shape="rect" id="node21" href="$group__Virtex4MMU.html#ga3594738f1db908303d69ffceae99177a" title=" " alt="" coords="245,867,363,893"/>
+<area shape="rect" id="node22" href="$group__Virtex5MMU.html#gab9639239ae8b28a22968b37e94b631f4" title=" " alt="" coords="213,917,395,944"/>
+<area shape="rect" id="node23" href="$group__ppc__exc.html#gae37b58269b58152e4d1259d8b246644e" title=" " alt="" coords="227,968,381,995"/>
+<area shape="rect" id="node24" href="$group__RTEMSBSPsSharedStartup.html#gaee99733067120706ee7d3395ea225dfb" title=" " alt="" coords="38,1044,123,1071"/>
+<area shape="rect" id="node25" href="$group__RTEMSBSPsSharedStartup.html#ga424dcf8c1e22bf623eb1210a0aa2a3e9" title=" " alt="" coords="39,1871,122,1897"/>
+<area shape="rect" id="node26" href="$clock-ppc-dec_8c.html#a88512111a13aad624235a2ef72cce740" title=" " alt="" coords="268,1120,340,1147"/>
+<area shape="rect" id="node27" href="$sh_2include_2rtems_2score_2cpu_8h.html#a0c2ce3d2271bc1b022d1ef7436d91178" title=" " alt="" coords="258,1171,350,1197"/>
+<area shape="rect" id="node28" href="$group__RTEMSBSPsPowerPCGen5200.html#ga560ad8614ae03841a10b489f4370bc51" title=" " alt="" coords="267,1221,341,1248"/>
+<area shape="rect" id="node29" href="$ppc-print-stack_8c.html#a6d53afeff1884fea118e07f0e177977b" title=" " alt="" coords="208,1272,400,1299"/>
+<area shape="rect" id="node30" href="$x86__64_2include_2rtems_2score_2cpu__asm_8h.html#a4ad5ce8c56844a60f28ebc1ba1647d9e" title=" " alt="" coords="275,1323,333,1349"/>
+<area shape="rect" id="node31" href="$i386_8h.html#aa540fed4ea64b62a7f6242338b3d4dc8" title="Allows to set a GDT entry." alt="" coords="229,1373,379,1400"/>
+<area shape="rect" id="node32" href="$realmode__int_8c.html#a1541b4af8720ed12dd8b966a7db9b100" title="Call to real mode interrupt with specified int NO and processor registers." alt="" coords="217,1424,391,1451"/>
+<area shape="rect" id="node33" href="$init5329_8c.html#a531a37faa89bb99be80c70a56c607d73" title=" " alt="" coords="263,1475,345,1501"/>
+<area shape="rect" id="node34" href="$x86__64_2include_2rtems_2score_2cpu__asm_8h.html#a48b003277fe4b9afadf2366083f9a518" title=" " alt="" coords="256,1525,352,1552"/>
+<area shape="rect" id="node35" href="$idt_8h.html#a7a7ed658a4801552a39c2e059f0f86bf" title=" " alt="" coords="283,1576,325,1603"/>
+<area shape="rect" id="node36" href="$lm32-stub_8c.html#a249d621ae937265c20de20795d2278f1" title=" " alt="" coords="220,1627,388,1653"/>
+<area shape="rect" id="node37" href="$m68k-stub_8c.html#a2cc53aa199bd35ab213e5ccb2a12e9c9" title=" " alt="" coords="213,1677,395,1704"/>
+<area shape="rect" id="node38" href="$m68k-stub_8c.html#ad8892160db1c85f27bc9e224098cc438" title=" " alt="" coords="211,1729,397,1770"/>
+<area shape="rect" id="node39" href="$powerpc_2mpc8260ads_2start_2mmu_8c.html#ac139ab6eabfe7278410aaf6fe58ff04e" title=" " alt="" coords="262,1795,346,1821"/>
+<area shape="rect" id="node40" href="$x86__64_2include_2rtems_2score_2cpu__asm_8h.html#aa60b5dd7317f02b9cc6557f3f383afe2" title=" " alt="" coords="251,1019,357,1045"/>
+<area shape="rect" id="node41" href="$mvme167_2start_2page__table_8c.html#a7c81500f743053178f512a92bff65f8d" title=" " alt="" coords="243,1896,365,1923"/>
+<area shape="rect" id="node42" href="$mvme167_2start_2page__table_8c.html#a8511d3ad309aaafc0330040a5eb06f39" title=" " alt="" coords="223,1947,385,1973"/>
+<area shape="rect" id="node43" href="$x86__64_2include_2rtems_2score_2cpu__asm_8h.html#acd33c5cf55af2e0785e787bca41c3c38" title=" " alt="" coords="274,1997,334,2024"/>
+<area shape="rect" id="node44" href="$group__RTEMSTest.html#ga4ef73d9b32877ff064b30f151e0d2098" title="Performs a busy loop with the specified iteration count." alt="" coords="239,2048,369,2075"/>
+<area shape="rect" id="node45" href="$sci__termios_8h.html#a71829ef26223f385a096fa37b522fbe9" title=" " alt="" coords="14,2124,147,2151"/>
+<area shape="rect" id="node46" href="$sci__termios_8h.html#ad92e9f8ebdf0bde37a7708f4842c4a2a" title=" " alt="" coords="225,2099,383,2125"/>
+<area shape="rect" id="node47" href="$fec_8c.html#a4ac5b77afa61734272f8edcb7fe113f7" title=" " alt="" coords="263,2200,345,2227"/>
+<area shape="rect" id="node48" href="$fec_8c.html#a46d5fa7626a4bd47e7329c9288c3a429" title=" " alt="" coords="261,2251,347,2277"/>
+<area shape="rect" id="node49" href="$pte121_8c.html#a615587d875a234a1c3465203b2b4a4c6" title=" " alt="" coords="225,2301,383,2328"/>
+<area shape="rect" id="node50" href="$x86__64_2include_2rtems_2score_2cpu__asm_8h.html#a8f128adea8d6ade9efb882b84103c5af" title=" " alt="" coords="273,2352,335,2379"/>
+<area shape="rect" id="node3" href="$m68k_2mvme167_2console_2console_8c.html#a3f4320ff384009c3bdfa6ec4f1b79501" title="Console open entry point." alt="" coords="25,31,136,57"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreCPUARM.html#ga43820ba3d51d7a699c22fce8cac93ef1" title="Sets the hardware interrupt level by the level value." alt="" coords="5,487,156,513"/>
+</map>

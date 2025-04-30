@@ -1,0 +1,5 @@
+<map id="_Protected_heap_Allocate" name="_Protected_heap_Allocate">
+<area shape="rect" id="node1" title="Allocates a memory area." alt="" coords="267,31,457,57"/>
+<area shape="rect" id="node2" href="$rtems__heap__extend__via__sbrk_8c.html#aaab427c995cc0c8e362e991a7877b261" title="RTEMS Extend Heap via Sbrk." alt="" coords="5,5,219,32"/>
+<area shape="rect" id="node3" href="$group__ClassicRTEMSWorkspace.html#ga64ef053b5f7b0b526c024b2596a24dfb" title="Allocates Memory from the Workspace." alt="" coords="14,56,210,83"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="_Region_Process_queue" name="_Region_Process_queue">
+<area shape="rect" id="node1" title="Process Region Queue." alt="" coords="5,299,184,326"/>
+<area shape="rect" id="node2" href="$group__ClassicRegionImpl.html#ga832ceefdcf5076c6aae60d4d0762a2e2" title="Region_Allocate_segment." alt="" coords="232,159,431,186"/>
+<area shape="rect" id="node10" href="$group__ClassicRegionImpl.html#gad444e14f7e98c6e3bad390d9a5a91e6b" title=" " alt="" coords="268,223,395,250"/>
+<area shape="rect" id="node15" href="$group__RTEMSScoreThread.html#ga044bfb6e9317180d21b05c5338cedd1a" title="Disables thread dispatching." alt="" coords="235,274,427,301"/>
+<area shape="rect" id="node18" href="$group__RTEMSScoreThread.html#gab0c773b97624be1dc304a2d3d038f19a" title="Enables thread dispatching." alt="" coords="237,325,426,351"/>
+<area shape="rect" id="node19" href="$group__RTEMSScoreThreadQueue.html#gade3d717e5bef36275e5abd5c9cb0795f" title="Extracts thread from thread queue." alt="" coords="244,375,419,402"/>
+<area shape="rect" id="node20" href="$group__RTEMSScoreThreadQueue.html#ga4408cda9750cde6b1d469759762ecb14" title="Returns the first thread on the thread queue if it exists, otherwise NULL." alt="" coords="253,426,409,453"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreHeap.html#gad26c02ca60b04b7e5845ec959f6d4330" title="Allocates a memory area." alt="" coords="513,134,636,161"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreHeap.html#ga15167f1ad5eb93d85f15adb5e5524ff5" title="Allocates an aligned memory area with boundary constraint." alt="" coords="725,115,904,156"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreHeap.html#ga2563e03746d89148a8782b02f6159821" title="Returns the first address in the block without the heap header." alt="" coords="981,5,1139,47"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreHeap.html#ga0299809a91130b3da718ee889f4fe43d" title="Returns the first block of the free list of the heap." alt="" coords="981,71,1139,98"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreHeap.html#gad25276de4aa987568f1bfc66a0c66700" title="Returns the tail of the free list of the heap." alt="" coords="983,122,1137,149"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreHeap.html#gad88e4681224e360888f3f4bd020c97a9" title="Returns if the previous heap block is used." alt="" coords="983,173,1137,199"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreHeap.html#ga860e7959de03ba830d0ebe1b4cca8273" title="Returns the head of the free list of the heap." alt="" coords="1209,71,1373,98"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreAllocatorMutex.html#ga15d657c04537c2ad1841adc28b8dd747" title=" " alt="" coords="480,223,669,250"/>
+<area shape="rect" id="node12" href="$group__RTEMSScoreAPIMutex.html#ga64a430ae861d0ce7f63413e651fbe36d" title="Releases the specified API mutex." alt="" coords="739,223,890,250"/>
+<area shape="rect" id="node13" href="$mutex_8c.html#adecd7211e7a1a5035841212574f45b31" title=" " alt="" coords="962,223,1158,250"/>
+<area shape="rect" id="node14" href="$group__RTEMSScoreThread.html#gad5aaea7af4482aebd880403fb9c238af" title="Set the thread to life protected." alt="" coords="959,274,1161,301"/>
+<area shape="rect" id="node16" href="$group__RTEMSScoreThread.html#ga5ffeb81480c63293a317f69efc74dec3" title="Disables thread dispatching inside a critical section (interrupts disabled)." alt="" coords="479,275,671,316"/>
+<area shape="rect" id="node17" href="$group__RTEMSScoreThread.html#ga80a71da4ea096f7ea92781a872b955ae" title="Disables thread dispatching inside a critical section (interrupts disabled) with the current processo..." alt="" coords="719,275,911,316"/>
+<area shape="rect" id="node21" href="$group__RTEMSScoreThreadQueue.html#ga40080175681761a842fe6ab4784735b9" title="Acquires the thread queue control in a critical section." alt="" coords="486,367,663,394"/>
+<area shape="rect" id="node22" href="$group__RTEMSScoreThreadQueue.html#gac07672b4b41838966ddf124973f51451" title="Returns the first thread on the thread queue if it exists, otherwise NULL." alt="" coords="497,419,653,460"/>
+<area shape="rect" id="node23" href="$group__RTEMSScoreThreadQueue.html#ga0a8881ef4106a0707b2751cdd3d18bef" title="Releases the thread queue control and enables interrupts." alt="" coords="485,485,665,511"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="mscan_id_mask_register" name="mscan_id_mask_register">
+<area shape="rect" id="node1" title="Returns the address of the CANIDMR register with index i of the MSCAN module m." alt="" coords="224,5,408,32"/>
+<area shape="rect" id="node2" href="$group__RTEMSBSPsPowerPCGen5200MSCAN.html#gafae77c5bbc712dd3fe5e7432462e3d08" title="Sets or gets the filter ID and mask in id and mask depending on set of MSCAN module m...." alt="" coords="5,5,176,32"/>
+</map>

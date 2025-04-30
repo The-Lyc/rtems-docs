@@ -1,0 +1,8 @@
+<map id="_DRV_Manager_Lock" name="_DRV_Manager_Lock">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,164,108"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreAPIMutex.html#ga57829ca494f1d866219c499eadb0ffc9" title="Acquires the specified API mutex." alt="" coords="237,31,372,57"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreSysState.html#ga1f0777590280f354ba1a73b0b4ed143e" title="Gets the current system state." alt="" coords="231,81,379,108"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreSysState.html#ga65c9b8a4aade0388329be8525be74dbd" title="Checks if the state is before initialization." alt="" coords="212,133,397,174"/>
+<area shape="rect" id="node3" href="$mutex_8c.html#a2960aef6016ac8937f24108f9cdeebd0" title=" " alt="" coords="450,5,643,32"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreThread.html#gad5aaea7af4482aebd880403fb9c238af" title="Set the thread to life protected." alt="" coords="445,56,648,83"/>
+</map>

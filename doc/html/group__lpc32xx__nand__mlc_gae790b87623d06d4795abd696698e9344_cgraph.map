@@ -1,0 +1,4 @@
+<map id="lpc32xx_mlc_zero_pages" name="lpc32xx_mlc_zero_pages">
+<area shape="rect" id="node1" title="Writes zero values to the pages specified by page_begin and page_end." alt="" coords="5,13,191,39"/>
+<area shape="rect" id="node2" href="$group__lpc32xx__nand__mlc.html#ga3e7231705d7d840e2e71fbb64534b2f0" title="Writes the page with index page_index." alt="" coords="239,5,421,47"/>
+</map>

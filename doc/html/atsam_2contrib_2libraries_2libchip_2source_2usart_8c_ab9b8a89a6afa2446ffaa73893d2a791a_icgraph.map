@@ -1,0 +1,5 @@
+<map id="USART_SetReceiverEnabled" name="USART_SetReceiverEnabled">
+<area shape="rect" id="node1" title="Enables or disables the receiver of an USART peripheral." alt="" coords="263,31,465,57"/>
+<area shape="rect" id="node2" href="$usart__dma_8h.html#afb7444a9ad29e0ea8ce539a8e3c2f68f" title="This function disables the appropriate DMA channel for Rx channel of USART." alt="" coords="5,5,215,32"/>
+<area shape="rect" id="node3" href="$usart__dma_8h.html#a7714e0765368904f8f43f1fc0ccb63fd" title="This function initialize the appropriate DMA channel for Rx channel of USART." alt="" coords="8,56,212,83"/>
+</map>

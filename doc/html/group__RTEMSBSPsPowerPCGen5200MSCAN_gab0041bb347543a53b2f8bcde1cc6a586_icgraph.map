@@ -1,0 +1,4 @@
+<map id="mscan_set_bit_rate" name="mscan_set_bit_rate">
+<area shape="rect" id="node1" title="Sets the bit rate for the MSCAN module m to can_bit_rate in [bits/s]." alt="" coords="169,5,319,32"/>
+<area shape="rect" id="node2" href="$group__RTEMSBSPsPowerPCGen5200MSCAN.html#ga8b80a3020d69fd2993928c0aae87b068" title="Enables and initializes the MSCAN module m." alt="" coords="5,5,121,32"/>
+</map>

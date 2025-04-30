@@ -1,0 +1,5 @@
+<map id="_Thread_queue_Dispatch_disable" name="_Thread_queue_Dispatch_disable">
+<area shape="rect" id="node1" title="Disables dispatching in a critical section." alt="" coords="5,5,191,47"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreThread.html#ga5ffeb81480c63293a317f69efc74dec3" title="Disables thread dispatching inside a critical section (interrupts disabled)." alt="" coords="239,5,431,47"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreThread.html#ga80a71da4ea096f7ea92781a872b955ae" title="Disables thread dispatching inside a critical section (interrupts disabled) with the current processo..." alt="" coords="479,5,671,47"/>
+</map>

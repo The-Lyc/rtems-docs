@@ -1,0 +1,9 @@
+<map id="lpc32xx_i2c_init" name="lpc32xx_i2c_init">
+<area shape="rect" id="node1" title="Initializes the I2C module i2c." alt="" coords="5,53,132,80"/>
+<area shape="rect" id="node2" href="$group__lpc32xx__i2c.html#gae01a777a930c867e069dd94a377532a0" title="Sets the I2C module i2c clock." alt="" coords="180,28,320,54"/>
+<area shape="rect" id="node7" href="$group__lpc32xx__i2c.html#ga9b92b575a067b9881b60465aefe3d29f" title="Resets the I2C module i2c." alt="" coords="181,78,319,105"/>
+<area shape="rect" id="node3" href="$group__RTEMSBSPsARMLPC32XX.html#gac5497ccc2c14f3d48aee42aa4f02a64b" title=" " alt="" coords="368,28,475,54"/>
+<area shape="rect" id="node4" href="$group__RTEMSBSPsARMLPC32XX.html#ga95a5a5aebf7625f14761770b2232038f" title=" " alt="" coords="717,28,867,54"/>
+<area shape="rect" id="node5" href="$group__RTEMSBSPsARMLPC32XX.html#gab8e4fe306b7e72be6bd3d30d82f87723" title=" " alt="" coords="915,28,1036,54"/>
+<area shape="rect" id="node6" href="$group__RTEMSBSPsARMLPC32XX.html#ga3032c31136e3c2ad69c16a52a6305a58" title=" " alt="" coords="523,78,669,105"/>
+</map>

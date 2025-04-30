@@ -1,0 +1,8 @@
+<map id="bsps/sparc64/shared/helenos/boot/sparc64/loader" name="bsps/sparc64/shared/helenos/boot/sparc64/loader">
+<area shape="rect" id="node1" href="dir_79c13447a84d05bbc54c1dc94ec22107.html" title="loader" alt="" coords="53,52,125,100"/>
+<area shape="rect" id="node2" href="dir_eb065905402c590b15497afd6718ba1a.html" title="include" alt="" coords="5,148,77,196"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000840_000072.html" title="10" alt="" coords="60,128,78,143"/>
+<area shape="rect" id="node3" href="dir_cd198e36225ba3f41de97552050ac017.html" title="cpukit" alt="" coords="101,148,173,196"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000840_000080.html" title="4" alt="" coords="120,121,129,135"/>
+<area shape="rect" id="clust1" href="dir_67795a6be273ae9adae237a4628dd500.html" title="sparc64" alt="" coords="43,16,136,111"/>
+</map>

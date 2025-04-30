@@ -1,0 +1,30 @@
+<map id="_RTEMS_tasks_Initialize_user_task" name="_RTEMS_tasks_Initialize_user_task">
+<area shape="rect" id="node1" title="System initialization handler to create and start the first user task." alt="" coords="5,74,184,115"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreIntErr.html#ga092fa4be4bda2528754b494e901d3d2a" title="Terminates the system with an INTERNAL_ERROR_CORE fatal source and the specified core error code." alt="" coords="273,5,391,32"/>
+<area shape="rect" id="node4" href="$group__ClassicStatus.html#ga66b6a30382adff21abd134ac07c9082d" title="Checks if the status code is equal to RTEMS_SUCCESSFUL." alt="" coords="232,56,432,83"/>
+<area shape="rect" id="node5" href="$group__ClassicTasks.html#gabffda1c2301962f0ae5af042ac0bba62" title="RTEMS Task Create." alt="" coords="261,107,403,133"/>
+<area shape="rect" id="node6" href="$group__ClassicTasks.html#gac7fe1362154946d78978ceb4f116f13e" title="RTEMS Start Task." alt="" coords="266,157,398,184"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreIntErr.html#ga5102f2f0c5939020aa3b11d67afa84eb" title="Initiates system termination." alt="" coords="519,5,614,32"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreThread.html#ga9223b77920482b86fba30d4113be119f" title="Calls the start kinds numeric entry of the thread." alt="" coords="481,74,653,115"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreThread.html#gadc33b4b428dfc134ae1622441433b1a1" title="Gets a thread by its identifier." alt="" coords="515,140,619,167"/>
+<area shape="rect" id="node15" href="$group__RTEMSScoreThreadMP.html#ga8c8c9e4dadd94632600e764d4e85ee89" title="Checks if the thread MP with this object id is remote." alt="" coords="480,191,653,217"/>
+<area shape="rect" id="node17" href="$group__RTEMSScoreThread.html#ga03378c6b7617ec1b5fcc541423e662e5" title="Initializes thread and executes it." alt="" coords="511,399,623,425"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreObject.html#gaba59419fd15c39c93eedbaba5788de05" title="Checks if two object IDs are equal." alt="" coords="715,56,891,83"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreObject.html#gaccc5682133e4f65b8cb374eab9be2c9d" title="Maps the specified object identifier to the associated local object control block." alt="" coords="749,107,857,133"/>
+<area shape="rect" id="node12" href="$group__RTEMSScoreThread.html#ga291d97d78d5460ffa5539964e417bb49" title="Gets object information for the object id." alt="" coords="723,158,882,199"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreObject.html#ga22cdf45f285840b7728b06197a7f4627" title="Returns the index portion of the ID." alt="" coords="977,107,1128,133"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreObject.html#ga907a0412d7c657fa047641444090fe7b" title="Returns the API portion of the ID." alt="" coords="985,161,1121,188"/>
+<area shape="rect" id="node14" href="$group__RTEMSScoreObject.html#ga8014a70deeb6819f7e2ca50efd13e1be" title="Checks if the api is valid." alt="" coords="971,212,1134,239"/>
+<area shape="rect" id="node16" href="$group__RTEMSScoreObjectMP.html#gae1144d0c54b95368022bd861539e9694" title="Checks if the object identifier is in the global object identifier cache of the specified object info..." alt="" coords="714,224,891,251"/>
+<area shape="rect" id="node18" href="$group__RTEMSScoreStates.html#gab1378fca80d8015e09fe2fba6a736e89" title="Checks if DORMANT state is set." alt="" coords="727,275,878,301"/>
+<area shape="rect" id="node19" href="$group__RTEMSScoreThread.html#gae54a6095e8c9f868b54545fdbfc8f061" title="Clears the specified thread state without locking the lock context." alt="" coords="725,326,880,367"/>
+<area shape="rect" id="node20" href="$group__RTEMSScoreThread.html#ga5ffeb81480c63293a317f69efc74dec3" title="Disables thread dispatching inside a critical section (interrupts disabled)." alt="" coords="707,391,899,433"/>
+<area shape="rect" id="node22" href="$group__RTEMSScoreThread.html#gade10731d5bc6570cc485999da44acd43" title="Initializes enviroment for a thread." alt="" coords="701,457,904,484"/>
+<area shape="rect" id="node24" href="$group__RTEMSScoreThread.html#gafd7ff215edf64b4611da7b7c1d4e3050" title="Acquires the lock context in a critical section." alt="" coords="717,509,888,550"/>
+<area shape="rect" id="node26" href="$group__RTEMSScoreThread.html#ga958218590f858b65855c89802b2cc071" title="Releases the lock context and enables interrupts." alt="" coords="717,577,888,604"/>
+<area shape="rect" id="node21" href="$group__RTEMSScoreThread.html#ga80a71da4ea096f7ea92781a872b955ae" title="Disables thread dispatching inside a critical section (interrupts disabled) with the current processo..." alt="" coords="957,391,1149,433"/>
+<area shape="rect" id="node23" href="$group__RTEMSScoreThread.html#gae0c3a615798c7cc70dc9ff6d9317df46" title="Wrapper function for all threads." alt="" coords="987,457,1119,484"/>
+<area shape="rect" id="node25" href="$group__RTEMSScoreThreadQueue.html#gaf1488e09cc925566233f2f1fc76c4d81" title="Acquires the thread queue control in a critical section." alt="" coords="952,509,1153,550"/>
+<area shape="rect" id="node27" href="$group__RTEMSScoreThread.html#gab003d620d9c5fc5502cedd90960d59d5" title="Release the lock context in a critical section." alt="" coords="967,574,1138,615"/>
+<area shape="rect" id="node28" href="$group__RTEMSScoreThreadQueue.html#ga923d39f206f389ae8a8293e22bae8fbf" title="Checks if the thread queue control is the owner of the lock." alt="" coords="1201,574,1403,615"/>
+</map>

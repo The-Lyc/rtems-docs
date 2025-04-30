@@ -1,0 +1,5 @@
+<map id="bsps/lm32/shared/console/uart.h" name="bsps/lm32/shared/console/uart.h">
+<area shape="rect" id="node1" title="LatticeMico32 UART definitions." alt="" coords="108,5,299,47"/>
+<area shape="rect" id="node2" href="$lm32_2shared_2console_2uart_8c.html" title=" " alt="" coords="5,95,196,136"/>
+<area shape="rect" id="node3" href="$lm32_2shared_2start_2bspstart_8c.html" title=" " alt="" coords="221,95,391,136"/>
+</map>

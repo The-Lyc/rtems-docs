@@ -1,0 +1,5 @@
+<map id="SuperH (sh)" name="SuperH (sh)">
+<area shape="rect" id="node1" title="SuperH (sh) Architecture Support." alt="" coords="240,13,339,38"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreCPUshASM.html" title="SuperH (sh) Assembler Support." alt="" coords="387,5,557,45"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreCPU.html" title="Provides CPU architecture dependent services." alt="" coords="5,13,192,38"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="SPID_Configure" name="SPID_Configure">
+<area shape="rect" id="node1" title="Initializes the Spid structure and the corresponding SPI &amp; DMA hardware. select value...." alt="" coords="5,5,127,32"/>
+<area shape="rect" id="node2" href="$arm_2atsam_2contrib_2libraries_2libchip_2source_2spi_8c.html#a0ebb1d25f8889b00a9dd846059456175" title="Configures a SPI peripheral as specified. The configuration can be computed using several macros (see..." alt="" coords="175,5,285,32"/>
+<area shape="rect" id="node3" href="$atsam_2contrib_2libraries_2libchip_2source_2pmc_8c.html#a4154148b8d69545bca1b5c868c004d49" title="Enables the clock of a peripheral. The peripheral ID is used to identify which peripheral is targeted..." alt="" coords="333,5,501,32"/>
+</map>

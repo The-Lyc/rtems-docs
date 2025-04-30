@@ -1,0 +1,17 @@
+<map id="_Protected_heap_Initialize" name="_Protected_heap_Initialize">
+<area shape="rect" id="node1" title="Initializes the protected heap." alt="" coords="5,249,199,276"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreHeap.html#gac5974c7ccf84c152ba6c8e17bea3ca5f" title="Initializes the heap control block." alt="" coords="247,249,373,276"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreHeap.html#gaa7c54b3d49cb3fbcf12bbf7a7a45e8d5" title="Aligns the value to a given alignment, rounding up." alt="" coords="687,224,813,251"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreHeap.html#ga2563e03746d89148a8782b02f6159821" title="Returns the first address in the block without the heap header." alt="" coords="441,57,599,98"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreHeap.html#ga860e7959de03ba830d0ebe1b4cca8273" title="Returns the head of the free list of the heap." alt="" coords="438,123,602,149"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreHeap.html#gad25276de4aa987568f1bfc66a0c66700" title="Returns the tail of the free list of the heap." alt="" coords="443,173,597,200"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreHeap.html#ga31ce1fc13ec844eaccf67486e290324b" title="Gets the first and last block for the heap area." alt="" coords="442,326,598,367"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreHeap.html#ga6a21a1797970a73dfe515f3defc5fe8d" title="Checks if the value is aligned to the given alignment." alt="" coords="452,275,588,301"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreHeap.html#ga54ed70e7cf8e99037c356772c927eaee" title="Returns the minimal Heap Block size for the given page_size." alt="" coords="435,5,605,32"/>
+<area shape="rect" id="node12" href="$group__RTEMSScoreHeap.html#gad616af34405ce4473f9ff3050ce39d90" title="Sets the fraction of delayed free blocks that is actually freed during memory shortage." alt="" coords="435,391,605,433"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreHeap.html#gaf95a9dbdca32f811e64b2bedf4f74ff3" title="Sets the size of the last block for the heap." alt="" coords="421,457,619,484"/>
+<area shape="rect" id="node15" href="$bootldr_8h.html#a36d20f7d597c517b964289f6b54ddfa7" title=" " alt="" coords="482,508,558,535"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreHeap.html#ga2b11e4f1b69d3f6197165e4fb7f2e956" title="Returns the aligned value, truncating." alt="" coords="677,359,823,385"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreHeap.html#ga231bdbf1ec3d6b82583d0cc3198fc00b" title="Returns the block which is offset away from block." alt="" coords="687,308,813,335"/>
+<area shape="rect" id="node14" href="$group__RTEMSScoreHeap.html#gaf0c66d5f866002204674e2639575efc3" title="Sets the block size." alt="" coords="667,457,833,484"/>
+</map>

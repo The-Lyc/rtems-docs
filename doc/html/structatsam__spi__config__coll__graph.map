@@ -1,0 +1,6 @@
+<map id="atsam_spi_config" name="atsam_spi_config">
+<area shape="rect" id="node1" title=" " alt="" coords="5,184,140,211"/>
+<area shape="rect" id="node2" href="$struct__Pin.html" title=" " alt="" coords="13,95,63,121"/>
+<area shape="rect" id="node3" href="$structPio.html" title="Pio hardware registers." alt="" coords="17,5,59,32"/>
+<area shape="rect" id="node4" href="$structSpi.html" title="Spi hardware registers." alt="" coords="87,95,130,121"/>
+</map>

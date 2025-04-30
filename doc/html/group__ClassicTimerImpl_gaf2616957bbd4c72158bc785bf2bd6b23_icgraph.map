@@ -1,0 +1,10 @@
+<map id="_Timer_Is_on_task_class" name="_Timer_Is_on_task_class">
+<area shape="rect" id="node1" title=" " alt="" coords="768,85,951,112"/>
+<area shape="rect" id="node2" href="$group__ClassicTimerImpl.html#gad3cc9c58e403f6c6e7e53ab678d665f7" title=" " alt="" coords="601,85,720,112"/>
+<area shape="rect" id="node3" href="$group__ClassicTimerImpl.html#ga88df13f9a367637321a0783369bec2cb" title=" " alt="" coords="429,35,527,61"/>
+<area shape="rect" id="node7" href="$group__ClassicTimer.html#ga746671597de779ad02b9ca72facc9e92" title="rtems_timer_cancel" alt="" coords="403,85,553,112"/>
+<area shape="rect" id="node8" href="$group__ClassicTimer.html#ga582cf1f171214dabcc2af8c5bd48898f" title="RTEMS Delete Timer." alt="" coords="403,136,553,163"/>
+<area shape="rect" id="node4" href="$group__ClassicTimerImpl.html#gaa71b85670a35521a0f1267eabcbc3835" title=" " alt="" coords="220,35,355,61"/>
+<area shape="rect" id="node5" href="$group__ClassicTimer.html#gad9785a6bd78ab5a591a134d147b2bdd3" title="RTEMS Timer Fire After." alt="" coords="5,5,172,32"/>
+<area shape="rect" id="node6" href="$group__ClassicTimer.html#ga521234c97e4fbf2d2e759d78447b5a8f" title="RTEMS Timer Server Fire After." alt="" coords="13,57,164,98"/>
+</map>

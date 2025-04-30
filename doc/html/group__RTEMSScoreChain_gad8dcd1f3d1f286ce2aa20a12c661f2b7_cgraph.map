@@ -1,0 +1,6 @@
+<map id="_Chain_Iterator_destroy" name="_Chain_Iterator_destroy">
+<area shape="rect" id="node1" title="Destroys the iterator." alt="" coords="5,42,183,69"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreChain.html#ga51ca91740b37b6101d1aa80167ddcfe0" title="Extracts this node (unprotected)." alt="" coords="231,42,435,69"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreChain.html#gad7a790f247b3ace45f039c60c18f999f" title="Checks if the node is off chain." alt="" coords="489,5,636,47"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreChain.html#gadf0e5d55d133694eed8043ec13fe1266" title="Sets off chain." alt="" coords="483,71,643,98"/>
+</map>

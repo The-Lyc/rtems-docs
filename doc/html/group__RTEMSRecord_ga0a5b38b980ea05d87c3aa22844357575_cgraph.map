@@ -1,0 +1,5 @@
+<map id="rtems_record_prepare_critical" name="rtems_record_prepare_critical">
+<area shape="rect" id="node1" title="Prepares to add and commit record items in a critical section with interrupts disabled." alt="" coords="5,23,171,65"/>
+<area shape="rect" id="node2" href="$record_8h.html#a7318505b6813f1fed9c40a89a20ae0df" title=" " alt="" coords="219,5,333,32"/>
+<area shape="rect" id="node3" href="$record_8h.html#afbe558a988df158f207d75d91b888284" title=" " alt="" coords="221,56,331,83"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="bsps/arm/lpc24xx/start/system&#45;clocks.c" name="bsps/arm/lpc24xx/start/system&#45;clocks.c">
+<area shape="rect" id="node1" title="System clocks." alt="" coords="151,5,322,47"/>
+<area shape="rect" id="node2" href="$counter_8h.html" title="Free&#45;Running Counter and Busy Wait Delay API." alt="" coords="5,95,129,121"/>
+<area shape="rect" id="node4" title=" " alt="" coords="153,95,211,121"/>
+<area shape="rect" id="node5" href="$lpc24xx_8h.html" title="Register definitions." alt="" coords="235,95,347,121"/>
+<area shape="rect" id="node9" title=" " alt="" coords="371,95,526,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="57,169,195,196"/>
+<area shape="rect" id="node6" href="$include_2bsp_2utility_8h.html" title="Utility macros." alt="" coords="241,244,339,271"/>
+<area shape="rect" id="node8" href="$lpc-i2s_8h.html" title="I2S API." alt="" coords="283,169,387,196"/>
+<area shape="rect" id="node7" title=" " alt="" coords="255,319,325,345"/>
+</map>

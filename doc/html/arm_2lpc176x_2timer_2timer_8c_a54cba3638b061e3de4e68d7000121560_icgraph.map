@@ -1,0 +1,4 @@
+<map id="lpc176x_timer_get_timer_value" name="lpc176x_timer_get_timer_value">
+<area shape="rect" id="node1" title="Gets the timer value." alt="" coords="227,5,412,47"/>
+<area shape="rect" id="node2" href="$arm_2lpc176x_2btimer_2btimer_8c.html#ab8dc8517e97918d293d78e85b9454855" title="Read the Benchmark Timer." alt="" coords="5,13,179,39"/>
+</map>

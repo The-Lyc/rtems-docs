@@ -1,0 +1,17 @@
+<map id="wait" name="wait">
+<area shape="rect" id="node1" title=" " alt="" coords="755,188,805,215"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreMutex.html#ga89693ae813a53c8984a6e40c6c228322" title="Seize the mutex slowly." alt="" coords="513,5,707,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreRWLock.html#ga44d546f0608f0a64a0473cf70bcd251c" title="Obtains RWLock for reading." alt="" coords="527,57,693,98"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreRWLock.html#ga83de98cd4ad1f99dc3f89b6b31d3d9e8" title="Obtains RWLock for writing." alt="" coords="527,122,693,163"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreSemaphore.html#ga7b6f46a1b1493871428be3b274ebb0f0" title="Seizes the semaphore." alt="" coords="517,188,703,215"/>
+<area shape="rect" id="node7" href="$m68k_2mvme167_2console_2console_8c.html#a21ec6cbad3530d02dcfe5298f37d1663" title=" " alt="" coords="539,239,681,265"/>
+<area shape="rect" id="node9" href="$clnt__udp_8c.html#a25d96a6396dbf5837139c0478f1cd975" title=" " alt="" coords="551,289,669,316"/>
+<area shape="rect" id="node15" href="$sys-rtems_8c.html#a69d252a3f49d5bf69ebd829d4dcfdc20" title=" " alt="" coords="565,340,655,367"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreMPCI.html#gaf232dadc9160e4b1c733906d3a6d1f57" title="Receives and processes all packets." alt="" coords="296,188,465,215"/>
+<area shape="rect" id="node8" href="$m68k_2mvme167_2console_2console_8c.html#a70752aa0c5e20c8334b8b02a31a06de3" title=" " alt="" coords="315,239,447,265"/>
+<area shape="rect" id="node10" href="$clnt__generic_8c.html#afdb74699a02f4905aa56cf843c2f934d" title=" " alt="" coords="333,289,428,316"/>
+<area shape="rect" id="node14" href="$pmap__rmt_8c.html#a8cee415345798118fdbd7e5cade3aac7" title=" " alt="" coords="325,340,437,367"/>
+<area shape="rect" id="node11" href="$pmap__clnt_8c.html#a920cd19a78789d6fb4297056961719ed" title=" " alt="" coords="153,264,240,291"/>
+<area shape="rect" id="node12" href="$pmap__clnt_8c.html#aeabebebb4255527c70fe8dd02347d8d1" title=" " alt="" coords="145,315,248,341"/>
+<area shape="rect" id="node13" href="$svc__simple_8c.html#ae1ed444859be78b541c478b4de819270" title=" " alt="" coords="5,315,97,341"/>
+</map>

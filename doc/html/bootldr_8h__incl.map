@@ -1,0 +1,9 @@
+<map id="bsps/powerpc/motorola_powerpc/bootloader/bootldr.h" name="bsps/powerpc/motorola_powerpc/bootloader/bootldr.h">
+<area shape="rect" id="node1" title=" " alt="" coords="47,5,265,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="27,244,98,271"/>
+<area shape="rect" id="node3" href="$residual_8h.html" title=" " alt="" coords="29,95,142,121"/>
+<area shape="rect" id="node5" href="$consoleIo_8h.html" title=" " alt="" coords="167,95,289,121"/>
+<area shape="rect" id="node6" href="$bsps_2powerpc_2motorola__powerpc_2bootloader_2pci_8h.html" title=" " alt="" coords="313,95,367,121"/>
+<area shape="rect" id="node4" href="$pnp_8h.html" title=" " alt="" coords="100,169,185,196"/>
+<area shape="rect" id="node7" href="$cpukit_2include_2rtems_2pci_8h.html" title=" " alt="" coords="251,169,346,196"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="_Timespec_To_ticks" name="_Timespec_To_ticks">
+<area shape="rect" id="node1" title="Converts timespec to number of ticks." alt="" coords="467,42,617,69"/>
+<area shape="rect" id="node2" href="$group__POSIX__PTHREAD.html#ga95ae6f98dd2d639ec663abc60c0e04c5" title="Translate sched_param into SuperCore terms." alt="" coords="232,5,419,47"/>
+<area shape="rect" id="node4" href="$group__TimespecAPI.html#gab4f6fe9c48503e71a4382f6c05f404fe" title="Convert timespec to number of ticks." alt="" coords="233,71,418,98"/>
+<area shape="rect" id="node3" href="$pthreadsetschedparam_8c.html#a5863ca5ea1eaf973c408e2c3bbaff3a7" title=" " alt="" coords="5,13,184,39"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="rtems_gpio_initialize" name="rtems_gpio_initialize">
+<area shape="rect" id="node1" title="Initializes the GPIO API." alt="" coords="147,31,305,57"/>
+<area shape="rect" id="node2" href="$bsps_2arm_2raspberrypi_2include_2bsp_2i2c_8h.html#ad904ea27262283694b605280beaa9074" title="Setups the Raspberry Pi GPIO header to activate the BSC I2C bus." alt="" coords="5,5,99,32"/>
+<area shape="rect" id="node3" href="$arm_2raspberrypi_2spi_2spi_8c.html#abaa5b02fa144b553c3dd5241a4c712d9" title="Setups the Raspberry Pi SPI bus (located on the GPIO header) on the &quot;/dev/spi&quot; device file,..." alt="" coords="5,56,99,83"/>
+</map>

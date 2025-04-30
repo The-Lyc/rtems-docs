@@ -1,0 +1,5 @@
+<map id="rtems_cache_invalidate_entire_instruction" name="rtems_cache_invalidate_entire_instruction">
+<area shape="rect" id="node1" title="Invalidates the entire instruction cache." alt="" coords="239,39,416,80"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreCPUlm32Interrupt.html#gaa993b7752d5db306f85586ac400432ab" title="SPARC specific raw ISR installer." alt="" coords="17,5,179,47"/>
+<area shape="rect" id="node3" href="$sparc_2leon3_2start_2bspsmp_8c.html#a0e3f80270b8d6649ac803027b9669dc7" title=" " alt="" coords="5,71,191,112"/>
+</map>

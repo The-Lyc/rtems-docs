@@ -1,0 +1,15 @@
+<map id="MIPS" name="MIPS">
+<area shape="rect" id="node1" href="$group__RTEMSScoreCPUEpiphany.html" title="Epiphany Architecture Support." alt="" coords="535,21,617,46"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreCPUSPARCContext.html" title=" " alt="" coords="481,78,671,103"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreMIPSSet__idtcpu.html" title=" " alt="" coords="487,127,665,153"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreCPUARM.html" title="ARM Architecture Support." alt="" coords="550,177,602,202"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreCPUlm32Context.html" title=" " alt="" coords="493,227,659,267"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreCPU.html" title="Provides CPU architecture dependent services." alt="" coords="5,291,192,317"/>
+<area shape="rect" id="node10" title="MIPS Architecture Support." alt="" coords="241,291,296,317"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreMIPSSet__iregdef.html" title=" " alt="" coords="507,291,645,317"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreCPUMIPSBuild.html" title=" " alt="" coords="501,341,651,381"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreCPUV850CPUContext.html" title=" " alt="" coords="493,405,659,445"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreCPUBfinCPUContext.html" title=" " alt="" coords="493,469,659,509"/>
+<area shape="rect" id="node12" href="$group__RTEMSScoreCPUi386.html" title="i386 specific support." alt="" coords="497,541,655,566"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreCPUPowerPC.html" title="PowerPC Architecture Support." alt="" coords="537,590,615,615"/>
+</map>

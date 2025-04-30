@@ -1,0 +1,8 @@
+<map id="cpukit/libfs/src/rfs/rtems&#45;rfs&#45;rtems.h" name="cpukit/libfs/src/rfs/rtems&#45;rfs&#45;rtems.h">
+<area shape="rect" id="node1" title=" " alt="" coords="396,5,537,47"/>
+<area shape="rect" id="node2" href="$rtems-rfs-rtems-dev_8c.html" title="RTEMS RFS Device Interface." alt="" coords="5,95,173,136"/>
+<area shape="rect" id="node3" href="$rtems-rfs-rtems-dir_8c.html" title="RTEMS RFS Directory Access Routines." alt="" coords="198,95,359,136"/>
+<area shape="rect" id="node4" href="$rtems-rfs-rtems-file_8c.html" title="RTEMS RFS File Handlers." alt="" coords="384,95,549,136"/>
+<area shape="rect" id="node5" href="$rtems-rfs-rtems-utils_8c.html" title="Set of Utility Functions to Support RTEMS RFS on RTEMS." alt="" coords="573,95,747,136"/>
+<area shape="rect" id="node6" href="$rtems-rfs-rtems_8c.html" title="RTEMS File System Interface for RTEMS." alt="" coords="771,95,911,136"/>
+</map>

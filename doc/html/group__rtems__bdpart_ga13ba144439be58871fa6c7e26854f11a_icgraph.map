@@ -1,0 +1,4 @@
+<map id="rtems_bdpart_to_mbr_partition_type" name="rtems_bdpart_to_mbr_partition_type">
+<area shape="rect" id="node1" title="Converts the partition type in type to the MBR partition type." alt="" coords="207,5,369,47"/>
+<area shape="rect" id="node2" href="$group__rtems__bdpart.html#gabd436124677aaeaaf2ae4c9f2bb031d2" title="Prints the partition table partitions with count partitions to standard output." alt="" coords="5,13,159,39"/>
+</map>

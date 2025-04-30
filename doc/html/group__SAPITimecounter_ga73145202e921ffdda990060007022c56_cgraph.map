@@ -1,0 +1,4 @@
+<map id="rtems_timecounter_simple_downcounter_get" name="rtems_timecounter_simple_downcounter_get">
+<area shape="rect" id="node1" title="Gets the simple timecounter value mapped to its binary frequency domain for downcounters." alt="" coords="5,5,203,47"/>
+<area shape="rect" id="node2" href="$group__SAPITimecounter.html#ga1b96b117973dd33c364e433d022048d9" title="Maps a simple timecounter value into its binary frequency domain." alt="" coords="251,5,448,47"/>
+</map>

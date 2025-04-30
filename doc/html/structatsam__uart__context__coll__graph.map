@@ -1,0 +1,6 @@
+<map id="atsam_uart_context" name="atsam_uart_context">
+<area shape="rect" id="node1" title=" " alt="" coords="79,199,231,225"/>
+<area shape="rect" id="node2" href="$structrtems__termios__device__context.html" title="Termios device context." alt="" coords="5,95,172,136"/>
+<area shape="rect" id="node3" href="$structISR__lock__Control.html" title="ISR lock control." alt="" coords="23,5,154,32"/>
+<area shape="rect" id="node4" href="$structUart.html" title="Uart hardware registers." alt="" coords="197,102,247,129"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="TwihsDma" name="TwihsDma">
+<area shape="rect" id="node1" title="TWI driver structure. Holds the internal state of the driver." alt="" coords="206,273,295,300"/>
+<area shape="rect" id="node2" href="$struct__Xdmad.html" title=" " alt="" coords="165,184,240,211"/>
+<area shape="rect" id="node3" href="$struct__XdmadChannel.html" title=" " alt="" coords="5,95,133,121"/>
+<area shape="rect" id="node4" href="$structXdmac.html" title=" " alt="" coords="169,95,236,121"/>
+<area shape="rect" id="node5" href="$structXdmacChid.html" title="XdmacChid hardware registers." alt="" coords="155,5,251,32"/>
+<area shape="rect" id="node6" href="$struct__Twid.html" title="TWI driver structure. Holds the internal state of the driver." alt="" coords="269,184,328,211"/>
+<area shape="rect" id="node7" href="$structTwihs.html" title="Twihs hardware registers." alt="" coords="269,95,328,121"/>
+<area shape="rect" id="node8" href="$struct__Async.html" title="Asynchronous transfer descriptor." alt="" coords="353,95,421,121"/>
+</map>

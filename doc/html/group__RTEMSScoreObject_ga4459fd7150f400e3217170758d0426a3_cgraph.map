@@ -1,0 +1,14 @@
+<map id="_Objects_Active_count" name="_Objects_Active_count">
+<area shape="rect" id="node1" title="Returns the count of active objects." alt="" coords="5,161,175,188"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreChain.html#ga4daa9900dfef1496e71d41a5377ed645" title="Returns the node count of the chain." alt="" coords="223,81,457,108"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreObject.html#ga67f9cdae9423a81e46626f0e2cb9f305" title="Checks if the allocator is the owner of the object allocator mutex." alt="" coords="269,154,411,195"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreObject.html#gadf825a94fecd0945a4368e503e274bfd" title="Returns the maximum index of the specified object class." alt="" coords="249,219,431,261"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreChain.html#ga8b2c850d4d09d8db80d11e3199bce386" title="Returns pointer to immutable chain&#39;s first node." alt="" coords="507,5,683,32"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreChain.html#ga669010f14af06c71f06bcd0750e9c13b" title="Returns pointer to the immutable next node from this node." alt="" coords="505,56,685,83"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreChain.html#gaa2f09e6d639b1bc5a27451eb119b6e33" title="Returns pointer to immutable chain tail." alt="" coords="509,107,681,133"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreChain.html#gac08944db6f0428125d3b0d5a1c65b740" title="Returns pointer to immutable chain head." alt="" coords="733,5,916,32"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreAllocatorMutex.html#ga8698c4f98051e1c097ed32e38fbf786f" title=" " alt="" coords="517,158,673,199"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreAPIMutex.html#ga0a01be1d7b28416e738a2b97ca3f611d" title="Checks if the specified API mutex is owned by the executing thread." alt="" coords="743,165,906,192"/>
+<area shape="rect" id="node10" href="$group__PerCPU.html#ga294cfaf3cf50de03f1d9821d68b9c1bd" title="Returns the thread control block of the executing thread." alt="" coords="964,165,1139,192"/>
+<area shape="rect" id="node12" href="$group__RTEMSScoreObject.html#ga22cdf45f285840b7728b06197a7f4627" title="Returns the index portion of the ID." alt="" coords="520,227,671,253"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="_Scheduler_simple_SMP_Unblock" name="_Scheduler_simple_SMP_Unblock">
+<area shape="rect" id="node1" title="Unblocks a thread." alt="" coords="5,5,184,47"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreScheduler.html#ga9c62ef5a388b998fa041a269297be1fe" title="Gets the context of the scheduler." alt="" coords="232,13,411,39"/>
+</map>

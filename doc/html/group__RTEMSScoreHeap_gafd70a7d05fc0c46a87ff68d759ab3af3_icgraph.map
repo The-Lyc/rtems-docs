@@ -1,0 +1,23 @@
+<map id="_Heap_Block_of_alloc_area" name="_Heap_Block_of_alloc_area">
+<area shape="rect" id="node1" title="Returns the starting address of the block corresponding to the allocatable area." alt="" coords="1163,155,1363,181"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreHeap.html#ga7484f40d81ae26a7f5b3773a2dd006be" title="Extends the memory available for the heap." alt="" coords="962,43,1077,69"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreHeap.html#gab9a1cc19751295ceb71d1d495fa56b39" title="Frees the allocated memory area." alt="" coords="970,129,1069,156"/>
+<area shape="rect" id="node20" href="$group__RTEMSScoreHeap.html#ga89495f3d0b1206d098d2733d37c1610e" title="Resizes the block of the allocated memory area." alt="" coords="942,180,1097,207"/>
+<area shape="rect" id="node21" href="$group__RTEMSScoreHeap.html#ga8985839270f72039581fb4ddc44d433a" title="Returns the size of the allocatable memory area." alt="" coords="924,231,1115,257"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreProtHeap.html#gaeafd4fefda9100f0b9484f97f19d1093" title="Extends the protected heap." alt="" coords="693,9,876,36"/>
+<area shape="rect" id="node4" href="$rtems__heap__extend__via__sbrk_8c.html#aaab427c995cc0c8e362e991a7877b261" title="RTEMS Extend Heap via Sbrk." alt="" coords="432,5,645,32"/>
+<area shape="rect" id="node6" href="$group__ClassicRegionImpl.html#gac72484c748cac55eb42eccaa574dd6a7" title="Region_Free_segment." alt="" coords="698,71,871,97"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreWorkspace.html#gaa33a3d5dcc07a91d0a6ea948eef2f053" title="Frees memory to the workspace." alt="" coords="717,129,852,156"/>
+<area shape="rect" id="node18" href="$bestcomm__glue_8h.html#a793fd3a4bf27c35b7acb2a8268799d19" title=" " alt="" coords="723,180,847,207"/>
+<area shape="rect" id="node19" href="$group__bsp__stack.html#ga6c8e965e98b6bd63769dd9679dd9afa5" title="Task stack free function for CONFIGURE_TASK_STACK_DEALLOCATOR." alt="" coords="725,231,845,257"/>
+<area shape="rect" id="node7" href="$group__ClassicRegion.html#ga1332adb33a1efe03e31a656a3cf5840c" title="RTEMS Return Region Segment." alt="" coords="461,57,616,98"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreObject.html#ga53e22e0d0d91b0f5159aff84a1c40ef3" title="Free the objects block with the specified index." alt="" coords="455,122,622,163"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreObject.html#ga9bcaf0821a56159d15dbb69f97587aba" title="Removes object with a string name from its namespace." alt="" coords="457,187,620,229"/>
+<area shape="rect" id="node16" href="$group__POSIXShmPrivate.html#ga8fa5e0cd45080a255de7fa174fa6fa8c" title="object_delete operation for shm objects stored in RTEMS Workspace." alt="" coords="438,266,639,307"/>
+<area shape="rect" id="node11" href="$mqueueimpl_8h.html#a900ca80a04d42f677e02783ecbec04b5" title="POSIX Message Queue Remove from Namespace." alt="" coords="177,109,357,150"/>
+<area shape="rect" id="node13" href="$posix_2semaphoreimpl_8h.html#a076e453665acee61e02c5427c2bb2e30" title="POSIX Semaphore Namespace Remove." alt="" coords="151,174,384,215"/>
+<area shape="rect" id="node15" href="$shmunlink_8c.html#a4037e49e9537e24edd610bd1acf090da" title=" " alt="" coords="219,240,316,267"/>
+<area shape="rect" id="node12" href="$mqueueunlink_8c.html#accd8c5ee36e60d990963e1d544ef4140" title=" " alt="" coords="9,116,99,143"/>
+<area shape="rect" id="node14" href="$semunlink_8c.html#a776256d1a473906f8b7490689bfcb75c" title=" " alt="" coords="5,181,103,208"/>
+<area shape="rect" id="node17" href="$group__POSIXShmPrivate.html#gaa01bbb91f3e013bb50e38c0773fb57e1" title="object_resize operation for shm objects stored in RTEMS Workspace." alt="" coords="168,291,367,333"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="rtems_media_append_minor" name="rtems_media_append_minor">
+<area shape="rect" id="node1" title="Appends the minor number to the path resulting in &quot;path&#45;minor&quot;." alt="" coords="5,23,168,65"/>
+<area shape="rect" id="node2" href="$if__gfe_2rtemscompat__defs_8h.html#a357a42eb6494ea592e9c3f96c55cebe2" title=" " alt="" coords="216,5,288,32"/>
+<area shape="rect" id="node3" href="$lib_8c.html#ace2e8f8b5db1119196eee36974d8b536" title=" " alt="" coords="223,56,281,83"/>
+</map>

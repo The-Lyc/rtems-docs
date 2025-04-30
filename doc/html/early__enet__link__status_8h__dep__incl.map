@@ -1,0 +1,12 @@
+<map id="bsps/powerpc/beatnik/include/bsp/early_enet_link_status.h" name="bsps/powerpc/beatnik/include/bsp/early_enet_link_status.h">
+<area shape="rect" id="node1" title=" " alt="" coords="463,5,637,61"/>
+<area shape="rect" id="node2" href="$if__em__pub_8h.html" title=" " alt="" coords="135,117,319,158"/>
+<area shape="rect" id="node3" href="$if__em__rtems_8c.html" title=" " alt="" coords="5,213,191,255"/>
+<area shape="rect" id="node4" href="$bsp__attach_8c.html" title=" " alt="" coords="215,213,402,255"/>
+<area shape="rect" id="node5" href="$if__gfe__pub_8h.html" title=" " alt="" coords="394,117,578,158"/>
+<area shape="rect" id="node6" href="$if__gfe__rtems_8c.html" title=" " alt="" coords="427,213,612,255"/>
+<area shape="rect" id="node7" href="$if__mve__pub_8h.html" title=" " alt="" coords="653,117,845,158"/>
+<area shape="rect" id="node8" href="$mv643xx__eth_8c.html" title=" " alt="" coords="889,213,1089,255"/>
+<area shape="rect" id="node10" href="$early__link__status_8c.html" title=" " alt="" coords="919,109,1087,165"/>
+<area shape="rect" id="node9" href="$mve__smallbuf__tst_8c.html" title=" " alt="" coords="636,213,864,255"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="_Objects_Activate_unlimited" name="_Objects_Activate_unlimited">
+<area shape="rect" id="node1" title="Activate the object." alt="" coords="5,31,213,57"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreObject.html#ga22cdf45f285840b7728b06197a7f4627" title="Returns the index portion of the ID." alt="" coords="278,5,429,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreObject.html#gaba65e2c96c6fde53bea31b45152fb79d" title="Checks if the automatic object extension (unlimited objects) is enabled." alt="" coords="261,56,445,83"/>
+</map>

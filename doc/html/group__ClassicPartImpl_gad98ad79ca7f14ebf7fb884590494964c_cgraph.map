@@ -1,0 +1,6 @@
+<map id="_Partition_Free_buffer" name="_Partition_Free_buffer">
+<area shape="rect" id="node1" title="Frees the_buffer to the_partition." alt="" coords="5,42,168,69"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreChain.html#gaa7011c6fe160c457a0d100e41ec3fffe" title="Appends a node (unprotected)." alt="" coords="216,42,423,69"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreChain.html#gad7a790f247b3ace45f039c60c18f999f" title="Checks if the node is off chain." alt="" coords="471,5,617,47"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreChain.html#ga06f3e2dd6d64411f0565e3b483e53673" title="Returns pointer to chain tail." alt="" coords="497,71,591,98"/>
+</map>

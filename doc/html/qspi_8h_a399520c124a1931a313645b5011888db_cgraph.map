@@ -1,0 +1,7 @@
+<map id="QSPI_EnableMemAccess" name="QSPI_EnableMemAccess">
+<area shape="rect" id="node1" title="Sends an instruction over QSPI and configures other related address like Addr , Frame and synchronise..." alt="" coords="5,81,187,108"/>
+<area shape="rect" id="node2" href="$qspi_8c.html#a15a99043cebbb701093d11a15f78a419" title="Reads the Instruction frame of QSPI." alt="" coords="237,5,383,32"/>
+<area shape="rect" id="node3" href="$qspi_8c.html#a83fd9cffbace976ad6222750adc942ef" title="Configures QSPI scrambling with a given Key." alt="" coords="235,56,385,83"/>
+<area shape="rect" id="node4" href="$qspi_8c.html#afde5ea34d85fcecb4a538250325d3c6c" title="Configures instruction register with a given command for QSPI." alt="" coords="258,107,362,133"/>
+<area shape="rect" id="node5" href="$qspi_8c.html#ab6228d04866fe8947d7fafd5d04b65cf" title="Configures instruction frame register of QSPI." alt="" coords="237,157,383,184"/>
+</map>

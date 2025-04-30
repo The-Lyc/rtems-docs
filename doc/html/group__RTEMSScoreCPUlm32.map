@@ -1,0 +1,8 @@
+<map id="LatticeMicro32 (lm32)" name="LatticeMicro32 (lm32)">
+<area shape="rect" id="node1" title="LatticeMicro32 (lm32) Architecture Support." alt="" coords="240,95,405,121"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreCPUlm32Context.html" title=" " alt="" coords="461,5,628,45"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreCPUlm32ASM.html" title="LatticeMicro32 (lm32) Assembler Support." alt="" coords="453,70,636,95"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreCPUlm32CPUEndian.html" title="CPUEndian." alt="" coords="498,119,591,145"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreCPUlm32Interrupt.html" title=" " alt="" coords="459,169,631,209"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreCPU.html" title="Provides CPU architecture dependent services." alt="" coords="5,95,192,121"/>
+</map>

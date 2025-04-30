@@ -1,0 +1,9 @@
+<map id="bsps/powerpc/include/mpc5xx.h" name="bsps/powerpc/include/mpc5xx.h">
+<area shape="rect" id="node1" title=" " alt="" coords="455,5,618,47"/>
+<area shape="rect" id="node2" href="$bsps_2powerpc_2ss555_2clock_2clock_8c.html" title=" " alt="" coords="5,95,159,136"/>
+<area shape="rect" id="node3" href="$ss555_2clock_2p__clock_8c.html" title=" " alt="" coords="183,95,336,136"/>
+<area shape="rect" id="node4" href="$ss555_2dev_2console-generic_8c.html" title=" " alt="" coords="361,95,529,136"/>
+<area shape="rect" id="node5" href="$bsps_2powerpc_2ss555_2include_2bsp_8h.html" title="Global BSP definitions." alt="" coords="553,95,707,136"/>
+<area shape="rect" id="node6" href="$bsps_2powerpc_2ss555_2start_2irq_8c.html" title=" " alt="" coords="731,95,884,136"/>
+<area shape="rect" id="node7" href="$powerpc_2ss555_2start_2irq__init_8c.html" title=" " alt="" coords="908,95,1061,136"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="SciSetAttributes" name="SciSetAttributes">
+<area shape="rect" id="node1" title=" " alt="" coords="5,13,132,39"/>
+<area shape="rect" id="node2" href="$termiostypes_8h.html#aa02f7f2f749c9ada10f68a33ddfdd07b" title="Converts the baud flags to an integral baud value." alt="" coords="180,5,336,47"/>
+<area shape="rect" id="node3" href="$group__RTEMSAPIAssociativity.html#ga3aad4fe900c6a8d2cf4c08e4ec1521d4" title="RTEMS Associate Local by Remote." alt="" coords="384,5,549,47"/>
+<area shape="rect" id="node4" href="$group__RTEMSAPIAssociativity.html#gace083256448a2a428ede7396f2e8fb67" title="RTEMS Associate Pointer by Remote." alt="" coords="597,5,749,47"/>
+</map>

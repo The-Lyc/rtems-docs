@@ -1,0 +1,9 @@
+<map id="Scheduler Handler" name="Scheduler Handler">
+<area shape="rect" id="node1" href="$group__RTEMSScoreSchedulerDPS.html" title="Deterministic Priority Scheduler." alt="" coords="345,5,506,45"/>
+<area shape="rect" id="node2" title=" " alt="" coords="143,119,284,145"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreSchedulerSimple.html" title="Simple Priority Scheduler." alt="" coords="332,70,519,95"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreSchedulerCBS.html" title="CBS Scheduler." alt="" coords="367,119,483,145"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreSchedulerSMP.html" title="SMP Scheduler." alt="" coords="366,169,485,194"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreSchedulerEDF.html" title="EDF Scheduler." alt="" coords="367,218,483,243"/>
+<area shape="rect" id="node6" href="$group__RTEMSScore.html" title="Provides services for all APIs." alt="" coords="5,119,95,145"/>
+</map>

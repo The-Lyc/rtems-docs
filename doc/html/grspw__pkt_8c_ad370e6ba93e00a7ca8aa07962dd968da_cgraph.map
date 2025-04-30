@@ -1,0 +1,8 @@
+<map id="grspw_dma_stop" name="grspw_dma_stop">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,137,108"/>
+<area shape="rect" id="node2" href="$grspw__pkt_8c.html#a470452fcc5cc067cbeefbc4c598f0bcf" title=" " alt="" coords="192,31,373,57"/>
+<area shape="rect" id="node5" href="$group__ClassicSem.html#gae8c1795a85f982ceea89e7faf7d68e91" title="RTEMS Obtain Semaphore." alt="" coords="189,81,377,108"/>
+<area shape="rect" id="node6" href="$group__ClassicSem.html#gae493f08a92f963ecddc7889181808402" title="RTEMS Semaphore Release." alt="" coords="185,132,380,159"/>
+<area shape="rect" id="node3" href="$grspw__pkt_8c.html#aeeb0f193c5deabac9733025d1a93b4e1" title=" " alt="" coords="454,5,613,32"/>
+<area shape="rect" id="node4" href="$grspw__pkt_8c.html#a558f0f44c0c8c029073ffcdcf565e0d9" title=" " alt="" coords="428,56,639,83"/>
+</map>

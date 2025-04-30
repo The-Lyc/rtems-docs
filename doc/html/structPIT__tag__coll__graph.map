@@ -1,0 +1,7 @@
+<map id="PIT_tag" name="PIT_tag">
+<area shape="rect" id="node1" title=" " alt="" coords="253,199,323,225"/>
+<area shape="rect" id="node2" href="$structPIT__tag_1_1PIT__CHANNEL__tag.html" title=" " alt="" coords="87,109,283,136"/>
+<area shape="rect" id="node3" href="$unionPIT__tag_1_1PIT__CHANNEL__tag_1_1PIT__TCTRL__tag.html" title=" " alt="" coords="5,5,173,47"/>
+<area shape="rect" id="node4" href="$unionPIT__tag_1_1PIT__CHANNEL__tag_1_1PIT__TFLG__tag.html" title=" " alt="" coords="197,5,365,47"/>
+<area shape="rect" id="node5" href="$unionPIT__tag_1_1PIT__MCR__tag.html" title=" " alt="" coords="308,109,471,136"/>
+</map>

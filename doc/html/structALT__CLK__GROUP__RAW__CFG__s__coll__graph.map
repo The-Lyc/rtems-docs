@@ -1,0 +1,10 @@
+<map id="ALT_CLK_GROUP_RAW_CFG_s" name="ALT_CLK_GROUP_RAW_CFG_s">
+<area shape="rect" id="node1" title=" " alt="" coords="624,132,840,159"/>
+<area shape="rect" id="node2" href="$unionALT__CLK__GROUP__RAW__CFG__s_1_1ALT__CLK__GROUP__RAW__CFG__u.html" title=" " alt="" coords="292,125,531,166"/>
+<area shape="rect" id="node3" href="$structALT__CLKMGR__PERPLL__s.html" title=" " alt="" coords="22,5,198,32"/>
+<area shape="rect" id="node4" href="$structALT__CLKMGR__PERPLL__raw__s.html" title=" " alt="" coords="7,56,213,83"/>
+<area shape="rect" id="node5" href="$structALT__CLKMGR__SDRPLL__s.html" title=" " alt="" coords="21,107,199,133"/>
+<area shape="rect" id="node6" href="$structALT__CLKMGR__SDRPLL__raw__s.html" title=" " alt="" coords="5,157,215,184"/>
+<area shape="rect" id="node7" href="$structALT__CLKMGR__MAINPLL__raw__s.html" title=" " alt="" coords="24,209,196,250"/>
+<area shape="rect" id="node8" href="$structALT__CLKMGR__MAINPLL__s.html" title=" " alt="" coords="17,275,203,301"/>
+</map>

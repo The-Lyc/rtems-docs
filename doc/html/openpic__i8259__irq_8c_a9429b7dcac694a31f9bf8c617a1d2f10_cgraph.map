@@ -1,0 +1,6 @@
+<map id="BSP_enable_irq_at_pic" name="BSP_enable_irq_at_pic">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,173,57"/>
+<area shape="rect" id="node2" href="$group__mips__i8259__irq.html#ga0504c1761cd7a8b649a5794ac4f15afe" title="function to enable a particular irq at 8259 level." alt="" coords="221,5,413,32"/>
+<area shape="rect" id="node3" href="$openpic_8h.html#a9dd0dace36b5224144074dcee5425032" title=" " alt="" coords="243,56,391,83"/>
+<area shape="rect" id="node4" href="$intrbody_8c.html#a382fc4b29e2c3c681a14c6f306b2a2ad" title=" " alt="" coords="461,56,639,83"/>
+</map>

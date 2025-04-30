@@ -1,0 +1,6 @@
+<map id="console_close" name="console_close">
+<area shape="rect" id="node1" title="Console close entry point." alt="" coords="5,31,119,57"/>
+<area shape="rect" id="node2" href="$group__ClassicFatal.html#gacadb95082c08823f56d908c248657b45" title="Invokes the internal error handler with a source of INTERNAL_ERROR_RTEMS_API and is internal set to f..." alt="" coords="167,5,365,32"/>
+<area shape="rect" id="node4" href="$group__Termios.html#ga5df519920fbd677ea34eb11e2f332d88" title=" " alt="" coords="187,56,345,83"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreIntErr.html#ga5102f2f0c5939020aa3b11d67afa84eb" title="Initiates system termination." alt="" coords="413,5,508,32"/>
+</map>

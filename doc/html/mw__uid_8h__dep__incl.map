@@ -1,0 +1,11 @@
+<map id="cpukit/include/rtems/mw_uid.h" name="cpukit/include/rtems/mw_uid.h">
+<area shape="rect" id="node1" title="Input Devices for MicroWindows." alt="" coords="379,5,533,47"/>
+<area shape="rect" id="node2" href="$kbd__parser_8c.html" title=" " alt="" coords="65,95,247,136"/>
+<area shape="rect" id="node3" href="$ps2__mouse_8c.html" title=" " alt="" coords="5,184,187,225"/>
+<area shape="rect" id="node4" href="$mouse__parser_8h.html" title="Initialize Mouse Parser Engine." alt="" coords="321,95,476,136"/>
+<area shape="rect" id="node6" href="$mouse__parser_8c.html" title="Opens a Serial Port Directly, and Interprets Serial Data." alt="" coords="602,184,763,225"/>
+<area shape="rect" id="node8" href="$mw__print_8c.html" title="MicroWindows Print." alt="" coords="551,95,710,136"/>
+<area shape="rect" id="node9" href="$mw__uid_8c.html" title="MicroWindows UID." alt="" coords="734,95,893,136"/>
+<area shape="rect" id="node5" href="$console__control_8c.html" title=" " alt="" coords="211,184,392,225"/>
+<area shape="rect" id="node7" href="$serial__mouse_8c.html" title="Serial Mouse Driver." alt="" coords="417,184,578,225"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="_Scheduler_Set_affinity" name="_Scheduler_Set_affinity">
+<area shape="rect" id="node1" title="Sets the thread&#39;s scheduler&#39;s affinity." alt="" coords="228,5,403,32"/>
+<area shape="rect" id="node2" href="$group__ClassicTasks.html#ga33444117a6771a55307452862a1ca944" title="Sets the processor affinity set of a task." alt="" coords="5,5,180,32"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="_Scheduler_priority_Thread_get_node" name="_Scheduler_priority_Thread_get_node">
+<area shape="rect" id="node1" title="Gets the scheduler node of the thread." alt="" coords="5,23,152,65"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreThread.html#ga080a177afc4fc254a1081485cd89f75d" title="Gets the scheduler&#39;s home node." alt="" coords="200,23,373,65"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreChain.html#ga89304b2d294b98f4909dcb6e68d7ec82" title="Returns pointer to chain&#39;s first node." alt="" coords="437,5,539,32"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreChain.html#ga67ffad0c14d402473760ec6bb8e93bcc" title="Checks if the chain is empty." alt="" coords="421,56,555,83"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreChain.html#gac08944db6f0428125d3b0d5a1c65b740" title="Returns pointer to immutable chain head." alt="" coords="827,31,1009,57"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreChain.html#ga8b2c850d4d09d8db80d11e3199bce386" title="Returns pointer to immutable chain&#39;s first node." alt="" coords="603,56,779,83"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreChain.html#gaa2f09e6d639b1bc5a27451eb119b6e33" title="Returns pointer to immutable chain tail." alt="" coords="605,107,777,133"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="rtems_blkdev_print_stats" name="rtems_blkdev_print_stats">
+<area shape="rect" id="node1" title="Prints the block device statistics." alt="" coords="5,5,153,47"/>
+<area shape="rect" id="node2" href="$print_8h.html#a9d7cd7d1a2242a0d33f403ecec3f9baa" title="Print to the kernel plugin handler. This has to be a macro because there is no vprint version of the ..." alt="" coords="201,13,304,39"/>
+</map>

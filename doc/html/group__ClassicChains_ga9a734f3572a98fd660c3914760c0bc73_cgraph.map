@@ -1,0 +1,8 @@
+<map id="rtems_chain_has_only_one_node" name="rtems_chain_has_only_one_node">
+<area shape="rect" id="node1" title="Does this chain have only one node." alt="" coords="5,23,172,65"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreChain.html#ga27385f45cfb88979c37a06ba29d5275f" title="Checks if this chain has only one node." alt="" coords="220,31,423,57"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreChain.html#ga8b2c850d4d09d8db80d11e3199bce386" title="Returns pointer to immutable chain&#39;s first node." alt="" coords="471,5,647,32"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreChain.html#ga15a8beccb6581211397b46fe4c79cf66" title="Returns pointer to immutable chain&#39;s last node." alt="" coords="471,56,646,83"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreChain.html#gac08944db6f0428125d3b0d5a1c65b740" title="Returns pointer to immutable chain head." alt="" coords="695,5,877,32"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreChain.html#gaa2f09e6d639b1bc5a27451eb119b6e33" title="Returns pointer to immutable chain tail." alt="" coords="700,56,872,83"/>
+</map>

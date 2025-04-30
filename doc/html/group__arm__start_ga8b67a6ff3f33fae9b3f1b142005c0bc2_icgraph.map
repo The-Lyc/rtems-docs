@@ -1,0 +1,5 @@
+<map id="_start" name="_start">
+<area shape="rect" id="node1" title="System start entry." alt="" coords="252,31,311,57"/>
+<area shape="rect" id="node2" href="$arm_2altera-cyclone-v_2start_2bspsmp_8c.html#a82297a5939469e63dfe6f7fdd390d22a" title=" " alt="" coords="5,5,204,32"/>
+<area shape="rect" id="node3" href="$group__SuperCoreTimeStamp.html#gadc45a1a25f125cdc3c1dcdb4cd86b4cc" title="Subtracts two timestamps." alt="" coords="23,56,187,83"/>
+</map>

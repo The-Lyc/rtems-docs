@@ -1,0 +1,15 @@
+<map id="cpukit/score/src/threadstackallocate.c" name="cpukit/score/src/threadstackallocate.c">
+<area shape="rect" id="node1" title="Stack Allocate Helper." alt="" coords="418,5,685,32"/>
+<area shape="rect" id="node2" href="$stackimpl_8h.html" title="Inlined Routines from the Stack Handler." alt="" coords="377,80,555,107"/>
+<area shape="rect" id="node13" title=" " alt="" coords="579,80,694,107"/>
+<area shape="rect" id="node3" href="$cpukit_2include_2rtems_2score_2stack_8h.html" title="Information About the Thread Stack Handler." alt="" coords="209,155,360,181"/>
+<area shape="rect" id="node9" href="$context_8h.html" title="Information About Each Thread&#39;s Context." alt="" coords="384,155,548,181"/>
+<area shape="rect" id="node11" href="$tls_8h.html" title="Thread&#45;Local Storage (TLS)" alt="" coords="573,155,703,181"/>
+<area shape="rect" id="node4" href="$basedefs_8h.html" title="Basic Definitions." alt="" coords="197,229,372,256"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,304,172,331"/>
+<area shape="rect" id="node6" title=" " alt="" coords="197,304,271,331"/>
+<area shape="rect" id="node7" title=" " alt="" coords="295,304,378,331"/>
+<area shape="rect" id="node8" title=" " alt="" coords="403,304,473,331"/>
+<area shape="rect" id="node10" title=" " alt="" coords="418,229,557,256"/>
+<area shape="rect" id="node12" href="$string_8h.html" title=" " alt="" coords="603,229,673,256"/>
+</map>

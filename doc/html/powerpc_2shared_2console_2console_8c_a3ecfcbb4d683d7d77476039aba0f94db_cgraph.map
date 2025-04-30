@@ -1,0 +1,8 @@
+<map id="console_control" name="console_control">
+<area shape="rect" id="node1" title="Console IO control entry point." alt="" coords="5,56,129,83"/>
+<area shape="rect" id="node2" href="$powerpc_2include_2bsp_2uart_8h.html#afb6277196b1bc1ec095ba621d8a694ec" title=" " alt="" coords="177,56,352,83"/>
+<area shape="rect" id="node5" href="$powerpc_2include_2bsp_2uart_8h.html#a9d924be1cf40a6d6aeda7a2ea7b1b0f2" title=" " alt="" coords="178,5,351,32"/>
+<area shape="rect" id="node6" href="$group__Termios.html#ga73583d3b1a0974cdebef828e25e8ba3a" title=" " alt="" coords="189,107,341,133"/>
+<area shape="rect" id="node3" href="$intrbody_8c.html#a382fc4b29e2c3c681a14c6f306b2a2ad" title=" " alt="" coords="400,5,577,32"/>
+<area shape="rect" id="node4" href="$intrbody_8c.html#a33b26f833e238ecdeddb2f4b8fda18d6" title=" " alt="" coords="401,56,576,83"/>
+</map>

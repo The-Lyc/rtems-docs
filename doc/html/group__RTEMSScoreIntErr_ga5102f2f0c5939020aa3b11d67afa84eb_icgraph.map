@@ -1,0 +1,48 @@
+<map id="_Terminate" name="_Terminate">
+<area shape="rect" id="node1" title="Initiates system termination." alt="" coords="969,851,1064,877"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreCPUARM.html#gaa92701994ad8e3b646667a3e92935ddf" title="Initializes the CPU context." alt="" coords="733,345,910,372"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreIntErr.html#ga092fa4be4bda2528754b494e901d3d2a" title="Terminates the system with an INTERNAL_ERROR_CORE fatal source and the specified core error code." alt="" coords="763,396,880,423"/>
+<area shape="rect" id="node21" href="$group__POSIXAPI.html#ga32fb275aa51c0b00afe995ed45ec7cd3" title="POSIX API Fatal error." alt="" coords="749,763,893,789"/>
+<area shape="rect" id="node22" href="$schedulerdefaultpinunpin_8c.html#a1b2d7d5c6efd6c9b6c948a52e99b7bce" title=" " alt="" coords="748,814,895,855"/>
+<area shape="rect" id="node23" href="$group__ClassicFatal.html#ga53fa9338246642e0d931f61314c6609e" title="Terminates the system." alt="" coords="773,880,870,907"/>
+<area shape="rect" id="node25" href="$group__ClassicFatal.html#gacadb95082c08823f56d908c248657b45" title="Invokes the internal error handler with a source of INTERNAL_ERROR_RTEMS_API and is internal set to f..." alt="" coords="722,1116,921,1143"/>
+<area shape="rect" id="node45" href="$panic_8c.html#ac1c1849849bcda9b31175e94c458023d" title=" " alt="" coords="770,1167,873,1193"/>
+<area shape="rect" id="node46" href="$exshutdown_8c.html#a87466ee132d6fa4d828364f9425d50ef" title="Shutdown the RTEMS environment." alt="" coords="721,1217,921,1244"/>
+<area shape="rect" id="node4" href="$arc4random__getentropy__fail_8c.html#aa3af7859f86b3d95760f9d17799e7a34" title=" " alt="" coords="457,5,670,32"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreMPCI.html#ga66e87499b1e505e2e38411619c88adce" title="Obtains a packet by invoking the user provided MPCI get packet callout." alt="" coords="492,56,635,83"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreMPCI.html#gae202814c7151db9baf145786aa4ef068" title="Performs requested action from another node." alt="" coords="475,107,651,149"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreMPCI.html#gaf232dadc9160e4b1c733906d3a6d1f57" title="Receives and processes all packets." alt="" coords="479,173,648,200"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreObjectMP.html#gaee5f1bac6bea600e8f437c6cb0458f97" title="Allocates a global object control block and places it in the specified information table." alt="" coords="481,225,646,266"/>
+<area shape="rect" id="node14" href="$group__RTEMSScoreObjectMP.html#ga8eeb67c75c0df3e90a12619b9efa8917" title="Intializes the global object node number used in the ID field of all objects." alt="" coords="482,290,645,331"/>
+<area shape="rect" id="node15" href="$group__POSIX__PTHREAD.html#ga1695c0a5d29b5bb9c805a8a58b943214" title="System initialization handler to create the first user POSIX thread." alt="" coords="468,355,659,397"/>
+<area shape="rect" id="node16" href="$group__ClassicTasksImpl.html#gac2c1ab4bf7c8768a39084976a8d9f669" title="System initialization handler to create and start the first user task." alt="" coords="474,421,653,462"/>
+<area shape="rect" id="node17" href="$group__RTEMSScoreThread.html#ga439268e164b067a866d2901085c8c672" title="Initializes thread handler." alt="" coords="453,487,673,513"/>
+<area shape="rect" id="node18" href="$group__RTEMSScoreThreadQueue.html#ga673681292c0f047b02c6dbb6819e0ad7" title="Results in an INTERNAL_ERROR_THREAD_QUEUE_DEADLOCK fatal error." alt="" coords="469,538,658,579"/>
+<area shape="rect" id="node19" href="$group__RTEMSScoreWorkspace.html#gac10ac71b406698cb4441aff69a80c847" title="Initilizes the workspace handler." alt="" coords="484,603,643,645"/>
+<area shape="rect" id="node20" href="$group__LibIO.html#ga0d879282ab3cfd934178d8ee86de03fe" title=" " alt="" coords="476,669,651,696"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreMPCI.html#gaa1dfe78c5adee4604729d791941634a6" title="Obtains an internal thread." alt="" coords="229,49,405,90"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreMPCI.html#ga63356f90abac093ad7d8817cedf1da28" title="Performs a process on another node." alt="" coords="5,49,181,90"/>
+<area shape="rect" id="node11" href="$group__ClassicMessageQueue.html#gaea76fd325e8a84810f2be119448a307d" title="RTEMS Create Message Queue." alt="" coords="231,195,404,237"/>
+<area shape="rect" id="node13" href="$group__ClassicPart.html#gaae1e45358170b1de610acdae7f4a8148" title="RTEMS Partition Create." alt="" coords="232,261,403,288"/>
+<area shape="rect" id="node12" href="$grspw__pkt_8c.html#a332e9d8281beb4acd9c2451488def344" title=" " alt="" coords="19,203,168,229"/>
+<area shape="rect" id="node24" href="$group__ppc__exc.html#ga638134c589f6bde05b3765da1eb31c02" title="Default global exception handler." alt="" coords="484,720,643,747"/>
+<area shape="rect" id="node26" href="$ata__util_8c.html#a8277cf2c2bb5aedf88a0347158bd8cce" title=" " alt="" coords="485,771,641,813"/>
+<area shape="rect" id="node28" href="$m68k_2mvme167_2console_2console_8c.html#a21ec6cbad3530d02dcfe5298f37d1663" title=" " alt="" coords="492,837,635,864"/>
+<area shape="rect" id="node30" href="$sh_2shared_2console_2console_8c.html#a4efabb094608f8155b1a679e03f2eafc" title="Console close entry point." alt="" coords="507,888,620,915"/>
+<area shape="rect" id="node31" href="$sh_2shared_2console_2console_8c.html#a3ecfcbb4d683d7d77476039aba0f94db" title="Console IO control entry point." alt="" coords="501,939,625,965"/>
+<area shape="rect" id="node32" href="$group__RTEMSBSPsSPARCERC32.html#ga33017a80c39bdce884e201734ceb023d" title=" " alt="" coords="460,989,667,1016"/>
+<area shape="rect" id="node33" href="$sh_2shared_2console_2console_8c.html#a3f4320ff384009c3bdfa6ec4f1b79501" title="Console open entry point." alt="" coords="508,1040,619,1067"/>
+<area shape="rect" id="node34" href="$sh_2shared_2console_2console_8c.html#affd7cbaa034887f37032640f39c74b0d" title="Console read entry point." alt="" coords="509,1091,617,1117"/>
+<area shape="rect" id="node35" href="$sh_2shared_2console_2console_8c.html#a211cf468eb7aec89e37bc784a62753ce" title="Console write entry point." alt="" coords="507,1141,619,1168"/>
+<area shape="rect" id="node36" href="$drvmgr_8c.html#a04dbf24356e9cde06b55d9390351f3cd" title=" " alt="" coords="495,1192,632,1219"/>
+<area shape="rect" id="node37" href="$drvmgr_8c.html#aadea0031d80deec396921e300874fe5a" title=" " alt="" coords="494,1243,633,1269"/>
+<area shape="rect" id="node38" href="$nios2_2nios2__iss_2start_2main_8c.html#a6381598f44b7afdb4ccaecc94d16a0d5" title=" " alt="" coords="536,1293,591,1320"/>
+<area shape="rect" id="node39" href="$au1x00_8h.html#abd991526c499a8be8bfb30d88398d328" title=" " alt="" coords="498,1344,629,1371"/>
+<area shape="rect" id="node40" href="$ns16550_8c.html#aef1853592fbc04663b030e1fd810c0d8" title=" " alt="" coords="511,1395,616,1421"/>
+<area shape="rect" id="node41" href="$group__LibIO.html#gad5344541746c6e86ef313e926ac2d7af" title="Base File System Initialization." alt="" coords="464,1445,663,1472"/>
+<area shape="rect" id="node42" href="$mon-monitor_8c.html#ad56f7b51ba14512ebe41fcd0e16d3ad0" title=" " alt="" coords="468,1496,659,1523"/>
+<area shape="rect" id="node43" href="$shmdr-getpkt_8c.html#a8495012e5f056e632c1f2a562f534c43" title=" " alt="" coords="498,1547,629,1573"/>
+<area shape="rect" id="node44" href="$shmdr-send_8c.html#a3677117b4ee8fb82f89338879e754fa5" title=" " alt="" coords="493,1597,633,1624"/>
+<area shape="rect" id="node27" href="$ata__util_8c.html#a10c98cc88c47ff50f12cca20fe339438" title=" " alt="" coords="243,779,392,805"/>
+<area shape="rect" id="node29" href="$m68k_2mvme167_2console_2console_8c.html#a70752aa0c5e20c8334b8b02a31a06de3" title=" " alt="" coords="251,837,383,864"/>
+</map>

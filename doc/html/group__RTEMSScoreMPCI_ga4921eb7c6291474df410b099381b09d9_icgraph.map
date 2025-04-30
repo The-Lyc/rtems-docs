@@ -1,0 +1,4 @@
+<map id="_MPCI_Return_packet" name="_MPCI_Return_packet">
+<area shape="rect" id="node1" title="Deallocates a packet." alt="" coords="229,13,392,39"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreMPCI.html#gae202814c7151db9baf145786aa4ef068" title="Performs requested action from another node." alt="" coords="5,5,181,47"/>
+</map>

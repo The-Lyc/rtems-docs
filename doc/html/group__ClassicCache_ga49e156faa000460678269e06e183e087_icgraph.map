@@ -1,0 +1,5 @@
+<map id="rtems_cache_coherent_add_area" name="rtems_cache_coherent_add_area">
+<area shape="rect" id="node1" title="Adds a cache coherent memory area to the cache coherent allocator." alt="" coords="239,5,408,47"/>
+<area shape="rect" id="node2" href="$group__RTEMSBSPsSharedStartup.html#ga424dcf8c1e22bf623eb1210a0aa2a3e9" title=" " alt="" coords="108,13,191,39"/>
+<area shape="rect" id="node3" href="$nios2_2nios2__iss_2start_2main_8c.html#a6381598f44b7afdb4ccaecc94d16a0d5" title=" " alt="" coords="5,13,60,39"/>
+</map>

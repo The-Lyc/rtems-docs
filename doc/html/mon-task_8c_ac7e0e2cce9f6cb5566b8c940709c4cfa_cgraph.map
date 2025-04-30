@@ -1,0 +1,6 @@
+<map id="rtems_monitor_task_canonical" name="rtems_monitor_task_canonical">
+<area shape="rect" id="node1" title=" " alt="" coords="5,49,159,90"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreObject.html#ga0c16ba5de651203f0eb5ce0d51ed8a7e" title="Converts the specified object name to a text representation." alt="" coords="221,5,409,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreThread.html#ga590ea63fba22ecee184711c5d2a98227" title="Gets the name of the thread." alt="" coords="241,56,389,83"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreThread.html#ga0071d4e11d2d68b2e4c43ffe2108e7f5" title="Gets the home scheduler of the thread." alt="" coords="207,107,424,133"/>
+</map>

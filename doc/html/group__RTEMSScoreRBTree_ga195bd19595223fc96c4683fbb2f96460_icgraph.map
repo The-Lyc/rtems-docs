@@ -1,0 +1,29 @@
+<map id="_RBTree_Root_reference" name="_RBTree_Root_reference">
+<area shape="rect" id="node1" title="Returns a reference to the root pointer of the red&#45;black tree." alt="" coords="941,341,1121,367"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreRBTree.html#gaaeb02c9e8cc4f09cf5788dc1050487f9" title="Inserts the node into the red&#45;black tree." alt="" coords="727,150,888,177"/>
+<area shape="rect" id="node15" href="$group__RTEMSScoreRBTree.html#gac0ebf997d5cc78686db8cd65c3111299" title="Replaces a node in the red&#45;black tree without a rebalance." alt="" coords="721,341,893,367"/>
+<area shape="rect" id="node18" href="$group__RTEMSScoreWatchdog.html#ga3d2b8b14bed98369e12eec84c623c214" title="Inserts a watchdog into the set of scheduled watchdogs according to the specified expiration time." alt="" coords="739,419,876,446"/>
+<area shape="rect" id="node3" href="$group__POSIX__KEY.html#ga94ff63515207ef269dffd4e34232a6fd" title=" " alt="" coords="484,56,664,97"/>
+<area shape="rect" id="node4" href="$group__RTEMSScorePriority.html#ga2ced6d3277df7f8ed31b06d97f60e59d" title="Inserts the node with the given priority into the priority aggregation&#39;s contributors." alt="" coords="495,122,653,149"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreSchedulerEDF.html#gad3aeb60cde6231ec6baee6649b09d9b5" title="Inserts the scheduler node with the given priority in the ready queue of the context." alt="" coords="479,205,669,231"/>
+<area shape="rect" id="node5" href="$group__RTEMSScorePriority.html#ga73b5cce2b5df3b31ab208e64cc0348a9" title="Inserts the node in a nonempty aggregation and handles change if the node is the new minimum." alt="" coords="254,5,413,47"/>
+<area shape="rect" id="node7" href="$group__RTEMSScorePriority.html#ga96c4da0740e220f6f9a130b00a08c336" title="Updates the priority of the node in the aggregation." alt="" coords="245,71,422,98"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreScheduler.html#gafdf8dfa2c90ca2122b995bb6dd42fcda" title="Sets a new scheduler." alt="" coords="273,122,394,149"/>
+<area shape="rect" id="node6" href="$group__RTEMSScorePriority.html#gad7a0e6788cb685ddd6dc8b884f4b797a" title=" " alt="" coords="39,13,159,39"/>
+<area shape="rect" id="node8" href="$group__RTEMSScorePriority.html#gaf09a0d40270cffbc84c45ca0655d2d78" title="Updates the priority of the node in the aggregation." alt="" coords="29,71,169,98"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreSchedulerEDF.html#ga1c6a885d1cbf890d31be7c539db7c12e" title="Performs an unblocking of the thread." alt="" coords="240,173,427,199"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreSchedulerEDF.html#gaf8da2ab5519218b6509eeecb90f4f1d7" title="Updates the priority of the scheduler node." alt="" coords="243,224,423,265"/>
+<area shape="rect" id="node14" href="$group__RTEMSScoreSchedulerEDF.html#ga1e56a56a016ef9317cae0090f846ceb6" title="Executes a thread yield for the thread." alt="" coords="251,290,416,317"/>
+<area shape="rect" id="node12" href="$group__RTEMSScoreSchedulerCBS.html#gae0d9c2720ee46efdfe87ebf87cd45cae" title="Unblocks a thread." alt="" coords="5,173,192,199"/>
+<area shape="rect" id="node16" href="$group__RTEMSScorePriority.html#ga5571db1b8c4f7e5a5aa4ce4398e55f6a" title="Replaces one node by another." alt="" coords="507,341,641,367"/>
+<area shape="rect" id="node17" href="$group__RTEMSScoreThread.html#ga4f0fe1a67da542aa18a7cbb3d4e2f47a" title="Replaces the victim priority node with the replacement priority node in the corresponding thread prio..." alt="" coords="242,341,425,367"/>
+<area shape="rect" id="node19" href="$group__ClassicTimerImpl.html#ga88df13f9a367637321a0783369bec2cb" title=" " alt="" coords="525,393,623,419"/>
+<area shape="rect" id="node23" href="$group__RTEMSScoreWatchdog.html#gafe13ff2012b33245774dd1ccb09da175" title="Sets the watchdog&#39;s cpu and inserts it with the given expiration time in the scheduled watchdogs." alt="" coords="475,447,673,474"/>
+<area shape="rect" id="node25" href="$group__RTEMSScoreWatchdog.html#gae396749d9d59bd42fb6927ef35880661" title="Sets the watchdog&#39;s cpu to the given instance and sets its expiration time to the watchdog expiration..." alt="" coords="475,505,673,547"/>
+<area shape="rect" id="node20" href="$group__ClassicTimerImpl.html#gaa71b85670a35521a0f1267eabcbc3835" title=" " alt="" coords="266,391,401,418"/>
+<area shape="rect" id="node21" href="$group__ClassicTimer.html#gad9785a6bd78ab5a591a134d147b2bdd3" title="RTEMS Timer Fire After." alt="" coords="15,362,182,389"/>
+<area shape="rect" id="node22" href="$group__ClassicTimer.html#ga521234c97e4fbf2d2e759d78447b5a8f" title="RTEMS Timer Server Fire After." alt="" coords="23,413,174,455"/>
+<area shape="rect" id="node24" href="$group__RTEMSScoreThread.html#ga21916832cf16bf603f348041e2c04859" title="Inserts the cpu&#39;s watchdog realtime into the thread&#39;s timer." alt="" coords="252,443,415,484"/>
+<area shape="rect" id="node26" href="$group__RTEMSScoreThread.html#ga9f508c3f03d4d52fd2420746ce14fe03" title="Adds timeout ticks to the thread." alt="" coords="251,508,415,549"/>
+<area shape="rect" id="node27" href="$group__ClassicEventImpl.html#ga63d82e0e70a4acc2784bb7bc1bba01fb" title=" " alt="" coords="45,515,153,542"/>
+</map>

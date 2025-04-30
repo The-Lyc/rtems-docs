@@ -1,0 +1,8 @@
+<map id="SPARC" name="SPARC">
+<area shape="rect" id="node1" href="$group__RTEMSScoreCPUSPARCContext.html" title=" " alt="" coords="495,5,685,31"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreCPU.html" title="Provides CPU architecture dependent services." alt="" coords="5,80,192,105"/>
+<area shape="rect" id="node5" title="SPARC Architecture Support." alt="" coords="241,80,305,105"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreCPUExample.html" title="Example CPU Architecture Support." alt="" coords="551,55,629,80"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreCPUSPARCASM.html" title="SPARC Assembler Support." alt="" coords="495,104,685,129"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreCPURISCV.html" title="RISCV Architecture Support." alt="" coords="557,153,623,179"/>
+</map>

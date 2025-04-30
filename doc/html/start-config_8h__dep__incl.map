@@ -1,0 +1,8 @@
+<map id="bsps/arm/lpc24xx/include/bsp/start&#45;config.h" name="bsps/arm/lpc24xx/include/bsp/start&#45;config.h">
+<area shape="rect" id="node1" title="BSP start configuration." alt="" coords="429,5,617,47"/>
+<area shape="rect" id="node2" href="$lpc24xx_2start_2bspstarthooks_8c.html" title="Startup code." alt="" coords="5,95,176,136"/>
+<area shape="rect" id="node3" href="$start-config-emc-dynamic_8c.html" title="BSP start EMC dynamic memory configuration." alt="" coords="200,95,405,136"/>
+<area shape="rect" id="node4" href="$start-config-emc-static_8c.html" title="BSP start EMC static memory configuration." alt="" coords="430,95,615,136"/>
+<area shape="rect" id="node5" href="$start-config-mpu_8c.html" title="BSP start MPU configuration." alt="" coords="640,95,811,136"/>
+<area shape="rect" id="node6" href="$start-config-pinsel_8c.html" title="BSP start pin selection configuration." alt="" coords="835,95,1005,136"/>
+</map>

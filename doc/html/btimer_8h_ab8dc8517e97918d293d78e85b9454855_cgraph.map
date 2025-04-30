@@ -1,0 +1,6 @@
+<map id="benchmark_timer_read" name="benchmark_timer_read">
+<area shape="rect" id="node1" title="Read the Benchmark Timer." alt="" coords="5,64,179,91"/>
+<area shape="rect" id="node2" href="$i386-stub-glue_8c.html#a1e0a236f3682681ac79ede3a128bffd5" title=" " alt="" coords="280,5,359,32"/>
+<area shape="rect" id="node3" href="$bsps_2arm_2lpc176x_2include_2bsp_2timer_8h.html#a97dd645d404f7149b78019ecc92f2785" title="Gets the timer value." alt="" coords="227,57,412,98"/>
+<area shape="rect" id="node4" href="$mips_2shared_2timer_2timer_8c.html#a70f4abcdd44603b6d20cd9adfec734be" title=" " alt="" coords="253,123,385,149"/>
+</map>

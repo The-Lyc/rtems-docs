@@ -1,0 +1,7 @@
+<map id="bsps/sh/gensh4/start/hw_init.c" name="bsps/sh/gensh4/start/hw_init.c">
+<area shape="rect" id="node1" title=" " alt="" coords="245,5,401,47"/>
+<area shape="rect" id="node2" href="$sh7750__regs_8h.html" title=" " alt="" coords="5,95,156,136"/>
+<area shape="rect" id="node3" href="$sh__io_8h.html" title="Macros to Access Memory Mapped Devices on the SH7000&#45;Architecture." alt="" coords="181,102,330,129"/>
+<area shape="rect" id="node4" href="$sdram_8h.html" title=" " alt="" coords="354,102,429,129"/>
+<area shape="rect" id="node5" title=" " alt="" coords="453,102,511,129"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="rtems_print_printer_fprintf_putc" name="rtems_print_printer_fprintf_putc">
+<area shape="rect" id="node1" title="Initializes the printer to print via fprintf() using an unbuffered FILE stream with output through rt..." alt="" coords="5,23,152,65"/>
+<area shape="rect" id="node2" href="$pthreadonce_8c.html#a196103ac97710dad7a93fd6c188cc999" title=" " alt="" coords="200,31,311,57"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreOnce.html#ga2db8aad33d5d118be8a81b4b32caea85" title="Reacts according to the state of once_state." alt="" coords="359,31,421,57"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreOnce.html#ga0af2868af507faa6429f26441dbea13c" title="Locks the Once_Information_Mutex and returns the thread life state." alt="" coords="477,5,576,32"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreOnce.html#ga740a7de5e233c0d39a774f93c5e27b6e" title="Unlocks the Once_Information_Mutex and sets the thread life protection to thread_life_state." alt="" coords="469,56,584,83"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreThread.html#gad5aaea7af4482aebd880403fb9c238af" title="Set the thread to life protected." alt="" coords="632,5,835,32"/>
+</map>

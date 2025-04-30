@@ -1,0 +1,14 @@
+<map id="_Chain_Initialize" name="_Chain_Initialize">
+<area shape="rect" id="node1" title="Initializes a chain header." alt="" coords="705,151,835,178"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreFreechain.html#ga6d2f5e4f088a9c17928f2fa925a1d4f6" title="Extend the freechain with new nodes." alt="" coords="503,13,647,39"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreFreechain.html#gae257ce6dd277d9bfe7af999b1dd3c274" title="Initializes a freechain." alt="" coords="497,63,652,90"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreObjectMP.html#ga1d2257e8720ed52a8f851d768a0facfd" title="Intializes the inactive global object chain based on the maximum number of global objects configured." alt="" coords="493,115,656,156"/>
+<area shape="rect" id="node9" href="$group__ClassicPartImpl.html#ga42fbb5cec48fe5747f314e97adfa36de" title=" " alt="" coords="501,181,648,207"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreThreadMP.html#ga96f0434ad7036721909abeedd0322bba" title="Initialize MP thread handler." alt="" coords="279,224,438,265"/>
+<area shape="rect" id="node12" href="$group__ClassicChains.html#ga4867b0d305def0e61d7c8d72216c638a" title="Initialize a chain Header." alt="" coords="492,282,657,309"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreFreechain.html#ga2a213d3f834d14e4dae74f7ff7b9f73d" title="Gets a node from the freechain." alt="" coords="297,13,420,39"/>
+<area shape="rect" id="node4" href="$group__POSIX__KEY.html#ga790a7a15f816d9c7becce14825a5be6e" title=" " alt="" coords="25,5,205,47"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreThread.html#gacd86ef6b0e5fb19ec14d7fe51e3868e2" title="Initializes the thread information." alt="" coords="290,85,427,127"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreThread.html#ga439268e164b067a866d2901085c8c672" title="Initializes thread handler." alt="" coords="5,151,225,178"/>
+<area shape="rect" id="node10" href="$group__ClassicPart.html#gaae1e45358170b1de610acdae7f4a8148" title="RTEMS Partition Create." alt="" coords="273,173,444,199"/>
+</map>

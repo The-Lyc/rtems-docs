@@ -1,0 +1,4 @@
+<map id="_POSIX_Priority_To_core" name="_POSIX_Priority_To_core">
+<area shape="rect" id="node1" title="Converts the POSIX API priority to the corresponding SuperCore priority and validates it." alt="" coords="216,5,395,32"/>
+<area shape="rect" id="node2" href="$pthreadsetschedprio_8c.html#a7a23cbcfc21a4e3edf531ed65f022370" title=" " alt="" coords="5,5,168,32"/>
+</map>

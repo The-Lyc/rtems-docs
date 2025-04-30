@@ -1,0 +1,5 @@
+<map id="LM32 GDB Interface" name="LM32 GDB Interface">
+<area shape="rect" id="node1" href="$group__mips__gdb.html" title="GDB Interface." alt="" coords="507,7,620,33"/>
+<area shape="rect" id="node2" href="$group__RTEMSBSPsLM32Shared.html" title="Shared Support for LatticeMicro32 Board Support Packages." alt="" coords="5,7,72,33"/>
+<area shape="rect" id="node3" title="Definition of the interface between the stub and gdb,." alt="" coords="121,7,273,33"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="bsps/riscv/riscv/start/bsp_fatal_halt.c" name="bsps/riscv/riscv/start/bsp_fatal_halt.c">
+<area shape="rect" id="node1" title=" " alt="" coords="83,5,239,47"/>
+<area shape="rect" id="node2" href="$bsps_2riscv_2riscv_2include_2bsp_2riscv_8h.html" title=" " alt="" coords="115,95,206,121"/>
+<area shape="rect" id="node5" href="$bsps_2include_2bsp_2fdt_8h.html" title=" " alt="" coords="5,95,84,121"/>
+<area shape="rect" id="node6" href="$libfdt_8h.html" title=" " alt="" coords="297,95,365,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="9,169,67,196"/>
+<area shape="rect" id="node4" title=" " alt="" coords="91,169,257,196"/>
+<area shape="rect" id="node7" href="$libfdt__env_8h.html" title=" " alt="" coords="282,169,381,196"/>
+<area shape="rect" id="node14" href="$cpukit_2include_2fdt_8h.html" title=" " alt="" coords="405,169,457,196"/>
+<area shape="rect" id="node8" title=" " alt="" coords="43,244,126,271"/>
+<area shape="rect" id="node9" title=" " alt="" coords="150,244,225,271"/>
+<area shape="rect" id="node10" title=" " alt="" coords="249,244,320,271"/>
+<area shape="rect" id="node11" title=" " alt="" coords="344,244,415,271"/>
+<area shape="rect" id="node12" href="$string_8h.html" title=" " alt="" coords="439,244,509,271"/>
+<area shape="rect" id="node13" title=" " alt="" coords="557,244,628,271"/>
+</map>

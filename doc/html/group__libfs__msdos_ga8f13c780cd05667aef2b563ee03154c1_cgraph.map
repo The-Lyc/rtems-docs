@@ -1,0 +1,5 @@
+<map id="msdos_rename" name="msdos_rename">
+<area shape="rect" id="node1" title="Rename a MSDOS filesystem node." alt="" coords="5,31,128,57"/>
+<area shape="rect" id="node2" href="$group__libfs__msdos.html#gad3c1d9f2798d77cb8ec96f313e56a785" title="Implements wake up version of the &quot;signal&quot; operation." alt="" coords="219,5,363,32"/>
+<area shape="rect" id="node3" href="$group__libfs__msdos.html#gaa74c45d3431bbe097a3560181bddb318" title=" " alt="" coords="176,56,407,83"/>
+</map>

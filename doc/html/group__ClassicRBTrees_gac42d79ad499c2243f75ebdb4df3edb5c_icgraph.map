@@ -1,0 +1,5 @@
+<map id="rtems_rbtree_extract" name="rtems_rbtree_extract">
+<area shape="rect" id="node1" title="Extracts (removes) the node from the red&#45;black tree." alt="" coords="224,31,383,57"/>
+<area shape="rect" id="node2" href="$group__ClassicRBTrees.html#ga358665bb5a3ebe142489530fb86af804" title="Gets a node with the maximal key value from the red&#45;black tree." alt="" coords="5,5,176,32"/>
+<area shape="rect" id="node3" href="$group__ClassicRBTrees.html#gaf2f3d6be3886b350a0ef83d4225b74bc" title="Gets a node with the minimum key value from the red&#45;black tree." alt="" coords="7,56,174,83"/>
+</map>

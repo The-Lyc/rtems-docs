@@ -1,0 +1,4 @@
+<map id="_Thread_queue_Context_set_enqueue_timeout_realtime_timespec" name="_Thread_queue_Context_set_enqueue_timeout_realtime_timespec">
+<area shape="rect" id="node1" title="Sets the enqueue callout to add an absolute realtime timeout in timespec format." alt="" coords="5,5,184,61"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreThreadQueue.html#ga14552dcef85b4627e1b2d150f7245f81" title="Adds a monotonic timespec to the thread and sets the watchdog header to realtime." alt="" coords="232,13,443,54"/>
+</map>

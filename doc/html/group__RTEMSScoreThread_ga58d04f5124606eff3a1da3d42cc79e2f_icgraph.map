@@ -1,0 +1,11 @@
+<map id="_Thread_Priority_add" name="_Thread_Priority_add">
+<area shape="rect" id="node1" title="Adds the specified thread priority node to the corresponding thread priority aggregation." alt="" coords="525,143,684,170"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreMutex.html#ga3c9beab408f6eaae8af2a29d962b08f3" title="Sets the owner of the ceiling mutex." alt="" coords="289,5,453,47"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreMutex.html#gac76286dab6594ca0499aa20861f69fb8" title="Surrenders the ceiling mutex." alt="" coords="289,71,453,112"/>
+<area shape="rect" id="node5" href="$posix_2muteximpl_8h.html#aa099656aca92ad7c919c40cac2b1e226" title=" " alt="" coords="287,136,455,177"/>
+<area shape="rect" id="node7" href="$posix_2muteximpl_8h.html#aef2cdaf26c7b8333787140155835917f" title=" " alt="" coords="287,201,455,243"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreSchedulerEDF.html#gac0692f99a480bf873298367ffd5ec6a1" title="Releases a EDF job." alt="" coords="265,267,477,294"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreMutex.html#gae40030a2c780f0da5839deee9387f340" title="Seizes the ceiling mutex." alt="" coords="29,5,193,47"/>
+<area shape="rect" id="node6" href="$posix_2muteximpl_8h.html#a02b950e3dfc08bf48aafac65eeaf58e7" title=" " alt="" coords="27,136,195,177"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreSchedulerCBS.html#ga26f13ab87c29b1b9abf5e8defae50d47" title="Releases a job." alt="" coords="5,267,217,294"/>
+</map>

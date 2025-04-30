@@ -1,0 +1,6 @@
+<map id="rtems_iterate_over_all_threads" name="rtems_iterate_over_all_threads">
+<area shape="rect" id="node1" title="Deprecated, use rtems_task_iterate() instead." alt="" coords="5,5,152,47"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreThread.html#gaccf2d81d16187ed8808e76addc8da0ed" title="Calls the visitor with all threads and the given argument until it is done." alt="" coords="200,13,324,39"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreObject.html#gadf825a94fecd0945a4368e503e274bfd" title="Returns the maximum index of the specified object class." alt="" coords="372,5,555,47"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreObject.html#ga22cdf45f285840b7728b06197a7f4627" title="Returns the index portion of the ID." alt="" coords="603,13,753,39"/>
+</map>

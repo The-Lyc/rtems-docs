@@ -1,0 +1,4 @@
+<map id="GRCAN" name="GRCAN">
+<area shape="rect" id="node1" title="Macros used for grcan controller." alt="" coords="115,5,184,31"/>
+<area shape="rect" id="node2" href="$group__RTEMSBSPsSharedGRLIB.html" title="Driver support for GRLIB IP Library." alt="" coords="5,5,67,31"/>
+</map>

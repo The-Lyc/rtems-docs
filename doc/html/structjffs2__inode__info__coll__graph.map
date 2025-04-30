@@ -1,0 +1,10 @@
+<map id="jffs2_inode_info" name="jffs2_inode_info">
+<area shape="rect" id="node1" title=" " alt="" coords="239,285,364,312"/>
+<area shape="rect" id="node2" href="$structjffs2__full__dnode.html" title=" " alt="" coords="5,145,131,172"/>
+<area shape="rect" id="node3" href="$structjffs2__raw__node__ref.html" title=" " alt="" coords="115,5,261,32"/>
+<area shape="rect" id="node4" href="$structjffs2__full__dirent.html" title=" " alt="" coords="127,95,249,121"/>
+<area shape="rect" id="node5" href="$structjffs2__inode__cache.html" title=" " alt="" coords="232,196,371,223"/>
+<area shape="rect" id="node6" href="$structrb__root.html" title=" " alt="" coords="453,196,521,223"/>
+<area shape="rect" id="node7" href="$structRBTree__Node.html" title="Red&#45;black tree node." alt="" coords="433,95,541,121"/>
+<area shape="rect" id="node8" href="$structmutex.html" title=" " alt="" coords="545,196,609,223"/>
+</map>

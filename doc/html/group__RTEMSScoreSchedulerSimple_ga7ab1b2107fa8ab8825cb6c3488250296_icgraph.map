@@ -1,0 +1,7 @@
+<map id="_Scheduler_simple_Priority_less_equal" name="_Scheduler_simple_Priority_less_equal">
+<area shape="rect" id="node1" title="Checks if the priority is less or equal than the priority of the node." alt="" coords="493,57,692,98"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreSchedulerSimple.html#gaa5300b25adb782773a0974c4a4419fb2" title="Inserts the thread control with the given priority into the chain." alt="" coords="257,64,445,91"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreSchedulerSimple.html#ga5e15d6514580c3184e93d3dc935d0a6f" title="Unblocks the thread." alt="" coords="5,5,209,32"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreSchedulerSimple.html#gacb4b8fc8ec7b055afb904072c38f9fc5" title="Updates the priority of the node." alt="" coords="8,57,207,98"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreSchedulerSimple.html#gacbdfbb5b5fa2df49606df7bda8a69431" title="Performs the yield of a thread." alt="" coords="16,123,199,149"/>
+</map>

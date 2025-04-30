@@ -1,0 +1,9 @@
+<map id="cpukit/include/dev/spi" name="cpukit/include/dev/spi">
+<area shape="rect" id="node1" href="dir_da95f63d287eebb5604468b1169dbbad.html" title="spi" alt="" coords="43,52,115,100"/>
+<area shape="rect" id="node2" href="dir_f66550c9b9f7983fc35f08c854b80f71.html" title="linux" alt="" coords="5,148,77,196"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000479_000473.html" title="1" alt="" coords="60,127,70,142"/>
+<area shape="rect" id="node3" href="dir_be382d098cd1aaaaf11a7ebea3d850c0.html" title="rtems" alt="" coords="41,244,113,292"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000479_000242.html" title="2" alt="" coords="89,220,98,235"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000473_000242.html" title="1" alt="" coords="65,217,75,231"/>
+<area shape="rect" id="clust1" href="dir_adbd92a14475fb7d80d744a53975f633.html" title="dev" alt="" coords="32,16,125,111"/>
+</map>

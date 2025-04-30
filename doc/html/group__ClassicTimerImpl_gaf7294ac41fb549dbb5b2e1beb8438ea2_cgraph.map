@@ -1,0 +1,6 @@
+<map id="_Timer_Fire_when" name="_Timer_Fire_when">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,145,83"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreTOD.html#gad7357f287de1aec092ef824c185229b9" title="Check if the TOD is Set." alt="" coords="211,5,314,32"/>
+<area shape="rect" id="node3" href="$group__ClassicClock.html#gab5bfb9a415bb9cbb6c9132d8b3de8f61" title="TOD to Seconds." alt="" coords="193,56,332,83"/>
+<area shape="rect" id="node4" href="$group__ClassicClock.html#ga80a0ad7cf75ab4da2f69eea860daeb77" title="TOD Validate." alt="" coords="204,107,321,133"/>
+</map>

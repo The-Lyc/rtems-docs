@@ -1,0 +1,4 @@
+<map id="_Once_Lock" name="_Once_Lock">
+<area shape="rect" id="node1" title="Locks the Once_Information_Mutex and returns the thread life state." alt="" coords="5,5,104,32"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreThread.html#gad5aaea7af4482aebd880403fb9c238af" title="Set the thread to life protected." alt="" coords="152,5,355,32"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="_Scheduler_Node_do_initialize" name="_Scheduler_Node_do_initialize">
+<area shape="rect" id="node1" title="Initializes a node." alt="" coords="435,71,592,112"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreScheduler.html#ga5d20eaccfd13a48a2e9fc2bc283836e2" title="Performs the scheduler base node initialization." alt="" coords="230,5,377,47"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreSchedulerEDF.html#ga465fd54ce1c8c0633424db0933856c67" title="Initializes an EDF specific scheduler node of the_thread." alt="" coords="220,71,387,112"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreSchedulerDPS.html#ga068b274fb5ddb43859266d6bcfadb060" title="Initializes the node with the given priority." alt="" coords="230,136,377,177"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreSchedulerCBS.html#gabb8137112e3b30c70daa4dc3221093cb" title="Initializes a CBS specific scheduler node of the_thread." alt="" coords="5,71,172,112"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="_Scheduler_simple_Update_priority" name="_Scheduler_simple_Update_priority">
+<area shape="rect" id="node1" title="Updates the priority of the node." alt="" coords="5,237,204,278"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreScheduler.html#gaefec9c3ea8b8a7a2090d982af594f414" title="Gets the priority of the node." alt="" coords="295,70,458,111"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreSchedulerSimple.html#ga7549ee4d228094320eb60678c0a42f15" title="Extracts the threads node." alt="" coords="278,136,475,163"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreSchedulerSimple.html#gaa06ad2d8f5cb1a0aa56efa757f40768e" title="Gets context of the scheduler." alt="" coords="564,241,739,282"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreSchedulerSimple.html#gaa5300b25adb782773a0974c4a4419fb2" title="Inserts the thread control with the given priority into the chain." alt="" coords="283,187,471,213"/>
+<area shape="rect" id="node20" href="$group__RTEMSScoreSchedulerSimple.html#gad87c281f617f598c1e175f162224d6fb" title="Scheduling decision logic." alt="" coords="252,295,501,321"/>
+<area shape="rect" id="node24" href="$group__RTEMSScoreThread.html#gab4493fc6ffddc8fd05987cb405f9cf71" title="Checks if the thread is ready." alt="" coords="309,345,445,372"/>
+<area shape="rect" id="node26" href="$if__xxx__rtems_8c.html#a0d44d815bf35b8d64e2c9b7dc79efa76" title=" " alt="" coords="357,396,396,423"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreChain.html#ga51ca91740b37b6101d1aa80167ddcfe0" title="Extracts this node (unprotected)." alt="" coords="549,59,753,85"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreChain.html#gad7a790f247b3ace45f039c60c18f999f" title="Checks if the node is off chain." alt="" coords="817,57,964,98"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreChain.html#gadf0e5d55d133694eed8043ec13fe1266" title="Sets off chain." alt="" coords="811,5,971,32"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreScheduler.html#ga9c62ef5a388b998fa041a269297be1fe" title="Gets the context of the scheduler." alt="" coords="801,189,980,216"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreChain.html#ga6f5fcf3a7ec9b65a965c07b9722f6674" title="Inserts a node into the chain according to the order relation." alt="" coords="568,175,735,217"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreSchedulerSimple.html#ga7ab1b2107fa8ab8825cb6c3488250296" title="Checks if the priority is less or equal than the priority of the node." alt="" coords="552,110,751,151"/>
+<area shape="rect" id="node12" href="$group__RTEMSScoreThread.html#ga3107774ee53fe4ac8323ba4a0f48f8bc" title="Returns the priority of the thread." alt="" coords="811,128,970,155"/>
+<area shape="rect" id="node13" href="$group__RTEMSScorePriority.html#gaea7676bde1276ab7042195c043e25bd5" title="Gets the priority aggregation&#39;s priority." alt="" coords="1035,187,1195,213"/>
+<area shape="rect" id="node14" href="$group__RTEMSScoreThread.html#ga080a177afc4fc254a1081485cd89f75d" title="Gets the scheduler&#39;s home node." alt="" coords="1028,121,1201,162"/>
+<area shape="rect" id="node15" href="$group__RTEMSScoreChain.html#ga89304b2d294b98f4909dcb6e68d7ec82" title="Returns pointer to chain&#39;s first node." alt="" coords="1265,204,1367,231"/>
+<area shape="rect" id="node17" href="$group__RTEMSScoreChain.html#ga67ffad0c14d402473760ec6bb8e93bcc" title="Checks if the chain is empty." alt="" coords="1249,128,1383,155"/>
+<area shape="rect" id="node16" href="$group__RTEMSScoreChain.html#gac08944db6f0428125d3b0d5a1c65b740" title="Returns pointer to immutable chain head." alt="" coords="1655,179,1837,205"/>
+<area shape="rect" id="node18" href="$group__RTEMSScoreChain.html#ga8b2c850d4d09d8db80d11e3199bce386" title="Returns pointer to immutable chain&#39;s first node." alt="" coords="1431,153,1607,180"/>
+<area shape="rect" id="node19" href="$group__RTEMSScoreChain.html#gaa2f09e6d639b1bc5a27451eb119b6e33" title="Returns pointer to immutable chain tail." alt="" coords="1433,103,1605,129"/>
+<area shape="rect" id="node21" href="$group__RTEMSScoreScheduler.html#ga29bb7f28ab22ddb95869cc527f2f75bf" title="Updates the heir." alt="" coords="562,307,741,333"/>
+<area shape="rect" id="node22" href="$group__RTEMSScoreThread.html#ga04310043b907712ed8693fbbbc6ba0be" title="Gets the cpu of the thread&#39;s scheduler." alt="" coords="821,307,960,333"/>
+<area shape="rect" id="node23" href="$group__RTEMSScoreThread.html#ga02a75f308e726ba3f36a97cd758a8e7e" title="Updates the cpu time used of the thread." alt="" coords="809,241,972,282"/>
+<area shape="rect" id="node25" href="$group__RTEMSScoreStates.html#ga15946028917e3bbb7ecce815aedf5d82" title="Checks if the state is ready." alt="" coords="585,408,717,435"/>
+</map>

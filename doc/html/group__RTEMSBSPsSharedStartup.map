@@ -1,0 +1,4 @@
+<map id="Bootcard" name="Bootcard">
+<area shape="rect" id="node1" href="$group__RTEMSBSPsShared.html" title="Shared Support for Board Support Packages." alt="" coords="5,5,72,31"/>
+<area shape="rect" id="node2" title="Standard system startup." alt="" coords="120,5,200,31"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="rtems_panic" name="rtems_panic">
+<area shape="rect" id="node1" title="Prints the specified message via printk() and terminates the system." alt="" coords="471,144,573,171"/>
+<area shape="rect" id="node2" href="$group__RTEMSBSPsPowerPCMVME3100.html#ga8753dd0fb905f41f37c5d87c7a26c7e2" title=" " alt="" coords="5,119,179,145"/>
+<area shape="rect" id="node3" href="$mvme3100_2net_2tsec_8c.html#a10cfa7092d6ded026e384c7b5da92d66" title=" " alt="" coords="257,43,392,69"/>
+<area shape="rect" id="node4" href="$pci__map_8c.html#a0ff30e9bf17cdc9253a1cba85b8426a3" title=" " alt="" coords="279,93,370,120"/>
+<area shape="rect" id="node5" href="$pci__map_8c.html#a1d5c8e97e5852d1c5139433c7c1ff2bf" title=" " alt="" coords="268,144,381,171"/>
+<area shape="rect" id="node6" href="$group__RTEMSBSPsPowerPCHaleakala.html#gab6d6de92ace3b59e1b4ef083dcf63425" title=" " alt="" coords="227,195,423,221"/>
+<area shape="rect" id="node7" href="$pci__io__remap_8h.html#a15e52074daab76025a25c04706d62a62" title=" " alt="" coords="247,245,402,272"/>
+<area shape="rect" id="node8" href="$sonic_8c.html#a3ca05362f2408df1fba77642098503cd" title=" " alt="" coords="267,296,382,323"/>
+</map>

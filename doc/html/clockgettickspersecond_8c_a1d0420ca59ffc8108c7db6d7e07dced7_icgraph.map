@@ -1,0 +1,6 @@
+<map id="rtems_clock_get_ticks_per_second" name="rtems_clock_get_ticks_per_second">
+<area shape="rect" id="node1" title=" " alt="" coords="247,49,413,90"/>
+<area shape="rect" id="node2" href="$shmdr-dump_8c.html#ada05fc7796080563c5069ec5326194d8" title=" " alt="" coords="25,5,179,32"/>
+<area shape="rect" id="node3" href="$sysconf_8c.html#a67d58c6aa6eaeb9560972d86c1e001b7" title=" " alt="" coords="66,56,138,83"/>
+<area shape="rect" id="node4" href="$tms570-sci-driver_8h.html#a73848a263fd0b87c4ab8f1e151239fc5" title="Set attributes of the HW peripheral." alt="" coords="5,107,199,133"/>
+</map>

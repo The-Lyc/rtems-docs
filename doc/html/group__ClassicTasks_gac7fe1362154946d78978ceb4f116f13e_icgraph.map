@@ -1,0 +1,5 @@
+<map id="rtems_task_start" name="rtems_task_start">
+<area shape="rect" id="node1" title="RTEMS Start Task." alt="" coords="232,42,364,69"/>
+<area shape="rect" id="node2" href="$group__ClassicTasksImpl.html#gac2c1ab4bf7c8768a39084976a8d9f669" title="System initialization handler to create and start the first user task." alt="" coords="5,5,184,47"/>
+<area shape="rect" id="node3" href="$grspw__pkt_8c.html#a332e9d8281beb4acd9c2451488def344" title=" " alt="" coords="20,71,169,98"/>
+</map>

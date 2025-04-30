@@ -1,0 +1,4 @@
+<map id="_Heap_Free_list_last" name="_Heap_Free_list_last">
+<area shape="rect" id="node1" title="Returns the last block of the free list of the heap." alt="" coords="5,5,161,32"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreHeap.html#gad25276de4aa987568f1bfc66a0c66700" title="Returns the tail of the free list of the heap." alt="" coords="209,5,363,32"/>
+</map>

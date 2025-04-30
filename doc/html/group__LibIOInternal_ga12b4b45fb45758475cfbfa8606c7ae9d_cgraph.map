@@ -1,0 +1,6 @@
+<map id="rtems_libio_lock" name="rtems_libio_lock">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,135,57"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreAPIMutex.html#ga57829ca494f1d866219c499eadb0ffc9" title="Acquires the specified API mutex." alt="" coords="183,31,317,57"/>
+<area shape="rect" id="node3" href="$mutex_8c.html#a2960aef6016ac8937f24108f9cdeebd0" title=" " alt="" coords="370,5,563,32"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreThread.html#gad5aaea7af4482aebd880403fb9c238af" title="Set the thread to life protected." alt="" coords="365,56,568,83"/>
+</map>

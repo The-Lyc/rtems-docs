@@ -1,0 +1,5 @@
+<map id="umoncons_poll_read" name="umoncons_poll_read">
+<area shape="rect" id="node1" title="Read from MicroMonitor Port." alt="" coords="5,31,161,57"/>
+<area shape="rect" id="node2" href="$monlib_8c.html#ae4674a6b7ce30af05c82b842a09f9290" title=" " alt="" coords="213,5,320,32"/>
+<area shape="rect" id="node3" href="$monlib_8c.html#ae0c4cde4565ef7d3176e80c47f10681e" title=" " alt="" coords="209,56,324,83"/>
+</map>

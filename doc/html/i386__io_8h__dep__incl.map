@@ -1,0 +1,9 @@
+<map id="bsps/i386/include/i386_io.h" name="bsps/i386/include/i386_io.h">
+<area shape="rect" id="node1" title="I/O." alt="" coords="407,5,606,32"/>
+<area shape="rect" id="node2" href="$i386kbd_8h.html" title="I386 keyboard definitions." alt="" coords="108,80,289,121"/>
+<area shape="rect" id="node5" href="$ps2__mouse_8c.html" title=" " alt="" coords="313,80,495,121"/>
+<area shape="rect" id="node6" href="$vgainit_8c.html" title=" " alt="" coords="519,80,700,121"/>
+<area shape="rect" id="node7" href="$vt_8c.html" title=" " alt="" coords="725,87,934,114"/>
+<area shape="rect" id="node3" href="$keyboard_8c.html" title=" " alt="" coords="5,169,187,211"/>
+<area shape="rect" id="node4" href="$pc__keyb_8c.html" title=" " alt="" coords="211,169,392,211"/>
+</map>

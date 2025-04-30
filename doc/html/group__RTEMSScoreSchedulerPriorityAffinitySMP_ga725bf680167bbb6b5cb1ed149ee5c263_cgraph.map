@@ -1,0 +1,4 @@
+<map id="_Scheduler_priority_affinity_SMP_Node_initialize" name="_Scheduler_priority_affinity_SMP_Node_initialize">
+<area shape="rect" id="node1" title="Initializes per thread scheduler information." alt="" coords="5,5,220,47"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreSchedulerPrioritySMP.html#gad200cc6ab0d0f7aef63caf41931b7e59" title="Initializes the node with the given priority." alt="" coords="268,5,429,47"/>
+</map>

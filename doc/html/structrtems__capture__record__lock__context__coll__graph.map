@@ -1,0 +1,5 @@
+<map id="rtems_capture_record_lock_context" name="rtems_capture_record_lock_context">
+<area shape="rect" id="node1" title="Capture record lock context." alt="" coords="69,95,233,136"/>
+<area shape="rect" id="node2" href="$structISR__lock__Context.html" title="Local ISR lock context for acquire and release pairs." alt="" coords="5,5,140,32"/>
+<area shape="rect" id="node3" href="$structISR__lock__Control.html" title="ISR lock control." alt="" coords="165,5,295,32"/>
+</map>

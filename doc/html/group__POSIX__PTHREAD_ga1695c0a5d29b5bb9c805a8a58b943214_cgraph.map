@@ -1,0 +1,12 @@
+<map id="_POSIX_Threads_Initialize_user_thread" name="_POSIX_Threads_Initialize_user_thread">
+<area shape="rect" id="node1" title="System initialization handler to create the first user POSIX thread." alt="" coords="5,105,196,146"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreIntErr.html#ga092fa4be4bda2528754b494e901d3d2a" title="Terminates the system with an INTERNAL_ERROR_CORE fatal source and the specified core error code." alt="" coords="290,7,407,33"/>
+<area shape="rect" id="node4" href="$pthreadattrinit_8c.html#a0b85ebb1e3aac081a4c0a5e85ae3cbe9" title=" " alt="" coords="283,61,414,88"/>
+<area shape="rect" id="node7" href="$pthreadattrsetinheritsched_8c.html#ad437fe8caa3ef9f0cb7d69f6f6479df9" title=" " alt="" coords="244,112,453,139"/>
+<area shape="rect" id="node8" href="$pthreadattrsetstacksize_8c.html#a812a9a455ae2ef2bb0dca4fff201a281" title=" " alt="" coords="253,163,444,189"/>
+<area shape="rect" id="node9" href="$pthreadcreate_8c.html#ae5d18438d4d20c8a2e42cd2500578d79" title=" " alt="" coords="289,213,409,240"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreIntErr.html#ga5102f2f0c5939020aa3b11d67afa84eb" title="Initiates system termination." alt="" coords="549,5,644,32"/>
+<area shape="rect" id="node5" href="$group__POSIX__PTHREAD.html#gad911da6e53e7d3cf5271ac937b78e0f1" title=" " alt="" coords="501,57,692,98"/>
+<area shape="rect" id="node6" href="$group__POSIX__PTHREAD.html#gadaec26ab44812ab08ddaddcb31eccc6d" title=" " alt="" coords="740,57,907,98"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreThread.html#gaac2283a605738e5b3fd2e1710ea8b73a" title="Calls the start kinds pointer entry of the thread." alt="" coords="511,206,683,247"/>
+</map>

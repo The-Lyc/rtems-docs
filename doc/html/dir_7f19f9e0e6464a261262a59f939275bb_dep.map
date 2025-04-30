@@ -1,0 +1,37 @@
+<map id="bsps/shared/dev" name="bsps/shared/dev">
+<area shape="rect" id="node2" href="dir_5b07c691da5e244194823eb1176e9a43.html" title="btimer" alt="" coords="37,63,109,111"/>
+<area shape="rect" id="node15" href="dir_cd198e36225ba3f41de97552050ac017.html" title="cpukit" alt="" coords="505,255,577,303"/>
+<area shape="rect" id="edge10-headlabel" href="dir_000935_000080.html" title="3" alt="" coords="484,252,493,267"/>
+<area shape="rect" id="node3" href="dir_6e97606af537fa8db6739a448f2314a1.html" title="clock" alt="" coords="133,63,205,111"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000936_000080.html" title="9" alt="" coords="486,246,495,260"/>
+<area shape="rect" id="node4" href="dir_578135d9a613fff68a9ae9ee83c5cd34.html" title="cpucounter" alt="" coords="923,63,1018,111"/>
+<area shape="rect" id="node5" href="dir_c11521ec251106946c599aab8221518a.html" title="display" alt="" coords="229,63,301,111"/>
+<area shape="rect" id="node14" href="dir_5d1ab919b2bc2a88d122acf1f2df3693.html" title="include" alt="" coords="543,159,615,207"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000937_000468.html" title="1" alt="" coords="520,164,529,179"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000937_000080.html" title="5" alt="" coords="489,234,498,248"/>
+<area shape="rect" id="node6" href="dir_a2329794dc4cf9588aad47aacb59d018.html" title="flash" alt="" coords="325,63,397,111"/>
+<area shape="rect" id="edge14-headlabel" href="dir_000938_000468.html" title="1" alt="" coords="522,157,531,171"/>
+<area shape="rect" id="edge15-headlabel" href="dir_000938_000080.html" title="3" alt="" coords="509,228,518,243"/>
+<area shape="rect" id="node7" href="dir_d013e60e9f11c5271f01ed3044f29c62.html" title="getentropy" alt="" coords="805,63,899,111"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000939_000080.html" title="4" alt="" coords="593,256,602,271"/>
+<area shape="rect" id="node8" href="dir_6063756d60f4216027a6290977d00128.html" title="gpio" alt="" coords="421,63,493,111"/>
+<area shape="rect" id="edge16-headlabel" href="dir_000940_000468.html" title="2" alt="" coords="528,134,537,149"/>
+<area shape="rect" id="edge17-headlabel" href="dir_000940_000080.html" title="3" alt="" coords="527,227,536,242"/>
+<area shape="rect" id="node9" href="dir_53506a84d70f5df408ac9b3024ca7c20.html" title="i2c" alt="" coords="517,63,589,111"/>
+<area shape="rect" id="edge18-headlabel" href="dir_000941_000468.html" title="7" alt="" coords="571,131,581,146"/>
+<area shape="rect" id="edge19-headlabel" href="dir_000941_000080.html" title="24" alt="" coords="532,228,550,242"/>
+<area shape="rect" id="node10" href="dir_7336e14286bb99d9f04fcc9e5f0ae296.html" title="ide" alt="" coords="613,63,685,111"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000942_000468.html" title="10" alt="" coords="605,142,622,157"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000942_000080.html" title="10" alt="" coords="589,245,606,259"/>
+<area shape="rect" id="node11" href="dir_85196b63eb5c08897d020150c98cf9aa.html" title="pci" alt="" coords="1139,63,1211,111"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000943_000080.html" title="6" alt="" coords="592,272,601,287"/>
+<area shape="rect" id="node12" href="dir_ab32ec037a9008e35651e94c269d98fb.html" title="rtc" alt="" coords="709,63,781,111"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000944_000468.html" title="16" alt="" coords="626,164,644,179"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000944_000080.html" title="18" alt="" coords="589,250,606,265"/>
+<area shape="rect" id="node13" href="dir_442aa927264b3db0caac01daf7bd5155.html" title="serial" alt="" coords="1043,63,1115,111"/>
+<area shape="rect" id="edge11-headlabel" href="dir_000676_000468.html" title="30" alt="" coords="625,181,642,195"/>
+<area shape="rect" id="edge12-headlabel" href="dir_000676_000080.html" title="40" alt="" coords="588,270,606,285"/>
+<area shape="rect" id="edge13-headlabel" href="dir_000468_000080.html" title="58" alt="" coords="556,234,574,248"/>
+<area shape="rect" id="clust2" href="dir_7f19f9e0e6464a261262a59f939275bb.html" alt="" coords="27,52,1317,121"/>
+<area shape="rect" id="clust1" href="dir_e653c55a041a793eeaa2fef7ea5f8258.html" title="shared" alt="" coords="16,16,1328,132"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="rtems_event_transient_receive" name="rtems_event_transient_receive">
+<area shape="rect" id="node1" title="See rtems_event_system_receive()." alt="" coords="5,5,175,47"/>
+<area shape="rect" id="node2" href="$group__ClassicEventSystem.html#ga10c79eebe1e9c1b00eb72017bb67daf7" title="See rtems_event_receive()." alt="" coords="223,5,381,47"/>
+</map>

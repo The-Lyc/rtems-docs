@@ -1,0 +1,7 @@
+<map id="grpci2dma_priv" name="grpci2dma_priv">
+<area shape="rect" id="node1" title=" " alt="" coords="170,95,293,121"/>
+<area shape="rect" id="node2" href="$structgrpci2dma__regs.html" title=" " alt="" coords="5,5,132,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="157,5,199,32"/>
+<area shape="rect" id="node4" href="$structgrpci2__bd__data.html" title=" " alt="" coords="224,5,345,32"/>
+<area shape="rect" id="node5" href="$structgrpci2__bd__chan.html" title=" " alt="" coords="370,5,493,32"/>
+</map>

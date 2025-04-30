@@ -1,0 +1,5 @@
+<map id="bsps/include/libchip/wd80x3.h" name="bsps/include/libchip/wd80x3.h">
+<area shape="rect" id="node1" title="DP8390 Ethernet controller definitions." alt="" coords="94,5,245,47"/>
+<area shape="rect" id="node2" href="$ne2000_8c.html" title=" " alt="" coords="5,95,157,136"/>
+<area shape="rect" id="node3" href="$wd8003_8c.html" title=" " alt="" coords="181,95,333,136"/>
+</map>

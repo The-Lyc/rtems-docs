@@ -1,0 +1,8 @@
+<map id="bsps/arm/lpc176x/include/bsp/timer&#45;defs.h" name="bsps/arm/lpc176x/include/bsp/timer&#45;defs.h">
+<area shape="rect" id="node1" title="API definitions of the for the timer of the lpc176x bsp." alt="" coords="111,5,299,47"/>
+<area shape="rect" id="node2" href="$lpc176x_2include_2bsp_2system-clocks_8h.html" title="System clocks." alt="" coords="5,95,193,136"/>
+<area shape="rect" id="node3" href="$bsps_2arm_2lpc176x_2include_2bsp_2timer_8h.html" title="Timer API for the lpc176x bsp." alt="" coords="217,95,405,136"/>
+<area shape="rect" id="node4" href="$arm_2lpc176x_2btimer_2btimer_8c.html" title="Timer benchmark functions for the lpc176x bsp." alt="" coords="18,184,202,225"/>
+<area shape="rect" id="node5" href="$arm_2lpc176x_2start_2bspstart_8c.html" title="Startup code." alt="" coords="226,184,397,225"/>
+<area shape="rect" id="node6" href="$arm_2lpc176x_2timer_2timer_8c.html" title="Timer controller for the mbed lpc1768 board." alt="" coords="421,184,597,225"/>
+</map>

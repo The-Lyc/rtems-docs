@@ -1,0 +1,7 @@
+<map id="_Thread_Wait_remove_request" name="_Thread_Wait_remove_request">
+<area shape="rect" id="node1" title="Removes a thread wait lock request." alt="" coords="5,39,172,80"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreThread.html#gafed63d230bdeca7d53b9b9aa2b0abbcc" title="Acquires the thread wait default lock and disables interrupts." alt="" coords="220,5,385,47"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreThread.html#gacea1194022db2bc960f47a74946aed8c" title="Releases the thread wait default lock and restores the previous interrupt status." alt="" coords="220,71,385,112"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreThread.html#gafbc47e5ce486029f2311242f2303c66d" title="Acquires the thread wait default lock inside a critical section (interrupts disabled)." alt="" coords="433,5,599,47"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreThread.html#ga1379d753ea2866e64eed15cd7ea7fb38" title="Releases the thread wait default lock inside a critical section (interrupts disabled)." alt="" coords="433,71,599,112"/>
+</map>

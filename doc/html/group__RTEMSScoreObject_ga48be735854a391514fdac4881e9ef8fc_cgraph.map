@@ -1,0 +1,9 @@
+<map id="_Objects_Close" name="_Objects_Close">
+<area shape="rect" id="node1" title="Closes object." alt="" coords="5,67,127,94"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreObject.html#gabcf4e7e43d740a83abd8651c86fc3260" title="Invalidates an object Id." alt="" coords="175,38,344,65"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreObject.html#gab8d9bdacd7890b74bd890eda839c0f86" title="Removes object with a 32&#45;bit integer name from its namespace." alt="" coords="178,89,341,131"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreObject.html#ga22cdf45f285840b7728b06197a7f4627" title="Returns the index portion of the ID." alt="" coords="869,9,1020,35"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreObject.html#ga9c697fd8a483c32420ccfff211ec3c14" title="Sets the pointer to the local_table object referenced by the index." alt="" coords="419,31,563,72"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreObject.html#gadf825a94fecd0945a4368e503e274bfd" title="Returns the maximum index of the specified object class." alt="" coords="639,31,821,72"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreObject.html#ga0a217bcdc113857e4f370aea14dbe025" title="Returns if the object has a string name." alt="" coords="392,97,591,123"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="msdos_default_convert_control" name="msdos_default_convert_control">
+<area shape="rect" id="node1" title=" " alt="" coords="5,287,180,328"/>
+<area shape="rect" id="node2" href="$structrtems__dosfs__convert__control.html" title="FAT filesystem convert control." alt="" coords="85,95,244,136"/>
+<area shape="rect" id="node4" href="$structrtems__dosfs__convert__handler.html" title="FAT filesystem convert handler." alt="" coords="220,287,379,328"/>
+<area shape="rect" id="node3" href="$structrtems__dosfs__buffer.html" title=" " alt="" coords="91,5,238,32"/>
+</map>

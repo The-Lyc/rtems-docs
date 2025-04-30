@@ -1,0 +1,5 @@
+<map id="_Watchdog_Ticks_from_timespec" name="_Watchdog_Ticks_from_timespec">
+<area shape="rect" id="node1" title="Converts the timespec in ticks." alt="" coords="5,39,177,80"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreWatchdog.html#ga4a4b8259c75b05f8510121d3c77cf242" title="Checks if the timespec is too far in the future." alt="" coords="225,5,408,47"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreWatchdog.html#gacc1967581868e41a96cd0a3181b3e755" title="Checks if the timespec is a valid timespec for a watchdog." alt="" coords="241,71,392,112"/>
+</map>

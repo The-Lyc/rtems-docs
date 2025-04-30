@@ -1,0 +1,7 @@
+<map id="lpc176x_dma_copy_initialize" name="lpc176x_dma_copy_initialize">
+<area shape="rect" id="node1" title=" " alt="" coords="5,93,216,120"/>
+<area shape="rect" id="node2" href="$rtemsbuildname_8c.html#ad25f5ed0c4beb0750db5c0aab39f4bd1" title=" " alt="" coords="287,5,429,32"/>
+<area shape="rect" id="node3" href="$group__rtems__interrupt__extension.html#ga086cc450fcdc9e37bfd0744a763dbfd4" title="Installs the interrupt handler routine handler for the interrupt vector with number vector." alt="" coords="269,57,447,98"/>
+<area shape="rect" id="node4" href="$group__ClassicSem.html#ga215ed3e3aa56c2f5204edc629985f2aa" title="rtems_semaphore_create" alt="" coords="264,123,452,149"/>
+<area shape="rect" id="node5" href="$group__ClassicSem.html#gabf9631b7132ab4142eff47a1502652a2" title="RTEMS Delete Semaphore." alt="" coords="264,173,452,200"/>
+</map>

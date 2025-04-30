@@ -1,0 +1,21 @@
+<map id="rtems_object_get_local_node" name="rtems_object_get_local_node">
+<area shape="rect" id="node1" title="Get the local MPCI node number." alt="" coords="852,183,1064,209"/>
+<area shape="rect" id="node2" href="$getpgrp_8c.html#a06f4ba65249f92cacdba5782a8d70eba" title=" " alt="" coords="691,56,763,83"/>
+<area shape="rect" id="node3" href="$getpid_8c.html#ac61b207337ca21b3b309593fd1a0cb82" title=" " alt="" coords="695,107,758,133"/>
+<area shape="rect" id="node16" href="$shmdr-init_8c.html#acc75b92b3418a9ea3b048e7f76e085f8" title=" " alt="" coords="657,157,796,184"/>
+<area shape="rect" id="node17" href="$shmdr-dump_8c.html#ada05fc7796080563c5069ec5326194d8" title=" " alt="" coords="649,208,804,235"/>
+<area shape="rect" id="node18" href="$shmdr-send_8c.html#a3677117b4ee8fb82f89338879e754fa5" title=" " alt="" coords="657,259,797,285"/>
+<area shape="rect" id="node19" href="$group__UTSNAME.html#ga1ad7a68f28b58669758da1b12061a81f" title="Get system name." alt="" coords="693,309,760,336"/>
+<area shape="rect" id="node4" href="$____getpid_8c.html#a5587adb520e48cc1efb647dcaa8e03e0" title=" " alt="" coords="481,5,559,32"/>
+<area shape="rect" id="node5" href="$group__POSIX__SIGNALS.html#ga4fa52d65c93199947ea927f8eb978f59" title=" " alt="" coords="440,56,600,83"/>
+<area shape="rect" id="node8" href="$clnt__tcp_8c.html#ad06c8791cccb19aa687cd719c1892548" title=" " alt="" coords="463,107,577,133"/>
+<area shape="rect" id="node13" href="$pppd_2magic_8h.html#ace4cbe64306c8365bdf11599460129f7" title=" " alt="" coords="475,157,565,184"/>
+<area shape="rect" id="node15" href="$sched__rr__get__interval_8c.html#a484f0eb93529d29a66e24485725c4c7b" title=" " alt="" coords="439,208,601,235"/>
+<area shape="rect" id="node6" href="$kill_8c.html#a4539db972bcf3dd8c8b429af0dc3789d" title=" " alt="" coords="322,5,365,32"/>
+<area shape="rect" id="node7" href="$sigqueue_8c.html#a68d08741d22c0e5f731d06d82d82a3e5" title=" " alt="" coords="303,56,384,83"/>
+<area shape="rect" id="node9" href="$clnt__generic_8c.html#afdb74699a02f4905aa56cf843c2f934d" title=" " alt="" coords="296,107,391,133"/>
+<area shape="rect" id="node10" href="$pmap__clnt_8c.html#a920cd19a78789d6fb4297056961719ed" title=" " alt="" coords="153,81,240,108"/>
+<area shape="rect" id="node11" href="$pmap__clnt_8c.html#aeabebebb4255527c70fe8dd02347d8d1" title=" " alt="" coords="145,132,248,159"/>
+<area shape="rect" id="node12" href="$svc__simple_8c.html#ae1ed444859be78b541c478b4de819270" title=" " alt="" coords="5,132,97,159"/>
+<area shape="rect" id="node14" href="$rtemsmain_8c.html#a06b65a900e11ac9e70407429c42f90d5" title=" " alt="" coords="300,157,387,184"/>
+</map>

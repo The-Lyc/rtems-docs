@@ -1,0 +1,23 @@
+<map id="_Thread_Wait_acquire_default_critical" name="_Thread_Wait_acquire_default_critical">
+<area shape="rect" id="node1" title="Acquires the thread wait default lock inside a critical section (interrupts disabled)." alt="" coords="724,301,889,342"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreMutex.html#ga3c9beab408f6eaae8af2a29d962b08f3" title="Sets the owner of the ceiling mutex." alt="" coords="509,85,673,126"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreMutex.html#gac76286dab6594ca0499aa20861f69fb8" title="Surrenders the ceiling mutex." alt="" coords="509,150,673,191"/>
+<area shape="rect" id="node5" href="$group__ClassicEventImpl.html#ga6ecbbc770f35aa183650e0e11901efc9" title=" " alt="" coords="523,216,659,243"/>
+<area shape="rect" id="node15" href="$posix_2muteximpl_8h.html#aa099656aca92ad7c919c40cac2b1e226" title=" " alt="" coords="507,267,675,309"/>
+<area shape="rect" id="node17" href="$posix_2muteximpl_8h.html#aef2cdaf26c7b8333787140155835917f" title=" " alt="" coords="507,333,675,374"/>
+<area shape="rect" id="node18" href="$group__RTEMSScoreThread.html#gafed63d230bdeca7d53b9b9aa2b0abbcc" title="Acquires the thread wait default lock and disables interrupts." alt="" coords="508,398,673,439"/>
+<area shape="rect" id="node20" href="$group__RTEMSScoreThread.html#ga37b50dcc140d5c4e34e4e063339baee5" title="Acquires the thread wait default lock and returns the executing thread." alt="" coords="505,463,676,505"/>
+<area shape="rect" id="node21" href="$group__RTEMSScoreThread.html#ga3cfaf5eea12b9810ca64404cec7e3763" title="Restores the default thread wait queue and operations." alt="" coords="509,529,672,570"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreMutex.html#gae40030a2c780f0da5839deee9387f340" title="Seizes the ceiling mutex." alt="" coords="277,85,441,126"/>
+<area shape="rect" id="node6" href="$group__ClassicEvent.html#ga2d31674c165127bc530178d06d557b94" title="Sends an Event Set to the Target Task." alt="" coords="287,157,430,184"/>
+<area shape="rect" id="node13" href="$group__ClassicEventSystem.html#ga1119cb4341890e86ffa7cc7fad414f19" title="See rtems_event_send()." alt="" coords="260,216,457,243"/>
+<area shape="rect" id="node7" href="$group__ClassicEventMP.html#ga1874d957f7df000c20e35f8c000842d6" title="Event MP Packet Process." alt="" coords="9,5,209,32"/>
+<area shape="rect" id="node8" href="$mon-monitor_8c.html#a9dce13aebc7d9c0361ecd5490cd39c5e" title=" " alt="" coords="21,56,196,83"/>
+<area shape="rect" id="node9" href="$rtemspppd_8c.html#afc259272991e12d2e8097901976af938" title=" " alt="" coords="30,107,187,133"/>
+<area shape="rect" id="node10" href="$rtemspppd_8c.html#afe8fe9afcf624756f30f5e0c8376024c" title=" " alt="" coords="23,157,194,184"/>
+<area shape="rect" id="node11" href="$termios_8c.html#a9dd97a1b494e296caf2522740f602841" title=" " alt="" coords="31,209,186,250"/>
+<area shape="rect" id="node12" href="$fec_8c.html#aa5d15861b72054e329f3a6cafd74885c" title=" " alt="" coords="40,275,177,301"/>
+<area shape="rect" id="node14" href="$group__ClassicEventTransient.html#gab2d8a49e579d5eb1f71f499230ed9808" title="See rtems_event_system_send()." alt="" coords="5,325,212,352"/>
+<area shape="rect" id="node16" href="$posix_2muteximpl_8h.html#a02b950e3dfc08bf48aafac65eeaf58e7" title=" " alt="" coords="275,267,443,309"/>
+<area shape="rect" id="node19" href="$group__RTEMSScoreThread.html#gad6f75b9158cddc463bad914c2f9f51a1" title="Removes a thread wait lock request." alt="" coords="275,398,442,439"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="BusFault_Handler" name="BusFault_Handler">
+<area shape="rect" id="node1" title="Default BusFault interrupt handler." alt="" coords="5,5,140,32"/>
+<area shape="rect" id="node2" href="$exceptions_8c.html#ac7cc3ff2a1e09366983fd1054d86ff67" title="This function back trace the stack to give exact address where fault happened." alt="" coords="188,5,295,32"/>
+</map>

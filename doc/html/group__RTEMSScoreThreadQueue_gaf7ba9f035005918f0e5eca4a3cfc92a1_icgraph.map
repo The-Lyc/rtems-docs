@@ -1,0 +1,6 @@
+<map id="_Thread_queue_Flush_default_filter" name="_Thread_queue_Flush_default_filter">
+<area shape="rect" id="node1" title="Default thread queue flush filter function." alt="" coords="452,23,615,65"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreBarrier.html#ga48a6be566a20ba33b62e13b42a3fcb2f" title="Manually releases the barrier." alt="" coords="219,31,404,57"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreBarrier.html#ga760e64255cc0635768c65b566c536e3e" title="Waits for the barrier." alt="" coords="9,5,167,32"/>
+<area shape="rect" id="node4" href="$group__ClassicBarrier.html#gaca341b3ac7701013f5e94cfff7b659d7" title="RTEMS Barrier Release." alt="" coords="5,56,171,83"/>
+</map>

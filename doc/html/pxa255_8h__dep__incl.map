@@ -1,0 +1,12 @@
+<map id="bsps/arm/gumstix/include/pxa255.h" name="bsps/arm/gumstix/include/pxa255.h">
+<area shape="rect" id="node1" title=" " alt="" coords="850,5,1041,47"/>
+<area shape="rect" id="node2" href="$arm_2gumstix_2btimer_2btimer_8c.html" title="PXA255 timer." alt="" coords="5,95,192,136"/>
+<area shape="rect" id="node3" href="$bsps_2arm_2gumstix_2clock_2clock_8c.html" title=" " alt="" coords="217,95,394,136"/>
+<area shape="rect" id="node4" href="$ffuart_8c.html" title=" " alt="" coords="418,95,611,136"/>
+<area shape="rect" id="node5" href="$gumstix_2console_2uarts_8c.html" title=" " alt="" coords="635,95,829,136"/>
+<area shape="rect" id="node6" href="$gumstix_2fb_2fb_8c.html" title=" " alt="" coords="853,102,1037,129"/>
+<area shape="rect" id="node7" href="$bsps_2arm_2gumstix_2include_2bsp_2irq_8h.html" title=" " alt="" coords="1062,95,1253,136"/>
+<area shape="rect" id="node8" href="$bsps_2arm_2gumstix_2irq_2irq_8c.html" title=" " alt="" coords="1277,95,1437,136"/>
+<area shape="rect" id="node9" href="$arm_2gumstix_2start_2bspreset_8c.html" title=" " alt="" coords="1461,95,1635,136"/>
+<area shape="rect" id="node10" href="$arm_2gumstix_2start_2bspstart_8c.html" title=" " alt="" coords="1659,95,1832,136"/>
+</map>

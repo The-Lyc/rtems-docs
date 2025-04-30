@@ -1,0 +1,9 @@
+<map id="mscan_filter_operation" name="mscan_filter_operation">
+<area shape="rect" id="node1" title="Sets or gets the filter ID and mask in id and mask depending on set of MSCAN module m...." alt="" coords="5,123,176,149"/>
+<area shape="rect" id="node2" href="$group__RTEMSBSPsPowerPCGen5200MSCAN.html#gae319b1e5e7cf1062871cf930633ccf0c" title="Returns the number of active filters of the MSCAN module m." alt="" coords="237,5,395,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSBSPsPowerPCGen5200MSCAN.html#gadfc7768cf5d070c658a72c4c4a52ec48" title="Returns the address of the CANIDAR register with index i of the MSCAN module m." alt="" coords="233,57,399,98"/>
+<area shape="rect" id="node4" href="$group__RTEMSBSPsPowerPCGen5200MSCAN.html#ga59f5c272b5395fa083348d087fd4c34e" title="Returns the address of the CANIDMR register with index i of the MSCAN module m." alt="" coords="224,123,408,149"/>
+<area shape="rect" id="node5" href="$group__RTEMSBSPsPowerPCGen5200MSCAN.html#ga587e0d7b0c1d090fda013c551f02a3f7" title="Enter initialization mode for the MSCAN module m." alt="" coords="239,174,393,215"/>
+<area shape="rect" id="node6" href="$group__RTEMSBSPsPowerPCGen5200MSCAN.html#ga29478727b755ce8d81ded34969194a1b" title="Leave initialization mode for the MSCAN module m." alt="" coords="239,239,393,281"/>
+<area shape="rect" id="node7" href="$group__RTEMSBSPsPowerPCGen5200MSCAN.html#ga189ba2bd33b05769166ff5c105af3395" title="Leave sleep mode for the MSCAN module m." alt="" coords="456,247,651,273"/>
+</map>

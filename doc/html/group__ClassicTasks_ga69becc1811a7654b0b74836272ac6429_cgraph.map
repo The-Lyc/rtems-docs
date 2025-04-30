@@ -1,0 +1,6 @@
+<map id="rtems_task_wake_after" name="rtems_task_wake_after">
+<area shape="rect" id="node1" title="RTEMS Task Wake After." alt="" coords="5,13,179,39"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreThread.html#ga044bfb6e9317180d21b05c5338cedd1a" title="Disables thread dispatching." alt="" coords="227,13,419,39"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreThread.html#ga5ffeb81480c63293a317f69efc74dec3" title="Disables thread dispatching inside a critical section (interrupts disabled)." alt="" coords="467,5,659,47"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreThread.html#ga80a71da4ea096f7ea92781a872b955ae" title="Disables thread dispatching inside a critical section (interrupts disabled) with the current processo..." alt="" coords="707,5,899,47"/>
+</map>

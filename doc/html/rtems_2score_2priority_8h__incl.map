@@ -1,0 +1,13 @@
+<map id="cpukit/include/rtems/score/priority.h" name="cpukit/include/rtems/score/priority.h">
+<area shape="rect" id="node1" title="Priority Handler API." alt="" coords="173,5,327,47"/>
+<area shape="rect" id="node2" href="$score_2chain_8h.html" title="Chain Handler API." alt="" coords="5,95,156,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="181,95,319,121"/>
+<area shape="rect" id="node4" href="$rtems_2score_2rbtree_8h.html" title="Constants and Structures Associated with the Red&#45;Black Tree Handler." alt="" coords="343,95,498,121"/>
+<area shape="rect" id="node5" title=" " alt="" coords="296,169,383,196"/>
+<area shape="rect" id="node6" href="$basedefs_8h.html" title="Basic Definitions." alt="" coords="391,244,565,271"/>
+<area shape="rect" id="node11" href="$assert_8h.html" title="Information for the Assert Handler." alt="" coords="458,169,613,196"/>
+<area shape="rect" id="node7" title=" " alt="" coords="199,319,365,345"/>
+<area shape="rect" id="node8" title=" " alt="" coords="390,319,465,345"/>
+<area shape="rect" id="node9" title=" " alt="" coords="489,319,571,345"/>
+<area shape="rect" id="node10" title=" " alt="" coords="596,319,667,345"/>
+</map>

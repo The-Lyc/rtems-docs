@@ -1,0 +1,4 @@
+<map id="DP8390 Support" name="DP8390 Support">
+<area shape="rect" id="node1" title="DP8390 Ethernet Controller Support." alt="" coords="131,5,257,31"/>
+<area shape="rect" id="node2" href="$group__RTEMSBSPsARMGumstix.html" title="Gumstix Board Support Package." alt="" coords="5,5,83,31"/>
+</map>

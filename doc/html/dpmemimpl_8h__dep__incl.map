@@ -1,0 +1,9 @@
+<map id="cpukit/include/rtems/rtems/dpmemimpl.h" name="cpukit/include/rtems/rtems/dpmemimpl.h">
+<area shape="rect" id="node1" title="Dual Ported Memory Manager Implementation." alt="" coords="737,5,896,47"/>
+<area shape="rect" id="node2" href="$dpmemcreate_8c.html" title="RTEMS Create Port." alt="" coords="5,95,239,121"/>
+<area shape="rect" id="node3" href="$dpmemdelete_8c.html" title="RTEMS Delete Port." alt="" coords="263,95,496,121"/>
+<area shape="rect" id="node4" href="$dpmemexternal2internal_8c.html" title="RTEMS Port External to Internal." alt="" coords="521,95,825,121"/>
+<area shape="rect" id="node5" href="$dpmemident_8c.html" title="RTEMS Port Name to Id." alt="" coords="849,95,1075,121"/>
+<area shape="rect" id="node6" href="$dpmeminternal2external_8c.html" title="RTEMS Port Internal to External." alt="" coords="1099,95,1403,121"/>
+<area shape="rect" id="node7" href="$getconfigmax_8c.html" title=" " alt="" coords="1428,95,1648,121"/>
+</map>

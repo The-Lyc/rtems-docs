@@ -1,0 +1,5 @@
+<map id="rtems_jffs2_mount_data" name="rtems_jffs2_mount_data">
+<area shape="rect" id="node1" title="JFFS2 mount options." alt="" coords="161,156,341,183"/>
+<area shape="rect" id="node2" href="$structrtems__jffs2__compressor__control.html" title="JFFS2 compressor control." alt="" coords="5,29,184,70"/>
+<area shape="rect" id="node3" href="$structrtems__jffs2__flash__control.html" title="JFFS2 flash device control." alt="" coords="317,36,502,63"/>
+</map>

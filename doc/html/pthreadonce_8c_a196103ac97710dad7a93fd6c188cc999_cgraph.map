@@ -1,0 +1,7 @@
+<map id="pthread_once" name="pthread_once">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,116,57"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreOnce.html#ga2db8aad33d5d118be8a81b4b32caea85" title="Reacts according to the state of once_state." alt="" coords="164,31,227,57"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreOnce.html#ga0af2868af507faa6429f26441dbea13c" title="Locks the Once_Information_Mutex and returns the thread life state." alt="" coords="283,5,381,32"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreOnce.html#ga740a7de5e233c0d39a774f93c5e27b6e" title="Unlocks the Once_Information_Mutex and sets the thread life protection to thread_life_state." alt="" coords="275,56,389,83"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreThread.html#gad5aaea7af4482aebd880403fb9c238af" title="Set the thread to life protected." alt="" coords="437,5,640,32"/>
+</map>

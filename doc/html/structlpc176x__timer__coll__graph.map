@@ -1,0 +1,4 @@
+<map id="lpc176x_timer" name="lpc176x_timer">
+<area shape="rect" id="node1" title="The Timer device representation." alt="" coords="31,95,145,121"/>
+<area shape="rect" id="node2" href="$structlpc176x__timer__device.html" title="Represents the timer device registers." alt="" coords="5,5,171,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="bsps/powerpc/mpc8260ads/clock" name="bsps/powerpc/mpc8260ads/clock">
+<area shape="rect" id="node1" href="dir_f39a2046f9a2ed80d067a33f67a4c916.html" title="clock" alt="" coords="32,52,104,100"/>
+<area shape="rect" id="node2" href="dir_cd198e36225ba3f41de97552050ac017.html" title="cpukit" alt="" coords="32,148,104,196"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000884_000080.html" title="1" alt="" coords="72,122,81,137"/>
+<area shape="rect" id="clust1" href="dir_3efa9c2b47857c833aca425f96827c72.html" title="mpc8260ads" alt="" coords="16,16,121,111"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="_Workspace_Allocate" name="_Workspace_Allocate">
+<area shape="rect" id="node1" title="Allocates a memory block of the specified size from the workspace." alt="" coords="739,78,899,105"/>
+<area shape="rect" id="node2" href="$group__POSIX__KEY.html#ga790a7a15f816d9c7becce14825a5be6e" title=" " alt="" coords="495,5,675,47"/>
+<area shape="rect" id="node3" href="$group__POSIXShmPrivate.html#ga3c588a0b92cf32b64dca7f15b4caedd4" title="object_create operation for shm objects stored in RTEMS Workspace." alt="" coords="484,71,685,112"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreWorkspace.html#ga8bc0640d72182fd63475e74dd58c298d" title="Duplicates string with memory from the workspace." alt="" coords="479,137,691,163"/>
+<area shape="rect" id="node4" href="$group__POSIXShmPrivate.html#gaa01bbb91f3e013bb50e38c0773fb57e1" title="object_resize operation for shm objects stored in RTEMS Workspace." alt="" coords="232,71,431,112"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreObject.html#gadd5c974f986efd3e78363740eee4b249" title="Sets objects name." alt="" coords="256,137,407,163"/>
+<area shape="rect" id="node7" href="$group__ClassicClassInfo.html#gacb1a1933caf2556aa7e9b715c684fe5b" title="Set Name of Object." alt="" coords="5,137,184,163"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="_Chain_Initialize_node" name="_Chain_Initialize_node">
+<area shape="rect" id="node1" title="Initializes a chain node." alt="" coords="740,293,908,320"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreChain.html#gafab713cc67440572b20e0d853163d626" title="Initializes the chain iterator." alt="" coords="498,85,682,112"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreFreechain.html#ga787b2c73c267bbd97973e476ebeabc80" title="Puts a node back onto the freechain." alt="" coords="530,136,650,163"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreScheduler.html#ga04a65b42652ef556df7f53940d4c1a11" title="Initializes a node." alt="" coords="511,187,669,229"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreSchedulerDPS.html#ga50249c9f6e86f80647058f85f4df62cb" title="Extracts a node from the specified ready queue." alt="" coords="505,286,675,327"/>
+<area shape="rect" id="node14" href="$group__RTEMSScoreThreadQueue.html#gae18ee06777084a67d286d743355d47ac" title="Initializes a thread queue context." alt="" coords="501,835,679,877"/>
+<area shape="rect" id="node46" href="$group__RTEMSScoreThreadQueue.html#gaed8b973ae28379dbf863c01f10c993f3" title="Initializes the thread queue heads." alt="" coords="505,901,675,942"/>
+<area shape="rect" id="node47" href="$group__ClassicChains.html#ga8e0356d0c5f3efe5c26ddabfffe9f101" title="Initializes a chain node." alt="" coords="488,1496,692,1523"/>
+<area shape="rect" id="node4" href="$group__POSIX__KEY.html#ga3877909b2818b8bafe9e18c4fe45f31c" title=" " alt="" coords="227,5,440,32"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreScheduler.html#ga5d20eaccfd13a48a2e9fc2bc283836e2" title="Performs the scheduler base node initialization." alt="" coords="260,57,407,98"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreSchedulerEDF.html#ga465fd54ce1c8c0633424db0933856c67" title="Initializes an EDF specific scheduler node of the_thread." alt="" coords="250,122,417,163"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreSchedulerDPS.html#ga068b274fb5ddb43859266d6bcfadb060" title="Initializes the node with the given priority." alt="" coords="260,187,407,229"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreSchedulerCBS.html#gabb8137112e3b30c70daa4dc3221093cb" title="Initializes a CBS specific scheduler node of the_thread." alt="" coords="9,122,175,163"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreSchedulerDPS.html#gaedde62e7cf01a24fac59b6ad06d3cb08" title="Extracts a node from the context of the scheduler." alt="" coords="260,253,407,294"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreSchedulerDPS.html#gaa9250624cb136b5fd42bdfe060a2eb5e" title="Updates the priority of the node." alt="" coords="260,318,407,359"/>
+<area shape="rect" id="node12" href="$group__RTEMSScoreSchedulerDPS.html#ga0ef8d30efe3b8106036c277fb1e6967e" title="Blocks the thread." alt="" coords="19,253,165,294"/>
+<area shape="rect" id="node15" href="$group__ClassicBarrierImpl.html#gaddb2ead3ee36662670debcccad61093d" title=" " alt="" coords="282,384,385,411"/>
+<area shape="rect" id="node18" href="$condition_8c.html#ab4851b3d7aad798d08f295eb8524425c" title=" " alt="" coords="270,435,397,461"/>
+<area shape="rect" id="node19" href="$condition_8c.html#a76447e939e997f86e84a255330b3eb3e" title=" " alt="" coords="236,485,431,512"/>
+<area shape="rect" id="node21" href="$condition_8c.html#a7af6fe72f82b2508ed01c7ac5412bd18" title=" " alt="" coords="236,537,431,578"/>
+<area shape="rect" id="node23" href="$condition_8c.html#a1b9c4a28c415c97cc7030992f4ab239f" title=" " alt="" coords="247,603,419,629"/>
+<area shape="rect" id="node24" href="$group__RTEMSScoreRWLock.html#ga52aa185dba7e461fae75d0cb7a183279" title="Releases the RWLock." alt="" coords="236,653,431,680"/>
+<area shape="rect" id="node25" href="$group__ClassicMessageQueueImpl.html#ga2ae3fbe2f3c43ea7a991289339222f85" title=" " alt="" coords="251,704,415,731"/>
+<area shape="rect" id="node29" href="$group__RTEMSScoreMPCI.html#gaf232dadc9160e4b1c733906d3a6d1f57" title="Receives and processes all packets." alt="" coords="249,755,418,781"/>
+<area shape="rect" id="node30" href="$group__RTEMSScoreMPCI.html#gaa7cccdabe9e7db7495e1d8bd12e6bcb0" title="Sends a request packet." alt="" coords="255,806,412,847"/>
+<area shape="rect" id="node31" href="$mqueueimpl_8h.html#a151a73b53a46d88c0939c6638f7d4145" title=" " alt="" coords="228,872,439,899"/>
+<area shape="rect" id="node35" href="$group__POSIX__SIGNALS.html#gab678ac01e81226400e1326d3fbb92e77" title="Set POSIX process signals." alt="" coords="259,923,408,965"/>
+<area shape="rect" id="node36" href="$group__ClassicSemImpl.html#gae6c81c48866b311568aeb67633d934ef" title=" " alt="" coords="267,989,400,1016"/>
+<area shape="rect" id="node37" href="$group__RTEMSScoreThreadQueue.html#ga1671707d42e9a381c3737b58deed97d5" title="Dequeues the first thread waiting on the thread queue and returns it." alt="" coords="229,1040,438,1067"/>
+<area shape="rect" id="node38" href="$group__RTEMSScoreThread.html#gaecbbb447ef2795643c4055ecd2b0f714" title="Restarts the currently executing thread." alt="" coords="254,1091,413,1117"/>
+<area shape="rect" id="node39" href="$nanosleep_8c.html#a924d51d78cdcd9d7dee2613fb3a33cd1" title=" " alt="" coords="268,1141,399,1168"/>
+<area shape="rect" id="node40" href="$pthreadgetschedparam_8c.html#aae9850b3759769c748727e171c4c6e61" title=" " alt="" coords="243,1192,423,1219"/>
+<area shape="rect" id="node42" href="$pthreadsetschedparam_8c.html#a5863ca5ea1eaf973c408e2c3bbaff3a7" title=" " alt="" coords="244,1243,423,1269"/>
+<area shape="rect" id="node43" href="$pthreadsetschedprio_8c.html#a7a23cbcfc21a4e3edf531ed65f022370" title=" " alt="" coords="252,1293,415,1320"/>
+<area shape="rect" id="node44" href="$group__ClassicTasks.html#gaf7c82a7fa13338a65583dc3d760ad9cc" title="RTEMS Delete Task." alt="" coords="262,1344,405,1371"/>
+<area shape="rect" id="node45" href="$group__ClassicTasks.html#gad06646a724fbaf16f1a4d117d1c667dc" title="Gets the current priority of the specified task with respect to the specified scheduler instance." alt="" coords="245,1395,422,1421"/>
+<area shape="rect" id="node16" href="$group__ClassicBarrier.html#ga942ec086e0fa6aa0939629fb617a763b" title="RTEMS Delete Barrier." alt="" coords="13,359,171,385"/>
+<area shape="rect" id="node17" href="$group__ClassicBarrier.html#gaca341b3ac7701013f5e94cfff7b659d7" title="RTEMS Barrier Release." alt="" coords="9,409,175,436"/>
+<area shape="rect" id="node20" href="$cnd_8c.html#ac4dfb82fc3d92bb688cb07308af6a659" title=" " alt="" coords="52,485,132,512"/>
+<area shape="rect" id="node22" href="$cnd_8c.html#a31409b0f0bd8c280edec620a4bf8949a" title=" " alt="" coords="33,544,151,571"/>
+<area shape="rect" id="node26" href="$group__ClassicMessageQueue.html#ga4cf66620ef43543885708a1185b386ab" title="RTEMS Delete Message Queue." alt="" coords="5,629,179,670"/>
+<area shape="rect" id="node27" href="$group__ClassicMessageQueue.html#ga8b97ede3b5602d6f5cca6229f96f27ee" title="rtems_message_queue_flush" alt="" coords="5,694,179,735"/>
+<area shape="rect" id="node28" href="$group__ClassicMessageQueue.html#gacee875342933dcff59f9ed66232cdce8" title="RTEMS Message Queue Get Number Pending." alt="" coords="5,759,179,801"/>
+<area shape="rect" id="node32" href="$mqueueclose_8c.html#a3fbd3906296be63451c64d69be2bc371" title=" " alt="" coords="50,825,134,852"/>
+<area shape="rect" id="node33" href="$mqueuegetattr_8c.html#a5a55ce03d8466a53a36601aaca9ee328" title=" " alt="" coords="45,876,139,903"/>
+<area shape="rect" id="node34" href="$mqueuenotify_8c.html#a5eadbb82e0b9702d77f384a27827b334" title=" " alt="" coords="49,927,135,953"/>
+<area shape="rect" id="node41" href="$aio__misc_8c.html#a8477bc52bcf6620a6f253b06075d1554" title=" " alt="" coords="17,1445,167,1472"/>
+<area shape="rect" id="node48" href="$aio__misc_8c.html#af4a6927e7d9b3b57ba8cc7c52a23f757" title=" " alt="" coords="255,1496,412,1523"/>
+<area shape="rect" id="node49" href="$group__FileSystemTypesAndMount.html#gaac7f1c7fe78f3acc145272809cef62a2" title="Registers a file system type." alt="" coords="237,1547,429,1573"/>
+<area shape="rect" id="node50" href="$sup__fs__location_8c.html#ae59dc1362fff80b1b4ad01bb492eaf90" title=" " alt="" coords="239,1598,428,1639"/>
+</map>

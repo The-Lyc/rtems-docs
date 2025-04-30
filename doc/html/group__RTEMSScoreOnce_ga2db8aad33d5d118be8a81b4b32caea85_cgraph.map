@@ -1,0 +1,6 @@
+<map id="_Once" name="_Once">
+<area shape="rect" id="node1" title="Reacts according to the state of once_state." alt="" coords="5,31,68,57"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreOnce.html#ga0af2868af507faa6429f26441dbea13c" title="Locks the Once_Information_Mutex and returns the thread life state." alt="" coords="124,5,223,32"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreOnce.html#ga740a7de5e233c0d39a774f93c5e27b6e" title="Unlocks the Once_Information_Mutex and sets the thread life protection to thread_life_state." alt="" coords="116,56,231,83"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreThread.html#gad5aaea7af4482aebd880403fb9c238af" title="Set the thread to life protected." alt="" coords="279,5,481,32"/>
+</map>

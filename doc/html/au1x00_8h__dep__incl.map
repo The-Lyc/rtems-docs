@@ -1,0 +1,9 @@
+<map id="bsps/mips/include/libcpu/au1x00.h" name="bsps/mips/include/libcpu/au1x00.h">
+<area shape="rect" id="node1" title=" " alt="" coords="515,5,698,47"/>
+<area shape="rect" id="node2" href="$mips_2csb350_2console_2console-io_8c.html" title=" " alt="" coords="5,95,197,136"/>
+<area shape="rect" id="node3" href="$bsps_2mips_2csb350_2include_2bsp_8h.html" title="Global BSP definitions." alt="" coords="221,95,411,136"/>
+<area shape="rect" id="node4" href="$csb350_2irq_2vectorisrs_8c.html" title=" " alt="" coords="435,95,594,136"/>
+<area shape="rect" id="node5" href="$mips_2csb350_2net_2network_8c.html" title=" " alt="" coords="619,95,781,136"/>
+<area shape="rect" id="node6" href="$mips_2csb350_2start_2bspreset_8c.html" title=" " alt="" coords="806,95,978,136"/>
+<area shape="rect" id="node7" href="$mips_2csb350_2start_2bspstart_8c.html" title=" " alt="" coords="1002,95,1174,136"/>
+</map>

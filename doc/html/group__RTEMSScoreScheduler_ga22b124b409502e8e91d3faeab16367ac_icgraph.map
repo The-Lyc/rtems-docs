@@ -1,0 +1,7 @@
+<map id="_Scheduler_Get_index" name="_Scheduler_Get_index">
+<area shape="rect" id="node1" title="Gets the index of the scheduler." alt="" coords="247,81,413,108"/>
+<area shape="rect" id="node2" href="$sched_8c.html#a3f406fb0ad83f490c061bd63ff1f5cb9" title=" " alt="" coords="47,5,157,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreScheduler.html#gafdf8dfa2c90ca2122b995bb6dd42fcda" title="Sets a new scheduler." alt="" coords="41,56,163,83"/>
+<area shape="rect" id="node4" href="$group__ClassicTasks.html#gad06646a724fbaf16f1a4d117d1c667dc" title="Gets the current priority of the specified task with respect to the specified scheduler instance." alt="" coords="13,107,191,133"/>
+<area shape="rect" id="node5" href="$group__ClassicTasks.html#gae1825025c9bc70a32d9e223759586b9d" title="Gets the scheduler of a task." alt="" coords="5,157,199,184"/>
+</map>

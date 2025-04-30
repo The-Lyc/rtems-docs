@@ -1,0 +1,11 @@
+<map id="_CORE_recursive_mutex_Seize" name="_CORE_recursive_mutex_Seize">
+<area shape="rect" id="node1" title="Seizes the recursive mutex." alt="" coords="5,115,187,156"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreMutex.html#ga7efc39f335c242812ebe84999e526db4" title="Acquires the mutex critical." alt="" coords="245,5,415,47"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreMutex.html#gac97696832bb6ad43d333541536040ec3" title="Gets the owner of the mutex." alt="" coords="235,71,425,98"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreMutex.html#ga0bb76a8a25cab71b0fdaa1f7b215f809" title="Releases the mutex." alt="" coords="243,122,417,149"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreMutex.html#gaf6d95e3bb9f3ebb168fa67f3731740dc" title="Sets the owner of the mutex." alt="" coords="235,173,425,199"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreThread.html#gade8b030c16456ceae1596e2e3fab9808" title="Increments the thread&#39;s resource count." alt="" coords="238,224,422,265"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreThreadQueue.html#ga2bb5c604a28a636950cca7aa43a47869" title="Acquires the thread queue control in a critical section." alt="" coords="475,5,652,47"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreThreadQueue.html#gaf1488e09cc925566233f2f1fc76c4d81" title="Acquires the thread queue control in a critical section." alt="" coords="701,5,903,47"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreThreadQueue.html#ga0a8881ef4106a0707b2751cdd3d18bef" title="Releases the thread queue control and enables interrupts." alt="" coords="473,122,653,149"/>
+</map>

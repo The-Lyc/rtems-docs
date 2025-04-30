@@ -1,0 +1,4 @@
+<map id="rtems_gpio_release_configuration" name="rtems_gpio_release_configuration">
+<area shape="rect" id="node1" title="Releases a GPIO pin, making it available to be used again." alt="" coords="5,5,156,47"/>
+<area shape="rect" id="node2" href="$gpio-support_8c.html#a365b5cf4bcbb396316f2d99569ad95ec" title="Releases a GPIO pin, making it available to be used again." alt="" coords="204,13,381,39"/>
+</map>

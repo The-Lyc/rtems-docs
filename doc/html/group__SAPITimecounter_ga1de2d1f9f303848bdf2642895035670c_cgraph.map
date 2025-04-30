@@ -1,0 +1,5 @@
+<map id="rtems_timecounter_simple_upcounter_tick" name="rtems_timecounter_simple_upcounter_tick">
+<area shape="rect" id="node1" title="Performs a simple timecounter tick for upcounters." alt="" coords="5,27,203,69"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreTimecounter.html#ga4846ddfe4d962ac1cc41c022f7ae0d60" title="Performs a simple timecounter tick." alt="" coords="251,5,447,32"/>
+<area shape="rect" id="node3" href="$group__SAPITimecounter.html#ga1b96b117973dd33c364e433d022048d9" title="Maps a simple timecounter value into its binary frequency domain." alt="" coords="251,57,448,98"/>
+</map>

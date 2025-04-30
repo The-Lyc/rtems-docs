@@ -1,0 +1,11 @@
+<map id="_Objects_Get_inactive" name="_Objects_Get_inactive">
+<area shape="rect" id="node1" title="Get an inactive object or NULL." alt="" coords="5,81,172,108"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreChain.html#gac5bb79fd8e5b468790918a8e674a5d36" title="Gets the first node (unprotected)." alt="" coords="220,81,401,108"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreChain.html#ga1b1dedf23d978ddd9b30b0d1feb6e093" title="Gets the first node (unprotected)." alt="" coords="449,56,663,83"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreChain.html#ga67ffad0c14d402473760ec6bb8e93bcc" title="Checks if the chain is empty." alt="" coords="724,107,857,133"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreChain.html#ga8b66d3138b9cdacbcb0600c42237ff7d" title="Returns pointer to chain head." alt="" coords="737,5,844,32"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreChain.html#gadf0e5d55d133694eed8043ec13fe1266" title="Sets off chain." alt="" coords="711,56,871,83"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreChain.html#ga8b2c850d4d09d8db80d11e3199bce386" title="Returns pointer to immutable chain&#39;s first node." alt="" coords="919,81,1095,108"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreChain.html#gaa2f09e6d639b1bc5a27451eb119b6e33" title="Returns pointer to immutable chain tail." alt="" coords="921,132,1093,159"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreChain.html#gac08944db6f0428125d3b0d5a1c65b740" title="Returns pointer to immutable chain head." alt="" coords="1143,81,1325,108"/>
+</map>

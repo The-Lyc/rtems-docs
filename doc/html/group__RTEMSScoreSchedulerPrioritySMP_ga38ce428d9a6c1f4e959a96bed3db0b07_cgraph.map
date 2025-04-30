@@ -1,0 +1,4 @@
+<map id="_Scheduler_priority_SMP_Add_processor" name="_Scheduler_priority_SMP_Add_processor">
+<area shape="rect" id="node1" title="Adds idle to scheduler." alt="" coords="5,5,164,47"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreScheduler.html#ga9c62ef5a388b998fa041a269297be1fe" title="Gets the context of the scheduler." alt="" coords="212,13,391,39"/>
+</map>

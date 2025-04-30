@@ -1,0 +1,8 @@
+<map id="Shm_setvec" name="Shm_setvec">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,107,57"/>
+<area shape="rect" id="node2" href="$group__RTEMSBSPsBfinBF537Stamp.html#gab3388042c56b34c40be81fd5f028d97e" title=" " alt="" coords="155,5,245,32"/>
+<area shape="rect" id="node3" href="$shm__driver_8h.html#a4ffaf6a9c0123568f3dc0b1d3f214554" title=" " alt="" coords="163,56,237,83"/>
+<area shape="rect" id="node4" href="$group__ClassicMP.html#ga2dacfadddfd9155a1e2f7d4230ac00e0" title="RTEMS Multiprocessing Announce." alt="" coords="293,49,464,90"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreMPCI.html#gaafbd7ed1ef4bd2b8672df8da832f79f4" title="Announces the availability of a packet." alt="" coords="512,56,645,83"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreSemaphore.html#ga77394f444e0a86af7eae34891fe96578" title="Surrenders a unit to the semaphore." alt="" coords="693,56,908,83"/>
+</map>

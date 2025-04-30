@@ -1,0 +1,19 @@
+<map id="thrd_sleep" name="thrd_sleep">
+<area shape="rect" id="node1" title=" " alt="" coords="5,217,96,244"/>
+<area shape="rect" id="node2" href="$nanosleep_8c.html#a9ce6a1ed91a601dee133c8b6cf8b721a" title=" " alt="" coords="144,217,233,244"/>
+<area shape="rect" id="node3" href="$nanosleep_8c.html#a924d51d78cdcd9d7dee2613fb3a33cd1" title=" " alt="" coords="281,217,412,244"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreThreadQueue.html#ga40080175681761a842fe6ab4784735b9" title="Acquires the thread queue control in a critical section." alt="" coords="475,5,653,32"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreThreadQueue.html#gae18ee06777084a67d286d743355d47ac" title="Initializes a thread queue context." alt="" coords="475,57,653,98"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreThreadQueue.html#ga3094c6721a6db2468884cfb502263d36" title="Sets the enqueue callout to add an absolute monotonic timeout in timespec format." alt="" coords="475,123,653,179"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreThreadQueue.html#gab148af32965cdef1887db52409f7ee86" title="Sets the enqueue callout to add an absolute realtime timeout in timespec format." alt="" coords="475,203,653,259"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreThreadQueue.html#gab31678d367077d484797bc9c4d97574e" title="Sets the thread state for the thread to enqueue in the thread queue context." alt="" coords="475,283,653,325"/>
+<area shape="rect" id="node14" href="$__timecounter_8h.html#a5c10d01f5652f30936f982f63de6f695" title=" " alt="" coords="465,349,663,376"/>
+<area shape="rect" id="node15" href="$group__RTEMSScoreWatchdog.html#ga1bc0554fdaf14c4a01c4a1bc15ddca48" title="Adds the delta timespec to the current time if the delta is a valid interval timespec." alt="" coords="460,400,668,427"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreChain.html#gab0fa19f01d37f1d510405e6382fd8b67" title="Initializes a chain node." alt="" coords="737,21,905,48"/>
+<area shape="rect" id="node8" href="$bootldr_8h.html#a36d20f7d597c517b964289f6b54ddfa7" title=" " alt="" coords="783,72,859,99"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreChain.html#gadf0e5d55d133694eed8043ec13fe1266" title="Sets off chain." alt="" coords="975,21,1135,48"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreThreadQueue.html#ga4ec75c62ea3aad333b84e577a2bb09a4" title="Adds a monotonic timespec to the thread and sets the watchdog header to monotonic." alt="" coords="716,130,927,171"/>
+<area shape="rect" id="node12" href="$group__RTEMSScoreThreadQueue.html#ga14552dcef85b4627e1b2d150f7245f81" title="Adds a monotonic timespec to the thread and sets the watchdog header to realtime." alt="" coords="716,210,927,251"/>
+<area shape="rect" id="node16" href="$group__RTEMSScoreWatchdog.html#gaf50ac3de653d343784376b28e0cedf6a" title="Checks if the timespec is a valid interval timespec for a watchdog." alt="" coords="746,393,897,434"/>
+<area shape="rect" id="node17" href="$group__RTEMSScoreWatchdog.html#gacc1967581868e41a96cd0a3181b3e755" title="Checks if the timespec is a valid timespec for a watchdog." alt="" coords="979,393,1130,434"/>
+</map>

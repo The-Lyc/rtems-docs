@@ -1,0 +1,4 @@
+<map id="rtems_is_status_successful" name="rtems_is_status_successful">
+<area shape="rect" id="node1" title="Checks if the status code is equal to RTEMS_SUCCESSFUL." alt="" coords="232,13,432,39"/>
+<area shape="rect" id="node2" href="$group__ClassicTasksImpl.html#gac2c1ab4bf7c8768a39084976a8d9f669" title="System initialization handler to create and start the first user task." alt="" coords="5,5,184,47"/>
+</map>

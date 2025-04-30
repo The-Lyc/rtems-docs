@@ -1,0 +1,6 @@
+<map id="bsps/mips/include/bsp/i8259.h" name="bsps/mips/include/bsp/i8259.h">
+<area shape="rect" id="node1" title="Data structure and functions used to control i8259 chip." alt="" coords="179,5,345,47"/>
+<area shape="rect" id="node2" href="$malta_2irq_2vectorisrs_8c.html" title=" " alt="" coords="5,95,156,136"/>
+<area shape="rect" id="node3" href="$mips_2malta_2start_2bspstart_8c.html" title=" " alt="" coords="180,95,344,136"/>
+<area shape="rect" id="node4" href="$mips_2shared_2irq_2i8259_8c.html" title=" " alt="" coords="369,95,526,136"/>
+</map>

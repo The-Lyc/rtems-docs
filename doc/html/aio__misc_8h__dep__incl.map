@@ -1,0 +1,8 @@
+<map id="cpukit/include/rtems/posix/aio_misc.h" name="cpukit/include/rtems/posix/aio_misc.h">
+<area shape="rect" id="node1" title="POSIX Asynchronous Input and Output Private Support." alt="" coords="346,5,501,47"/>
+<area shape="rect" id="node2" href="$aio__cancel_8c.html" title="Cancel Asynchronous I/O Operation." alt="" coords="5,95,153,136"/>
+<area shape="rect" id="node3" href="$aio__fsync_8c.html" title="Syncing of all Outstanding Asynchronous I/O Operations." alt="" coords="177,95,325,136"/>
+<area shape="rect" id="node4" href="$aio__misc_8c.html" title="Actual request being processed." alt="" coords="349,95,497,136"/>
+<area shape="rect" id="node5" href="$aio__read_8c.html" title="Asynchronously reads Data from a File." alt="" coords="521,95,669,136"/>
+<area shape="rect" id="node6" href="$aio__write_8c.html" title="Function queues I/O request described by buffer pointed by aiocb." alt="" coords="693,95,841,136"/>
+</map>

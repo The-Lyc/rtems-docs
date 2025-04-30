@@ -1,0 +1,12 @@
+<map id="clntudp_bufcreate" name="clntudp_bufcreate">
+<area shape="rect" id="node1" title=" " alt="" coords="768,123,907,150"/>
+<area shape="rect" id="node2" href="$clnt__udp_8c.html#a25d96a6396dbf5837139c0478f1cd975" title=" " alt="" coords="601,73,720,99"/>
+<area shape="rect" id="node4" href="$pmap__clnt_8c.html#a920cd19a78789d6fb4297056961719ed" title=" " alt="" coords="153,47,240,74"/>
+<area shape="rect" id="node5" href="$pmap__clnt_8c.html#aeabebebb4255527c70fe8dd02347d8d1" title=" " alt="" coords="145,149,248,175"/>
+<area shape="rect" id="node8" href="$pmap__getport_8c.html#aee06f6c3a1e39a7a9e0c19f6c6f3de20" title=" " alt="" coords="604,123,717,150"/>
+<area shape="rect" id="node3" href="$clnt__generic_8c.html#afdb74699a02f4905aa56cf843c2f934d" title=" " alt="" coords="296,98,391,125"/>
+<area shape="rect" id="node7" href="$pmap__rmt_8c.html#a8cee415345798118fdbd7e5cade3aac7" title=" " alt="" coords="440,22,552,49"/>
+<area shape="rect" id="node6" href="$svc__simple_8c.html#ae1ed444859be78b541c478b4de819270" title=" " alt="" coords="5,149,97,175"/>
+<area shape="rect" id="node9" href="$clnt__tcp_8c.html#ad06c8791cccb19aa687cd719c1892548" title=" " alt="" coords="439,123,553,150"/>
+<area shape="rect" id="node10" href="$getrpcport_8c.html#a115fa8df1178559e3cd99bea17aef56d" title=" " alt="" coords="451,174,541,201"/>
+</map>

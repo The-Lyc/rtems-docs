@@ -1,0 +1,5 @@
+<map id="_RBTree_Replace_node" name="_RBTree_Replace_node">
+<area shape="rect" id="node1" title="Replaces a node in the red&#45;black tree without a rebalance." alt="" coords="419,5,591,32"/>
+<area shape="rect" id="node2" href="$group__RTEMSScorePriority.html#ga5571db1b8c4f7e5a5aa4ce4398e55f6a" title="Replaces one node by another." alt="" coords="236,5,371,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreThread.html#ga4f0fe1a67da542aa18a7cbb3d4e2f47a" title="Replaces the victim priority node with the replacement priority node in the corresponding thread prio..." alt="" coords="5,5,188,32"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="Classic" name="Classic">
+<area shape="rect" id="node1" href="$group__ClassicASRImpl.html" title=" " alt="" coords="271,5,477,31"/>
+<area shape="rect" id="node2" href="$group__ClassicTasksImpl.html" title=" " alt="" coords="289,55,459,95"/>
+<area shape="rect" id="node3" href="$group__ClassicDPMEMImpl.html" title=" " alt="" coords="279,119,469,159"/>
+<area shape="rect" id="node4" href="$group__ClassicUserExtensionsImpl.html" title=" " alt="" coords="257,184,491,209"/>
+<area shape="rect" id="node5" title="Classic." alt="" coords="125,461,193,487"/>
+<area shape="rect" id="node6" href="$group__ClassicModesImpl.html" title=" " alt="" coords="263,233,485,259"/>
+<area shape="rect" id="node7" href="$group__ClassicEventImpl.html" title=" " alt="" coords="265,283,483,308"/>
+<area shape="rect" id="node8" href="$group__ClassicMessageQueueImpl.html" title=" " alt="" coords="286,333,462,373"/>
+<area shape="rect" id="node9" href="$group__ClassicAttributesImpl.html" title=" " alt="" coords="306,397,442,437"/>
+<area shape="rect" id="node10" href="$group__ClassicSignalImpl.html" title=" " alt="" coords="285,461,463,487"/>
+<area shape="rect" id="node11" href="$group__ClassicRegionImpl.html" title=" " alt="" coords="285,511,463,551"/>
+<area shape="rect" id="node12" href="$group__ClassicPartImpl.html" title=" " alt="" coords="281,575,467,615"/>
+<area shape="rect" id="node13" href="$group__ClassicStatusImpl.html" title=" " alt="" coords="263,640,485,665"/>
+<area shape="rect" id="node14" href="$group__ClassicRateMonImpl.html" title=" " alt="" coords="275,690,473,730"/>
+<area shape="rect" id="node15" href="$group__ClassicTimerImpl.html" title=" " alt="" coords="265,755,483,780"/>
+<area shape="rect" id="node16" href="$group__ClassicBarrierImpl.html" title=" " alt="" coords="262,804,486,829"/>
+<area shape="rect" id="node17" href="$group__ClassicSemImpl.html" title=" " alt="" coords="241,853,507,879"/>
+<area shape="rect" id="node19" href="$group__ClassicOptionsImpl.html" title=" " alt="" coords="259,903,489,928"/>
+<area shape="rect" id="node18" href="$group__RTEMSInternal.html" title="RTEMS Implementation." alt="" coords="5,461,77,487"/>
+</map>

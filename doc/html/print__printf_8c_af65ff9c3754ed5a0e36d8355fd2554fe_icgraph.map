@@ -1,0 +1,5 @@
+<map id="rtems_vprintf" name="rtems_vprintf">
+<area shape="rect" id="node1" title="Print to the kernel plugin handler. This has to be a macro because there is no vprint version of the ..." alt="" coords="188,31,299,57"/>
+<area shape="rect" id="node2" href="$testwrappers_8c.html#a2e6bf452e726bb1688e836a47d0f13f9" title=" " alt="" coords="17,5,128,32"/>
+<area shape="rect" id="node3" href="$testbeginend_8c.html#a5df051e8f69598d1a4d1db4d575632c8" title=" " alt="" coords="5,56,140,83"/>
+</map>

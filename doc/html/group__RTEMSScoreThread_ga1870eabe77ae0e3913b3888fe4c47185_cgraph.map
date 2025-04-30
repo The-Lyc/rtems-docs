@@ -1,0 +1,4 @@
+<map id="_Thread_Timeout" name="_Thread_Timeout">
+<area shape="rect" id="node1" title="General purpose thread wait timeout." alt="" coords="5,5,140,32"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreThread.html#ga0c68c63c9078a21b302b801d351f4721" title="Cancels a blocking operation so that the thread can continue its execution." alt="" coords="188,5,327,32"/>
+</map>

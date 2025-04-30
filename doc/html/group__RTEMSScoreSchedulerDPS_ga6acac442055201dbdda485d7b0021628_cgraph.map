@@ -1,0 +1,8 @@
+<map id="_Scheduler_priority_Ready_queue_update" name="_Scheduler_priority_Ready_queue_update">
+<area shape="rect" id="node1" title="Updates the specified ready queue data according to the new priority value." alt="" coords="5,74,175,115"/>
+<area shape="rect" id="node2" href="$group__RTEMSScorePriority.html#gab11e5706b0623eda6bb5a0c7f85f3a50" title="Initializes the bit map information." alt="" coords="223,74,421,115"/>
+<area shape="rect" id="node3" href="$group__RTEMSScorePriority.html#ga7e9cb59c60f7231a454824509f3a1b6a" title="Returns the bit index position for the specified major or minor bit number." alt="" coords="469,5,620,32"/>
+<area shape="rect" id="node4" href="$group__RTEMSScorePriority.html#ga1e9fd447bd6120ec504a82d5e4f4dc24" title="Returns the major portion of the_priority." alt="" coords="485,56,605,83"/>
+<area shape="rect" id="node5" href="$group__RTEMSScorePriority.html#gadf554c1cf4e5a358ebb28e90e013ccb1" title="Returns the priority bit mask for the specified major or minor bit number." alt="" coords="485,107,604,133"/>
+<area shape="rect" id="node6" href="$group__RTEMSScorePriority.html#gaaf7dd3dde9aa776f2c16fee4c1e572ed" title="Returns the minor portion of the_priority." alt="" coords="485,157,605,184"/>
+</map>

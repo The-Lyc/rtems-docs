@@ -1,0 +1,12 @@
+<map id="bsps/mips/csb350/btimer/btimer.c" name="bsps/mips/csb350/btimer/btimer.c">
+<area shape="rect" id="node1" title=" " alt="" coords="123,5,309,47"/>
+<area shape="rect" id="node2" href="$assert_8h.html" title="Information for the Assert Handler." alt="" coords="5,169,80,196"/>
+<area shape="rect" id="node8" title=" " alt="" coords="299,95,357,121"/>
+<area shape="rect" id="node9" href="$btimer_8h.html" title="RTEMS Benchmark Timer API for all Boards." alt="" coords="157,95,275,121"/>
+<area shape="rect" id="node3" href="$basedefs_8h.html" title="Basic Definitions." alt="" coords="155,244,330,271"/>
+<area shape="rect" id="node4" title=" " alt="" coords="218,319,385,345"/>
+<area shape="rect" id="node5" title=" " alt="" coords="119,319,193,345"/>
+<area shape="rect" id="node6" title=" " alt="" coords="409,319,492,345"/>
+<area shape="rect" id="node7" title=" " alt="" coords="23,319,94,345"/>
+<area shape="rect" id="node10" href="$rtems_2status_8h.html" title=" " alt="" coords="159,169,318,196"/>
+</map>

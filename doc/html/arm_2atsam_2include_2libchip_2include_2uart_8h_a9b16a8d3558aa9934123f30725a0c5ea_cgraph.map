@@ -1,0 +1,5 @@
+<map id="UART_SendBuffer" name="UART_SendBuffer">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,140,32"/>
+<area shape="rect" id="node2" href="$arm_2atsam_2contrib_2libraries_2libchip_2source_2uart_8c.html#a3c87a55c11e78561fcc351c0ecc6489c" title="Sends one packet of data through the specified UART peripheral. This function operates synchronously,..." alt="" coords="188,5,303,32"/>
+<area shape="rect" id="node3" href="$arm_2atsam_2contrib_2libraries_2libchip_2source_2uart_8c.html#a00e60c418f3031062060215af67aa3e1" title="Return 1 if a character can be read in UART." alt="" coords="351,5,484,32"/>
+</map>

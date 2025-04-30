@@ -1,0 +1,6 @@
+<map id="Motorola 68360" name="Motorola 68360">
+<area shape="rect" id="node1" href="$group__RTEMSBSPsM68k.html" title="Motorola 68000 and NXP ColdFire Board Support Packages." alt="" coords="5,23,167,63"/>
+<area shape="rect" id="node4" title="Motorola 68360 Board Support Package." alt="" coords="215,31,339,56"/>
+<area shape="rect" id="node2" href="$group__m68k__tm27.html" title="Don&#39;t bother with hardware – just use a software&#45;interrupt." alt="" coords="389,5,551,31"/>
+<area shape="rect" id="node3" href="$group__m68k__m360spi.html" title="M360_SPIDRV Support Package." alt="" coords="387,55,553,80"/>
+</map>

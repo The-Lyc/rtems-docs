@@ -1,0 +1,13 @@
+<map id="_Scheduler_simple_Insert" name="_Scheduler_simple_Insert">
+<area shape="rect" id="node1" title="Inserts the thread control with the given priority into the chain." alt="" coords="5,46,193,73"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreChain.html#ga6f5fcf3a7ec9b65a965c07b9722f6674" title="Inserts a node into the chain according to the order relation." alt="" coords="257,5,424,47"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreSchedulerSimple.html#ga7ab1b2107fa8ab8825cb6c3488250296" title="Checks if the priority is less or equal than the priority of the node." alt="" coords="241,71,440,112"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreThread.html#ga3107774ee53fe4ac8323ba4a0f48f8bc" title="Returns the priority of the thread." alt="" coords="488,78,647,105"/>
+<area shape="rect" id="node5" href="$group__RTEMSScorePriority.html#gaea7676bde1276ab7042195c043e25bd5" title="Gets the priority aggregation&#39;s priority." alt="" coords="701,49,861,75"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreThread.html#ga080a177afc4fc254a1081485cd89f75d" title="Gets the scheduler&#39;s home node." alt="" coords="695,100,868,141"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreChain.html#ga89304b2d294b98f4909dcb6e68d7ec82" title="Returns pointer to chain&#39;s first node." alt="" coords="932,82,1033,109"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreChain.html#ga67ffad0c14d402473760ec6bb8e93bcc" title="Checks if the chain is empty." alt="" coords="916,133,1049,159"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreChain.html#gac08944db6f0428125d3b0d5a1c65b740" title="Returns pointer to immutable chain head." alt="" coords="1321,107,1504,134"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreChain.html#ga8b2c850d4d09d8db80d11e3199bce386" title="Returns pointer to immutable chain&#39;s first node." alt="" coords="1097,133,1273,159"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreChain.html#gaa2f09e6d639b1bc5a27451eb119b6e33" title="Returns pointer to immutable chain tail." alt="" coords="1099,183,1271,210"/>
+</map>

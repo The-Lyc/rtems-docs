@@ -1,0 +1,4 @@
+<map id="spi_bus_destroy" name="spi_bus_destroy">
+<area shape="rect" id="node1" title="Destroys a bus control." alt="" coords="244,5,371,32"/>
+<area shape="rect" id="node2" href="$group__SPI.html#ga6c6868bad5d8e9ea136b23947dd9a7a6" title="Destroys a bus control and frees its memory." alt="" coords="5,5,196,32"/>
+</map>

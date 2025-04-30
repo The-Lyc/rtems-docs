@@ -1,0 +1,8 @@
+<map id="qoriq_pic" name="qoriq_pic">
+<area shape="rect" id="node1" title=" " alt="" coords="471,199,552,225"/>
+<area shape="rect" id="node2" href="$structqoriq__pic__src__cfg.html" title=" " alt="" coords="214,33,349,60"/>
+<area shape="rect" id="node3" href="$structqoriq__pic__global__timer.html" title=" " alt="" coords="196,88,367,115"/>
+<area shape="rect" id="node4" href="$structqoriq__pic__reg.html" title=" " alt="" coords="5,229,115,256"/>
+<area shape="rect" id="node6" href="$structqoriq__pic__per__cpu.html" title=" " alt="" coords="212,260,351,287"/>
+<area shape="rect" id="node5" href="$structqoriq__pic__bit__field.html" title=" " alt="" coords="211,311,351,337"/>
+</map>

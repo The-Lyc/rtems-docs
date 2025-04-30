@@ -1,0 +1,13 @@
+<map id="bsps/powerpc/psim/net" name="bsps/powerpc/psim/net">
+<area shape="rect" id="node1" href="dir_be5143314b14b5417d7aaf7784abbcf7.html" title="net" alt="" coords="68,52,140,100"/>
+<area shape="rect" id="node2" href="dir_07fdfa386f03ea619f7ea83f2bc2ebad.html" title="include" alt="" coords="5,244,77,292"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000893_000304.html" title="1" alt="" coords="45,218,55,233"/>
+<area shape="rect" id="node3" href="dir_8f5afd8de39466f313e119298bfbbf90.html" title="include" alt="" coords="68,148,140,196"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000893_000200.html" title="1" alt="" coords="108,122,117,137"/>
+<area shape="rect" id="node4" href="dir_cd198e36225ba3f41de97552050ac017.html" title="cpukit" alt="" coords="79,340,151,388"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000893_000080.html" title="2" alt="" coords="136,319,145,334"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000304_000080.html" title="23" alt="" coords="84,313,101,328"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000200_000304.html" title="3" alt="" coords="69,226,78,241"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000200_000080.html" title="2" alt="" coords="116,314,125,329"/>
+<area shape="rect" id="clust1" href="dir_621004d3523b027383ae7a819b838f99.html" title="psim" alt="" coords="57,16,151,111"/>
+</map>

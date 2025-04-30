@@ -1,0 +1,4 @@
+<map id="rtems_io_initialize" name="rtems_io_initialize">
+<area shape="rect" id="node1" title="IO driver initialization." alt="" coords="183,13,325,39"/>
+<area shape="rect" id="node2" href="$cpukit_2sapi_2src_2io_8c.html#a728efd9472702302477edbcb89bd1aa1" title="Initialization of all device drivers." alt="" coords="5,5,135,47"/>
+</map>

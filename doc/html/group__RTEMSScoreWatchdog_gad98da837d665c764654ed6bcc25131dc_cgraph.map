@@ -1,0 +1,5 @@
+<map id="_Watchdog_Preinitialize" name="_Watchdog_Preinitialize">
+<area shape="rect" id="node1" title="Pre&#45;initializes a watchdog." alt="" coords="5,31,183,57"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreWatchdog.html#ga3de62172597bf475ce849c935c51ed05" title="Sets the cpu for the watchdog." alt="" coords="234,5,389,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreWatchdog.html#ga08d63637741832757cddfc443e9cf473" title="Sets the state of the watchdog." alt="" coords="231,56,392,83"/>
+</map>

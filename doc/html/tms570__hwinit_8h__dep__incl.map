@@ -1,0 +1,10 @@
+<map id="bsps/arm/tms570/include/bsp/tms570_hwinit.h" name="bsps/arm/tms570/include/bsp/tms570_hwinit.h">
+<area shape="rect" id="node1" title=" " alt="" coords="582,5,769,47"/>
+<area shape="rect" id="node2" href="$bspstarthooks-hwinit_8c.html" title=" " alt="" coords="5,95,180,136"/>
+<area shape="rect" id="node3" href="$init__emif__sdram_8c.html" title="Initialization of external memory/SDRAM interface." alt="" coords="204,95,373,136"/>
+<area shape="rect" id="node4" href="$init__esm_8c.html" title="Error signaling module initialization." alt="" coords="397,95,567,136"/>
+<area shape="rect" id="node5" href="$init__pinmux_8c.html" title="Initialize pin multiplexers." alt="" coords="591,95,760,136"/>
+<area shape="rect" id="node6" href="$init__system_8c.html" title=" " alt="" coords="784,95,953,136"/>
+<area shape="rect" id="node7" href="$tms570__selftest_8c.html" title="TMS570 selftest support functions implementation." alt="" coords="977,95,1147,136"/>
+<area shape="rect" id="node8" href="$tms570__tcram__tests_8c.html" title="TCRAM selftest function." alt="" coords="1171,95,1342,136"/>
+</map>

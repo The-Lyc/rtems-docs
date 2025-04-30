@@ -1,0 +1,5 @@
+<map id="_Partition_Free" name="_Partition_Free">
+<area shape="rect" id="node1" title="Frees a partition control block to the inactive chain of free partition control blocks." alt="" coords="224,31,343,57"/>
+<area shape="rect" id="node2" href="$group__ClassicPart.html#gaae1e45358170b1de610acdae7f4a8148" title="RTEMS Partition Create." alt="" coords="5,5,176,32"/>
+<area shape="rect" id="node3" href="$group__ClassicPart.html#ga9cb3af79cb02585887caa1f4a2a62deb" title="RTEMS Delete Partition." alt="" coords="5,56,176,83"/>
+</map>

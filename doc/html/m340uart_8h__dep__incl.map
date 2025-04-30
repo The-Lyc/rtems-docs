@@ -1,0 +1,6 @@
+<map id="bsps/m68k/gen68340/include/m340uart.h" name="bsps/m68k/gen68340/include/m340uart.h">
+<area shape="rect" id="node1" title="UART console driver definitions." alt="" coords="191,5,352,47"/>
+<area shape="rect" id="node2" href="$m68k_2gen68340_2btimer_2btimer_8c.html" title=" " alt="" coords="5,95,167,136"/>
+<area shape="rect" id="node3" href="$m68k_2gen68340_2console_2console_8c.html" title=" " alt="" coords="191,95,352,136"/>
+<area shape="rect" id="node4" href="$m340uart_8c.html" title=" " alt="" coords="376,95,537,136"/>
+</map>

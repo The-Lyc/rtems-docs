@@ -1,0 +1,6 @@
+<map id="lpc24xx_pin_config" name="lpc24xx_pin_config">
+<area shape="rect" id="node1" title="Performs the action with the pins." alt="" coords="219,56,365,83"/>
+<area shape="rect" id="node2" href="$group__RTEMSBSPsARMLPC24XX.html#gab2205a0ac20f2d085f05f7d53ec2f754" title=" " alt="" coords="5,5,171,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSBSPsARMLPC24XX.html#ga699dc0b86c047ef05292bb159d36ab63" title=" " alt="" coords="5,56,171,83"/>
+<area shape="rect" id="node4" href="$group__RTEMSBSPsARMLPC24XX.html#ga12a3ab98c362a1fcdf0bc1e95d077f76" title=" " alt="" coords="5,107,171,133"/>
+</map>

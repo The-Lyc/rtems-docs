@@ -1,0 +1,18 @@
+<map id="rtems_workspace_greedy_allocate_all_except_largest" name="rtems_workspace_greedy_allocate_all_except_largest">
+<area shape="rect" id="node1" title="Greedy allocate all blocks except the largest free block." alt="" coords="5,206,212,247"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreHeap.html#ga7822352d7403927196f2403ec48fc882" title="Greedily allocates all blocks except the largest free block." alt="" coords="267,147,443,189"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreAllocatorMutex.html#ga89aa77edce0d5557b1a7e9d9ef7999c8" title=" " alt="" coords="267,213,442,240"/>
+<area shape="rect" id="node14" href="$group__RTEMSScoreAllocatorMutex.html#ga15d657c04537c2ad1841adc28b8dd747" title=" " alt="" coords="260,264,449,291"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreHeap.html#gaf7bc4e8658d953f8b178f4ff6453ec6e" title="Returns information about free blocks for the heap." alt="" coords="497,105,707,132"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreHeap.html#gae3e5154cbd4e707d42fb39b2e9c565ff" title="Greedily allocates and empties the heap." alt="" coords="514,156,690,183"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreHeap.html#ga161ac37dea0961191b2698abf0e61841" title="Returns the block size." alt="" coords="787,5,925,32"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreHeap.html#ga0299809a91130b3da718ee889f4fe43d" title="Returns the first block of the free list of the heap." alt="" coords="777,56,935,83"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreHeap.html#gad25276de4aa987568f1bfc66a0c66700" title="Returns the tail of the free list of the heap." alt="" coords="779,107,933,133"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreHeap.html#gad88e4681224e360888f3f4bd020c97a9" title="Returns if the previous heap block is used." alt="" coords="779,157,933,184"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreHeap.html#ga860e7959de03ba830d0ebe1b4cca8273" title="Returns the head of the free list of the heap." alt="" coords="1005,56,1169,83"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreAPIMutex.html#ga57829ca494f1d866219c499eadb0ffc9" title="Acquires the specified API mutex." alt="" coords="535,213,669,240"/>
+<area shape="rect" id="node12" href="$mutex_8c.html#a2960aef6016ac8937f24108f9cdeebd0" title=" " alt="" coords="759,212,953,239"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreThread.html#gad5aaea7af4482aebd880403fb9c238af" title="Set the thread to life protected." alt="" coords="755,263,957,289"/>
+<area shape="rect" id="node15" href="$group__RTEMSScoreAPIMutex.html#ga64a430ae861d0ce7f63413e651fbe36d" title="Releases the specified API mutex." alt="" coords="527,264,677,291"/>
+<area shape="rect" id="node16" href="$mutex_8c.html#adecd7211e7a1a5035841212574f45b31" title=" " alt="" coords="758,313,954,340"/>
+</map>

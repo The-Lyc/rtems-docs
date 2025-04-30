@@ -1,0 +1,11 @@
+<map id="bsps/arm/lpc176x/include/bsp/adc&#45;defs.h" name="bsps/arm/lpc176x/include/bsp/adc&#45;defs.h">
+<area shape="rect" id="node1" title="ADC library for the lpc176x bsp." alt="" coords="43,5,231,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,169,63,196"/>
+<area shape="rect" id="node3" title=" " alt="" coords="49,95,123,121"/>
+<area shape="rect" id="node4" href="$lpc176x_8h.html" title="Specific register definitions according to lpc176x family boards." alt="" coords="271,95,383,121"/>
+<area shape="rect" id="node8" href="$lpc176x_2include_2bsp_2adc_8h.html" title="ADC library for the lpc176x bsp." alt="" coords="147,95,231,121"/>
+<area shape="rect" id="node5" href="$lpc-i2s_8h.html" title="I2S API." alt="" coords="283,169,387,196"/>
+<area shape="rect" id="node6" href="$include_2bsp_2utility_8h.html" title="Utility macros." alt="" coords="287,244,384,271"/>
+<area shape="rect" id="node7" title=" " alt="" coords="300,319,371,345"/>
+<area shape="rect" id="node9" href="$common-types_8h.html" title="Definitions types used by some devices in common." alt="" coords="100,169,259,196"/>
+</map>

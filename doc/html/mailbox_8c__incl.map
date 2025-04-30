@@ -1,0 +1,10 @@
+<map id="bsps/arm/raspberrypi/start/mailbox.c" name="bsps/arm/raspberrypi/start/mailbox.c">
+<area shape="rect" id="node1" title="mailbox support." alt="" coords="83,5,243,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="109,244,179,271"/>
+<area shape="rect" id="node3" title=" " alt="" coords="27,95,109,121"/>
+<area shape="rect" id="node4" title=" " alt="" coords="134,95,191,121"/>
+<area shape="rect" id="node5" href="$raspberrypi_8h.html" title="Register definitions." alt="" coords="215,95,350,121"/>
+<area shape="rect" id="node8" href="$mailbox_8h.html" title="mailbox support." alt="" coords="375,95,489,121"/>
+<area shape="rect" id="node6" title=" " alt="" coords="181,169,267,196"/>
+<area shape="rect" id="node7" href="$include_2bsp_2utility_8h.html" title="Utility macros." alt="" coords="291,169,389,196"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="i386_next_empty_gdt_entry" name="i386_next_empty_gdt_entry">
+<area shape="rect" id="node1" title="Returns next empty descriptor in GDT." alt="" coords="5,5,168,47"/>
+<area shape="rect" id="node2" href="$i386_8h.html#a14c3c7f946ab2b80e0a138ec049c53a9" title=" " alt="" coords="216,13,408,39"/>
+</map>

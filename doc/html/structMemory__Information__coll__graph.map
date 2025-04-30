@@ -1,0 +1,4 @@
+<map id="Memory_Information" name="Memory_Information">
+<area shape="rect" id="node1" title="The memory information." alt="" coords="5,95,164,121"/>
+<area shape="rect" id="node2" href="$structMemory__Area.html" title="The memory area description." alt="" coords="28,5,141,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="bsps/arm/tms570/include/bsp/tms570&#45;pins.h" name="bsps/arm/tms570/include/bsp/tms570&#45;pins.h">
+<area shape="rect" id="node1" title="Select pin mapping according to selected chip. Defaults to TMS570LS3137ZWT for now." alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node2" href="$tms570ls3137zwt-pins_8h.html" title="Specification of individual pins mapping to the package." alt="" coords="17,95,181,136"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="_CORE_semaphore_Acquire_critical" name="_CORE_semaphore_Acquire_critical">
+<area shape="rect" id="node1" title="Acquires the semaphore critical." alt="" coords="5,5,207,47"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreThreadQueue.html#ga2bb5c604a28a636950cca7aa43a47869" title="Acquires the thread queue control in a critical section." alt="" coords="255,5,432,47"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreThreadQueue.html#gaf1488e09cc925566233f2f1fc76c4d81" title="Acquires the thread queue control in a critical section." alt="" coords="480,5,681,47"/>
+</map>

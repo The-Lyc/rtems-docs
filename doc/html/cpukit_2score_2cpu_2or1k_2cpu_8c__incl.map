@@ -1,0 +1,17 @@
+<map id="cpukit/score/cpu/or1k/cpu.c" name="cpukit/score/cpu/or1k/cpu.c">
+<area shape="rect" id="node1" title=" " alt="" coords="377,5,538,47"/>
+<area shape="rect" id="node2" href="$isr_8h.html" title="Data Related to the Management of Processor Interrupt Levels." alt="" coords="215,95,345,121"/>
+<area shape="rect" id="node4" title=" " alt="" coords="527,244,665,271"/>
+<area shape="rect" id="node11" href="$score_2wkspace_8h.html" title="Information Related to the RAM Workspace." alt="" coords="371,95,543,121"/>
+<area shape="rect" id="node3" href="$isrlevel_8h.html" title="ISR Level Type." alt="" coords="197,169,360,196"/>
+<area shape="rect" id="node5" href="$assert_8h.html" title="Information for the Assert Handler." alt="" coords="127,244,281,271"/>
+<area shape="rect" id="node6" href="$basedefs_8h.html" title="Basic Definitions." alt="" coords="97,319,271,345"/>
+<area shape="rect" id="node7" title=" " alt="" coords="231,393,398,420"/>
+<area shape="rect" id="node8" title=" " alt="" coords="25,393,100,420"/>
+<area shape="rect" id="node9" title=" " alt="" coords="124,393,207,420"/>
+<area shape="rect" id="node10" title=" " alt="" coords="422,393,493,420"/>
+<area shape="rect" id="node12" href="$heap_8h.html" title="Heap Handler API." alt="" coords="384,169,531,196"/>
+<area shape="rect" id="node14" href="$interr_8h.html" title="Constants and Prototypes Related to the Internal Error Handler." alt="" coords="555,169,704,196"/>
+<area shape="rect" id="node15" href="$rtems_2score_2memory_8h.html" title="Memory Handler API." alt="" coords="5,169,173,196"/>
+<area shape="rect" id="node13" href="$heapinfo_8h.html" title="Heap Handler Information API." alt="" coords="371,319,543,345"/>
+</map>

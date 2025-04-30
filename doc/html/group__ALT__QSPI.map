@@ -1,0 +1,11 @@
+<map id="QSPI Flash Controller Module" name="QSPI Flash Controller Module">
+<area shape="rect" id="node1" title=" " alt="" coords="188,162,347,202"/>
+<area shape="rect" id="node2" href="$group__ALT__QSPI__DAC.html" title=" " alt="" coords="418,5,569,31"/>
+<area shape="rect" id="node3" href="$group__ALT__QSPI__CSR.html" title=" " alt="" coords="417,55,569,95"/>
+<area shape="rect" id="node5" href="$group__ALT__QSPI__DMA.html" title=" " alt="" coords="401,120,586,145"/>
+<area shape="rect" id="node6" href="$group__ALT__QSPI__INDAC.html" title=" " alt="" coords="413,169,573,195"/>
+<area shape="rect" id="node7" href="$group__ALT__QSPI__ERASE.html" title=" " alt="" coords="445,219,542,244"/>
+<area shape="rect" id="node8" href="$group__ALT__QSPI__DEV__CFG.html" title=" " alt="" coords="395,268,592,293"/>
+<area shape="rect" id="node9" href="$group__ALT__QSPI__GP__BLKIO.html" title=" " alt="" coords="398,317,589,343"/>
+<area shape="rect" id="node4" href="$group__RTEMSBSPsARMCycVContrib.html" title="Contributed code from Altera." alt="" coords="5,169,140,195"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="PowerPC" name="PowerPC">
+<area shape="rect" id="node1" href="$group__RTEMSScoreCPUPowerPCASM.html" title="PowerPC Assembler Support." alt="" coords="505,5,712,31"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreCPUlm32Context.html" title=" " alt="" coords="525,55,692,95"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreCPU.html" title="Provides CPU architecture dependent services." alt="" coords="5,191,192,216"/>
+<area shape="rect" id="node9" title="PowerPC Architecture Support." alt="" coords="241,191,320,216"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreCPUV850CPUContext.html" title=" " alt="" coords="525,119,692,159"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreCPUPowerPCParavirt.html" title="PowerPC Paravirtualization Support." alt="" coords="510,183,707,223"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreCPUMIPS.html" title="MIPS Architecture Support." alt="" coords="581,248,636,273"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreCPUBfinCPUContext.html" title=" " alt="" coords="525,298,692,338"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreCPUi386.html" title="i386 specific support." alt="" coords="529,363,688,388"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="cpukit/score/cpu/mips/include/rtems/mips/idtcpu.h" name="cpukit/score/cpu/mips/include/rtems/mips/idtcpu.h">
+<area shape="rect" id="node1" title="CPU Related Definitions." alt="" coords="517,5,724,47"/>
+<area shape="rect" id="node2" href="$hurricane_2start_2inittlb_8c.html" title=" " alt="" coords="5,102,159,143"/>
+<area shape="rect" id="node3" href="$malta_2start_2inittlb_8c.html" title=" " alt="" coords="183,102,347,143"/>
+<area shape="rect" id="node4" href="$rbtx4925_2start_2inittlb_8c.html" title=" " alt="" coords="371,102,521,143"/>
+<area shape="rect" id="node5" href="$rbtx4938_2start_2inittlb_8c.html" title=" " alt="" coords="545,102,696,143"/>
+<area shape="rect" id="node6" href="$installisrentries_8c.html" title=" " alt="" coords="721,102,878,143"/>
+<area shape="rect" id="node7" href="$vectorexceptions_8c.html" title=" " alt="" coords="902,102,1059,143"/>
+<area shape="rect" id="node8" href="$mips_8h.html" title="Information to build RTEMS for a &quot;no cpu&quot; while in protected mode." alt="" coords="1084,95,1248,151"/>
+<area shape="rect" id="node9" href="$bsps_2mips_2csb350_2include_2bsp_2irq_8h.html" title="interrupt definitions." alt="" coords="366,199,555,240"/>
+<area shape="rect" id="node11" href="$bsps_2mips_2hurricane_2include_2bsp_2irq_8h.html" title="interrupt definitions." alt="" coords="580,199,733,240"/>
+<area shape="rect" id="node12" href="$bsps_2mips_2jmr3904_2include_2bsp_2irq_8h.html" title="jmr3904 interrupt definitions." alt="" coords="758,199,955,240"/>
+<area shape="rect" id="node14" href="$bsps_2mips_2malta_2include_2bsp_2irq_8h.html" title="Malta Interrupt Definitions." alt="" coords="979,199,1161,240"/>
+<area shape="rect" id="node15" href="$bsps_2mips_2rbtx4925_2include_2bsp_2irq_8h.html" title="interrupt definitions." alt="" coords="1185,199,1336,240"/>
+<area shape="rect" id="node16" href="$bsps_2mips_2rbtx4938_2include_2bsp_2irq_8h.html" title="interrupt definitions." alt="" coords="1360,199,1511,240"/>
+<area shape="rect" id="node17" href="$cpukit_2score_2cpu_2mips_2include_2rtems_2asm_8h.html" title="Address the Problems Caused by Incompatible Flavor of Assemblers and Toolsets." alt="" coords="1535,199,1699,240"/>
+<area shape="rect" id="node18" href="$mips_2include_2rtems_2score_2cpu_8h.html" title="Mips CPU Dependent Header File." alt="" coords="1723,199,1916,240"/>
+<area shape="rect" id="node10" href="$mips_2csb350_2include_2tm27_8h.html" title=" " alt="" coords="366,288,555,329"/>
+<area shape="rect" id="node13" href="$mips_2jmr3904_2include_2tm27_8h.html" title=" " alt="" coords="758,288,955,329"/>
+</map>

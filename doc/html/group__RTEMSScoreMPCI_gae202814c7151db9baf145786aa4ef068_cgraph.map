@@ -1,0 +1,6 @@
+<map id="_MPCI_Internal_packets_Process_packet" name="_MPCI_Internal_packets_Process_packet">
+<area shape="rect" id="node1" title="Performs requested action from another node." alt="" coords="5,23,181,65"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreIntErr.html#ga092fa4be4bda2528754b494e901d3d2a" title="Terminates the system with an INTERNAL_ERROR_CORE fatal source and the specified core error code." alt="" coords="252,5,369,32"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreMPCI.html#ga4921eb7c6291474df410b099381b09d9" title="Deallocates a packet." alt="" coords="229,56,392,83"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreIntErr.html#ga5102f2f0c5939020aa3b11d67afa84eb" title="Initiates system termination." alt="" coords="440,5,535,32"/>
+</map>

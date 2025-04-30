@@ -1,0 +1,43 @@
+<map id="cpukit/include/rtems/imfs.h" name="cpukit/include/rtems/imfs.h">
+<area shape="rect" id="node1" title="Header File for the In&#45;Memory File System." alt="" coords="3389,5,3544,47"/>
+<area shape="rect" id="node2" href="$i2c-bus_8c.html" title="Inter&#45;Integrated Circuit (I2C) Bus Implementation." alt="" coords="5,95,141,136"/>
+<area shape="rect" id="node3" href="$i2c-dev_8c.html" title="Inter&#45;Integrated Circuit (I2C) Bus Implementation." alt="" coords="165,95,301,136"/>
+<area shape="rect" id="node4" href="$spi-bus_8c.html" title="Serial Peripheral Interface (SPI) Bus Implementation." alt="" coords="325,95,461,136"/>
+<area shape="rect" id="node5" href="$blkdev-imfs_8c.html" title="Block Device IMFS." alt="" coords="486,95,626,136"/>
+<area shape="rect" id="node6" href="$consolesimple_8c.html" title=" " alt="" coords="651,95,805,136"/>
+<area shape="rect" id="node7" href="$consolesimpletask_8c.html" title=" " alt="" coords="830,95,1013,136"/>
+<area shape="rect" id="node8" href="$termios_8c.html" title=" " alt="" coords="1037,95,1176,136"/>
+<area shape="rect" id="node9" href="$deviceio_8c.html" title="IMFS Device Node Handlers." alt="" coords="1201,95,1351,136"/>
+<area shape="rect" id="node10" href="$imfs__add__node_8c.html" title="IMFS Add a Node." alt="" coords="1375,95,1526,136"/>
+<area shape="rect" id="node11" href="$imfs__chown_8c.html" title="IMFS Change Owner." alt="" coords="1550,95,1701,136"/>
+<area shape="rect" id="node12" href="$imfs__config_8c.html" title="IMFS Limits and Options." alt="" coords="1725,95,1875,136"/>
+<area shape="rect" id="node13" href="$imfs__creat_8c.html" title="Create an IMFS Node." alt="" coords="1899,95,2050,136"/>
+<area shape="rect" id="node14" href="$imfs__dir_8c.html" title=" " alt="" coords="2074,95,2225,136"/>
+<area shape="rect" id="node15" href="$imfs__dir__default_8c.html" title=" " alt="" coords="2249,95,2399,136"/>
+<area shape="rect" id="node16" href="$imfs__dir__minimal_8c.html" title=" " alt="" coords="2423,95,2574,136"/>
+<area shape="rect" id="node17" href="$imfs__eval_8c.html" title="Evaluation IMFS Node Support." alt="" coords="2598,95,2749,136"/>
+<area shape="rect" id="node18" href="$imfs__eval__devfs_8c.html" title="Implementation of IMFS_eval_path_devfs()." alt="" coords="2773,95,2923,136"/>
+<area shape="rect" id="node19" href="$imfs__fchmod_8c.html" title="Change IMFS File Mode." alt="" coords="2947,95,3098,136"/>
+<area shape="rect" id="node20" href="$imfs__fifo_8c.html" title="FIFO Support." alt="" coords="3122,95,3273,136"/>
+<area shape="rect" id="node21" href="$imfs__fsunmount_8c.html" title="Unmount this Instance of IMFS." alt="" coords="3297,95,3447,136"/>
+<area shape="rect" id="node22" href="$imfs__handlers__device_8c.html" title="Device Operations Table." alt="" coords="3472,95,3651,136"/>
+<area shape="rect" id="node23" href="$imfs__init_8c.html" title="IMFS initialization." alt="" coords="3675,95,3826,136"/>
+<area shape="rect" id="node24" href="$imfs__initsupp_8c.html" title="IMFS Node Support." alt="" coords="3850,95,4001,136"/>
+<area shape="rect" id="node25" href="$imfs__linfile_8c.html" title=" " alt="" coords="4025,95,4175,136"/>
+<area shape="rect" id="node26" href="$imfs__link_8c.html" title="IMFS Create a New Link Node." alt="" coords="4199,95,4350,136"/>
+<area shape="rect" id="node27" href="$imfs__load__tar_8c.html" title="RTEMS Load Tarfs." alt="" coords="4374,95,4525,136"/>
+<area shape="rect" id="node28" href="$imfs__make__generic__node_8c.html" title="IMFS Make a Generic Node." alt="" coords="4549,95,4752,136"/>
+<area shape="rect" id="node29" href="$imfs__make__linfile_8c.html" title=" " alt="" coords="4776,95,4928,136"/>
+<area shape="rect" id="node30" href="$imfs__memfile_8c.html" title="IMFS Memory File Handlers." alt="" coords="4953,95,5103,136"/>
+<area shape="rect" id="node31" href="$imfs__mknod_8c.html" title="Create a IMFS Node." alt="" coords="5127,95,5278,136"/>
+<area shape="rect" id="node32" href="$imfs__mount_8c.html" title="Mount an IMFS." alt="" coords="5302,95,5453,136"/>
+<area shape="rect" id="node33" href="$imfs__node_8c.html" title="IMFS Node Support." alt="" coords="5477,95,5627,136"/>
+<area shape="rect" id="node34" href="$imfs__node__destroy__default_8c.html" title="IMFS Default Node Destruction." alt="" coords="5651,95,5866,136"/>
+<area shape="rect" id="node35" href="$imfs__rename_8c.html" title="IMFS Rename." alt="" coords="5890,95,6041,136"/>
+<area shape="rect" id="node36" href="$imfs__rmnod_8c.html" title="IMFS Node Removal Handler." alt="" coords="6065,95,6215,136"/>
+<area shape="rect" id="node37" href="$imfs__stat_8c.html" title="IMFS Stat." alt="" coords="6239,95,6390,136"/>
+<area shape="rect" id="node38" href="$imfs__stat__file_8c.html" title=" " alt="" coords="6414,95,6565,136"/>
+<area shape="rect" id="node39" href="$imfs__symlink_8c.html" title="IMFS Create a New Symbolic Link Node." alt="" coords="6589,95,6739,136"/>
+<area shape="rect" id="node40" href="$imfs__unmount_8c.html" title="Unmount an IMFS." alt="" coords="6763,95,6914,136"/>
+<area shape="rect" id="node41" href="$imfs__utime_8c.html" title="Set IMFS File Access and Modification Times." alt="" coords="6938,95,7089,136"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="_Scheduler_Handler_initialization" name="_Scheduler_Handler_initialization">
+<area shape="rect" id="node1" title="Initializes the scheduler to the policy chosen by the user." alt="" coords="5,5,156,47"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreScheduler.html#ga9c62ef5a388b998fa041a269297be1fe" title="Gets the context of the scheduler." alt="" coords="204,13,383,39"/>
+</map>

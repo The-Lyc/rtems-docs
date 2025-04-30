@@ -1,0 +1,5 @@
+<map id="_CPU_SMP_Send_interrupt" name="_CPU_SMP_Send_interrupt">
+<area shape="rect" id="node1" title=" " alt="" coords="449,13,643,39"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreThread.html#ga216a6330c178a36afc4eb50a4a66ba4a" title="Requests a thread dispatch on the target processor." alt="" coords="207,13,401,39"/>
+<area shape="rect" id="node3" href="$schedulersmp_8c.html#acb5d40d69712797b4c28e6c6a96a8679" title=" " alt="" coords="5,5,159,47"/>
+</map>

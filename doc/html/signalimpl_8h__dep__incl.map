@@ -1,0 +1,7 @@
+<map id="cpukit/include/rtems/rtems/signalimpl.h" name="cpukit/include/rtems/rtems/signalimpl.h">
+<area shape="rect" id="node1" title="Signals Implementation." alt="" coords="385,5,540,47"/>
+<area shape="rect" id="node2" href="$signalcatch_8c.html" title="RTEMS Catch Signal." alt="" coords="5,95,221,121"/>
+<area shape="rect" id="node3" href="$signalmp_8c.html" title="Signal MP Support." alt="" coords="245,95,448,121"/>
+<area shape="rect" id="node4" href="$signalsend_8c.html" title="RTEMS Send Signal." alt="" coords="473,95,685,121"/>
+<area shape="rect" id="node5" href="$taskmode_8c.html" title="RTEMS Task Mode." alt="" coords="709,95,915,121"/>
+</map>

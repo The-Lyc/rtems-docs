@@ -1,0 +1,12 @@
+<map id="cpukit/include/rtems/rfs/rtems&#45;rfs&#45;group.h" name="cpukit/include/rtems/rfs/rtems&#45;rfs&#45;group.h">
+<area shape="rect" id="node1" title="RTEMS File Systems Group Management." alt="" coords="201,5,362,47"/>
+<area shape="rect" id="node2" href="$rtems-rfs-trace_8h.html" title="Manages the Trace and Debugging Features of the RTEMS RFS File System." alt="" coords="123,273,269,315"/>
+<area shape="rect" id="node7" href="$rtems-rfs-bitmaps_8h.html" title="RTEMS File Systems Bitmap Routines." alt="" coords="209,95,354,136"/>
+<area shape="rect" id="node8" href="$rtems-rfs-buffer_8h.html" title="Maps Blocks to the Media Interface Layers." alt="" coords="319,184,465,225"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,363,80,389"/>
+<area shape="rect" id="node4" title=" " alt="" coords="104,363,187,389"/>
+<area shape="rect" id="node5" title=" " alt="" coords="211,363,282,389"/>
+<area shape="rect" id="node6" title=" " alt="" coords="307,363,373,389"/>
+<area shape="rect" id="node10" href="$rtems-rfs-file-system-fwd_8h.html" title="RTEMS File Systems Data Forward Declaration." alt="" coords="293,273,438,315"/>
+<area shape="rect" id="node9" href="$errno_8h.html" title=" " alt="" coords="462,281,530,307"/>
+</map>

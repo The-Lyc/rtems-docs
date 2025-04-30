@@ -1,0 +1,5 @@
+<map id="MCan_ConfigTag" name="MCan_ConfigTag">
+<area shape="rect" id="node1" title=" " alt="" coords="101,95,230,121"/>
+<area shape="rect" id="node2" href="$structMCan__MsgRamPntrsTag.html" title=" " alt="" coords="5,5,184,32"/>
+<area shape="rect" id="node3" href="$structMcan.html" title="Mcan hardware registers." alt="" coords="209,5,266,32"/>
+</map>

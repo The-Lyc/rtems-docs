@@ -1,0 +1,16 @@
+<map id="_Chain_Get_unprotected" name="_Chain_Get_unprotected">
+<area shape="rect" id="node1" title="Gets the first node (unprotected)." alt="" coords="752,162,933,189"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreMessageQueue.html#ga58f369b0c41641f951f6d9eb4cc902d0" title="Allocates a message buffer from the inactive message buffer chain." alt="" coords="500,5,693,47"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreMessageQueue.html#gaae44a17e0ce00b0cff6f9894f4fe9845" title="Gets first message of message queue and removes it." alt="" coords="507,71,686,112"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreFreechain.html#ga2a213d3f834d14e4dae74f7ff7b9f73d" title="Gets a node from the freechain." alt="" coords="535,137,658,163"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreObject.html#ga65145acdbdabd9d924117aac97f3e08e" title="Get an inactive object or NULL." alt="" coords="513,187,680,214"/>
+<area shape="rect" id="node11" href="$group__ClassicPartImpl.html#ga71de1566df69f6963e4e51098c1c4e23" title="Allocate a buffer from the_partition." alt="" coords="525,239,668,280"/>
+<area shape="rect" id="node12" href="$group__ClassicChains.html#ga247eca17e96d9c4b634ae3fb84184d80" title="See _Chain_Get_unprotected()." alt="" coords="489,305,704,331"/>
+<area shape="rect" id="node5" href="$group__POSIX__KEY.html#ga790a7a15f816d9c7becce14825a5be6e" title=" " alt="" coords="261,121,441,163"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreObject.html#ga93a072e4b17ff04e60d29e57e6901ce1" title="Return an inactive object or NULL." alt="" coords="260,187,441,214"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreObject.html#gaa0886867669718ead9e2a6f6616b40a0" title="Allocate an object and extend the objects information on demand." alt="" coords="264,239,437,280"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreObject.html#ga0a7f6c580a3b8f84842df598a283b890" title="Return an inactive object or NULL." alt="" coords="5,199,212,226"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreThread.html#ga2cb5db6d9e872bde5dc6d3d3489bcc19" title="Return an inactive thread object or NULL." alt="" coords="7,250,210,277"/>
+<area shape="rect" id="node13" href="$group__libfs__dosfs.html#gafcbc03144ef1bb7641220813468de7de" title=" " alt="" coords="275,305,426,331"/>
+<area shape="rect" id="node14" href="$group__libfs__msdos.html#gada4176631aabceb7071617611720a04a" title="Shut down the MSDOS filesystem." alt="" coords="37,305,180,331"/>
+</map>

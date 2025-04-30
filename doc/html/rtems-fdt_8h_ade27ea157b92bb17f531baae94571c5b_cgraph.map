@@ -1,0 +1,31 @@
+<map id="rtems_fdt_load" name="rtems_fdt_load">
+<area shape="rect" id="node1" title=" " alt="" coords="5,208,125,235"/>
+<area shape="rect" id="node2" href="$close_8c.html#aafbcde67669a1b96577e735ddebd8634" title=" " alt="" coords="241,5,297,32"/>
+<area shape="rect" id="node3" href="$fdt_8c.html#a2359dff8b66918e18ba70baab42f2cf1" title=" " alt="" coords="200,56,337,83"/>
+<area shape="rect" id="node6" href="$zlib_8c.html#a0b26a37cc18505ea4382bcd78dac1961" title=" " alt="" coords="227,107,311,133"/>
+<area shape="rect" id="node16" href="$inflate_8c.html#af5a145c15cfb580ef24ce3fc4d292a02" title=" " alt="" coords="215,157,323,184"/>
+<area shape="rect" id="node17" href="$lseek_8c.html#a8bd74caed008a66808d92d57fa74d9f6" title=" " alt="" coords="240,208,297,235"/>
+<area shape="rect" id="node18" href="$open_8c.html#a62e93eb794fed24c0f46c6acda6ea510" title=" " alt="" coords="241,259,296,285"/>
+<area shape="rect" id="node27" href="$libcsupport_2src_2read_8c.html#a26d4711c05afec4c7771c3d17b2db9e9" title=" " alt="" coords="243,309,294,336"/>
+<area shape="rect" id="node28" href="$rtems-fdt_8c.html#aef15751554a2804bbde895bf07dffe80" title=" " alt="" coords="173,360,364,387"/>
+<area shape="rect" id="node29" href="$lib_8c.html#ace2e8f8b5db1119196eee36974d8b536" title=" " alt="" coords="239,411,298,437"/>
+<area shape="rect" id="node4" href="$fdt_8c.html#afab057440e1d6aa051c30d16d3f416e0" title=" " alt="" coords="427,31,552,57"/>
+<area shape="rect" id="node5" href="$fdt_8c.html#ac07cba787ec63afe1efccabca06018ff" title=" " alt="" coords="621,5,753,32"/>
+<area shape="rect" id="node7" href="$zlib_8c.html#ab8deff77c3e48461aba4a1c87938f8be" title=" " alt="" coords="443,107,535,133"/>
+<area shape="rect" id="node8" href="$zlib_8c.html#a5a72291922586b323fa442b9fe8549ec" title=" " alt="" coords="652,56,723,83"/>
+<area shape="rect" id="node9" href="$zlib_8c.html#a52712c2a91c4873548ffc389e603b65b" title=" " alt="" coords="810,107,957,133"/>
+<area shape="rect" id="node13" href="$zlib_8c.html#a38a6dc5dea9512c4733133081f5951eb" title=" " alt="" coords="644,157,731,184"/>
+<area shape="rect" id="node15" href="$zlib_8c.html#ac85ce72de2a1c493b5737bd05dd687e9" title=" " alt="" coords="833,208,933,235"/>
+<area shape="rect" id="node10" href="$zlib_8c.html#ae780f3b3ad76eb884abd78fb7c87997b" title=" " alt="" coords="1032,157,1184,184"/>
+<area shape="rect" id="node11" href="$zlib_8c.html#a8b85b62fedd07b52382cf27428a302cb" title=" " alt="" coords="1257,132,1399,159"/>
+<area shape="rect" id="node12" href="$zlib_8c.html#a4072dedc7ca4030b00a8f2cdcabdb885" title=" " alt="" coords="1260,183,1396,209"/>
+<area shape="rect" id="node14" href="$zlib_8c.html#a5024aa68b311b22eb4bc0e29e16a7f73" title=" " alt="" coords="811,157,956,184"/>
+<area shape="rect" id="node19" href="$group__LibIOInternal.html#ga2021231771d73c426958cf0bb7400666" title=" " alt="" coords="412,259,567,285"/>
+<area shape="rect" id="node20" href="$group__LibIOInternal.html#ga12b4b45fb45758475cfbfa8606c7ae9d" title=" " alt="" coords="623,259,752,285"/>
+<area shape="rect" id="node24" href="$group__LibIOInternal.html#gac22d5afbe375148eef15304958bc4cec" title=" " alt="" coords="615,309,760,336"/>
+<area shape="rect" id="node21" href="$group__RTEMSScoreAPIMutex.html#ga57829ca494f1d866219c499eadb0ffc9" title="Acquires the specified API mutex." alt="" coords="816,259,951,285"/>
+<area shape="rect" id="node22" href="$mutex_8c.html#a2960aef6016ac8937f24108f9cdeebd0" title=" " alt="" coords="1011,233,1205,260"/>
+<area shape="rect" id="node23" href="$group__RTEMSScoreThread.html#gad5aaea7af4482aebd880403fb9c238af" title="Set the thread to life protected." alt="" coords="1007,284,1209,311"/>
+<area shape="rect" id="node25" href="$group__RTEMSScoreAPIMutex.html#ga64a430ae861d0ce7f63413e651fbe36d" title="Releases the specified API mutex." alt="" coords="808,309,959,336"/>
+<area shape="rect" id="node26" href="$mutex_8c.html#adecd7211e7a1a5035841212574f45b31" title=" " alt="" coords="1010,335,1206,361"/>
+</map>

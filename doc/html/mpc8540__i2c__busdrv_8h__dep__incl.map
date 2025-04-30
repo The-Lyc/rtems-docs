@@ -1,0 +1,5 @@
+<map id="bsps/powerpc/mvme3100/include/bsp/mpc8540_i2c_busdrv.h" name="bsps/powerpc/mvme3100/include/bsp/mpc8540_i2c_busdrv.h">
+<area shape="rect" id="node1" title="I2C bus driver for mpc8540&#45;based boards." alt="" coords="112,5,301,61"/>
+<area shape="rect" id="node2" href="$mvme3100_2i2c_2i2c__init_8c.html" title=" " alt="" coords="5,109,195,151"/>
+<area shape="rect" id="node3" href="$mpc8540__i2c_8c.html" title=" " alt="" coords="219,109,408,151"/>
+</map>

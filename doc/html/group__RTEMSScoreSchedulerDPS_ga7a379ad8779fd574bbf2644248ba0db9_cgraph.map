@@ -1,0 +1,6 @@
+<map id="_Scheduler_priority_Ready_queue_initialize" name="_Scheduler_priority_Ready_queue_initialize">
+<area shape="rect" id="node1" title="Ready queue initialization." alt="" coords="5,23,185,65"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreChain.html#ga322cf50ff1974dab1ce8d60ec94ef5f8" title="Initializes this chain as empty." alt="" coords="233,31,412,57"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreChain.html#ga8b66d3138b9cdacbcb0600c42237ff7d" title="Returns pointer to chain head." alt="" coords="460,5,567,32"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreChain.html#ga06f3e2dd6d64411f0565e3b483e53673" title="Returns pointer to chain tail." alt="" coords="466,56,561,83"/>
+</map>

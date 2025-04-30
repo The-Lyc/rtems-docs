@@ -1,0 +1,7 @@
+<map id="QSPI_ReadWriteMem" name="QSPI_ReadWriteMem">
+<area shape="rect" id="node1" title="Writes or reads the QSPI memory (0x80000000) to transmit or receive data from Flash memory." alt="" coords="5,56,165,83"/>
+<area shape="rect" id="node2" href="$iocopy_8h.html#a52332a0f2bde9b47fedf3f95f420b5b2" title=" " alt="" coords="213,5,372,32"/>
+<area shape="rect" id="node3" href="$iocopy_8h.html#ac0b6ab175f20dcbc1415093990a87161" title=" " alt="" coords="223,56,363,83"/>
+<area shape="rect" id="node4" href="$qspi_8c.html#a0cee5ee97a2b6575ccf9d56d3c5fce64" title="Ends ongoing transfer by releasing CS of QSPI peripheral." alt="" coords="225,107,360,133"/>
+<area shape="rect" id="node5" href="$qspi_8c.html#a84307d724b3e124e1d4cced163d3074d" title="Get the current status register of the given QSPI peripheral." alt="" coords="420,107,543,133"/>
+</map>

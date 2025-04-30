@@ -1,0 +1,4 @@
+<map id="rtems_clock_get_seconds_since_epoch" name="rtems_clock_get_seconds_since_epoch">
+<area shape="rect" id="node1" title="Obtain Seconds Since Epoch." alt="" coords="5,5,195,47"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreTOD.html#gad7357f287de1aec092ef824c185229b9" title="Check if the TOD is Set." alt="" coords="243,13,345,39"/>
+</map>

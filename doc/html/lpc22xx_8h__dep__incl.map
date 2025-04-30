@@ -1,0 +1,9 @@
+<map id="bsps/arm/rtl22xx/include/lpc22xx.h" name="bsps/arm/rtl22xx/include/lpc22xx.h">
+<area shape="rect" id="node1" title=" " alt="" coords="502,5,685,47"/>
+<area shape="rect" id="node2" href="$arm_2rtl22xx_2btimer_2btimer_8c.html" title="RTL22xx board Timer driver." alt="" coords="5,95,184,136"/>
+<area shape="rect" id="node3" href="$arm_2rtl22xx_2clock_2clockdrv_8c.html" title=" " alt="" coords="208,95,379,136"/>
+<area shape="rect" id="node4" href="$arm_2rtl22xx_2console_2uart_8c.html" title=" " alt="" coords="403,95,589,136"/>
+<area shape="rect" id="node5" href="$bsps_2arm_2rtl22xx_2irq_2irq_8c.html" title=" " alt="" coords="614,95,767,136"/>
+<area shape="rect" id="node6" href="$arm_2rtl22xx_2start_2bspreset_8c.html" title=" " alt="" coords="791,95,958,136"/>
+<area shape="rect" id="node7" href="$arm_2rtl22xx_2start_2bspstart_8c.html" title=" " alt="" coords="982,95,1149,136"/>
+</map>

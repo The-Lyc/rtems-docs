@@ -1,0 +1,15 @@
+<map id="fstat" name="fstat">
+<area shape="rect" id="node1" title=" " alt="" coords="633,107,685,133"/>
+<area shape="rect" id="node2" href="$hexdump_8h.html#a40ab1389ce57429bfb57e8bb992e5555" title=" " alt="" coords="469,5,534,32"/>
+<area shape="rect" id="node3" href="$mmap_8c.html#a1b4bb289fc745e7bb7da8276b74fe626" title=" " alt="" coords="469,56,533,83"/>
+<area shape="rect" id="node5" href="$group__rtems__blkdev.html#gac171a347539842982856bb7b32dd4e76" title="Block device statistics command." alt="" coords="442,157,561,184"/>
+<area shape="rect" id="node6" href="$rtems-rfs-buffer_8c.html#af8b9acf77d20824a7121b89ab7b29bf9" title=" " alt="" coords="417,233,585,260"/>
+<area shape="rect" id="node10" href="$utils-cp_8c.html#add56fbee07c91857c435c45c00c0c6e7" title=" " alt="" coords="470,107,533,133"/>
+<area shape="rect" id="node4" href="$utils-cp_8c.html#aa9738b0c324e1de866859b76492b01eb" title=" " alt="" coords="258,31,338,57"/>
+<area shape="rect" id="node7" href="$rtems-rfs-format_8c.html#a56f021e1569663ecb2f46921a35e1a17" title=" " alt="" coords="231,233,365,260"/>
+<area shape="rect" id="node9" href="$rtems-rfs-file-system_8c.html#a33a063dea6be2f3fe7c5f4f9de07dd0c" title=" " alt="" coords="227,284,369,311"/>
+<area shape="rect" id="node8" href="$rtems-rfs-shell_8c.html#a75c5255512bc39c837a5d516ef4356c2" title=" " alt="" coords="5,233,179,260"/>
+<area shape="rect" id="node11" href="$utils-cp_8c.html#ad52a2b3d12eb90e99f7d98a240601d9b" title=" " alt="" coords="257,81,339,108"/>
+<area shape="rect" id="node12" href="$utils-cp_8c.html#a71509710cc47d5f33f30afa59c1fe43f" title=" " alt="" coords="256,132,340,159"/>
+<area shape="rect" id="node13" href="$utils-cp_8c.html#a1186e1d99788e7d06c1e37362ddb5df4" title=" " alt="" coords="245,183,351,209"/>
+</map>

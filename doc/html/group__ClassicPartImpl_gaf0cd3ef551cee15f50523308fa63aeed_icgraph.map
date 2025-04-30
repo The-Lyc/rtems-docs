@@ -1,0 +1,4 @@
+<map id="_Partition_Allocate" name="_Partition_Allocate">
+<area shape="rect" id="node1" title="Allocates a partition control block from the inactive chain of free partition control blocks." alt="" coords="224,5,367,32"/>
+<area shape="rect" id="node2" href="$group__ClassicPart.html#gaae1e45358170b1de610acdae7f4a8148" title="RTEMS Partition Create." alt="" coords="5,5,176,32"/>
+</map>

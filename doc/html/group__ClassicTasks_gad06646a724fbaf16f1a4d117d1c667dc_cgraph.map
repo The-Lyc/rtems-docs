@@ -1,0 +1,29 @@
+<map id="rtems_task_get_priority" name="rtems_task_get_priority">
+<area shape="rect" id="node1" title="Gets the current priority of the specified task with respect to the specified scheduler instance." alt="" coords="5,259,183,285"/>
+<area shape="rect" id="node2" href="$group__RTEMSScorePriority.html#gaea7676bde1276ab7042195c043e25bd5" title="Gets the priority aggregation&#39;s priority." alt="" coords="252,5,412,32"/>
+<area shape="rect" id="node3" href="$group__RTEMSScorePriority.html#ga0344d5313d3b010417b4c84ce5d45d42" title="Checks if the priority aggregation is empty." alt="" coords="261,56,403,83"/>
+<area shape="rect" id="node5" href="$group__ClassicTasksImpl.html#ga99fe6bff2379c967d79ae2b86cd2a0ae" title="Converts the SuperCore priority to the corresponding RTEMS API priority." alt="" coords="231,107,433,133"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreScheduler.html#ga0c890185e97bf23c9ac8800beb60b4d4" title="Gets the scheduler from the given object build id." alt="" coords="249,157,415,184"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreScheduler.html#ga22b124b409502e8e91d3faeab16367ac" title="Gets the index of the scheduler." alt="" coords="249,208,415,235"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreThread.html#gadc33b4b428dfc134ae1622441433b1a1" title="Gets a thread by its identifier." alt="" coords="280,259,384,285"/>
+<area shape="rect" id="node18" href="$group__RTEMSScoreThreadMP.html#ga8c8c9e4dadd94632600e764d4e85ee89" title="Checks if the thread MP with this object id is remote." alt="" coords="245,309,419,336"/>
+<area shape="rect" id="node20" href="$group__RTEMSScoreThreadQueue.html#gae18ee06777084a67d286d743355d47ac" title="Initializes a thread queue context." alt="" coords="243,361,421,402"/>
+<area shape="rect" id="node24" href="$group__RTEMSScoreThread.html#ga03136c6e5b56781aeff0ace838556d67" title="Gets the thread&#39;s scheduler node by index." alt="" coords="245,426,419,467"/>
+<area shape="rect" id="node25" href="$group__RTEMSScoreThread.html#ga31d2b044df5bb8998e4c935fededc17c" title="Acquires the thread wait lock inside a critical section (interrupts disabled)." alt="" coords="249,491,415,533"/>
+<area shape="rect" id="node26" href="$group__RTEMSScoreThread.html#gacb857fbbdbd059ae8e1f6fca8768da96" title="Releases the thread wait lock and restores the previous interrupt status." alt="" coords="249,557,415,584"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreRBTree.html#ga26bddef2c5a0e1f832d7673c45b284c7" title="Checks if the RBTree is empty." alt="" coords="511,36,653,63"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreScheduler.html#gaa2f56f77ed86e3d02527742f917fcd0c" title="Unmaps a thread priority from the scheduler domain to the user domain." alt="" coords="481,87,683,113"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreScheduler.html#ga6a59bd6a442d2c5acf247c66e1b21757" title="Gets the scheduler index from the given object build id." alt="" coords="499,138,665,179"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreScheduler.html#ga5012b61871058535e8b6bfd316787fd7" title="Builds an object build id." alt="" coords="736,145,888,172"/>
+<area shape="rect" id="node12" href="$group__RTEMSScoreObject.html#gaba59419fd15c39c93eedbaba5788de05" title="Checks if two object IDs are equal." alt="" coords="494,204,670,231"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreObject.html#gaccc5682133e4f65b8cb374eab9be2c9d" title="Maps the specified object identifier to the associated local object control block." alt="" coords="528,255,636,281"/>
+<area shape="rect" id="node15" href="$group__RTEMSScoreThread.html#ga291d97d78d5460ffa5539964e417bb49" title="Gets object information for the object id." alt="" coords="503,306,661,347"/>
+<area shape="rect" id="node14" href="$group__RTEMSScoreObject.html#ga22cdf45f285840b7728b06197a7f4627" title="Returns the index portion of the ID." alt="" coords="737,255,887,281"/>
+<area shape="rect" id="node16" href="$group__RTEMSScoreObject.html#ga907a0412d7c657fa047641444090fe7b" title="Returns the API portion of the ID." alt="" coords="744,309,880,336"/>
+<area shape="rect" id="node17" href="$group__RTEMSScoreObject.html#ga8014a70deeb6819f7e2ca50efd13e1be" title="Checks if the api is valid." alt="" coords="731,360,893,387"/>
+<area shape="rect" id="node19" href="$group__RTEMSScoreObjectMP.html#gae1144d0c54b95368022bd861539e9694" title="Checks if the object identifier is in the global object identifier cache of the specified object info..." alt="" coords="493,372,671,399"/>
+<area shape="rect" id="node21" href="$group__RTEMSScoreChain.html#gab0fa19f01d37f1d510405e6382fd8b67" title="Initializes a chain node." alt="" coords="498,423,666,449"/>
+<area shape="rect" id="node23" href="$bootldr_8h.html#a36d20f7d597c517b964289f6b54ddfa7" title=" " alt="" coords="544,473,620,500"/>
+<area shape="rect" id="node22" href="$group__RTEMSScoreChain.html#gadf0e5d55d133694eed8043ec13fe1266" title="Sets off chain." alt="" coords="732,423,892,449"/>
+<area shape="rect" id="node27" href="$group__RTEMSScoreThread.html#gae077609cfcf4bf7a741a5fd36020dcb4" title="Releases the thread wait lock inside a critical section (interrupts disabled)." alt="" coords="499,550,665,591"/>
+</map>

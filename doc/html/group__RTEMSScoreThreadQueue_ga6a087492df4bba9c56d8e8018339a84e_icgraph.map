@@ -1,0 +1,14 @@
+<map id="_Thread_queue_Enqueue_do_nothing_extra" name="_Thread_queue_Enqueue_do_nothing_extra">
+<area shape="rect" id="node1" title="Does nothing." alt="" coords="681,89,865,131"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreThreadQueue.html#gaa7142c86d5677c5c5b0f993beecdc712" title="Sets the do nothing enqueue callout in the thread queue context." alt="" coords="401,5,633,47"/>
+<area shape="rect" id="node4" href="$mqueuereceive_8c.html#ab89c825740fe27d3821ccbe32bd68dfa" title=" " alt="" coords="468,71,567,98"/>
+<area shape="rect" id="node5" href="$mqueuesend_8c.html#af13b6f0b3b15e14624b0c50050d062a4" title=" " alt="" coords="477,122,558,149"/>
+<area shape="rect" id="node6" href="$mutexlock_8c.html#a12809c44718c21544ceb280dc1a53573" title=" " alt="" coords="440,173,595,199"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreMPCI.html#gaf232dadc9160e4b1c733906d3a6d1f57" title="Receives and processes all packets." alt="" coords="161,13,330,39"/>
+<area shape="rect" id="node7" href="$aio__cancel_8c.html#af58145bd3d3635ec51be3cb0100eef9c" title=" " alt="" coords="200,122,291,149"/>
+<area shape="rect" id="node8" href="$mutexsetprioceiling_8c.html#a769668dc6bde229374a5d30b9d2bc185" title=" " alt="" coords="137,173,353,199"/>
+<area shape="rect" id="node9" href="$aio__misc_8c.html#a8477bc52bcf6620a6f253b06075d1554" title=" " alt="" coords="170,223,321,250"/>
+<area shape="rect" id="node10" href="$aio__fsync_8c.html#ab5ae668e7d7ce54ab14e17f6aea2f8bd" title=" " alt="" coords="5,173,89,199"/>
+<area shape="rect" id="node11" href="$aio__read_8c.html#a63dc39cca2b78b2300b012713d58219d" title=" " alt="" coords="8,223,87,250"/>
+<area shape="rect" id="node12" href="$aio__write_8c.html#a07b4c7b4559d3c57f91da4c54398cd76" title=" " alt="" coords="6,274,89,301"/>
+</map>

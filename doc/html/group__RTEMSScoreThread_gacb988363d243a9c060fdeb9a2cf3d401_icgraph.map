@@ -1,0 +1,5 @@
+<map id="_Thread_Timer_initialize" name="_Thread_Timer_initialize">
+<area shape="rect" id="node1" title="Initializes the thread timer." alt="" coords="480,13,663,39"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreThreadMP.html#ga96f0434ad7036721909abeedd0322bba" title="Initialize MP thread handler." alt="" coords="273,5,432,47"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreThread.html#ga439268e164b067a866d2901085c8c672" title="Initializes thread handler." alt="" coords="5,13,225,39"/>
+</map>

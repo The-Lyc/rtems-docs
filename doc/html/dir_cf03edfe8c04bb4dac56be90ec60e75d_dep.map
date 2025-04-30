@@ -1,0 +1,14 @@
+<map id="bsps/arm/atsam/include/libchip/include" name="bsps/arm/atsam/include/libchip/include">
+<area shape="rect" id="node6" href="dir_cd198e36225ba3f41de97552050ac017.html" title="cpukit" alt="" coords="135,255,207,303"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000476_000080.html" title="7" alt="" coords="153,227,163,242"/>
+<area shape="rect" id="node2" href="dir_b120216cbbd79b1c521fa0ad919d5fe3.html" title="same70" alt="" coords="232,63,307,111"/>
+<area shape="rect" id="node5" href="dir_6315e58901cb214c50afe2209b8d17e3.html" title="include" alt="" coords="184,159,256,207"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000486_000495.html" title="9" alt="" coords="243,139,253,154"/>
+<area shape="rect" id="node3" href="dir_b710b51c08aa642bd94a277766da1117.html" title="sams70" alt="" coords="134,63,207,111"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000488_000495.html" title="9" alt="" coords="202,131,212,146"/>
+<area shape="rect" id="node4" href="dir_891d16a0fc26a00c670fc0f98f38de0c.html" title="samv71" alt="" coords="331,63,405,111"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000490_000495.html" title="9" alt="" coords="272,159,281,173"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000495_000080.html" title="15" alt="" coords="190,235,207,250"/>
+<area shape="rect" id="clust2" href="dir_cf03edfe8c04bb4dac56be90ec60e75d.html" alt="" coords="27,52,416,121"/>
+<area shape="rect" id="clust1" href="dir_274991013533d8575fd1059fa51c67ea.html" title="libchip" alt="" coords="16,16,427,132"/>
+</map>

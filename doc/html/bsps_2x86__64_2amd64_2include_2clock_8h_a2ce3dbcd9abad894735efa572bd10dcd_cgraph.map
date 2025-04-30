@@ -1,0 +1,22 @@
+<map id="amd64_clock_driver_initialize" name="amd64_clock_driver_initialize">
+<area shape="rect" id="node1" title=" " alt="" coords="5,277,159,318"/>
+<area shape="rect" id="node2" href="$bsps_2x86__64_2amd64_2clock_2clock_8c.html#abf0afda694ebc96f87ee2c0623f60f87" title=" " alt="" coords="228,208,340,235"/>
+<area shape="rect" id="node17" href="$bsps_2x86__64_2amd64_2clock_2clock_8c.html#a84989b05f1f7d1b262923d1bae0a36a3" title=" " alt="" coords="207,309,361,336"/>
+<area shape="rect" id="node3" href="$x86__64_2amd64_2interrupts_2idt_8c.html#a652c02c49159c54baf3420e0ef3aaa6d" title=" " alt="" coords="409,81,617,108"/>
+<area shape="rect" id="node6" href="$bsps_2x86__64_2amd64_2clock_2clock_8c.html#a427cae73312c65bbd2ac0cdd1115aa6d" title=" " alt="" coords="430,132,597,159"/>
+<area shape="rect" id="node7" href="$bsps_2x86__64_2amd64_2clock_2clock_8c.html#af9bfd78e9dea6b856c066596951e65ba" title=" " alt="" coords="446,233,581,260"/>
+<area shape="rect" id="node10" href="$pic_8h.html#a6eaf3be6b606619a9bc3f06c9bd7c12a" title=" " alt="" coords="466,284,561,311"/>
+<area shape="rect" id="node12" href="$pic_8h.html#a1e8083b0b2dc613e45cdd10c21732555" title=" " alt="" coords="468,335,559,361"/>
+<area shape="rect" id="node15" href="$x86__64_2include_2rtems_2score_2cpu__asm_8h.html#acd33c5cf55af2e0785e787bca41c3c38" title=" " alt="" coords="483,23,543,49"/>
+<area shape="rect" id="node16" href="$x86__64_2include_2rtems_2score_2cpu__asm_8h.html#a8f128adea8d6ade9efb882b84103c5af" title=" " alt="" coords="482,183,545,209"/>
+<area shape="rect" id="node4" href="$x86__64_2amd64_2interrupts_2idt_8c.html#a5250cf096558a89fe7ae1f8bfcd57697" title=" " alt="" coords="683,117,861,158"/>
+<area shape="rect" id="node5" href="$x86__64_2amd64_2interrupts_2idt_8c.html#ad7265ca29f964e2c743b8ca1cf0bd0c4" title=" " alt="" coords="665,65,879,92"/>
+<area shape="rect" id="node8" href="$x86__64_2include_2rtems_2score_2cpu__asm_8h.html#a4ad5ce8c56844a60f28ebc1ba1647d9e" title=" " alt="" coords="743,233,801,260"/>
+<area shape="rect" id="node9" href="$i386-stub-glue_8c.html#a1e0a236f3682681ac79ede3a128bffd5" title=" " alt="" coords="927,284,1005,311"/>
+<area shape="rect" id="node11" href="$x86__64_2include_2rtems_2score_2cpu__asm_8h.html#aa60b5dd7317f02b9cc6557f3f383afe2" title=" " alt="" coords="719,284,825,311"/>
+<area shape="rect" id="node13" href="$x86__64_2include_2rtems_2score_2cpu__asm_8h.html#a48b003277fe4b9afadf2366083f9a518" title=" " alt="" coords="724,385,820,412"/>
+<area shape="rect" id="node14" href="$x86__64_2include_2rtems_2score_2cpu__asm_8h.html#a6877645342e1a1a8d6464e24aaca5d7c" title=" " alt="" coords="720,335,824,361"/>
+<area shape="rect" id="node18" href="$bsps_2x86__64_2amd64_2clock_2clock_8c.html#affdde2e888749707930cfd2cca26fe34" title=" " alt="" coords="436,385,591,412"/>
+<area shape="rect" id="node19" href="$x86__64_2include_2rtems_2score_2cpu__asm_8h.html#aa42f0e8514456a25df6138a5673aa5ae" title=" " alt="" coords="677,487,867,513"/>
+<area shape="rect" id="node20" href="$x86__64_2include_2rtems_2score_2cpu__asm_8h.html#a987e0f6e402ad816bb8b03d1314f2429" title=" " alt="" coords="678,436,866,463"/>
+</map>

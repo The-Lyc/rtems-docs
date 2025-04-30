@@ -1,0 +1,5 @@
+<map id="USART_SetBaudrate" name="USART_SetBaudrate">
+<area shape="rect" id="node1" title="Configures an USART baudrate." alt="" coords="381,5,535,32"/>
+<area shape="rect" id="node2" href="$atsam_2include_2libchip_2include_2usart_8h.html#a6280c3578315c2a06e1857b7dca0c1be" title="Configures an USART peripheral with the specified parameters." alt="" coords="199,5,333,32"/>
+<area shape="rect" id="node3" href="$usart__dma_8h.html#a3327e28c21222fe643b4533c203976f0" title="Initializes the USARTDma structure and the corresponding USART &amp; DMA . hardware select value...." alt="" coords="5,5,151,32"/>
+</map>

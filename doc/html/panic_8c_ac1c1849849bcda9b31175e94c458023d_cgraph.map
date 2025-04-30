@@ -1,0 +1,8 @@
+<map id="rtems_panic" name="rtems_panic">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,108,57"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreIntErr.html#ga5102f2f0c5939020aa3b11d67afa84eb" title="Initiates system termination." alt="" coords="156,5,251,32"/>
+<area shape="rect" id="node3" href="$bspIo_8h.html#a48cd00393a9699689b769200037738bb" title="Variable Argument printk()" alt="" coords="169,56,237,83"/>
+<area shape="rect" id="node4" href="$cpukit_2include_2rtems_2score_2io_8h.html#a6bb6bc6df4759579fd2e424421168c24" title=" " alt="" coords="313,31,407,57"/>
+<area shape="rect" id="node5" href="$bspIo_8h.html#aa7aa6e025aa35b36643e9ddbc2eccc10" title="Puts the character via rtems_putc()." alt="" coords="299,81,421,108"/>
+<area shape="rect" id="node6" href="$bspIo_8h.html#a6fd11f34260f10035f38a051af872e1e" title="Kernel Put Character." alt="" coords="469,81,564,108"/>
+</map>

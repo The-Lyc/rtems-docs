@@ -1,0 +1,9 @@
+<map id="_States_Is_dormant" name="_States_Is_dormant">
+<area shape="rect" id="node1" title="Checks if DORMANT state is set." alt="" coords="643,31,793,57"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreThread.html#ga509001fb716aaf996d70507d74b769ea" title="Restarts the thread." alt="" coords="425,5,595,32"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreThread.html#ga03378c6b7617ec1b5fcc541423e662e5" title="Initializes thread and executes it." alt="" coords="454,56,566,83"/>
+<area shape="rect" id="node3" href="$group__ClassicTasks.html#ga504b10074964c789ea82fbae8771e074" title="RTEMS Task Restart." alt="" coords="232,5,377,32"/>
+<area shape="rect" id="node5" href="$group__ClassicTasks.html#gac7fe1362154946d78978ceb4f116f13e" title="RTEMS Start Task." alt="" coords="239,56,371,83"/>
+<area shape="rect" id="node6" href="$group__ClassicTasksImpl.html#gac2c1ab4bf7c8768a39084976a8d9f669" title="System initialization handler to create and start the first user task." alt="" coords="5,19,184,61"/>
+<area shape="rect" id="node7" href="$grspw__pkt_8c.html#a332e9d8281beb4acd9c2451488def344" title=" " alt="" coords="20,85,169,112"/>
+</map>

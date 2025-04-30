@@ -1,0 +1,5 @@
+<map id="FLASHD_Erase" name="FLASHD_Erase">
+<area shape="rect" id="node1" title="Erases the entire flash." alt="" coords="5,31,124,57"/>
+<area shape="rect" id="node2" href="$efc_8c.html#aa9b30cd8bbb9ff48c04922ad5b36adfb" title="Performs the given command and wait until its completion (or an error)." alt="" coords="172,5,345,32"/>
+<area shape="rect" id="node3" href="$efc_8c.html#a577ae5d408db32f16d8e2ce7000e73e9" title="Translates the given address page and offset values." alt="" coords="176,56,341,83"/>
+</map>

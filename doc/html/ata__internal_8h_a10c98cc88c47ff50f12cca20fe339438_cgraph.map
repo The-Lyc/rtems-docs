@@ -1,0 +1,11 @@
+<map id="ata_identify_device" name="ata_identify_device">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,155,83"/>
+<area shape="rect" id="node2" href="$ata__util_8c.html#a4f642e309dab33b5924fad097c4f0831" title=" " alt="" coords="227,5,334,32"/>
+<area shape="rect" id="node3" href="$bootldr_8h.html#a36d20f7d597c517b964289f6b54ddfa7" title=" " alt="" coords="468,5,544,32"/>
+<area shape="rect" id="node4" href="$ata__util_8c.html#a8277cf2c2bb5aedf88a0347158bd8cce" title=" " alt="" coords="203,122,359,163"/>
+<area shape="rect" id="node5" href="$ide__ctrl__io_8h.html#a6d2c4a6775f3b76bee9e0ffa4b4c18df" title=" " alt="" coords="433,57,579,98"/>
+<area shape="rect" id="node6" href="$ide__ctrl__io_8h.html#af55304e47e8f20f6d0cd961a52fbc37e" title=" " alt="" coords="433,122,579,163"/>
+<area shape="rect" id="node7" href="$ide__ctrl__io_8h.html#a6c8d707b66df3753ac7d50c21598f69b" title=" " alt="" coords="431,187,581,229"/>
+<area shape="rect" id="node8" href="$group__ClassicFatal.html#gacadb95082c08823f56d908c248657b45" title="Invokes the internal error handler with a source of INTERNAL_ERROR_RTEMS_API and is internal set to f..." alt="" coords="407,253,605,280"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreIntErr.html#ga5102f2f0c5939020aa3b11d67afa84eb" title="Initiates system termination." alt="" coords="653,253,748,280"/>
+</map>

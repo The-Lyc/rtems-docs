@@ -1,0 +1,7 @@
+<map id="_Protected_heap_Allocate_aligned_with_boundary" name="_Protected_heap_Allocate_aligned_with_boundary">
+<area shape="rect" id="node1" title="Allocates an aligned memory area with boundary constraint for the protected heap." alt="" coords="505,53,696,94"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreProtHeap.html#gab7cdb2ee3416572258caab80416e312a" title="Allocates a memory area." alt="" coords="267,31,457,57"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreProtHeap.html#gaf60206138a64a845eea1a2e6519b9ae2" title="Allocates an aligned memory area." alt="" coords="267,82,457,123"/>
+<area shape="rect" id="node3" href="$rtems__heap__extend__via__sbrk_8c.html#aaab427c995cc0c8e362e991a7877b261" title="RTEMS Extend Heap via Sbrk." alt="" coords="5,5,219,32"/>
+<area shape="rect" id="node4" href="$group__ClassicRTEMSWorkspace.html#ga64ef053b5f7b0b526c024b2596a24dfb" title="Allocates Memory from the Workspace." alt="" coords="14,56,210,83"/>
+</map>

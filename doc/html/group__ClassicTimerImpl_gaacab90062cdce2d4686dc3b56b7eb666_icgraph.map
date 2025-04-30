@@ -1,0 +1,12 @@
+<map id="_Timer_Get_CPU_ticks" name="_Timer_Get_CPU_ticks">
+<area shape="rect" id="node1" title=" " alt="" coords="852,56,1021,83"/>
+<area shape="rect" id="node2" href="$group__ClassicTimerImpl.html#gad3cc9c58e403f6c6e7e53ab678d665f7" title=" " alt="" coords="654,56,773,83"/>
+<area shape="rect" id="node3" href="$group__ClassicTimerImpl.html#ga88df13f9a367637321a0783369bec2cb" title=" " alt="" coords="439,5,538,32"/>
+<area shape="rect" id="node9" href="$group__ClassicTimerImpl.html#ga52566ddfc6c14e1f233c0dd0e83ed675" title=" " alt="" coords="623,157,804,184"/>
+<area shape="rect" id="node7" href="$group__ClassicTimer.html#ga746671597de779ad02b9ca72facc9e92" title="rtems_timer_cancel" alt="" coords="413,56,564,83"/>
+<area shape="rect" id="node8" href="$group__ClassicTimer.html#ga582cf1f171214dabcc2af8c5bd48898f" title="RTEMS Delete Timer." alt="" coords="413,107,564,133"/>
+<area shape="rect" id="node4" href="$group__ClassicTimerImpl.html#gaa71b85670a35521a0f1267eabcbc3835" title=" " alt="" coords="220,29,355,56"/>
+<area shape="rect" id="node5" href="$group__ClassicTimer.html#gad9785a6bd78ab5a591a134d147b2bdd3" title="RTEMS Timer Fire After." alt="" coords="5,111,172,137"/>
+<area shape="rect" id="node6" href="$group__ClassicTimer.html#ga521234c97e4fbf2d2e759d78447b5a8f" title="RTEMS Timer Server Fire After." alt="" coords="13,22,164,63"/>
+<area shape="rect" id="node10" href="$group__ClassicTimer.html#gabd9f3904baedbd02fb540fdc52d2d067" title="RTEMS Timer Fire When." alt="" coords="403,208,575,235"/>
+</map>

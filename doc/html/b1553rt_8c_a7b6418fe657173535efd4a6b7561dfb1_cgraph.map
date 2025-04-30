@@ -1,0 +1,16 @@
+<map id="b1553rt_device_init" name="b1553rt_device_init">
+<area shape="rect" id="node1" title=" " alt="" coords="5,208,156,235"/>
+<area shape="rect" id="node2" href="$drvmgr_8h.html#a6815ca1f2b7b361b2521fb72c8aab9f1" title=" " alt="" coords="219,31,377,57"/>
+<area shape="rect" id="node6" href="$drvmgr_8h.html#a8992870907a694495e266e1a0f67da76" title=" " alt="" coords="233,81,363,108"/>
+<area shape="rect" id="node7" href="$drvmgr_8h.html#ae4579b5372f42435a5683710e9c2757c" title=" " alt="" coords="209,132,387,159"/>
+<area shape="rect" id="node10" href="$grlib__impl_8h.html#a5290bf93d74a1680fa5d72d10f2a7d98" title=" " alt="" coords="247,183,349,209"/>
+<area shape="rect" id="node11" href="$if__xxx__rtems_8c.html#a0d44d815bf35b8d64e2c9b7dc79efa76" title=" " alt="" coords="279,233,317,260"/>
+<area shape="rect" id="node12" href="$bootldr_8h.html#a36d20f7d597c517b964289f6b54ddfa7" title=" " alt="" coords="260,284,336,311"/>
+<area shape="rect" id="node13" href="$rtemsbuildname_8c.html#ad25f5ed0c4beb0750db5c0aab39f4bd1" title=" " alt="" coords="227,335,369,361"/>
+<area shape="rect" id="node14" href="$group__ClassicSem.html#ga215ed3e3aa56c2f5204edc629985f2aa" title="rtems_semaphore_create" alt="" coords="204,385,392,412"/>
+<area shape="rect" id="node3" href="$drvmgr__res_8c.html#ac10b5c64738fb4511d8b4974c89cb1d5" title=" " alt="" coords="440,5,595,32"/>
+<area shape="rect" id="node5" href="$drvmgr__res_8c.html#a0dae04a7e2bd1a0c21bbd9dadfa873ab" title=" " alt="" coords="450,56,585,83"/>
+<area shape="rect" id="node4" href="$drvmgr__res_8c.html#a603983a7cf6b4cf1b3116258f005e4b8" title=" " alt="" coords="661,5,788,32"/>
+<area shape="rect" id="node8" href="$drvmgr_8h.html#a6c9ad0da9d142c8cc937402dcf82f3f1" title=" " alt="" coords="450,132,585,159"/>
+<area shape="rect" id="node9" href="$drvmgr__translate_8c.html#a142355fd6e544361db892894d9ae4282" title=" " alt="" coords="643,132,807,159"/>
+</map>

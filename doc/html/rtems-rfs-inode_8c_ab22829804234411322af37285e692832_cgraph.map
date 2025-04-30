@@ -1,0 +1,10 @@
+<map id="rtems_rfs_inode_load" name="rtems_rfs_inode_load">
+<area shape="rect" id="node1" title=" " alt="" coords="5,122,168,149"/>
+<area shape="rect" id="node2" href="$rtems-rfs-buffer_8h.html#a0663516c5bc4844f8b6f47ebb9705dea" title=" " alt="" coords="216,85,396,127"/>
+<area shape="rect" id="node8" href="$rtems-rfs-trace_8h.html#ac3ad3d65a0c8d230ec5b076c78f09fd2" title=" " alt="" coords="687,101,811,127"/>
+<area shape="rect" id="node3" href="$rtems-rfs-buffer_8c.html#ab50227fce5883f922c86d14e0e558270" title=" " alt="" coords="444,35,624,76"/>
+<area shape="rect" id="node4" href="$group__ClassicChains.html#gaa8062d288572dd93db348803a5229c12" title="Extract the specified node from a chain (unprotected)." alt="" coords="672,35,827,76"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreChain.html#ga51ca91740b37b6101d1aa80167ddcfe0" title="Extracts this node (unprotected)." alt="" coords="875,42,1079,69"/>
+<area shape="rect" id="node6" href="$group__RTEMSScoreChain.html#gad7a790f247b3ace45f039c60c18f999f" title="Checks if the node is off chain." alt="" coords="1133,5,1280,47"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreChain.html#gadf0e5d55d133694eed8043ec13fe1266" title="Sets off chain." alt="" coords="1127,71,1287,98"/>
+</map>

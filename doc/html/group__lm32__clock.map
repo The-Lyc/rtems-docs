@@ -1,0 +1,5 @@
+<map id="LM32 Clock" name="LM32 Clock">
+<area shape="rect" id="node1" href="$group__RTEMSBSPsLM32SharedMilkymistOne.html" title="Shared Support for Milkymist One Board Support Packages." alt="" coords="313,7,429,33"/>
+<area shape="rect" id="node2" title="LatticeMico32 Timer (Clock) definitions." alt="" coords="121,7,219,33"/>
+<area shape="rect" id="node3" href="$group__RTEMSBSPsLM32Shared.html" title="Shared Support for LatticeMicro32 Board Support Packages." alt="" coords="5,7,72,33"/>
+</map>

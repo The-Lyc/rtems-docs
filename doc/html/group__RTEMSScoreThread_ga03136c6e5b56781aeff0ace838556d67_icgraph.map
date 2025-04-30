@@ -1,0 +1,5 @@
+<map id="_Thread_Scheduler_get_node_by_index" name="_Thread_Scheduler_get_node_by_index">
+<area shape="rect" id="node1" title="Gets the thread&#39;s scheduler node by index." alt="" coords="231,23,404,65"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreScheduler.html#gafdf8dfa2c90ca2122b995bb6dd42fcda" title="Sets a new scheduler." alt="" coords="33,5,155,32"/>
+<area shape="rect" id="node3" href="$group__ClassicTasks.html#gad06646a724fbaf16f1a4d117d1c667dc" title="Gets the current priority of the specified task with respect to the specified scheduler instance." alt="" coords="5,56,183,83"/>
+</map>

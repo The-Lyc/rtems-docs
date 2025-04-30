@@ -1,0 +1,5 @@
+<map id="CPU_Per_CPU_control" name="CPU_Per_CPU_control">
+<area shape="rect" id="node1" title="The CPU specific per&#45;CPU control." alt="" coords="103,95,266,121"/>
+<area shape="rect" id="node2" href="$structRISCV__PLIC__hart__regs.html" title=" " alt="" coords="5,5,169,32"/>
+<area shape="rect" id="node3" href="$unionRISCV__CLINT__timer__reg.html" title=" " alt="" coords="194,5,370,32"/>
+</map>

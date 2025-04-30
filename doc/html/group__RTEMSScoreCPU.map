@@ -1,0 +1,23 @@
+<map id="CPU Architecture Support" name="CPU Architecture Support">
+<area shape="rect" id="node1" href="$group__RTEMSScoreCPUsh.html" title="SuperH (sh) Architecture Support." alt="" coords="411,5,509,31"/>
+<area shape="rect" id="node2" href="$group__RTEMSScoreCPUEpiphany.html" title="Epiphany Architecture Support." alt="" coords="419,55,501,80"/>
+<area shape="rect" id="node3" href="$group__RTEMSScoreCPUor1k.html" title="OpenRISC 1000 (or1k) Architecture Support." alt="" coords="377,104,543,129"/>
+<area shape="rect" id="node4" href="$group__RTEMSScoreCPUlm32.html" title="LatticeMicro32 (lm32) Architecture Support." alt="" coords="377,153,543,179"/>
+<area shape="rect" id="node5" href="$group__RTEMSScoreCPUARM.html" title="ARM Architecture Support." alt="" coords="434,203,486,228"/>
+<area shape="rect" id="node6" title="Provides CPU architecture dependent services." alt="" coords="143,465,329,491"/>
+<area shape="rect" id="node7" href="$group__RTEMSScoreCPUSPARC64.html" title="SPARC64 Architecture Support." alt="" coords="420,252,500,277"/>
+<area shape="rect" id="node8" href="$group__RTEMSScoreCPUm68k.html" title="Motorola 68000 and NXP ColdFire (m68k) Architecture Support." alt="" coords="379,302,541,342"/>
+<area shape="rect" id="node9" href="$group__RTEMSScoreCPUV850.html" title="V850 Architecture Support." alt="" coords="433,367,487,392"/>
+<area shape="rect" id="node10" href="$group__RTEMSScoreCPUExample.html" title="Example CPU Architecture Support." alt="" coords="421,416,499,441"/>
+<area shape="rect" id="node11" href="$group__RTEMSScoreCPUx86-64.html" title="x86&#45;64 Architecture Support" alt="" coords="427,465,493,491"/>
+<area shape="rect" id="node12" href="$group__RTEMSScoreCPUSPARC.html" title="SPARC Architecture Support." alt="" coords="428,515,492,540"/>
+<area shape="rect" id="node13" href="$group__RTEMSScoreCPUBfin.html" title="Blackfin Architecture Support." alt="" coords="423,564,497,589"/>
+<area shape="rect" id="node14" href="$group__RTEMSScoreCPURISCV.html" title="RISCV Architecture Support." alt="" coords="427,613,493,639"/>
+<area shape="rect" id="node15" href="$group__RTEMSScoreCPUMoxie.html" title="Moxie Architecture Support." alt="" coords="429,663,491,688"/>
+<area shape="rect" id="node16" href="$group__RTEMSScoreObject.html" title=" " alt="" coords="401,712,519,737"/>
+<area shape="rect" id="node18" href="$group__RTEMSScoreCPUMIPS.html" title="MIPS Architecture Support." alt="" coords="433,761,487,787"/>
+<area shape="rect" id="node19" href="$group__RTEMSScoreCPUi386.html" title="i386 specific support." alt="" coords="381,811,539,836"/>
+<area shape="rect" id="node20" href="$group__RTEMSScoreCPUnios2.html" title="Nios II (nios2) Architecture Support." alt="" coords="404,860,516,885"/>
+<area shape="rect" id="node21" href="$group__RTEMSScoreCPUPowerPC.html" title="PowerPC Architecture Support." alt="" coords="421,909,499,935"/>
+<area shape="rect" id="node17" href="$group__RTEMSScore.html" title="Provides services for all APIs." alt="" coords="5,465,95,491"/>
+</map>

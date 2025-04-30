@@ -1,0 +1,5 @@
+<map id="cpukit/score/cpu/lm32/include/rtems/score/lm32.h" name="cpukit/score/cpu/lm32/include/rtems/score/lm32.h">
+<area shape="rect" id="node1" title="LM32 Set up Basic CPU Dependency Settings Based on Compiler Settings." alt="" coords="107,5,272,61"/>
+<area shape="rect" id="node2" href="$cpukit_2score_2cpu_2lm32_2include_2rtems_2asm_8h.html" title="Address the Problems Caused by Incompatible Flavor of Assemblers and Toolsets." alt="" coords="5,109,171,151"/>
+<area shape="rect" id="node3" href="$lm32_2include_2rtems_2score_2cpu_8h.html" title="LM32 CPU Department Source." alt="" coords="195,109,389,151"/>
+</map>
